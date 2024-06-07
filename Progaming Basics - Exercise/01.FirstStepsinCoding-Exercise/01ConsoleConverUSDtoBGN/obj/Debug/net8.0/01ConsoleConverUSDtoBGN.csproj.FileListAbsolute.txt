@@ -1,0 +1,14 @@
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\01ConsoleConverUSDtoBGN\bin\Debug\net8.0\01ConsoleConverUSDtoBGN.exe
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\01ConsoleConverUSDtoBGN\bin\Debug\net8.0\01ConsoleConverUSDtoBGN.deps.json
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\01ConsoleConverUSDtoBGN\bin\Debug\net8.0\01ConsoleConverUSDtoBGN.runtimeconfig.json
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\01ConsoleConverUSDtoBGN\bin\Debug\net8.0\01ConsoleConverUSDtoBGN.dll
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\01ConsoleConverUSDtoBGN\bin\Debug\net8.0\01ConsoleConverUSDtoBGN.pdb
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\01ConsoleConverUSDtoBGN\obj\Debug\net8.0\01ConsoleConverUSDtoBGN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\01ConsoleConverUSDtoBGN\obj\Debug\net8.0\01ConsoleConverUSDtoBGN.AssemblyInfoInputs.cache
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\01ConsoleConverUSDtoBGN\obj\Debug\net8.0\01ConsoleConverUSDtoBGN.AssemblyInfo.cs
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\01ConsoleConverUSDtoBGN\obj\Debug\net8.0\01ConsoleConverUSDtoBGN.csproj.CoreCompileInputs.cache
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\01ConsoleConverUSDtoBGN\obj\Debug\net8.0\01ConsoleConverUSDtoBGN.dll
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\01ConsoleConverUSDtoBGN\obj\Debug\net8.0\refint\01ConsoleConverUSDtoBGN.dll
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\01ConsoleConverUSDtoBGN\obj\Debug\net8.0\01ConsoleConverUSDtoBGN.pdb
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\01ConsoleConverUSDtoBGN\obj\Debug\net8.0\01ConsoleConverUSDtoBGN.genruntimeconfig.cache
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\01ConsoleConverUSDtoBGN\obj\Debug\net8.0\ref\01ConsoleConverUSDtoBGN.dll

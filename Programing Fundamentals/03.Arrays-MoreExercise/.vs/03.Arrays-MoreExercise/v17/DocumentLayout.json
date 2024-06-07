@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programing - Work\\Programing Fundamentals\\03.Arrays-MoreExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC45E444-0418-41EA-8DAC-A6ED5815E3F6}|04.FoldAndSum\\04.FoldAndSum.csproj|c:\\programing - work\\programing fundamentals\\03.arrays-moreexercise\\04.foldandsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC45E444-0418-41EA-8DAC-A6ED5815E3F6}|04.FoldAndSum\\04.FoldAndSum.csproj|solutionrelative:04.foldandsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC46EF34-F0EA-4E31-951C-A92B285E2597}|03.RecursiveFibonacci\\03.RecursiveFibonacci.csproj|c:\\programing - work\\programing fundamentals\\03.arrays-moreexercise\\03.recursivefibonacci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC46EF34-F0EA-4E31-951C-A92B285E2597}|03.RecursiveFibonacci\\03.RecursiveFibonacci.csproj|solutionrelative:03.recursivefibonacci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22669B4F-98B0-4C26-84BC-0C0B4A15FC6C}|02.PascalTriangle\\02.PascalTriangle.csproj|c:\\programing - work\\programing fundamentals\\03.arrays-moreexercise\\02.pascaltriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22669B4F-98B0-4C26-84BC-0C0B4A15FC6C}|02.PascalTriangle\\02.PascalTriangle.csproj|solutionrelative:02.pascaltriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264F661E-AECA-4E12-9ACE-740D09C67551}|01.EncryptSortAndPrintArray\\01.EncryptSortAndPrintArray.csproj|c:\\programing - work\\programing fundamentals\\03.arrays-moreexercise\\01.encryptsortandprintarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264F661E-AECA-4E12-9ACE-740D09C67551}|01.EncryptSortAndPrintArray\\01.EncryptSortAndPrintArray.csproj|solutionrelative:01.encryptsortandprintarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\03.Arrays-MoreExercise\\04.FoldAndSum\\Program.cs",
+              "RelativeDocumentMoniker": "04.FoldAndSum\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\03.Arrays-MoreExercise\\04.FoldAndSum\\Program.cs*",
+              "RelativeToolTip": "04.FoldAndSum\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T09:51:02.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\03.Arrays-MoreExercise\\03.RecursiveFibonacci\\Program.cs",
+              "RelativeDocumentMoniker": "03.RecursiveFibonacci\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\03.Arrays-MoreExercise\\03.RecursiveFibonacci\\Program.cs",
+              "RelativeToolTip": "03.RecursiveFibonacci\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAkwCMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T09:29:45.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\03.Arrays-MoreExercise\\02.PascalTriangle\\Program.cs",
+              "RelativeDocumentMoniker": "02.PascalTriangle\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\03.Arrays-MoreExercise\\02.PascalTriangle\\Program.cs",
+              "RelativeToolTip": "02.PascalTriangle\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T12:45:17.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\03.Arrays-MoreExercise\\01.EncryptSortAndPrintArray\\Program.cs",
+              "RelativeDocumentMoniker": "01.EncryptSortAndPrintArray\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\03.Arrays-MoreExercise\\01.EncryptSortAndPrintArray\\Program.cs",
+              "RelativeToolTip": "01.EncryptSortAndPrintArray\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAqwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T12:09:33.451Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

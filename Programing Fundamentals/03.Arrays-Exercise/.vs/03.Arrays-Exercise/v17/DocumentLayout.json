@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programing - Work\\Programing Fundamentals\\03.Arrays-Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6898D2B-B463-4E59-B180-A66E07452408}|10.LadyBugs\\10.LadyBugs.csproj|c:\\programing - work\\programing fundamentals\\03.arrays-exercise\\10.ladybugs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6898D2B-B463-4E59-B180-A66E07452408}|10.LadyBugs\\10.LadyBugs.csproj|solutionrelative:10.ladybugs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001BC5AA-2A8B-483F-A64C-F9F339DDA507}|09.KaminoFactory\\09.KaminoFactory.csproj|c:\\programing - work\\programing fundamentals\\03.arrays-exercise\\09.kaminofactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001BC5AA-2A8B-483F-A64C-F9F339DDA507}|09.KaminoFactory\\09.KaminoFactory.csproj|solutionrelative:09.kaminofactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5075EC2-7C65-49F0-B914-9FB154D6DAB2}|08.MagicSum\\08.MagicSum.csproj|c:\\programing - work\\programing fundamentals\\03.arrays-exercise\\08.magicsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5075EC2-7C65-49F0-B914-9FB154D6DAB2}|08.MagicSum\\08.MagicSum.csproj|solutionrelative:08.magicsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0B4F28-DE73-40EB-A926-7D48638C1F28}|07.MaxSequenceOfEqualElements\\07.MaxSequenceOfEqualElements.csproj|c:\\programing - work\\programing fundamentals\\03.arrays-exercise\\07.maxsequenceofequalelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0B4F28-DE73-40EB-A926-7D48638C1F28}|07.MaxSequenceOfEqualElements\\07.MaxSequenceOfEqualElements.csproj|solutionrelative:07.maxsequenceofequalelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42AF4C0-472C-4A5D-9421-A46225AD785B}|06.EqualSums\\06.EqualSums.csproj|c:\\programing - work\\programing fundamentals\\03.arrays-exercise\\06.equalsums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E42AF4C0-472C-4A5D-9421-A46225AD785B}|06.EqualSums\\06.EqualSums.csproj|solutionrelative:06.equalsums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C38EED9-1CD7-44B5-AA1F-87F26597CC6F}|05.TopIntegers\\05.TopIntegers.csproj|c:\\programing - work\\programing fundamentals\\03.arrays-exercise\\05.topintegers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C38EED9-1CD7-44B5-AA1F-87F26597CC6F}|05.TopIntegers\\05.TopIntegers.csproj|solutionrelative:05.topintegers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218D7649-A932-4EAB-81B7-A70C3817D6CA}|04.ArrayRotation\\04.ArrayRotation.csproj|c:\\programing - work\\programing fundamentals\\03.arrays-exercise\\04.arrayrotation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218D7649-A932-4EAB-81B7-A70C3817D6CA}|04.ArrayRotation\\04.ArrayRotation.csproj|solutionrelative:04.arrayrotation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0C49F27-00ED-49F6-9A36-7A4BEBD74DCE}|03.Zig-ZagArrays\\03.Zig-ZagArrays.csproj|c:\\programing - work\\programing fundamentals\\03.arrays-exercise\\03.zig-zagarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0C49F27-00ED-49F6-9A36-7A4BEBD74DCE}|03.Zig-ZagArrays\\03.Zig-ZagArrays.csproj|solutionrelative:03.zig-zagarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC19D91-D71D-486F-8C1D-2180BDA440C8}|02.CommonElements\\02.CommonElements.csproj|c:\\programing - work\\programing fundamentals\\03.arrays-exercise\\02.commonelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC19D91-D71D-486F-8C1D-2180BDA440C8}|02.CommonElements\\02.CommonElements.csproj|solutionrelative:02.commonelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF92BE5-94BA-41D0-9CEC-D502CC85119B}|01.Train\\01.Train.csproj|c:\\programing - work\\programing fundamentals\\03.arrays-exercise\\01.train\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEF92BE5-94BA-41D0-9CEC-D502CC85119B}|01.Train\\01.Train.csproj|solutionrelative:01.train\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\03.Arrays-Exercise\\10.LadyBugs\\Program.cs",
+              "RelativeDocumentMoniker": "10.LadyBugs\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\03.Arrays-Exercise\\10.LadyBugs\\Program.cs",
+              "RelativeToolTip": "10.LadyBugs\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:39:15.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\03.Arrays-Exercise\\09.KaminoFactory\\Program.cs",
+              "RelativeDocumentMoniker": "09.KaminoFactory\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\03.Arrays-Exercise\\09.KaminoFactory\\Program.cs",
+              "RelativeToolTip": "09.KaminoFactory\\Program.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAAD4AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T12:55:37.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\03.Arrays-Exercise\\08.MagicSum\\Program.cs",
+              "RelativeDocumentMoniker": "08.MagicSum\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\03.Arrays-Exercise\\08.MagicSum\\Program.cs",
+              "RelativeToolTip": "08.MagicSum\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T12:46:22.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\03.Arrays-Exercise\\07.MaxSequenceOfEqualElements\\Program.cs",
+              "RelativeDocumentMoniker": "07.MaxSequenceOfEqualElements\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\03.Arrays-Exercise\\07.MaxSequenceOfEqualElements\\Program.cs",
+              "RelativeToolTip": "07.MaxSequenceOfEqualElements\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAIwBwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T11:43:59.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\03.Arrays-Exercise\\06.EqualSums\\Program.cs",
+              "RelativeDocumentMoniker": "06.EqualSums\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\03.Arrays-Exercise\\06.EqualSums\\Program.cs",
+              "RelativeToolTip": "06.EqualSums\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwCIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T07:53:55.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\03.Arrays-Exercise\\05.TopIntegers\\Program.cs",
+              "RelativeDocumentMoniker": "05.TopIntegers\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\03.Arrays-Exercise\\05.TopIntegers\\Program.cs",
+              "RelativeToolTip": "05.TopIntegers\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:48:47.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\03.Arrays-Exercise\\04.ArrayRotation\\Program.cs",
+              "RelativeDocumentMoniker": "04.ArrayRotation\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\03.Arrays-Exercise\\04.ArrayRotation\\Program.cs",
+              "RelativeToolTip": "04.ArrayRotation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:53:04.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\03.Arrays-Exercise\\03.Zig-ZagArrays\\Program.cs",
+              "RelativeDocumentMoniker": "03.Zig-ZagArrays\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\03.Arrays-Exercise\\03.Zig-ZagArrays\\Program.cs",
+              "RelativeToolTip": "03.Zig-ZagArrays\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:37:46.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\03.Arrays-Exercise\\02.CommonElements\\Program.cs",
+              "RelativeDocumentMoniker": "02.CommonElements\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\03.Arrays-Exercise\\02.CommonElements\\Program.cs",
+              "RelativeToolTip": "02.CommonElements\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:26:00.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\03.Arrays-Exercise\\01.Train\\Program.cs",
+              "RelativeDocumentMoniker": "01.Train\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\03.Arrays-Exercise\\01.Train\\Program.cs",
+              "RelativeToolTip": "01.Train\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:17:55.64Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

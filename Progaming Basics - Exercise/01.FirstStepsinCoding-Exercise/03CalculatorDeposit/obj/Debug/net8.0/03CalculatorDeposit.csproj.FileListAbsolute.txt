@@ -1,0 +1,14 @@
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\03CalculatorDeposit\bin\Debug\net8.0\03CalculatorDeposit.exe
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\03CalculatorDeposit\bin\Debug\net8.0\03CalculatorDeposit.deps.json
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\03CalculatorDeposit\bin\Debug\net8.0\03CalculatorDeposit.runtimeconfig.json
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\03CalculatorDeposit\bin\Debug\net8.0\03CalculatorDeposit.dll
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\03CalculatorDeposit\bin\Debug\net8.0\03CalculatorDeposit.pdb
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\03CalculatorDeposit\obj\Debug\net8.0\03CalculatorDeposit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\03CalculatorDeposit\obj\Debug\net8.0\03CalculatorDeposit.AssemblyInfoInputs.cache
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\03CalculatorDeposit\obj\Debug\net8.0\03CalculatorDeposit.AssemblyInfo.cs
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\03CalculatorDeposit\obj\Debug\net8.0\03CalculatorDeposit.csproj.CoreCompileInputs.cache
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\03CalculatorDeposit\obj\Debug\net8.0\03CalculatorDeposit.dll
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\03CalculatorDeposit\obj\Debug\net8.0\refint\03CalculatorDeposit.dll
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\03CalculatorDeposit\obj\Debug\net8.0\03CalculatorDeposit.pdb
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\03CalculatorDeposit\obj\Debug\net8.0\03CalculatorDeposit.genruntimeconfig.cache
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\03CalculatorDeposit\obj\Debug\net8.0\ref\03CalculatorDeposit.dll

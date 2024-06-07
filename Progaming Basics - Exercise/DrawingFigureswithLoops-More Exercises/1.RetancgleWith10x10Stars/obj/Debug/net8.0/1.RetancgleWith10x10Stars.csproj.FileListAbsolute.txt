@@ -1,0 +1,14 @@
+C:\Programing - Work\Progaming Basics - Exercise\DrawingFigureswithLoops-More Exercises\1.RetancgleWith10x10Stars\bin\Debug\net8.0\1.RetancgleWith10x10Stars.exe
+C:\Programing - Work\Progaming Basics - Exercise\DrawingFigureswithLoops-More Exercises\1.RetancgleWith10x10Stars\bin\Debug\net8.0\1.RetancgleWith10x10Stars.deps.json
+C:\Programing - Work\Progaming Basics - Exercise\DrawingFigureswithLoops-More Exercises\1.RetancgleWith10x10Stars\bin\Debug\net8.0\1.RetancgleWith10x10Stars.runtimeconfig.json
+C:\Programing - Work\Progaming Basics - Exercise\DrawingFigureswithLoops-More Exercises\1.RetancgleWith10x10Stars\bin\Debug\net8.0\1.RetancgleWith10x10Stars.dll
+C:\Programing - Work\Progaming Basics - Exercise\DrawingFigureswithLoops-More Exercises\1.RetancgleWith10x10Stars\bin\Debug\net8.0\1.RetancgleWith10x10Stars.pdb
+C:\Programing - Work\Progaming Basics - Exercise\DrawingFigureswithLoops-More Exercises\1.RetancgleWith10x10Stars\obj\Debug\net8.0\1.RetancgleWith10x10Stars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing - Work\Progaming Basics - Exercise\DrawingFigureswithLoops-More Exercises\1.RetancgleWith10x10Stars\obj\Debug\net8.0\1.RetancgleWith10x10Stars.AssemblyInfoInputs.cache
+C:\Programing - Work\Progaming Basics - Exercise\DrawingFigureswithLoops-More Exercises\1.RetancgleWith10x10Stars\obj\Debug\net8.0\1.RetancgleWith10x10Stars.AssemblyInfo.cs
+C:\Programing - Work\Progaming Basics - Exercise\DrawingFigureswithLoops-More Exercises\1.RetancgleWith10x10Stars\obj\Debug\net8.0\1.RetancgleWith10x10Stars.csproj.CoreCompileInputs.cache
+C:\Programing - Work\Progaming Basics - Exercise\DrawingFigureswithLoops-More Exercises\1.RetancgleWith10x10Stars\obj\Debug\net8.0\1.RetancgleWith10x10Stars.dll
+C:\Programing - Work\Progaming Basics - Exercise\DrawingFigureswithLoops-More Exercises\1.RetancgleWith10x10Stars\obj\Debug\net8.0\refint\1.RetancgleWith10x10Stars.dll
+C:\Programing - Work\Progaming Basics - Exercise\DrawingFigureswithLoops-More Exercises\1.RetancgleWith10x10Stars\obj\Debug\net8.0\1.RetancgleWith10x10Stars.pdb
+C:\Programing - Work\Progaming Basics - Exercise\DrawingFigureswithLoops-More Exercises\1.RetancgleWith10x10Stars\obj\Debug\net8.0\1.RetancgleWith10x10Stars.genruntimeconfig.cache
+C:\Programing - Work\Progaming Basics - Exercise\DrawingFigureswithLoops-More Exercises\1.RetancgleWith10x10Stars\obj\Debug\net8.0\ref\1.RetancgleWith10x10Stars.dll

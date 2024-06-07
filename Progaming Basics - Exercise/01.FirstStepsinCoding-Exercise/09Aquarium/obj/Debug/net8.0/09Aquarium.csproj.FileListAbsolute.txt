@@ -1,0 +1,14 @@
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\09Aquarium\bin\Debug\net8.0\09Aquarium.exe
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\09Aquarium\bin\Debug\net8.0\09Aquarium.deps.json
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\09Aquarium\bin\Debug\net8.0\09Aquarium.runtimeconfig.json
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\09Aquarium\bin\Debug\net8.0\09Aquarium.dll
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\09Aquarium\bin\Debug\net8.0\09Aquarium.pdb
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\09Aquarium\obj\Debug\net8.0\09Aquarium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\09Aquarium\obj\Debug\net8.0\09Aquarium.AssemblyInfoInputs.cache
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\09Aquarium\obj\Debug\net8.0\09Aquarium.AssemblyInfo.cs
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\09Aquarium\obj\Debug\net8.0\09Aquarium.csproj.CoreCompileInputs.cache
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\09Aquarium\obj\Debug\net8.0\09Aquarium.dll
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\09Aquarium\obj\Debug\net8.0\refint\09Aquarium.dll
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\09Aquarium\obj\Debug\net8.0\09Aquarium.pdb
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\09Aquarium\obj\Debug\net8.0\09Aquarium.genruntimeconfig.cache
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\09Aquarium\obj\Debug\net8.0\ref\09Aquarium.dll

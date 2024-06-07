@@ -1,0 +1,14 @@
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\04RequiredReading\bin\Debug\net8.0\04RequiredReading.exe
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\04RequiredReading\bin\Debug\net8.0\04RequiredReading.deps.json
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\04RequiredReading\bin\Debug\net8.0\04RequiredReading.runtimeconfig.json
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\04RequiredReading\bin\Debug\net8.0\04RequiredReading.dll
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\04RequiredReading\bin\Debug\net8.0\04RequiredReading.pdb
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\04RequiredReading\obj\Debug\net8.0\04RequiredReading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\04RequiredReading\obj\Debug\net8.0\04RequiredReading.AssemblyInfoInputs.cache
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\04RequiredReading\obj\Debug\net8.0\04RequiredReading.AssemblyInfo.cs
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\04RequiredReading\obj\Debug\net8.0\04RequiredReading.csproj.CoreCompileInputs.cache
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\04RequiredReading\obj\Debug\net8.0\04RequiredReading.dll
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\04RequiredReading\obj\Debug\net8.0\refint\04RequiredReading.dll
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\04RequiredReading\obj\Debug\net8.0\04RequiredReading.pdb
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\04RequiredReading\obj\Debug\net8.0\04RequiredReading.genruntimeconfig.cache
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\04RequiredReading\obj\Debug\net8.0\ref\04RequiredReading.dll

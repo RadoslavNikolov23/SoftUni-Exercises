@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programing - Work\\Programing Fundamentals\\04.Methods-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F04BC18E-A9E3-4134-AC80-E57FFCE48108}|11.MathOperations\\11.MathOperations.csproj|c:\\programing - work\\programing fundamentals\\04.methods-lab\\11.mathoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F04BC18E-A9E3-4134-AC80-E57FFCE48108}|11.MathOperations\\11.MathOperations.csproj|solutionrelative:11.mathoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F99AF5-A4A9-47EA-9873-EEEBA1868FAD}|10.MultiplyEvensByOdds\\10.MultiplyEvensByOdds.csproj|c:\\programing - work\\programing fundamentals\\04.methods-lab\\10.multiplyevensbyodds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F99AF5-A4A9-47EA-9873-EEEBA1868FAD}|10.MultiplyEvensByOdds\\10.MultiplyEvensByOdds.csproj|solutionrelative:10.multiplyevensbyodds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EE0BBA-0076-4C5A-8BB6-1150ADA5B3DD}|01.SignOfIntegerNumbers\\01.SignOfIntegerNumbers.csproj|c:\\programing - work\\programing fundamentals\\04.methods-lab\\01.signofintegernumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EE0BBA-0076-4C5A-8BB6-1150ADA5B3DD}|01.SignOfIntegerNumbers\\01.SignOfIntegerNumbers.csproj|solutionrelative:01.signofintegernumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E66582-70F5-43F2-BFF1-43BCD539FC6A}|09.GreaterOfTwoValues\\09.GreaterOfTwoValues.csproj|c:\\programing - work\\programing fundamentals\\04.methods-lab\\09.greateroftwovalues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E66582-70F5-43F2-BFF1-43BCD539FC6A}|09.GreaterOfTwoValues\\09.GreaterOfTwoValues.csproj|solutionrelative:09.greateroftwovalues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC84836-85F2-4E0C-9611-4D055F0B9088}|08.MathPower\\08.MathPower.csproj|c:\\programing - work\\programing fundamentals\\04.methods-lab\\08.mathpower\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC84836-85F2-4E0C-9611-4D055F0B9088}|08.MathPower\\08.MathPower.csproj|solutionrelative:08.mathpower\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A061F556-E722-4549-B7FD-08CEEE29A3C5}|06.CalculateRectangleArea\\06.CalculateRectangleArea.csproj|c:\\programing - work\\programing fundamentals\\04.methods-lab\\06.calculaterectanglearea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A061F556-E722-4549-B7FD-08CEEE29A3C5}|06.CalculateRectangleArea\\06.CalculateRectangleArea.csproj|solutionrelative:06.calculaterectanglearea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9EBC70-0504-4B0F-827D-99536232E529}|07.RepeatString\\07.RepeatString.csproj|c:\\programing - work\\programing fundamentals\\04.methods-lab\\07.repeatstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF9EBC70-0504-4B0F-827D-99536232E529}|07.RepeatString\\07.RepeatString.csproj|solutionrelative:07.repeatstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{628855BE-EF86-4629-B6E2-F24C92193145}|05.Orders\\05.Orders.csproj|c:\\programing - work\\programing fundamentals\\04.methods-lab\\05.orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{628855BE-EF86-4629-B6E2-F24C92193145}|05.Orders\\05.Orders.csproj|solutionrelative:05.orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA01CBE2-FEF0-4CE5-8125-4FC3E83D0625}|04.PrintingTriangle\\04.PrintingTriangle.csproj|c:\\programing - work\\programing fundamentals\\04.methods-lab\\04.printingtriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA01CBE2-FEF0-4CE5-8125-4FC3E83D0625}|04.PrintingTriangle\\04.PrintingTriangle.csproj|solutionrelative:04.printingtriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF96630-5AB2-46D3-A8C5-3808802CAE61}|03.Calculations\\03.Calculations.csproj|c:\\programing - work\\programing fundamentals\\04.methods-lab\\03.calculations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF96630-5AB2-46D3-A8C5-3808802CAE61}|03.Calculations\\03.Calculations.csproj|solutionrelative:03.calculations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070F6BFB-1485-4C68-A18A-68FD39E535CB}|02.Grades\\02.Grades.csproj|c:\\programing - work\\programing fundamentals\\04.methods-lab\\02.grades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070F6BFB-1485-4C68-A18A-68FD39E535CB}|02.Grades\\02.Grades.csproj|solutionrelative:02.grades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\04.Methods-Lab\\11.MathOperations\\Program.cs",
+              "RelativeDocumentMoniker": "11.MathOperations\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\04.Methods-Lab\\11.MathOperations\\Program.cs",
+              "RelativeToolTip": "11.MathOperations\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAgwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T16:44:41.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\04.Methods-Lab\\10.MultiplyEvensByOdds\\Program.cs",
+              "RelativeDocumentMoniker": "10.MultiplyEvensByOdds\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\04.Methods-Lab\\10.MultiplyEvensByOdds\\Program.cs",
+              "RelativeToolTip": "10.MultiplyEvensByOdds\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAiwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T16:30:53.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\04.Methods-Lab\\09.GreaterOfTwoValues\\Program.cs",
+              "RelativeDocumentMoniker": "09.GreaterOfTwoValues\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\04.Methods-Lab\\09.GreaterOfTwoValues\\Program.cs",
+              "RelativeToolTip": "09.GreaterOfTwoValues\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T14:43:22.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\04.Methods-Lab\\08.MathPower\\Program.cs",
+              "RelativeDocumentMoniker": "08.MathPower\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\04.Methods-Lab\\08.MathPower\\Program.cs",
+              "RelativeToolTip": "08.MathPower\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAkwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T14:38:29.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\04.Methods-Lab\\07.RepeatString\\Program.cs",
+              "RelativeDocumentMoniker": "07.RepeatString\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\04.Methods-Lab\\07.RepeatString\\Program.cs",
+              "RelativeToolTip": "07.RepeatString\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAowB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T14:33:44.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\04.Methods-Lab\\06.CalculateRectangleArea\\Program.cs",
+              "RelativeDocumentMoniker": "06.CalculateRectangleArea\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\04.Methods-Lab\\06.CalculateRectangleArea\\Program.cs",
+              "RelativeToolTip": "06.CalculateRectangleArea\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T14:27:53.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\04.Methods-Lab\\05.Orders\\Program.cs",
+              "RelativeDocumentMoniker": "05.Orders\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\04.Methods-Lab\\05.Orders\\Program.cs",
+              "RelativeToolTip": "05.Orders\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAowDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T14:06:30.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\04.Methods-Lab\\04.PrintingTriangle\\Program.cs",
+              "RelativeDocumentMoniker": "04.PrintingTriangle\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\04.Methods-Lab\\04.PrintingTriangle\\Program.cs",
+              "RelativeToolTip": "04.PrintingTriangle\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwCAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T13:53:07.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\04.Methods-Lab\\03.Calculations\\Program.cs",
+              "RelativeDocumentMoniker": "03.Calculations\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\04.Methods-Lab\\03.Calculations\\Program.cs",
+              "RelativeToolTip": "03.Calculations\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T13:44:13.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\04.Methods-Lab\\02.Grades\\Program.cs",
+              "RelativeDocumentMoniker": "02.Grades\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\04.Methods-Lab\\02.Grades\\Program.cs",
+              "RelativeToolTip": "02.Grades\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAmwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T13:37:33.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\04.Methods-Lab\\01.SignOfIntegerNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "01.SignOfIntegerNumbers\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\04.Methods-Lab\\01.SignOfIntegerNumbers\\Program.cs",
+              "RelativeToolTip": "01.SignOfIntegerNumbers\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T13:17:42.489Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

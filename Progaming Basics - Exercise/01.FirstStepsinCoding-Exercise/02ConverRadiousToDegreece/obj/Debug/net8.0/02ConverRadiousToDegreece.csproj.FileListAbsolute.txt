@@ -1,0 +1,14 @@
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\02ConverRadiousToDegreece\bin\Debug\net8.0\02ConverRadiousToDegreece.exe
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\02ConverRadiousToDegreece\bin\Debug\net8.0\02ConverRadiousToDegreece.deps.json
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\02ConverRadiousToDegreece\bin\Debug\net8.0\02ConverRadiousToDegreece.runtimeconfig.json
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\02ConverRadiousToDegreece\bin\Debug\net8.0\02ConverRadiousToDegreece.dll
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\02ConverRadiousToDegreece\bin\Debug\net8.0\02ConverRadiousToDegreece.pdb
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\02ConverRadiousToDegreece\obj\Debug\net8.0\02ConverRadiousToDegreece.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\02ConverRadiousToDegreece\obj\Debug\net8.0\02ConverRadiousToDegreece.AssemblyInfoInputs.cache
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\02ConverRadiousToDegreece\obj\Debug\net8.0\02ConverRadiousToDegreece.AssemblyInfo.cs
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\02ConverRadiousToDegreece\obj\Debug\net8.0\02ConverRadiousToDegreece.csproj.CoreCompileInputs.cache
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\02ConverRadiousToDegreece\obj\Debug\net8.0\02ConverRadiousToDegreece.dll
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\02ConverRadiousToDegreece\obj\Debug\net8.0\refint\02ConverRadiousToDegreece.dll
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\02ConverRadiousToDegreece\obj\Debug\net8.0\02ConverRadiousToDegreece.pdb
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\02ConverRadiousToDegreece\obj\Debug\net8.0\02ConverRadiousToDegreece.genruntimeconfig.cache
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\02ConverRadiousToDegreece\obj\Debug\net8.0\ref\02ConverRadiousToDegreece.dll

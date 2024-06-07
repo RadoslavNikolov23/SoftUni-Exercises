@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programing - Work\\Progaming Basics - Exercise\\01.FirstStepsinCoding-Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4AB00C-E958-43A6-9B21-417972C6A831}|09Aquarium\\09Aquarium.csproj|c:\\programing - work\\progaming basics - exercise\\01.firststepsincoding-exercise\\09aquarium\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4AB00C-E958-43A6-9B21-417972C6A831}|09Aquarium\\09Aquarium.csproj|solutionrelative:09aquarium\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D81AE2B4-7285-4D38-83B0-D0FF000DBFA0}|08BasketballEqiupment\\08BasketballEqiupment.csproj|c:\\programing - work\\progaming basics - exercise\\01.firststepsincoding-exercise\\08basketballeqiupment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D81AE2B4-7285-4D38-83B0-D0FF000DBFA0}|08BasketballEqiupment\\08BasketballEqiupment.csproj|solutionrelative:08basketballeqiupment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5718AA6-0352-4A84-B0E4-6A6116C98B17}|05SchoolSupplies\\05SchoolSupplies.csproj|c:\\programing - work\\progaming basics - exercise\\01.firststepsincoding-exercise\\05schoolsupplies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5718AA6-0352-4A84-B0E4-6A6116C98B17}|05SchoolSupplies\\05SchoolSupplies.csproj|solutionrelative:05schoolsupplies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387E508C-88F8-4861-A4DC-E667134CFFCA}|07FoodDelivery\\07FoodDelivery.csproj|c:\\programing - work\\progaming basics - exercise\\01.firststepsincoding-exercise\\07fooddelivery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387E508C-88F8-4861-A4DC-E667134CFFCA}|07FoodDelivery\\07FoodDelivery.csproj|solutionrelative:07fooddelivery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB80A4F-C55E-4C26-9EC4-6A61F36D2DCA}|06Repaiting\\06Repaiting.csproj|c:\\programing - work\\progaming basics - exercise\\01.firststepsincoding-exercise\\06repaiting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB80A4F-C55E-4C26-9EC4-6A61F36D2DCA}|06Repaiting\\06Repaiting.csproj|solutionrelative:06repaiting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9B1797-89D9-468B-A8B8-C0C4D62FBA04}|04RequiredReading\\04RequiredReading.csproj|c:\\programing - work\\progaming basics - exercise\\01.firststepsincoding-exercise\\04requiredreading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9B1797-89D9-468B-A8B8-C0C4D62FBA04}|04RequiredReading\\04RequiredReading.csproj|solutionrelative:04requiredreading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3171CBF5-7AF6-4B0F-90EE-8480FC99BAE9}|03CalculatorDeposit\\03CalculatorDeposit.csproj|c:\\programing - work\\progaming basics - exercise\\01.firststepsincoding-exercise\\03calculatordeposit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3171CBF5-7AF6-4B0F-90EE-8480FC99BAE9}|03CalculatorDeposit\\03CalculatorDeposit.csproj|solutionrelative:03calculatordeposit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69318D3B-86BD-4B37-B439-5CA3A99122D8}|02ConverRadiousToDegreece\\02ConverRadiousToDegreece.csproj|c:\\programing - work\\progaming basics - exercise\\01.firststepsincoding-exercise\\02converradioustodegreece\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69318D3B-86BD-4B37-B439-5CA3A99122D8}|02ConverRadiousToDegreece\\02ConverRadiousToDegreece.csproj|solutionrelative:02converradioustodegreece\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435F1F15-EEE3-403B-9D6F-E17E5E416E5A}|01ConsoleConverUSDtoBGN\\01ConsoleConverUSDtoBGN.csproj|c:\\programing - work\\progaming basics - exercise\\01.firststepsincoding-exercise\\01consoleconverusdtobgn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435F1F15-EEE3-403B-9D6F-E17E5E416E5A}|01ConsoleConverUSDtoBGN\\01ConsoleConverUSDtoBGN.csproj|solutionrelative:01consoleconverusdtobgn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Progaming Basics - Exercise\\01.FirstStepsinCoding-Exercise\\09Aquarium\\Program.cs",
+              "RelativeDocumentMoniker": "09Aquarium\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Progaming Basics - Exercise\\01.FirstStepsinCoding-Exercise\\09Aquarium\\Program.cs",
+              "RelativeToolTip": "09Aquarium\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T17:54:15.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Progaming Basics - Exercise\\01.FirstStepsinCoding-Exercise\\08BasketballEqiupment\\Program.cs",
+              "RelativeDocumentMoniker": "08BasketballEqiupment\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Progaming Basics - Exercise\\01.FirstStepsinCoding-Exercise\\08BasketballEqiupment\\Program.cs",
+              "RelativeToolTip": "08BasketballEqiupment\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T17:42:57.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Progaming Basics - Exercise\\01.FirstStepsinCoding-Exercise\\07FoodDelivery\\Program.cs",
+              "RelativeDocumentMoniker": "07FoodDelivery\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Progaming Basics - Exercise\\01.FirstStepsinCoding-Exercise\\07FoodDelivery\\Program.cs",
+              "RelativeToolTip": "07FoodDelivery\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T17:38:22.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Progaming Basics - Exercise\\01.FirstStepsinCoding-Exercise\\06Repaiting\\Program.cs",
+              "RelativeDocumentMoniker": "06Repaiting\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Progaming Basics - Exercise\\01.FirstStepsinCoding-Exercise\\06Repaiting\\Program.cs",
+              "RelativeToolTip": "06Repaiting\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T16:28:01.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Progaming Basics - Exercise\\01.FirstStepsinCoding-Exercise\\05SchoolSupplies\\Program.cs",
+              "RelativeDocumentMoniker": "05SchoolSupplies\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Progaming Basics - Exercise\\01.FirstStepsinCoding-Exercise\\05SchoolSupplies\\Program.cs",
+              "RelativeToolTip": "05SchoolSupplies\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T16:21:53.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Progaming Basics - Exercise\\01.FirstStepsinCoding-Exercise\\04RequiredReading\\Program.cs",
+              "RelativeDocumentMoniker": "04RequiredReading\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Progaming Basics - Exercise\\01.FirstStepsinCoding-Exercise\\04RequiredReading\\Program.cs",
+              "RelativeToolTip": "04RequiredReading\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T16:13:56.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Progaming Basics - Exercise\\01.FirstStepsinCoding-Exercise\\03CalculatorDeposit\\Program.cs",
+              "RelativeDocumentMoniker": "03CalculatorDeposit\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Progaming Basics - Exercise\\01.FirstStepsinCoding-Exercise\\03CalculatorDeposit\\Program.cs",
+              "RelativeToolTip": "03CalculatorDeposit\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T16:03:06.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Progaming Basics - Exercise\\01.FirstStepsinCoding-Exercise\\02ConverRadiousToDegreece\\Program.cs",
+              "RelativeDocumentMoniker": "02ConverRadiousToDegreece\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Progaming Basics - Exercise\\01.FirstStepsinCoding-Exercise\\02ConverRadiousToDegreece\\Program.cs",
+              "RelativeToolTip": "02ConverRadiousToDegreece\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T15:55:51.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Progaming Basics - Exercise\\01.FirstStepsinCoding-Exercise\\01ConsoleConverUSDtoBGN\\Program.cs",
+              "RelativeDocumentMoniker": "01ConsoleConverUSDtoBGN\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Progaming Basics - Exercise\\01.FirstStepsinCoding-Exercise\\01ConsoleConverUSDtoBGN\\Program.cs",
+              "RelativeToolTip": "01ConsoleConverUSDtoBGN\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T15:42:30.059Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

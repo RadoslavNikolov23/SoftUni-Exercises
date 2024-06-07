@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programing - Work\\Programing Fundamentals\\01.IntroAndBasicSyntaxLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{298B1349-F590-4443-B35F-A2EC3F8C5096}|13.DebugtheCodeHolidaysBetweenTwoDates\\13.DebugtheCodeHolidaysBetweenTwoDates.csproj|c:\\programing - work\\programing fundamentals\\01.introandbasicsyntaxlab\\13.debugthecodeholidaysbetweentwodates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{298B1349-F590-4443-B35F-A2EC3F8C5096}|13.DebugtheCodeHolidaysBetweenTwoDates\\13.DebugtheCodeHolidaysBetweenTwoDates.csproj|solutionrelative:13.debugthecodeholidaysbetweentwodates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC98D138-BA11-45BD-A1AF-E409138EB2BD}|02.Passed\\02.Passed.csproj|c:\\programing - work\\programing fundamentals\\01.introandbasicsyntaxlab\\02.passed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC98D138-BA11-45BD-A1AF-E409138EB2BD}|02.Passed\\02.Passed.csproj|solutionrelative:02.passed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A92E12-4304-4722-ACCD-277F2B186412}|12.EvenNumber\\12.EvenNumber.csproj|c:\\programing - work\\programing fundamentals\\01.introandbasicsyntaxlab\\12.evennumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A92E12-4304-4722-ACCD-277F2B186412}|12.EvenNumber\\12.EvenNumber.csproj|solutionrelative:12.evennumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4553EF15-350F-4687-A8AB-D2EFADC412DF}|11.MultiplicationTable2.0\\11.MultiplicationTable2.0.csproj|c:\\programing - work\\programing fundamentals\\01.introandbasicsyntaxlab\\11.multiplicationtable2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4553EF15-350F-4687-A8AB-D2EFADC412DF}|11.MultiplicationTable2.0\\11.MultiplicationTable2.0.csproj|solutionrelative:11.multiplicationtable2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B07C3A-5786-4F8E-8B95-2C66C9DFF23F}|10.MultiplicationTable\\10.MultiplicationTable.csproj|c:\\programing - work\\programing fundamentals\\01.introandbasicsyntaxlab\\10.multiplicationtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B07C3A-5786-4F8E-8B95-2C66C9DFF23F}|10.MultiplicationTable\\10.MultiplicationTable.csproj|solutionrelative:10.multiplicationtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C873FD-8D7B-4011-B0C9-5BBED969DC06}|09.SumOfOddNumbers\\09.SumOfOddNumbers.csproj|c:\\programing - work\\programing fundamentals\\01.introandbasicsyntaxlab\\09.sumofoddnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C873FD-8D7B-4011-B0C9-5BBED969DC06}|09.SumOfOddNumbers\\09.SumOfOddNumbers.csproj|solutionrelative:09.sumofoddnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198A84E0-D415-45E3-B01B-46161A7B91E6}|08.DivisibleBy3\\08.DivisibleBy3.csproj|c:\\programing - work\\programing fundamentals\\01.introandbasicsyntaxlab\\08.divisibleby3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198A84E0-D415-45E3-B01B-46161A7B91E6}|08.DivisibleBy3\\08.DivisibleBy3.csproj|solutionrelative:08.divisibleby3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF38DC0-DC2F-44C3-B0DE-333C3A555722}|07.TheatrePromotions\\07.TheatrePromotions.csproj|c:\\programing - work\\programing fundamentals\\01.introandbasicsyntaxlab\\07.theatrepromotions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF38DC0-DC2F-44C3-B0DE-333C3A555722}|07.TheatrePromotions\\07.TheatrePromotions.csproj|solutionrelative:07.theatrepromotions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15C8579-B71B-495D-86CF-DEAD8E91C428}|06.ForeignLanguages\\06.ForeignLanguages.csproj|c:\\programing - work\\programing fundamentals\\01.introandbasicsyntaxlab\\06.foreignlanguages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15C8579-B71B-495D-86CF-DEAD8E91C428}|06.ForeignLanguages\\06.ForeignLanguages.csproj|solutionrelative:06.foreignlanguages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{992BD878-E98B-44CE-BB1B-33697E884A4C}|05.MonthPrinter\\05.MonthPrinter.csproj|c:\\programing - work\\programing fundamentals\\01.introandbasicsyntaxlab\\05.monthprinter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{992BD878-E98B-44CE-BB1B-33697E884A4C}|05.MonthPrinter\\05.MonthPrinter.csproj|solutionrelative:05.monthprinter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80B2004-0928-405E-B265-1CFF9923EB15}|04.BackIn30Minutes\\04.BackIn30Minutes.csproj|c:\\programing - work\\programing fundamentals\\01.introandbasicsyntaxlab\\04.backin30minutes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80B2004-0928-405E-B265-1CFF9923EB15}|04.BackIn30Minutes\\04.BackIn30Minutes.csproj|solutionrelative:04.backin30minutes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC52CCC3-BB4C-48CE-A646-A91D580DBC6B}|03.PassedOrFailed\\03.PassedOrFailed.csproj|c:\\programing - work\\programing fundamentals\\01.introandbasicsyntaxlab\\03.passedorfailed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC52CCC3-BB4C-48CE-A646-A91D580DBC6B}|03.PassedOrFailed\\03.PassedOrFailed.csproj|solutionrelative:03.passedorfailed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2836FF-358E-4488-89B4-755174A9B331}|01. Student Information\\01. Student Information.csproj|c:\\programing - work\\programing fundamentals\\01.introandbasicsyntaxlab\\01. student information\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2836FF-358E-4488-89B4-755174A9B331}|01. Student Information\\01. Student Information.csproj|solutionrelative:01. student information\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\01.IntroAndBasicSyntaxLab\\09.SumOfOddNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "09.SumOfOddNumbers\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\01.IntroAndBasicSyntaxLab\\09.SumOfOddNumbers\\Program.cs",
+              "RelativeToolTip": "09.SumOfOddNumbers\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAcwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:58:33.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\01.IntroAndBasicSyntaxLab\\10.MultiplicationTable\\Program.cs",
+              "RelativeDocumentMoniker": "10.MultiplicationTable\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\01.IntroAndBasicSyntaxLab\\10.MultiplicationTable\\Program.cs",
+              "RelativeToolTip": "10.MultiplicationTable\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:40:48.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\01.IntroAndBasicSyntaxLab\\08.DivisibleBy3\\Program.cs",
+              "RelativeDocumentMoniker": "08.DivisibleBy3\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\01.IntroAndBasicSyntaxLab\\08.DivisibleBy3\\Program.cs",
+              "RelativeToolTip": "08.DivisibleBy3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:56:49.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\01.IntroAndBasicSyntaxLab\\07.TheatrePromotions\\Program.cs",
+              "RelativeDocumentMoniker": "07.TheatrePromotions\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\01.IntroAndBasicSyntaxLab\\07.TheatrePromotions\\Program.cs",
+              "RelativeToolTip": "07.TheatrePromotions\\Program.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAcwEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:31:39.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\01.IntroAndBasicSyntaxLab\\11.MultiplicationTable2.0\\Program.cs",
+              "RelativeDocumentMoniker": "11.MultiplicationTable2.0\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\01.IntroAndBasicSyntaxLab\\11.MultiplicationTable2.0\\Program.cs",
+              "RelativeToolTip": "11.MultiplicationTable2.0\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvxwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:46:08.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\01.IntroAndBasicSyntaxLab\\12.EvenNumber\\Program.cs",
+              "RelativeDocumentMoniker": "12.EvenNumber\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\01.IntroAndBasicSyntaxLab\\12.EvenNumber\\Program.cs",
+              "RelativeToolTip": "12.EvenNumber\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvxUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:49:32.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\01.IntroAndBasicSyntaxLab\\13.DebugtheCodeHolidaysBetweenTwoDates\\Program.cs",
+              "RelativeDocumentMoniker": "13.DebugtheCodeHolidaysBetweenTwoDates\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\01.IntroAndBasicSyntaxLab\\13.DebugtheCodeHolidaysBetweenTwoDates\\Program.cs",
+              "RelativeToolTip": "13.DebugtheCodeHolidaysBetweenTwoDates\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAswA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:57:04.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\01.IntroAndBasicSyntaxLab\\02.Passed\\Program.cs",
+              "RelativeDocumentMoniker": "02.Passed\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\01.IntroAndBasicSyntaxLab\\02.Passed\\Program.cs",
+              "RelativeToolTip": "02.Passed\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:23:24.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\01.IntroAndBasicSyntaxLab\\06.ForeignLanguages\\Program.cs",
+              "RelativeDocumentMoniker": "06.ForeignLanguages\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\01.IntroAndBasicSyntaxLab\\06.ForeignLanguages\\Program.cs",
+              "RelativeToolTip": "06.ForeignLanguages\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAcwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:26:32.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\01.IntroAndBasicSyntaxLab\\05.MonthPrinter\\Program.cs",
+              "RelativeDocumentMoniker": "05.MonthPrinter\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\01.IntroAndBasicSyntaxLab\\05.MonthPrinter\\Program.cs",
+              "RelativeToolTip": "05.MonthPrinter\\Program.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAcwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:25:53.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\01.IntroAndBasicSyntaxLab\\04.BackIn30Minutes\\Program.cs",
+              "RelativeDocumentMoniker": "04.BackIn30Minutes\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\01.IntroAndBasicSyntaxLab\\04.BackIn30Minutes\\Program.cs",
+              "RelativeToolTip": "04.BackIn30Minutes\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAcwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:38:54.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\01.IntroAndBasicSyntaxLab\\03.PassedOrFailed\\Program.cs",
+              "RelativeDocumentMoniker": "03.PassedOrFailed\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\01.IntroAndBasicSyntaxLab\\03.PassedOrFailed\\Program.cs",
+              "RelativeToolTip": "03.PassedOrFailed\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:31:05.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\01.IntroAndBasicSyntaxLab\\01. Student Information\\Program.cs",
+              "RelativeDocumentMoniker": "01. Student Information\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\01.IntroAndBasicSyntaxLab\\01. Student Information\\Program.cs",
+              "RelativeToolTip": "01. Student Information\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:18:09.307Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

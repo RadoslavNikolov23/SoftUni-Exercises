@@ -1,0 +1,14 @@
+C:\Programing - Work\Progaming Basics - Exercise\DrawingFigureswithLoops-More Exercises\3.SquareOfStars\bin\Debug\net8.0\3.SquareOfStars.exe
+C:\Programing - Work\Progaming Basics - Exercise\DrawingFigureswithLoops-More Exercises\3.SquareOfStars\bin\Debug\net8.0\3.SquareOfStars.deps.json
+C:\Programing - Work\Progaming Basics - Exercise\DrawingFigureswithLoops-More Exercises\3.SquareOfStars\bin\Debug\net8.0\3.SquareOfStars.runtimeconfig.json
+C:\Programing - Work\Progaming Basics - Exercise\DrawingFigureswithLoops-More Exercises\3.SquareOfStars\bin\Debug\net8.0\3.SquareOfStars.dll
+C:\Programing - Work\Progaming Basics - Exercise\DrawingFigureswithLoops-More Exercises\3.SquareOfStars\bin\Debug\net8.0\3.SquareOfStars.pdb
+C:\Programing - Work\Progaming Basics - Exercise\DrawingFigureswithLoops-More Exercises\3.SquareOfStars\obj\Debug\net8.0\3.SquareOfStars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing - Work\Progaming Basics - Exercise\DrawingFigureswithLoops-More Exercises\3.SquareOfStars\obj\Debug\net8.0\3.SquareOfStars.AssemblyInfoInputs.cache
+C:\Programing - Work\Progaming Basics - Exercise\DrawingFigureswithLoops-More Exercises\3.SquareOfStars\obj\Debug\net8.0\3.SquareOfStars.AssemblyInfo.cs
+C:\Programing - Work\Progaming Basics - Exercise\DrawingFigureswithLoops-More Exercises\3.SquareOfStars\obj\Debug\net8.0\3.SquareOfStars.csproj.CoreCompileInputs.cache
+C:\Programing - Work\Progaming Basics - Exercise\DrawingFigureswithLoops-More Exercises\3.SquareOfStars\obj\Debug\net8.0\3.SquareOfStars.dll
+C:\Programing - Work\Progaming Basics - Exercise\DrawingFigureswithLoops-More Exercises\3.SquareOfStars\obj\Debug\net8.0\refint\3.SquareOfStars.dll
+C:\Programing - Work\Progaming Basics - Exercise\DrawingFigureswithLoops-More Exercises\3.SquareOfStars\obj\Debug\net8.0\3.SquareOfStars.pdb
+C:\Programing - Work\Progaming Basics - Exercise\DrawingFigureswithLoops-More Exercises\3.SquareOfStars\obj\Debug\net8.0\3.SquareOfStars.genruntimeconfig.cache
+C:\Programing - Work\Progaming Basics - Exercise\DrawingFigureswithLoops-More Exercises\3.SquareOfStars\obj\Debug\net8.0\ref\3.SquareOfStars.dll

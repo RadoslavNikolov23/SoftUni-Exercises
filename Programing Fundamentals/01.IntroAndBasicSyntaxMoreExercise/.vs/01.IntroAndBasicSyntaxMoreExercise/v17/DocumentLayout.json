@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programing - Work\\Programing Fundamentals\\01.IntroAndBasicSyntaxMoreExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6C374C-F153-4A18-8729-B57BD9D714F4}|01.Sort Numbers\\01.Sort Numbers.csproj|c:\\programing - work\\programing fundamentals\\01.introandbasicsyntaxmoreexercise\\01.sort numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E6C374C-F153-4A18-8729-B57BD9D714F4}|01.Sort Numbers\\01.Sort Numbers.csproj|solutionrelative:01.sort numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC32FA50-CEEC-467D-B075-0348D453FEB5}|05.Messages\\05.Messages.csproj|c:\\programing - work\\programing fundamentals\\01.introandbasicsyntaxmoreexercise\\05.messages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC32FA50-CEEC-467D-B075-0348D453FEB5}|05.Messages\\05.Messages.csproj|solutionrelative:05.messages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BBA6867-6CE9-4C0C-A046-AA96DA623853}|04.ReverseString\\04.ReverseString.csproj|c:\\programing - work\\programing fundamentals\\01.introandbasicsyntaxmoreexercise\\04.reversestring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BBA6867-6CE9-4C0C-A046-AA96DA623853}|04.ReverseString\\04.ReverseString.csproj|solutionrelative:04.reversestring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF96794-C42C-41D6-9858-DB48389277F6}|03.GamingStore\\03.GamingStore.csproj|c:\\programing - work\\programing fundamentals\\01.introandbasicsyntaxmoreexercise\\03.gamingstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF96794-C42C-41D6-9858-DB48389277F6}|03.GamingStore\\03.GamingStore.csproj|solutionrelative:03.gamingstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90555F4F-5D6B-458F-9179-2DC7676CD76B}|02.EnglishName\u041Ef\u0422heLastDigit\\02.EnglishName\u041Ef\u0422heLastDigit.csproj|c:\\programing - work\\programing fundamentals\\01.introandbasicsyntaxmoreexercise\\02.englishname\u043Ef\u0442helastdigit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90555F4F-5D6B-458F-9179-2DC7676CD76B}|02.EnglishName\u041Ef\u0422heLastDigit\\02.EnglishName\u041Ef\u0422heLastDigit.csproj|solutionrelative:02.englishname\u043Ef\u0442helastdigit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\01.IntroAndBasicSyntaxMoreExercise\\05.Messages\\Program.cs",
+              "RelativeDocumentMoniker": "05.Messages\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\01.IntroAndBasicSyntaxMoreExercise\\05.Messages\\Program.cs",
+              "RelativeToolTip": "05.Messages\\Program.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAswHYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T09:42:15.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\01.IntroAndBasicSyntaxMoreExercise\\04.ReverseString\\Program.cs",
+              "RelativeDocumentMoniker": "04.ReverseString\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\01.IntroAndBasicSyntaxMoreExercise\\04.ReverseString\\Program.cs",
+              "RelativeToolTip": "04.ReverseString\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T09:31:19.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\01.IntroAndBasicSyntaxMoreExercise\\03.GamingStore\\Program.cs",
+              "RelativeDocumentMoniker": "03.GamingStore\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\01.IntroAndBasicSyntaxMoreExercise\\03.GamingStore\\Program.cs",
+              "RelativeToolTip": "03.GamingStore\\Program.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAqwGoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:14:11.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\01.IntroAndBasicSyntaxMoreExercise\\02.EnglishName\u041Ef\u0422heLastDigit\\Program.cs",
+              "RelativeDocumentMoniker": "02.EnglishName\u041Ef\u0422heLastDigit\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\01.IntroAndBasicSyntaxMoreExercise\\02.EnglishName\u041Ef\u0422heLastDigit\\Program.cs",
+              "RelativeToolTip": "02.EnglishName\u041Ef\u0422heLastDigit\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAqwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:05:20.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\01.IntroAndBasicSyntaxMoreExercise\\01.Sort Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "01.Sort Numbers\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\01.IntroAndBasicSyntaxMoreExercise\\01.Sort Numbers\\Program.cs*",
+              "RelativeToolTip": "01.Sort Numbers\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T17:54:34.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\06Repaiting\bin\Debug\net8.0\06Repaiting.exe
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\06Repaiting\bin\Debug\net8.0\06Repaiting.deps.json
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\06Repaiting\bin\Debug\net8.0\06Repaiting.runtimeconfig.json
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\06Repaiting\bin\Debug\net8.0\06Repaiting.dll
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\06Repaiting\bin\Debug\net8.0\06Repaiting.pdb
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\06Repaiting\obj\Debug\net8.0\06Repaiting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\06Repaiting\obj\Debug\net8.0\06Repaiting.AssemblyInfoInputs.cache
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\06Repaiting\obj\Debug\net8.0\06Repaiting.AssemblyInfo.cs
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\06Repaiting\obj\Debug\net8.0\06Repaiting.csproj.CoreCompileInputs.cache
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\06Repaiting\obj\Debug\net8.0\06Repaiting.dll
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\06Repaiting\obj\Debug\net8.0\refint\06Repaiting.dll
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\06Repaiting\obj\Debug\net8.0\06Repaiting.pdb
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\06Repaiting\obj\Debug\net8.0\06Repaiting.genruntimeconfig.cache
+C:\Programing - Work\Progaming Basics - Exercise\01.FirstStepsinCoding-Exercise\06Repaiting\obj\Debug\net8.0\ref\06Repaiting.dll

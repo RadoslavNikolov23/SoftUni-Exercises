@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programing - Work\\Programing Fundamentals\\03.Arrays-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{414B957A-E630-463A-8C12-B7B85921D62C}|08.CondenseArrayToNumber\\08.CondenseArrayToNumber.csproj|c:\\programing - work\\programing fundamentals\\03.arrays-lab\\08.condensearraytonumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414B957A-E630-463A-8C12-B7B85921D62C}|08.CondenseArrayToNumber\\08.CondenseArrayToNumber.csproj|solutionrelative:08.condensearraytonumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D97EDB9-7B20-415D-ACC1-92FEBD72E28C}|07.EqualArrays\\07.EqualArrays.csproj|c:\\programing - work\\programing fundamentals\\03.arrays-lab\\07.equalarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D97EDB9-7B20-415D-ACC1-92FEBD72E28C}|07.EqualArrays\\07.EqualArrays.csproj|solutionrelative:07.equalarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2839DC1-6D8A-4F4A-89DA-1BF6B3F867B0}|06.EvenAndOddSubtraction\\06.EvenAndOddSubtraction.csproj|c:\\programing - work\\programing fundamentals\\03.arrays-lab\\06.evenandoddsubtraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2839DC1-6D8A-4F4A-89DA-1BF6B3F867B0}|06.EvenAndOddSubtraction\\06.EvenAndOddSubtraction.csproj|solutionrelative:06.evenandoddsubtraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512FB656-4D50-43BE-B852-110591225193}|05.SumEvenNumbers\\05.SumEvenNumbers.csproj|c:\\programing - work\\programing fundamentals\\03.arrays-lab\\05.sumevennumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512FB656-4D50-43BE-B852-110591225193}|05.SumEvenNumbers\\05.SumEvenNumbers.csproj|solutionrelative:05.sumevennumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D797508-23F4-470F-A27C-95C2E9B50876}|04.ReverseArrayOfStrings\\04.ReverseArrayOfStrings.csproj|c:\\programing - work\\programing fundamentals\\03.arrays-lab\\04.reversearrayofstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D797508-23F4-470F-A27C-95C2E9B50876}|04.ReverseArrayOfStrings\\04.ReverseArrayOfStrings.csproj|solutionrelative:04.reversearrayofstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDFFF50-4905-48CE-A8B8-B85B4F424AB0}|03.RoundingNumbers\\03.RoundingNumbers.csproj|c:\\programing - work\\programing fundamentals\\03.arrays-lab\\03.roundingnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BDFFF50-4905-48CE-A8B8-B85B4F424AB0}|03.RoundingNumbers\\03.RoundingNumbers.csproj|solutionrelative:03.roundingnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B084DF-21EC-4749-9D2E-0D1935C4E12C}|02.PrintNumbersInReverseOrder\\02.PrintNumbersInReverseOrder.csproj|c:\\programing - work\\programing fundamentals\\03.arrays-lab\\02.printnumbersinreverseorder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B084DF-21EC-4749-9D2E-0D1935C4E12C}|02.PrintNumbersInReverseOrder\\02.PrintNumbersInReverseOrder.csproj|solutionrelative:02.printnumbersinreverseorder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A4C8627-917B-4CC0-AB72-5EA5F88197C4}|01.DayOfWeek\\01.DayOfWeek.csproj|c:\\programing - work\\programing fundamentals\\03.arrays-lab\\01.dayofweek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A4C8627-917B-4CC0-AB72-5EA5F88197C4}|01.DayOfWeek\\01.DayOfWeek.csproj|solutionrelative:01.dayofweek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\03.Arrays-Lab\\08.CondenseArrayToNumber\\Program.cs",
+              "RelativeDocumentMoniker": "08.CondenseArrayToNumber\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\03.Arrays-Lab\\08.CondenseArrayToNumber\\Program.cs",
+              "RelativeToolTip": "08.CondenseArrayToNumber\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAiwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T13:15:48.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\03.Arrays-Lab\\07.EqualArrays\\Program.cs",
+              "RelativeDocumentMoniker": "07.EqualArrays\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\03.Arrays-Lab\\07.EqualArrays\\Program.cs",
+              "RelativeToolTip": "07.EqualArrays\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAmwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T13:00:55.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\03.Arrays-Lab\\06.EvenAndOddSubtraction\\Program.cs",
+              "RelativeDocumentMoniker": "06.EvenAndOddSubtraction\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\03.Arrays-Lab\\06.EvenAndOddSubtraction\\Program.cs",
+              "RelativeToolTip": "06.EvenAndOddSubtraction\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T12:57:24.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\03.Arrays-Lab\\05.SumEvenNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "05.SumEvenNumbers\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\03.Arrays-Lab\\05.SumEvenNumbers\\Program.cs",
+              "RelativeToolTip": "05.SumEvenNumbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T12:53:34.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\03.Arrays-Lab\\04.ReverseArrayOfStrings\\Program.cs",
+              "RelativeDocumentMoniker": "04.ReverseArrayOfStrings\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\03.Arrays-Lab\\04.ReverseArrayOfStrings\\Program.cs",
+              "RelativeToolTip": "04.ReverseArrayOfStrings\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T12:28:17.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\03.Arrays-Lab\\03.RoundingNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "03.RoundingNumbers\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\03.Arrays-Lab\\03.RoundingNumbers\\Program.cs",
+              "RelativeToolTip": "03.RoundingNumbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T12:19:39.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\03.Arrays-Lab\\02.PrintNumbersInReverseOrder\\Program.cs",
+              "RelativeDocumentMoniker": "02.PrintNumbersInReverseOrder\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\03.Arrays-Lab\\02.PrintNumbersInReverseOrder\\Program.cs",
+              "RelativeToolTip": "02.PrintNumbersInReverseOrder\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T11:38:19.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\03.Arrays-Lab\\01.DayOfWeek\\Program.cs",
+              "RelativeDocumentMoniker": "01.DayOfWeek\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\03.Arrays-Lab\\01.DayOfWeek\\Program.cs",
+              "RelativeToolTip": "01.DayOfWeek\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T11:30:38.898Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
