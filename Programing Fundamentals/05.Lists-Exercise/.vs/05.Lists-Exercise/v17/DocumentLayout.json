@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programing - Work\\Programing Fundamentals\\05.Lists-Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9EEBF78-B545-48E3-B01A-9C936A30E3BD}|07.AppendArrays\\07.AppendArrays.csproj|c:\\programing - work\\programing fundamentals\\05.lists-exercise\\07.appendarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9EEBF78-B545-48E3-B01A-9C936A30E3BD}|07.AppendArrays\\07.AppendArrays.csproj|solutionrelative:07.appendarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D80CD8-3A26-49D0-A417-E7D1DF42548E}|01.Train\\01.Train.csproj|c:\\programing - work\\programing fundamentals\\05.lists-exercise\\01.train\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D80CD8-3A26-49D0-A417-E7D1DF42548E}|01.Train\\01.Train.csproj|solutionrelative:01.train\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{181B4369-3BA1-4695-8DC7-4372EB8F9C88}|06.CardsGame\\06.CardsGame.csproj|c:\\programing - work\\programing fundamentals\\05.lists-exercise\\06.cardsgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{181B4369-3BA1-4695-8DC7-4372EB8F9C88}|06.CardsGame\\06.CardsGame.csproj|solutionrelative:06.cardsgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F40D5E-EB75-43C8-B3A4-11E47FC2D284}|05.BombNumbers\\05.BombNumbers.csproj|c:\\programing - work\\programing fundamentals\\05.lists-exercise\\05.bombnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F40D5E-EB75-43C8-B3A4-11E47FC2D284}|05.BombNumbers\\05.BombNumbers.csproj|solutionrelative:05.bombnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9843E90-85DB-4946-ACDF-45E6128385C4}|04.ListOperations\\04.ListOperations.csproj|c:\\programing - work\\programing fundamentals\\05.lists-exercise\\04.listoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9843E90-85DB-4946-ACDF-45E6128385C4}|04.ListOperations\\04.ListOperations.csproj|solutionrelative:04.listoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663B914B-EBA2-4D9C-8218-5CE8973ECAC8}|03.HouseParty-2\\03.HouseParty-2.csproj|c:\\programing - work\\programing fundamentals\\05.lists-exercise\\03.houseparty-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663B914B-EBA2-4D9C-8218-5CE8973ECAC8}|03.HouseParty-2\\03.HouseParty-2.csproj|solutionrelative:03.houseparty-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CDCA59-F355-413F-86AC-BD1BA2DF1875}|02.ChangeList\\02.ChangeList.csproj|c:\\programing - work\\programing fundamentals\\05.lists-exercise\\02.changelist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34CDCA59-F355-413F-86AC-BD1BA2DF1875}|02.ChangeList\\02.ChangeList.csproj|solutionrelative:02.changelist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\05.Lists-Exercise\\01.Train\\Program.cs",
+              "RelativeDocumentMoniker": "01.Train\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\05.Lists-Exercise\\01.Train\\Program.cs",
+              "RelativeToolTip": "01.Train\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwCkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T12:03:20.784Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\05.Lists-Exercise\\07.AppendArrays\\Program.cs",
+              "RelativeDocumentMoniker": "07.AppendArrays\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\05.Lists-Exercise\\07.AppendArrays\\Program.cs*",
+              "RelativeToolTip": "07.AppendArrays\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T16:51:08.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\05.Lists-Exercise\\06.CardsGame\\Program.cs",
+              "RelativeDocumentMoniker": "06.CardsGame\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\05.Lists-Exercise\\06.CardsGame\\Program.cs",
+              "RelativeToolTip": "06.CardsGame\\Program.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAIwEYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T16:24:58.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\05.Lists-Exercise\\05.BombNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "05.BombNumbers\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\05.Lists-Exercise\\05.BombNumbers\\Program.cs",
+              "RelativeToolTip": "05.BombNumbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:38:43.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\05.Lists-Exercise\\04.ListOperations\\Program.cs",
+              "RelativeDocumentMoniker": "04.ListOperations\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\05.Lists-Exercise\\04.ListOperations\\Program.cs",
+              "RelativeToolTip": "04.ListOperations\\Program.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAAwGYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T12:52:07.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\05.Lists-Exercise\\03.HouseParty-2\\Program.cs",
+              "RelativeDocumentMoniker": "03.HouseParty-2\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\05.Lists-Exercise\\03.HouseParty-2\\Program.cs",
+              "RelativeToolTip": "03.HouseParty-2\\Program.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAYwEoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T12:45:37.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\05.Lists-Exercise\\02.ChangeList\\Program.cs",
+              "RelativeDocumentMoniker": "02.ChangeList\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\05.Lists-Exercise\\02.ChangeList\\Program.cs",
+              "RelativeToolTip": "02.ChangeList\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAuwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T12:14:39.869Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

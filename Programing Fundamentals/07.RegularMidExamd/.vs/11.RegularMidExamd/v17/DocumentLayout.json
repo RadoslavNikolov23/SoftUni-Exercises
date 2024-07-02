@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programing - Work\\Programing Fundamentals\\11.RegularMidExamd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A17C301-5A90-4F60-87AB-6D9D24EE0380}|03.Problem-MusicPlaylist\\03.Problem-MusicPlaylist.csproj|c:\\programing - work\\programing fundamentals\\11.regularmidexamd\\03.problem-musicplaylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A17C301-5A90-4F60-87AB-6D9D24EE0380}|03.Problem-MusicPlaylist\\03.Problem-MusicPlaylist.csproj|solutionrelative:03.problem-musicplaylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EABB86DD-CE42-483C-A123-21191768B083}|02.Problem-FriendListMaintenance\\02.Problem-FriendListMaintenance.csproj|c:\\programing - work\\programing fundamentals\\11.regularmidexamd\\02.problem-friendlistmaintenance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EABB86DD-CE42-483C-A123-21191768B083}|02.Problem-FriendListMaintenance\\02.Problem-FriendListMaintenance.csproj|solutionrelative:02.problem-friendlistmaintenance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8826EC6-3EDE-4DBE-9F1A-7A2F919DDE9C}|01.Problem-TheHuntingGames\\01.Problem-TheHuntingGames.csproj|c:\\programing - work\\programing fundamentals\\11.regularmidexamd\\01.problem-thehuntinggames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8826EC6-3EDE-4DBE-9F1A-7A2F919DDE9C}|01.Problem-TheHuntingGames\\01.Problem-TheHuntingGames.csproj|solutionrelative:01.problem-thehuntinggames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\11.RegularMidExamd\\03.Problem-MusicPlaylist\\Program.cs",
+              "RelativeDocumentMoniker": "03.Problem-MusicPlaylist\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\11.RegularMidExamd\\03.Problem-MusicPlaylist\\Program.cs",
+              "RelativeToolTip": "03.Problem-MusicPlaylist\\Program.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAuwKcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T10:36:56.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\11.RegularMidExamd\\02.Problem-FriendListMaintenance\\Program.cs",
+              "RelativeDocumentMoniker": "02.Problem-FriendListMaintenance\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\11.RegularMidExamd\\02.Problem-FriendListMaintenance\\Program.cs",
+              "RelativeToolTip": "02.Problem-FriendListMaintenance\\Program.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAuwJAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T09:58:59.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\11.RegularMidExamd\\01.Problem-TheHuntingGames\\Program.cs",
+              "RelativeDocumentMoniker": "01.Problem-TheHuntingGames\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\11.RegularMidExamd\\01.Problem-TheHuntingGames\\Program.cs",
+              "RelativeToolTip": "01.Problem-TheHuntingGames\\Program.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAADwvz8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T09:25:41.755Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

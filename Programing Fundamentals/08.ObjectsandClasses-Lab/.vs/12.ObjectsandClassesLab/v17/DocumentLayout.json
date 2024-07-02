@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programing - Work\\Programing Fundamentals\\08.ObjectsandClasses-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D500407B-A0F5-4CBF-AD6E-B693F60DCD80}|07.VehicleCatalogue\\07.VehicleCatalogue.csproj|c:\\programing - work\\programing fundamentals\\08.objectsandclasses-lab\\07.vehiclecatalogue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D500407B-A0F5-4CBF-AD6E-B693F60DCD80}|07.VehicleCatalogue\\07.VehicleCatalogue.csproj|solutionrelative:07.vehiclecatalogue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CF32D8-8E8A-4F06-A1C3-E4FD6D3D44E0}|06.StoreBoxes\\06.StoreBoxes.csproj|c:\\programing - work\\programing fundamentals\\08.objectsandclasses-lab\\06.storeboxes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CF32D8-8E8A-4F06-A1C3-E4FD6D3D44E0}|06.StoreBoxes\\06.StoreBoxes.csproj|solutionrelative:06.storeboxes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF18755E-1244-4959-8A44-1BCAA38DB58C}|04.Students\\04.Students.csproj|c:\\programing - work\\programing fundamentals\\08.objectsandclasses-lab\\04.students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF18755E-1244-4959-8A44-1BCAA38DB58C}|04.Students\\04.Students.csproj|solutionrelative:04.students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C960E41-2A89-4035-B93F-11FE6504150F}|05.Students2.0\\05.Students2.0.csproj|c:\\programing - work\\programing fundamentals\\08.objectsandclasses-lab\\05.students2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C960E41-2A89-4035-B93F-11FE6504150F}|05.Students2.0\\05.Students2.0.csproj|solutionrelative:05.students2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C91644F-DB8B-476E-AC9E-A6E6D9BDE7F7}|03.Songs\\03.Songs.csproj|c:\\programing - work\\programing fundamentals\\08.objectsandclasses-lab\\03.songs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C91644F-DB8B-476E-AC9E-A6E6D9BDE7F7}|03.Songs\\03.Songs.csproj|solutionrelative:03.songs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{289EAA61-C3E7-4496-8EA4-CB0727D3D447}|01.RandomizeWords\\01.RandomizeWords.csproj|c:\\programing - work\\programing fundamentals\\08.objectsandclasses-lab\\01.randomizewords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{289EAA61-C3E7-4496-8EA4-CB0727D3D447}|01.RandomizeWords\\01.RandomizeWords.csproj|solutionrelative:01.randomizewords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\08.ObjectsandClasses-Lab\\07.VehicleCatalogue\\Program.cs",
+              "RelativeDocumentMoniker": "07.VehicleCatalogue\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\08.ObjectsandClasses-Lab\\07.VehicleCatalogue\\Program.cs",
+              "RelativeToolTip": "07.VehicleCatalogue\\Program.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAywG0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T10:26:07.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\08.ObjectsandClasses-Lab\\06.StoreBoxes\\Program.cs",
+              "RelativeDocumentMoniker": "06.StoreBoxes\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\08.ObjectsandClasses-Lab\\06.StoreBoxes\\Program.cs",
+              "RelativeToolTip": "06.StoreBoxes\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAkwBMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T10:00:52.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\08.ObjectsandClasses-Lab\\05.Students2.0\\Program.cs",
+              "RelativeDocumentMoniker": "05.Students2.0\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\08.ObjectsandClasses-Lab\\05.Students2.0\\Program.cs",
+              "RelativeToolTip": "05.Students2.0\\Program.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAuwGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T14:04:05.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\08.ObjectsandClasses-Lab\\03.Songs\\Program.cs",
+              "RelativeDocumentMoniker": "03.Songs\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\08.ObjectsandClasses-Lab\\03.Songs\\Program.cs",
+              "RelativeToolTip": "03.Songs\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T13:52:19.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\08.ObjectsandClasses-Lab\\04.Students\\Program.cs",
+              "RelativeDocumentMoniker": "04.Students\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\08.ObjectsandClasses-Lab\\04.Students\\Program.cs",
+              "RelativeToolTip": "04.Students\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T13:47:52.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\08.ObjectsandClasses-Lab\\01.RandomizeWords\\Program.cs",
+              "RelativeDocumentMoniker": "01.RandomizeWords\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\08.ObjectsandClasses-Lab\\01.RandomizeWords\\Program.cs",
+              "RelativeToolTip": "01.RandomizeWords\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T13:46:43.742Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\05.Lists-Exercise\10.SoftUniCoursePlanning\bin\Debug\netcoreapp3.1\10.SoftUniCoursePlanning.exe
+C:\Users\PC\source\repos\05.Lists-Exercise\10.SoftUniCoursePlanning\bin\Debug\netcoreapp3.1\10.SoftUniCoursePlanning.deps.json
+C:\Users\PC\source\repos\05.Lists-Exercise\10.SoftUniCoursePlanning\bin\Debug\netcoreapp3.1\10.SoftUniCoursePlanning.runtimeconfig.json
+C:\Users\PC\source\repos\05.Lists-Exercise\10.SoftUniCoursePlanning\bin\Debug\netcoreapp3.1\10.SoftUniCoursePlanning.runtimeconfig.dev.json
+C:\Users\PC\source\repos\05.Lists-Exercise\10.SoftUniCoursePlanning\bin\Debug\netcoreapp3.1\10.SoftUniCoursePlanning.dll
+C:\Users\PC\source\repos\05.Lists-Exercise\10.SoftUniCoursePlanning\bin\Debug\netcoreapp3.1\10.SoftUniCoursePlanning.pdb
+C:\Users\PC\source\repos\05.Lists-Exercise\10.SoftUniCoursePlanning\obj\Debug\netcoreapp3.1\10.SoftUniCoursePlanning.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\05.Lists-Exercise\10.SoftUniCoursePlanning\obj\Debug\netcoreapp3.1\10.SoftUniCoursePlanning.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\05.Lists-Exercise\10.SoftUniCoursePlanning\obj\Debug\netcoreapp3.1\10.SoftUniCoursePlanning.AssemblyInfo.cs
+C:\Users\PC\source\repos\05.Lists-Exercise\10.SoftUniCoursePlanning\obj\Debug\netcoreapp3.1\10.SoftUniCoursePlanning.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\05.Lists-Exercise\10.SoftUniCoursePlanning\obj\Debug\netcoreapp3.1\10.SoftUniCoursePlanning.dll
+C:\Users\PC\source\repos\05.Lists-Exercise\10.SoftUniCoursePlanning\obj\Debug\netcoreapp3.1\10.SoftUniCoursePlanning.pdb
+C:\Users\PC\source\repos\05.Lists-Exercise\10.SoftUniCoursePlanning\obj\Debug\netcoreapp3.1\10.SoftUniCoursePlanning.genruntimeconfig.cache

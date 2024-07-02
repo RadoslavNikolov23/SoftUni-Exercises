@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programing - Work\\Programing Fundamentals\\04.Methods-Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F10BC-A6B1-4BC3-88F9-1B11CD6F2ADF}|11.ArrayManipulator\\11.ArrayManipulator.csproj|c:\\programing - work\\programing fundamentals\\04.methods-exercise\\11.arraymanipulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8F10BC-A6B1-4BC3-88F9-1B11CD6F2ADF}|11.ArrayManipulator\\11.ArrayManipulator.csproj|solutionrelative:11.arraymanipulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAFB598-EF53-428E-A4C8-51009A69DC6F}|01.SmallestOfThreeNumbers\\01.SmallestOfThreeNumbers.csproj|c:\\programing - work\\programing fundamentals\\04.methods-exercise\\01.smallestofthreenumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAFB598-EF53-428E-A4C8-51009A69DC6F}|01.SmallestOfThreeNumbers\\01.SmallestOfThreeNumbers.csproj|solutionrelative:01.smallestofthreenumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E78E5DF4-138C-4B4A-A820-58AA2BF91BDC}|10.TopNumber\\10.TopNumber.csproj|c:\\programing - work\\programing fundamentals\\04.methods-exercise\\10.topnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E78E5DF4-138C-4B4A-A820-58AA2BF91BDC}|10.TopNumber\\10.TopNumber.csproj|solutionrelative:10.topnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81A483B-5041-43D4-BA36-4ED80240DD47}|06.MiddleCharacters\\06.MiddleCharacters.csproj|c:\\programing - work\\programing fundamentals\\04.methods-exercise\\06.middlecharacters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81A483B-5041-43D4-BA36-4ED80240DD47}|06.MiddleCharacters\\06.MiddleCharacters.csproj|solutionrelative:06.middlecharacters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E29294C-B94B-4FA4-B2C4-9A3EB59FBAB3}|09.PalindromeIntegers\\09.PalindromeIntegers.csproj|c:\\programing - work\\programing fundamentals\\04.methods-exercise\\09.palindromeintegers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E29294C-B94B-4FA4-B2C4-9A3EB59FBAB3}|09.PalindromeIntegers\\09.PalindromeIntegers.csproj|solutionrelative:09.palindromeintegers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B766C356-58D8-4484-A50F-EBD628C9FB1E}|05.AddAndSubtract\\05.AddAndSubtract.csproj|c:\\programing - work\\programing fundamentals\\04.methods-exercise\\05.addandsubtract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B766C356-58D8-4484-A50F-EBD628C9FB1E}|05.AddAndSubtract\\05.AddAndSubtract.csproj|solutionrelative:05.addandsubtract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA26EAAD-A694-4B7B-AB6C-9F370B81E3E3}|08.FactorialDivision\\08.FactorialDivision.csproj|c:\\programing - work\\programing fundamentals\\04.methods-exercise\\08.factorialdivision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA26EAAD-A694-4B7B-AB6C-9F370B81E3E3}|08.FactorialDivision\\08.FactorialDivision.csproj|solutionrelative:08.factorialdivision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EF71A6-76B8-4EF5-BEA1-8665E24AB5B7}|07.NxNMatrix\\07.NxNMatrix.csproj|c:\\programing - work\\programing fundamentals\\04.methods-exercise\\07.nxnmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EF71A6-76B8-4EF5-BEA1-8665E24AB5B7}|07.NxNMatrix\\07.NxNMatrix.csproj|solutionrelative:07.nxnmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7678BDB2-F9AC-40C3-A3E8-27BF8415C483}|04.PasswordValidator\\04.PasswordValidator.csproj|c:\\programing - work\\programing fundamentals\\04.methods-exercise\\04.passwordvalidator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7678BDB2-F9AC-40C3-A3E8-27BF8415C483}|04.PasswordValidator\\04.PasswordValidator.csproj|solutionrelative:04.passwordvalidator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702984A8-F5D8-42D6-ACF6-8AA5B9583D13}|03.CharactersInRange\\03.CharactersInRange.csproj|c:\\programing - work\\programing fundamentals\\04.methods-exercise\\03.charactersinrange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702984A8-F5D8-42D6-ACF6-8AA5B9583D13}|03.CharactersInRange\\03.CharactersInRange.csproj|solutionrelative:03.charactersinrange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17621D43-1724-44AA-AB53-7EBE6732A011}|02.VowelsCount\\02.VowelsCount.csproj|c:\\programing - work\\programing fundamentals\\04.methods-exercise\\02.vowelscount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17621D43-1724-44AA-AB53-7EBE6732A011}|02.VowelsCount\\02.VowelsCount.csproj|solutionrelative:02.vowelscount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\04.Methods-Exercise\\11.ArrayManipulator\\Program.cs",
+              "RelativeDocumentMoniker": "11.ArrayManipulator\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\04.Methods-Exercise\\11.ArrayManipulator\\Program.cs",
+              "RelativeToolTip": "11.ArrayManipulator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAPsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T14:28:21.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\04.Methods-Exercise\\10.TopNumber\\Program.cs",
+              "RelativeDocumentMoniker": "10.TopNumber\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\04.Methods-Exercise\\10.TopNumber\\Program.cs",
+              "RelativeToolTip": "10.TopNumber\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T14:44:01.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\04.Methods-Exercise\\09.PalindromeIntegers\\Program.cs",
+              "RelativeDocumentMoniker": "09.PalindromeIntegers\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\04.Methods-Exercise\\09.PalindromeIntegers\\Program.cs",
+              "RelativeToolTip": "09.PalindromeIntegers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T14:22:23.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\04.Methods-Exercise\\08.FactorialDivision\\Program.cs",
+              "RelativeDocumentMoniker": "08.FactorialDivision\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\04.Methods-Exercise\\08.FactorialDivision\\Program.cs",
+              "RelativeToolTip": "08.FactorialDivision\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T14:04:43.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\04.Methods-Exercise\\07.NxNMatrix\\Program.cs",
+              "RelativeDocumentMoniker": "07.NxNMatrix\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\04.Methods-Exercise\\07.NxNMatrix\\Program.cs",
+              "RelativeToolTip": "07.NxNMatrix\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T13:59:31.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\04.Methods-Exercise\\06.MiddleCharacters\\Program.cs",
+              "RelativeDocumentMoniker": "06.MiddleCharacters\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\04.Methods-Exercise\\06.MiddleCharacters\\Program.cs",
+              "RelativeToolTip": "06.MiddleCharacters\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAwwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T13:47:07.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\04.Methods-Exercise\\05.AddAndSubtract\\Program.cs",
+              "RelativeDocumentMoniker": "05.AddAndSubtract\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\04.Methods-Exercise\\05.AddAndSubtract\\Program.cs",
+              "RelativeToolTip": "05.AddAndSubtract\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T13:40:53.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\04.Methods-Exercise\\04.PasswordValidator\\Program.cs",
+              "RelativeDocumentMoniker": "04.PasswordValidator\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\04.Methods-Exercise\\04.PasswordValidator\\Program.cs",
+              "RelativeToolTip": "04.PasswordValidator\\Program.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAAFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T13:27:44.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\04.Methods-Exercise\\03.CharactersInRange\\Program.cs",
+              "RelativeDocumentMoniker": "03.CharactersInRange\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\04.Methods-Exercise\\03.CharactersInRange\\Program.cs",
+              "RelativeToolTip": "03.CharactersInRange\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T09:49:24.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\04.Methods-Exercise\\02.VowelsCount\\Program.cs",
+              "RelativeDocumentMoniker": "02.VowelsCount\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\04.Methods-Exercise\\02.VowelsCount\\Program.cs",
+              "RelativeToolTip": "02.VowelsCount\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T09:47:37.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\04.Methods-Exercise\\01.SmallestOfThreeNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "01.SmallestOfThreeNumbers\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\04.Methods-Exercise\\01.SmallestOfThreeNumbers\\Program.cs",
+              "RelativeToolTip": "01.SmallestOfThreeNumbers\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAcwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T09:05:42.114Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

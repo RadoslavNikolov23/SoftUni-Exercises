@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "duD5qMplOR/B1iC0hFPYL3G3mZ40qYe0t/qrnmgspaoXziWrCr0oBac8F585zNcdSN6NvT0Isvut49uvBd5jwA==",
+  "success": true,
+  "projectFilePath": "C:\\Programing - Work\\Programing Fundamentals\\08.ObjectsandClasses-Lab\\01.RandomizeWords\\01.RandomizeWords.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
