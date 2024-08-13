@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programing - Work\\Programing Fundamentals\\09.AssociativeArrays-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{399B63DA-EC3E-4260-8F51-1EC76CCC0617}|04.Word ilter\\04.Word ilter.csproj|c:\\programing - work\\programing fundamentals\\09.associativearrays-lab\\04.word ilter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{399B63DA-EC3E-4260-8F51-1EC76CCC0617}|04.Word ilter\\04.Word ilter.csproj|solutionrelative:04.word ilter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64EE64AF-D01A-499E-B072-2FEEF8A7787F}|02.OddOccurrences\\02.OddOccurrences.csproj|c:\\programing - work\\programing fundamentals\\09.associativearrays-lab\\02.oddoccurrences\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64EE64AF-D01A-499E-B072-2FEEF8A7787F}|02.OddOccurrences\\02.OddOccurrences.csproj|solutionrelative:02.oddoccurrences\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C0B54E-5ED4-4A0C-95B2-81D4219C5A66}|03.WordSynonyms\\03.WordSynonyms.csproj|c:\\programing - work\\programing fundamentals\\09.associativearrays-lab\\03.wordsynonyms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C0B54E-5ED4-4A0C-95B2-81D4219C5A66}|03.WordSynonyms\\03.WordSynonyms.csproj|solutionrelative:03.wordsynonyms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E93FB499-A17C-48CA-90D5-38B3333D96DB}|01.CountRealNumbers\\01.CountRealNumbers.csproj|c:\\programing - work\\programing fundamentals\\09.associativearrays-lab\\01.countrealnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E93FB499-A17C-48CA-90D5-38B3333D96DB}|01.CountRealNumbers\\01.CountRealNumbers.csproj|solutionrelative:01.countrealnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\09.AssociativeArrays-Lab\\04.Word ilter\\Program.cs",
+              "RelativeDocumentMoniker": "04.Word ilter\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\09.AssociativeArrays-Lab\\04.Word ilter\\Program.cs",
+              "RelativeToolTip": "04.Word ilter\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T21:36:19.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\09.AssociativeArrays-Lab\\03.WordSynonyms\\Program.cs",
+              "RelativeDocumentMoniker": "03.WordSynonyms\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\09.AssociativeArrays-Lab\\03.WordSynonyms\\Program.cs",
+              "RelativeToolTip": "03.WordSynonyms\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T21:31:17.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\09.AssociativeArrays-Lab\\02.OddOccurrences\\Program.cs",
+              "RelativeDocumentMoniker": "02.OddOccurrences\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\09.AssociativeArrays-Lab\\02.OddOccurrences\\Program.cs",
+              "RelativeToolTip": "02.OddOccurrences\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T21:20:43.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\09.AssociativeArrays-Lab\\01.CountRealNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "01.CountRealNumbers\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\09.AssociativeArrays-Lab\\01.CountRealNumbers\\Program.cs",
+              "RelativeToolTip": "01.CountRealNumbers\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T21:09:36.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

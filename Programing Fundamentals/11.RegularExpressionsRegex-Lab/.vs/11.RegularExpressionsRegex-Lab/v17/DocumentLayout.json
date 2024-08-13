@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\11.RegularExpressionsRegex-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4F9FA2-1021-4937-9475-783D600AE483}|03.MatchDates\\03.MatchDates.csproj|c:\\users\\pc\\source\\repos\\11.regularexpressionsregex-lab\\03.matchdates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA4F9FA2-1021-4937-9475-783D600AE483}|03.MatchDates\\03.MatchDates.csproj|solutionrelative:03.matchdates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBF8414-48DB-479B-8086-5A2F307F8E64}|02.MatchPhoneNumber\\02.MatchPhoneNumber.csproj|c:\\users\\pc\\source\\repos\\11.regularexpressionsregex-lab\\02.matchphonenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDBF8414-48DB-479B-8086-5A2F307F8E64}|02.MatchPhoneNumber\\02.MatchPhoneNumber.csproj|solutionrelative:02.matchphonenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA382724-651C-4991-ABD3-42869A085DEA}|01.MatchFullName\\01.MatchFullName.csproj|c:\\users\\pc\\source\\repos\\11.regularexpressionsregex-lab\\01.matchfullname\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA382724-651C-4991-ABD3-42869A085DEA}|01.MatchFullName\\01.MatchFullName.csproj|solutionrelative:01.matchfullname\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\11.RegularExpressionsRegex-Lab\\03.MatchDates\\Program.cs",
+              "RelativeDocumentMoniker": "03.MatchDates\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\11.RegularExpressionsRegex-Lab\\03.MatchDates\\Program.cs",
+              "RelativeToolTip": "03.MatchDates\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:55:21.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\11.RegularExpressionsRegex-Lab\\02.MatchPhoneNumber\\Program.cs",
+              "RelativeDocumentMoniker": "02.MatchPhoneNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\11.RegularExpressionsRegex-Lab\\02.MatchPhoneNumber\\Program.cs",
+              "RelativeToolTip": "02.MatchPhoneNumber\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:29:13.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\11.RegularExpressionsRegex-Lab\\01.MatchFullName\\Program.cs",
+              "RelativeDocumentMoniker": "01.MatchFullName\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\11.RegularExpressionsRegex-Lab\\01.MatchFullName\\Program.cs",
+              "RelativeToolTip": "01.MatchFullName\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T10:50:45.652Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

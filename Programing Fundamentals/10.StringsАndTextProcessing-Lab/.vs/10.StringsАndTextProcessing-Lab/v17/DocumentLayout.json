@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programing - Work\\Programing Fundamentals\\10.Strings\u0410ndTextProcessing-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{219A4B86-316D-4224-BDDD-39CEE1FE01C3}|05.Digits,LettersAndOthers\\05.Digits,LettersAndOthers.csproj|c:\\programing - work\\programing fundamentals\\10.strings\u0430ndtextprocessing-lab\\05.digits,lettersandothers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{219A4B86-316D-4224-BDDD-39CEE1FE01C3}|05.Digits,LettersAndOthers\\05.Digits,LettersAndOthers.csproj|solutionrelative:05.digits,lettersandothers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A2C93A-A990-4E49-B0ED-70D95AB4B90A}|04.TextFilter\\04.TextFilter.csproj|c:\\programing - work\\programing fundamentals\\10.strings\u0430ndtextprocessing-lab\\04.textfilter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A2C93A-A990-4E49-B0ED-70D95AB4B90A}|04.TextFilter\\04.TextFilter.csproj|solutionrelative:04.textfilter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D23A2B-4EAC-4556-A41B-864B0E25C689}|03.Substring2.0\\03.Substring2.0.csproj|c:\\programing - work\\programing fundamentals\\10.strings\u0430ndtextprocessing-lab\\03.substring2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D23A2B-4EAC-4556-A41B-864B0E25C689}|03.Substring2.0\\03.Substring2.0.csproj|solutionrelative:03.substring2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE21CFB9-A730-42B2-9C4D-5BBFCAE84774}|03.Substring\\03.Substring.csproj|c:\\programing - work\\programing fundamentals\\10.strings\u0430ndtextprocessing-lab\\03.substring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE21CFB9-A730-42B2-9C4D-5BBFCAE84774}|03.Substring\\03.Substring.csproj|solutionrelative:03.substring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A3D567-10B2-4ED2-8206-2A92D64C68C4}|02.RepeatStrings\\02.RepeatStrings.csproj|c:\\programing - work\\programing fundamentals\\10.strings\u0430ndtextprocessing-lab\\02.repeatstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A3D567-10B2-4ED2-8206-2A92D64C68C4}|02.RepeatStrings\\02.RepeatStrings.csproj|solutionrelative:02.repeatstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3052E0-439A-49D0-81B5-0F78577C9FDA}|01.ReverseStrings\\01.ReverseStrings.csproj|c:\\programing - work\\programing fundamentals\\10.strings\u0430ndtextprocessing-lab\\01.reversestrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3052E0-439A-49D0-81B5-0F78577C9FDA}|01.ReverseStrings\\01.ReverseStrings.csproj|solutionrelative:01.reversestrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\10.Strings\u0410ndTextProcessing-Lab\\05.Digits,LettersAndOthers\\Program.cs",
+              "RelativeDocumentMoniker": "05.Digits,LettersAndOthers\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\10.Strings\u0410ndTextProcessing-Lab\\05.Digits,LettersAndOthers\\Program.cs",
+              "RelativeToolTip": "05.Digits,LettersAndOthers\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:30:55.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\10.Strings\u0410ndTextProcessing-Lab\\04.TextFilter\\Program.cs",
+              "RelativeDocumentMoniker": "04.TextFilter\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\10.Strings\u0410ndTextProcessing-Lab\\04.TextFilter\\Program.cs",
+              "RelativeToolTip": "04.TextFilter\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:18:37.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\10.Strings\u0410ndTextProcessing-Lab\\03.Substring2.0\\Program.cs",
+              "RelativeDocumentMoniker": "03.Substring2.0\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\10.Strings\u0410ndTextProcessing-Lab\\03.Substring2.0\\Program.cs",
+              "RelativeToolTip": "03.Substring2.0\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:17:34.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\10.Strings\u0410ndTextProcessing-Lab\\03.Substring\\Program.cs",
+              "RelativeDocumentMoniker": "03.Substring\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\10.Strings\u0410ndTextProcessing-Lab\\03.Substring\\Program.cs",
+              "RelativeToolTip": "03.Substring\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T13:11:01.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\10.Strings\u0410ndTextProcessing-Lab\\02.RepeatStrings\\Program.cs",
+              "RelativeDocumentMoniker": "02.RepeatStrings\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\10.Strings\u0410ndTextProcessing-Lab\\02.RepeatStrings\\Program.cs",
+              "RelativeToolTip": "02.RepeatStrings\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T13:07:45.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\10.Strings\u0410ndTextProcessing-Lab\\01.ReverseStrings\\Program.cs",
+              "RelativeDocumentMoniker": "01.ReverseStrings\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\10.Strings\u0410ndTextProcessing-Lab\\01.ReverseStrings\\Program.cs",
+              "RelativeToolTip": "01.ReverseStrings\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T12:50:02.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
