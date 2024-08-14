@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\PracticalProject-GuessANumberByRadoslav\GuessANumberByRadoslav\bin\Debug\netcoreapp3.1\GuessANumberByRadoslav.exe
+C:\Users\PC\source\repos\PracticalProject-GuessANumberByRadoslav\GuessANumberByRadoslav\bin\Debug\netcoreapp3.1\GuessANumberByRadoslav.deps.json
+C:\Users\PC\source\repos\PracticalProject-GuessANumberByRadoslav\GuessANumberByRadoslav\bin\Debug\netcoreapp3.1\GuessANumberByRadoslav.runtimeconfig.json
+C:\Users\PC\source\repos\PracticalProject-GuessANumberByRadoslav\GuessANumberByRadoslav\bin\Debug\netcoreapp3.1\GuessANumberByRadoslav.runtimeconfig.dev.json
+C:\Users\PC\source\repos\PracticalProject-GuessANumberByRadoslav\GuessANumberByRadoslav\bin\Debug\netcoreapp3.1\GuessANumberByRadoslav.dll
+C:\Users\PC\source\repos\PracticalProject-GuessANumberByRadoslav\GuessANumberByRadoslav\bin\Debug\netcoreapp3.1\GuessANumberByRadoslav.pdb
+C:\Users\PC\source\repos\PracticalProject-GuessANumberByRadoslav\GuessANumberByRadoslav\obj\Debug\netcoreapp3.1\GuessANumberByRadoslav.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\PracticalProject-GuessANumberByRadoslav\GuessANumberByRadoslav\obj\Debug\netcoreapp3.1\GuessANumberByRadoslav.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\PracticalProject-GuessANumberByRadoslav\GuessANumberByRadoslav\obj\Debug\netcoreapp3.1\GuessANumberByRadoslav.AssemblyInfo.cs
+C:\Users\PC\source\repos\PracticalProject-GuessANumberByRadoslav\GuessANumberByRadoslav\obj\Debug\netcoreapp3.1\GuessANumberByRadoslav.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\PracticalProject-GuessANumberByRadoslav\GuessANumberByRadoslav\obj\Debug\netcoreapp3.1\GuessANumberByRadoslav.dll
+C:\Users\PC\source\repos\PracticalProject-GuessANumberByRadoslav\GuessANumberByRadoslav\obj\Debug\netcoreapp3.1\GuessANumberByRadoslav.pdb
+C:\Users\PC\source\repos\PracticalProject-GuessANumberByRadoslav\GuessANumberByRadoslav\obj\Debug\netcoreapp3.1\GuessANumberByRadoslav.genruntimeconfig.cache
