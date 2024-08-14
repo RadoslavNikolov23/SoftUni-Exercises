@@ -11,3 +11,16 @@ C:\Users\PC\source\repos\PracticalProject-GuessANumberByRadoslav\GuessANumberByR
 C:\Users\PC\source\repos\PracticalProject-GuessANumberByRadoslav\GuessANumberByRadoslav\obj\Debug\netcoreapp3.1\GuessANumberByRadoslav.dll
 C:\Users\PC\source\repos\PracticalProject-GuessANumberByRadoslav\GuessANumberByRadoslav\obj\Debug\netcoreapp3.1\GuessANumberByRadoslav.pdb
 C:\Users\PC\source\repos\PracticalProject-GuessANumberByRadoslav\GuessANumberByRadoslav\obj\Debug\netcoreapp3.1\GuessANumberByRadoslav.genruntimeconfig.cache
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\PracticalProject-GuessANumberByRadoslav\GuessANumberByRadoslav\bin\Debug\netcoreapp3.1\GuessANumberByRadoslav.exe
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\PracticalProject-GuessANumberByRadoslav\GuessANumberByRadoslav\bin\Debug\netcoreapp3.1\GuessANumberByRadoslav.deps.json
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\PracticalProject-GuessANumberByRadoslav\GuessANumberByRadoslav\bin\Debug\netcoreapp3.1\GuessANumberByRadoslav.runtimeconfig.json
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\PracticalProject-GuessANumberByRadoslav\GuessANumberByRadoslav\bin\Debug\netcoreapp3.1\GuessANumberByRadoslav.runtimeconfig.dev.json
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\PracticalProject-GuessANumberByRadoslav\GuessANumberByRadoslav\bin\Debug\netcoreapp3.1\GuessANumberByRadoslav.dll
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\PracticalProject-GuessANumberByRadoslav\GuessANumberByRadoslav\bin\Debug\netcoreapp3.1\GuessANumberByRadoslav.pdb
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\PracticalProject-GuessANumberByRadoslav\GuessANumberByRadoslav\obj\Debug\netcoreapp3.1\GuessANumberByRadoslav.csproj.AssemblyReference.cache
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\PracticalProject-GuessANumberByRadoslav\GuessANumberByRadoslav\obj\Debug\netcoreapp3.1\GuessANumberByRadoslav.AssemblyInfoInputs.cache
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\PracticalProject-GuessANumberByRadoslav\GuessANumberByRadoslav\obj\Debug\netcoreapp3.1\GuessANumberByRadoslav.AssemblyInfo.cs
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\PracticalProject-GuessANumberByRadoslav\GuessANumberByRadoslav\obj\Debug\netcoreapp3.1\GuessANumberByRadoslav.csproj.CoreCompileInputs.cache
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\PracticalProject-GuessANumberByRadoslav\GuessANumberByRadoslav\obj\Debug\netcoreapp3.1\GuessANumberByRadoslav.dll
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\PracticalProject-GuessANumberByRadoslav\GuessANumberByRadoslav\obj\Debug\netcoreapp3.1\GuessANumberByRadoslav.pdb
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\PracticalProject-GuessANumberByRadoslav\GuessANumberByRadoslav\obj\Debug\netcoreapp3.1\GuessANumberByRadoslav.genruntimeconfig.cache

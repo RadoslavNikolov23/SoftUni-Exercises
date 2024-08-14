@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\source\\repos\\PracticalProject-GuessANumberByRadoslav\\GuessANumberByRadoslav\\GuessANumberByRadoslav.csproj",
+      "projectUniqueName": "D:\\Other\\Programing-CSharpSoftUni\\Programing Fundamentals\\PracticalProject-GuessANumberByRadoslav\\GuessANumberByRadoslav\\GuessANumberByRadoslav.csproj",
       "projectName": "GuessANumberByRadoslav",
-      "projectPath": "C:\\Users\\PC\\source\\repos\\PracticalProject-GuessANumberByRadoslav\\GuessANumberByRadoslav\\GuessANumberByRadoslav.csproj",
+      "projectPath": "D:\\Other\\Programing-CSharpSoftUni\\Programing Fundamentals\\PracticalProject-GuessANumberByRadoslav\\GuessANumberByRadoslav\\GuessANumberByRadoslav.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\source\\repos\\PracticalProject-GuessANumberByRadoslav\\GuessANumberByRadoslav\\obj\\",
+      "outputPath": "D:\\Other\\Programing-CSharpSoftUni\\Programing Fundamentals\\PracticalProject-GuessANumberByRadoslav\\GuessANumberByRadoslav\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
