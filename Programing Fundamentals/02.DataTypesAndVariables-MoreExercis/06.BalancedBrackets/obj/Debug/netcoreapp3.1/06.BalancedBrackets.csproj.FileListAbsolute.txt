@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\02.DataTypesAndVariables-MoreExercise\06.BalancedBrackets\bin\Debug\netcoreapp3.1\06.BalancedBrackets.exe
+C:\Users\PC\source\repos\02.DataTypesAndVariables-MoreExercise\06.BalancedBrackets\bin\Debug\netcoreapp3.1\06.BalancedBrackets.deps.json
+C:\Users\PC\source\repos\02.DataTypesAndVariables-MoreExercise\06.BalancedBrackets\bin\Debug\netcoreapp3.1\06.BalancedBrackets.runtimeconfig.json
+C:\Users\PC\source\repos\02.DataTypesAndVariables-MoreExercise\06.BalancedBrackets\bin\Debug\netcoreapp3.1\06.BalancedBrackets.runtimeconfig.dev.json
+C:\Users\PC\source\repos\02.DataTypesAndVariables-MoreExercise\06.BalancedBrackets\bin\Debug\netcoreapp3.1\06.BalancedBrackets.dll
+C:\Users\PC\source\repos\02.DataTypesAndVariables-MoreExercise\06.BalancedBrackets\bin\Debug\netcoreapp3.1\06.BalancedBrackets.pdb
+C:\Users\PC\source\repos\02.DataTypesAndVariables-MoreExercise\06.BalancedBrackets\obj\Debug\netcoreapp3.1\06.BalancedBrackets.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\02.DataTypesAndVariables-MoreExercise\06.BalancedBrackets\obj\Debug\netcoreapp3.1\06.BalancedBrackets.AssemblyInfo.cs
+C:\Users\PC\source\repos\02.DataTypesAndVariables-MoreExercise\06.BalancedBrackets\obj\Debug\netcoreapp3.1\06.BalancedBrackets.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\02.DataTypesAndVariables-MoreExercise\06.BalancedBrackets\obj\Debug\netcoreapp3.1\06.BalancedBrackets.dll
+C:\Users\PC\source\repos\02.DataTypesAndVariables-MoreExercise\06.BalancedBrackets\obj\Debug\netcoreapp3.1\06.BalancedBrackets.pdb
+C:\Users\PC\source\repos\02.DataTypesAndVariables-MoreExercise\06.BalancedBrackets\obj\Debug\netcoreapp3.1\06.BalancedBrackets.genruntimeconfig.cache
+C:\Users\PC\source\repos\02.DataTypesAndVariables-MoreExercise\06.BalancedBrackets\obj\Debug\netcoreapp3.1\06.BalancedBrackets.csproj.AssemblyReference.cache
