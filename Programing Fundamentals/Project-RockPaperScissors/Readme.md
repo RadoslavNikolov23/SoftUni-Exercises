@@ -1,6 +1,6 @@
 ## Rock, Paper, Scissors - Game
 
-![image widht=100px height=100px](https://github.com/user-attachments/assets/4b95743e-4a23-4aa9-9c36-c56c6034b0a1)
+![image](https://github.com/user-attachments/assets/4b95743e-4a23-4aa9-9c36-c56c6034b0a1 =250x250)
 
 This is a project Console game, where the player plays againts the computer the classic game Rock, Paper, Scissors.
 After every game, the player has a choice, if he wants to play again or not.
