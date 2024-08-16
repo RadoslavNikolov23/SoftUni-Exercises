@@ -15,7 +15,7 @@ namespace GuessANumberByRadoslav
 
             while (true)
             {
-            Found:
+            Game:
                 maxTries=EnterTries(maxTries);
 
                 Console.WriteLine();
@@ -28,12 +28,12 @@ namespace GuessANumberByRadoslav
                
                 Console.ForegroundColor = ConsoleColor.White;
                 Console.WriteLine("Would you like to start a new Game - \"yes\" or \"no\"");
-                string answerForRestar = Console.ReadLine();
+                string answerForRestar = Console.ReadLine().ToLower();
                 if (answerForRestar == "yes")
                 {
                     countTries = 0;
                     Console.WriteLine();
-                    goto Found;
+                    goto Game;
                 }
                 else if (answerForRestar == "no")
                 {
