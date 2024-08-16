@@ -7,7 +7,7 @@ After every game, the player has a choice, if he wants to play again or not.
 At the end, you have how many wins, loses or draws you have and depending on the player win %, shows his win % or lose %.
 
 You can play it online from the Replit: <br/>
-[<img alt="Play Button" src="https://github.com/user-attachments/assets/fb9bb966-9fa8-42bf-8ea0-f206eb0589e2"  width="100" height="100"/>(https://replit.com/@sitcom93/Game-Rock-Paper-Scissors#Main.cs)
+[<img alt="Play Button" src="https://github.com/user-attachments/assets/fb9bb966-9fa8-42bf-8ea0-f206eb0589e2"  width="100" height="100"/>](https://replit.com/@sitcom93/Game-Rock-Paper-Scissors#Main.cs)
 
 
 
