@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\PracticalProject-RandomSentencesGenerator\RandomSentencesGenerator\bin\Debug\netcoreapp3.1\RandomSentencesGenerator.exe
+C:\Users\PC\source\repos\PracticalProject-RandomSentencesGenerator\RandomSentencesGenerator\bin\Debug\netcoreapp3.1\RandomSentencesGenerator.deps.json
+C:\Users\PC\source\repos\PracticalProject-RandomSentencesGenerator\RandomSentencesGenerator\bin\Debug\netcoreapp3.1\RandomSentencesGenerator.runtimeconfig.json
+C:\Users\PC\source\repos\PracticalProject-RandomSentencesGenerator\RandomSentencesGenerator\bin\Debug\netcoreapp3.1\RandomSentencesGenerator.runtimeconfig.dev.json
+C:\Users\PC\source\repos\PracticalProject-RandomSentencesGenerator\RandomSentencesGenerator\bin\Debug\netcoreapp3.1\RandomSentencesGenerator.dll
+C:\Users\PC\source\repos\PracticalProject-RandomSentencesGenerator\RandomSentencesGenerator\bin\Debug\netcoreapp3.1\RandomSentencesGenerator.pdb
+C:\Users\PC\source\repos\PracticalProject-RandomSentencesGenerator\RandomSentencesGenerator\obj\Debug\netcoreapp3.1\RandomSentencesGenerator.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\PracticalProject-RandomSentencesGenerator\RandomSentencesGenerator\obj\Debug\netcoreapp3.1\RandomSentencesGenerator.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\PracticalProject-RandomSentencesGenerator\RandomSentencesGenerator\obj\Debug\netcoreapp3.1\RandomSentencesGenerator.AssemblyInfo.cs
+C:\Users\PC\source\repos\PracticalProject-RandomSentencesGenerator\RandomSentencesGenerator\obj\Debug\netcoreapp3.1\RandomSentencesGenerator.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\PracticalProject-RandomSentencesGenerator\RandomSentencesGenerator\obj\Debug\netcoreapp3.1\RandomSentencesGenerator.dll
+C:\Users\PC\source\repos\PracticalProject-RandomSentencesGenerator\RandomSentencesGenerator\obj\Debug\netcoreapp3.1\RandomSentencesGenerator.pdb
+C:\Users\PC\source\repos\PracticalProject-RandomSentencesGenerator\RandomSentencesGenerator\obj\Debug\netcoreapp3.1\RandomSentencesGenerator.genruntimeconfig.cache
