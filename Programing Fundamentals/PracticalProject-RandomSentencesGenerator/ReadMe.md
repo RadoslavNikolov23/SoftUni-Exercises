@@ -15,3 +15,5 @@ __`Sentence`__ = `Who` + `Action` + `Detail`. <br/>
 
 
 The **Source code** is here -> [Click](https://github.com/RadoslavNikolov23/Programing-CSharpSoftUni/blob/main/Programing%20Fundamentals/PracticalProject-RandomSentencesGenerator/RandomSentencesGenerator/RandomSentencesGenarator.cs).<br/>
+
+[Live Demo](https://replit.com/@sitcom93/Random-Sentence-Generator#Main.cs) - on Replit!.
