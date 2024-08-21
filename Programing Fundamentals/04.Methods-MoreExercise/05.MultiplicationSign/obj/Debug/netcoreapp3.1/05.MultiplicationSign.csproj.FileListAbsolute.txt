@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\04.Methods-MoreExercise\05.MultiplicationSign\bin\Debug\netcoreapp3.1\05.MultiplicationSign.exe
+C:\Users\PC\source\repos\04.Methods-MoreExercise\05.MultiplicationSign\bin\Debug\netcoreapp3.1\05.MultiplicationSign.deps.json
+C:\Users\PC\source\repos\04.Methods-MoreExercise\05.MultiplicationSign\bin\Debug\netcoreapp3.1\05.MultiplicationSign.runtimeconfig.json
+C:\Users\PC\source\repos\04.Methods-MoreExercise\05.MultiplicationSign\bin\Debug\netcoreapp3.1\05.MultiplicationSign.runtimeconfig.dev.json
+C:\Users\PC\source\repos\04.Methods-MoreExercise\05.MultiplicationSign\bin\Debug\netcoreapp3.1\05.MultiplicationSign.dll
+C:\Users\PC\source\repos\04.Methods-MoreExercise\05.MultiplicationSign\bin\Debug\netcoreapp3.1\05.MultiplicationSign.pdb
+C:\Users\PC\source\repos\04.Methods-MoreExercise\05.MultiplicationSign\obj\Debug\netcoreapp3.1\05.MultiplicationSign.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\04.Methods-MoreExercise\05.MultiplicationSign\obj\Debug\netcoreapp3.1\05.MultiplicationSign.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\04.Methods-MoreExercise\05.MultiplicationSign\obj\Debug\netcoreapp3.1\05.MultiplicationSign.AssemblyInfo.cs
+C:\Users\PC\source\repos\04.Methods-MoreExercise\05.MultiplicationSign\obj\Debug\netcoreapp3.1\05.MultiplicationSign.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\04.Methods-MoreExercise\05.MultiplicationSign\obj\Debug\netcoreapp3.1\05.MultiplicationSign.dll
+C:\Users\PC\source\repos\04.Methods-MoreExercise\05.MultiplicationSign\obj\Debug\netcoreapp3.1\05.MultiplicationSign.pdb
+C:\Users\PC\source\repos\04.Methods-MoreExercise\05.MultiplicationSign\obj\Debug\netcoreapp3.1\05.MultiplicationSign.genruntimeconfig.cache
