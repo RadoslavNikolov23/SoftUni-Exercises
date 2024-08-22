@@ -1,0 +1,13 @@
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\06.ObjectsAndClasses-MoreExercise\02.OldestFamilyMember\obj\Debug\netcoreapp3.1\02.OldestFamilyMember.csproj.AssemblyReference.cache
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\06.ObjectsAndClasses-MoreExercise\02.OldestFamilyMember\obj\Debug\netcoreapp3.1\02.OldestFamilyMember.AssemblyInfoInputs.cache
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\06.ObjectsAndClasses-MoreExercise\02.OldestFamilyMember\obj\Debug\netcoreapp3.1\02.OldestFamilyMember.AssemblyInfo.cs
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\06.ObjectsAndClasses-MoreExercise\02.OldestFamilyMember\obj\Debug\netcoreapp3.1\02.OldestFamilyMember.csproj.CoreCompileInputs.cache
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\06.ObjectsAndClasses-MoreExercise\02.OldestFamilyMember\bin\Debug\netcoreapp3.1\02.OldestFamilyMember.exe
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\06.ObjectsAndClasses-MoreExercise\02.OldestFamilyMember\bin\Debug\netcoreapp3.1\02.OldestFamilyMember.deps.json
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\06.ObjectsAndClasses-MoreExercise\02.OldestFamilyMember\bin\Debug\netcoreapp3.1\02.OldestFamilyMember.runtimeconfig.json
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\06.ObjectsAndClasses-MoreExercise\02.OldestFamilyMember\bin\Debug\netcoreapp3.1\02.OldestFamilyMember.runtimeconfig.dev.json
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\06.ObjectsAndClasses-MoreExercise\02.OldestFamilyMember\bin\Debug\netcoreapp3.1\02.OldestFamilyMember.dll
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\06.ObjectsAndClasses-MoreExercise\02.OldestFamilyMember\bin\Debug\netcoreapp3.1\02.OldestFamilyMember.pdb
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\06.ObjectsAndClasses-MoreExercise\02.OldestFamilyMember\obj\Debug\netcoreapp3.1\02.OldestFamilyMember.dll
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\06.ObjectsAndClasses-MoreExercise\02.OldestFamilyMember\obj\Debug\netcoreapp3.1\02.OldestFamilyMember.pdb
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\06.ObjectsAndClasses-MoreExercise\02.OldestFamilyMember\obj\Debug\netcoreapp3.1\02.OldestFamilyMember.genruntimeconfig.cache
