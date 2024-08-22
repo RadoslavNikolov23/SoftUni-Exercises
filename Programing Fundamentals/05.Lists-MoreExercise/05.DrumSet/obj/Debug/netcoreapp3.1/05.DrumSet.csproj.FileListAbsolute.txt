@@ -1,0 +1,13 @@
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\05.Lists-MoreExercise\05.DrumSet\bin\Debug\netcoreapp3.1\05.DrumSet.exe
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\05.Lists-MoreExercise\05.DrumSet\bin\Debug\netcoreapp3.1\05.DrumSet.deps.json
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\05.Lists-MoreExercise\05.DrumSet\bin\Debug\netcoreapp3.1\05.DrumSet.runtimeconfig.json
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\05.Lists-MoreExercise\05.DrumSet\bin\Debug\netcoreapp3.1\05.DrumSet.runtimeconfig.dev.json
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\05.Lists-MoreExercise\05.DrumSet\bin\Debug\netcoreapp3.1\05.DrumSet.dll
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\05.Lists-MoreExercise\05.DrumSet\bin\Debug\netcoreapp3.1\05.DrumSet.pdb
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\05.Lists-MoreExercise\05.DrumSet\obj\Debug\netcoreapp3.1\05.DrumSet.csproj.AssemblyReference.cache
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\05.Lists-MoreExercise\05.DrumSet\obj\Debug\netcoreapp3.1\05.DrumSet.AssemblyInfoInputs.cache
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\05.Lists-MoreExercise\05.DrumSet\obj\Debug\netcoreapp3.1\05.DrumSet.AssemblyInfo.cs
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\05.Lists-MoreExercise\05.DrumSet\obj\Debug\netcoreapp3.1\05.DrumSet.csproj.CoreCompileInputs.cache
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\05.Lists-MoreExercise\05.DrumSet\obj\Debug\netcoreapp3.1\05.DrumSet.dll
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\05.Lists-MoreExercise\05.DrumSet\obj\Debug\netcoreapp3.1\05.DrumSet.pdb
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\05.Lists-MoreExercise\05.DrumSet\obj\Debug\netcoreapp3.1\05.DrumSet.genruntimeconfig.cache
