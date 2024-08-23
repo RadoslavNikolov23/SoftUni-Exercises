@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Mgiu40VB5tXMlyPjlaD2Xa25oNlit2Cct3xagDufcCIvjniG5GPuZDi67F5JqHapp6cAmVRx88pDXPoLTWdP9Q==",
+  "dgSpecHash": "bdNt7xVrKk8=",
   "success": true,
-  "projectFilePath": "D:\\Other\\Programing-CSharpSoftUni\\Programing Fundamentals\\06.ObjectsAndClasses-MoreExercise\\01.CompanyRoster\\01.CompanyRoster.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Programing - Work\\Programing Fundamentals\\06.ObjectsAndClasses-MoreExercise\\01.CompanyRoster\\01.CompanyRoster.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }

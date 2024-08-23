@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programing - Work\\Programing Fundamentals\\06.ObjectsAndClasses-MoreExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{594EAF51-8712-454B-9A9A-E45129D9AE5B}|05.ShoppingSpree\\05.ShoppingSpree.csproj|c:\\programing - work\\programing fundamentals\\06.objectsandclasses-moreexercise\\05.shoppingspree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{594EAF51-8712-454B-9A9A-E45129D9AE5B}|05.ShoppingSpree\\05.ShoppingSpree.csproj|solutionrelative:05.shoppingspree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E55D40-59C8-4AD8-974B-139158B62B80}|04.RawData\\04.RawData.csproj|c:\\programing - work\\programing fundamentals\\06.objectsandclasses-moreexercise\\04.rawdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E55D40-59C8-4AD8-974B-139158B62B80}|04.RawData\\04.RawData.csproj|solutionrelative:04.rawdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503925E9-594B-4460-8886-D066AEE74DA9}|03.SpeedRacing\\03.SpeedRacing.csproj|c:\\programing - work\\programing fundamentals\\06.objectsandclasses-moreexercise\\03.speedracing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503925E9-594B-4460-8886-D066AEE74DA9}|03.SpeedRacing\\03.SpeedRacing.csproj|solutionrelative:03.speedracing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\06.ObjectsAndClasses-MoreExercise\\05.ShoppingSpree\\Program.cs",
+              "RelativeDocumentMoniker": "05.ShoppingSpree\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\06.ObjectsAndClasses-MoreExercise\\05.ShoppingSpree\\Program.cs",
+              "RelativeToolTip": "05.ShoppingSpree\\Program.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAqwHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T21:27:52.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\06.ObjectsAndClasses-MoreExercise\\04.RawData\\Program.cs",
+              "RelativeDocumentMoniker": "04.RawData\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\06.ObjectsAndClasses-MoreExercise\\04.RawData\\Program.cs",
+              "RelativeToolTip": "04.RawData\\Program.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAqwFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T21:15:35.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\06.ObjectsAndClasses-MoreExercise\\03.SpeedRacing\\Program.cs",
+              "RelativeDocumentMoniker": "03.SpeedRacing\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\06.ObjectsAndClasses-MoreExercise\\03.SpeedRacing\\Program.cs",
+              "RelativeToolTip": "03.SpeedRacing\\Program.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAmwF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T15:23:49.891Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
