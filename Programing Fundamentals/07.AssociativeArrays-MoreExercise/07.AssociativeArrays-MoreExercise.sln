@@ -5,7 +5,9 @@ VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Ranking", "01.Ranking\01.Ranking.csproj", "{11EE3670-64D9-47B7-8B78-9C0A9B447139}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Judge", "02.Judge\02.Judge.csproj", "{7F431490-83AF-408D-96E7-4EFFB45889EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.Judge", "02.Judge\02.Judge.csproj", "{7F431490-83AF-408D-96E7-4EFFB45889EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. MOBAChallenger", "03. MOBAChallenger\03. MOBAChallenger.csproj", "{750AAAD6-6DB1-4AD3-B6C2-2D1727A8F7C6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{7F431490-83AF-408D-96E7-4EFFB45889EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F431490-83AF-408D-96E7-4EFFB45889EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F431490-83AF-408D-96E7-4EFFB45889EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{750AAAD6-6DB1-4AD3-B6C2-2D1727A8F7C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{750AAAD6-6DB1-4AD3-B6C2-2D1727A8F7C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{750AAAD6-6DB1-4AD3-B6C2-2D1727A8F7C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{750AAAD6-6DB1-4AD3-B6C2-2D1727A8F7C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

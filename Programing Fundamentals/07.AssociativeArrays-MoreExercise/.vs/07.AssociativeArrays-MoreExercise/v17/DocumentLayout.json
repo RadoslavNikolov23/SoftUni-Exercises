@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Programing - Work\\Programing Fundamentals\\07.AssociativeArrays-MoreExercise\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{750AAAD6-6DB1-4AD3-B6C2-2D1727A8F7C6}|03. MOBAChallenger\\03. MOBAChallenger.csproj|c:\\programing - work\\programing fundamentals\\07.associativearrays-moreexercise\\03. mobachallenger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750AAAD6-6DB1-4AD3-B6C2-2D1727A8F7C6}|03. MOBAChallenger\\03. MOBAChallenger.csproj|solutionrelative:03. mobachallenger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7F431490-83AF-408D-96E7-4EFFB45889EA}|02.Judge\\02.Judge.csproj|c:\\programing - work\\programing fundamentals\\07.associativearrays-moreexercise\\02.judge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F431490-83AF-408D-96E7-4EFFB45889EA}|02.Judge\\02.Judge.csproj|solutionrelative:02.judge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -32,6 +36,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\07.AssociativeArrays-MoreExercise\\03. MOBAChallenger\\Program.cs",
+              "RelativeDocumentMoniker": "03. MOBAChallenger\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\07.AssociativeArrays-MoreExercise\\03. MOBAChallenger\\Program.cs",
+              "RelativeToolTip": "03. MOBAChallenger\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T19:28:01.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\07.AssociativeArrays-MoreExercise\\02.Judge\\Program.cs",
               "RelativeDocumentMoniker": "02.Judge\\Program.cs",
               "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\07.AssociativeArrays-MoreExercise\\02.Judge\\Program.cs",
@@ -43,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "01.Ranking",
               "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\07.AssociativeArrays-MoreExercise\\01.Ranking\\01.Ranking.csproj",
               "RelativeDocumentMoniker": "01.Ranking\\01.Ranking.csproj",
@@ -54,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\07.AssociativeArrays-MoreExercise\\01.Ranking\\Program.cs",
               "RelativeDocumentMoniker": "01.Ranking\\Program.cs",
