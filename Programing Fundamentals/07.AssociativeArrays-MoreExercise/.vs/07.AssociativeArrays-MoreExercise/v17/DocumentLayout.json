@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Programing - Work\\Programing Fundamentals\\07.AssociativeArrays-MoreExercise\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7AA5CCD3-6629-4D89-BF0F-560EC86B1834}|05.DragonArmy\\05.DragonArmy.csproj|c:\\programing - work\\programing fundamentals\\07.associativearrays-moreexercise\\05.dragonarmy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AA5CCD3-6629-4D89-BF0F-560EC86B1834}|05.DragonArmy\\05.DragonArmy.csproj|solutionrelative:05.dragonarmy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B104DAE3-32AD-4BEF-B615-C2B11CB72480}|04.Snowwhite\\04.Snowwhite.csproj|c:\\programing - work\\programing fundamentals\\07.associativearrays-moreexercise\\04.snowwhite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B104DAE3-32AD-4BEF-B615-C2B11CB72480}|04.Snowwhite\\04.Snowwhite.csproj|solutionrelative:04.snowwhite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -40,18 +44,30 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\07.AssociativeArrays-MoreExercise\\05.DragonArmy\\Program.cs",
+              "RelativeDocumentMoniker": "05.DragonArmy\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\07.AssociativeArrays-MoreExercise\\05.DragonArmy\\Program.cs",
+              "RelativeToolTip": "05.DragonArmy\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T19:56:49.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\07.AssociativeArrays-MoreExercise\\04.Snowwhite\\Program.cs",
               "RelativeDocumentMoniker": "04.Snowwhite\\Program.cs",
               "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\07.AssociativeArrays-MoreExercise\\04.Snowwhite\\Program.cs",
               "RelativeToolTip": "04.Snowwhite\\Program.cs",
               "ViewState": "AQIAAB8AAAAAAAAAAAAmwDMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T15:42:52.359Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-29T15:42:52.359Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\07.AssociativeArrays-MoreExercise\\03. MOBAChallenger\\Program.cs",
               "RelativeDocumentMoniker": "03. MOBAChallenger\\Program.cs",
@@ -63,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\07.AssociativeArrays-MoreExercise\\02.Judge\\Program.cs",
               "RelativeDocumentMoniker": "02.Judge\\Program.cs",
@@ -75,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "01.Ranking",
               "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\07.AssociativeArrays-MoreExercise\\01.Ranking\\01.Ranking.csproj",
               "RelativeDocumentMoniker": "01.Ranking\\01.Ranking.csproj",
@@ -86,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\07.AssociativeArrays-MoreExercise\\01.Ranking\\Program.cs",
               "RelativeDocumentMoniker": "01.Ranking\\Program.cs",
