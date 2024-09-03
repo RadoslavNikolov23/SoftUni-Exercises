@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Other\\Programing-CSharpSoftUni\\Programing Fundamentals\\10.StringsAndTextProcessing-MoreExercise\\01.ExtractPersonInformation\\01.ExtractPersonInformation.csproj": {}
+    "D:\\Other\\Programing-CSharpSoftUni\\Programing Fundamentals\\10.StringsAndTextProcessing-MoreExercise\\02.AsciiSumator\\02.AsciiSumator.csproj": {}
   },
   "projects": {
-    "D:\\Other\\Programing-CSharpSoftUni\\Programing Fundamentals\\10.StringsAndTextProcessing-MoreExercise\\01.ExtractPersonInformation\\01.ExtractPersonInformation.csproj": {
+    "D:\\Other\\Programing-CSharpSoftUni\\Programing Fundamentals\\10.StringsAndTextProcessing-MoreExercise\\02.AsciiSumator\\02.AsciiSumator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Other\\Programing-CSharpSoftUni\\Programing Fundamentals\\10.StringsAndTextProcessing-MoreExercise\\01.ExtractPersonInformation\\01.ExtractPersonInformation.csproj",
-        "projectName": "01.ExtractPersonInformation",
-        "projectPath": "D:\\Other\\Programing-CSharpSoftUni\\Programing Fundamentals\\10.StringsAndTextProcessing-MoreExercise\\01.ExtractPersonInformation\\01.ExtractPersonInformation.csproj",
+        "projectUniqueName": "D:\\Other\\Programing-CSharpSoftUni\\Programing Fundamentals\\10.StringsAndTextProcessing-MoreExercise\\02.AsciiSumator\\02.AsciiSumator.csproj",
+        "projectName": "02.AsciiSumator",
+        "projectPath": "D:\\Other\\Programing-CSharpSoftUni\\Programing Fundamentals\\10.StringsAndTextProcessing-MoreExercise\\02.AsciiSumator\\02.AsciiSumator.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "D:\\Other\\Programing-CSharpSoftUni\\Programing Fundamentals\\10.StringsAndTextProcessing-MoreExercise\\01.ExtractPersonInformation\\obj\\",
+        "outputPath": "D:\\Other\\Programing-CSharpSoftUni\\Programing Fundamentals\\10.StringsAndTextProcessing-MoreExercise\\02.AsciiSumator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
