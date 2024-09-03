@@ -1,0 +1,13 @@
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\08.StringsAndTextProcessing-MoreExercise\01.ExtractPersonInformation\bin\Debug\netcoreapp3.1\01.ExtractPersonInformation.exe
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\08.StringsAndTextProcessing-MoreExercise\01.ExtractPersonInformation\bin\Debug\netcoreapp3.1\01.ExtractPersonInformation.deps.json
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\08.StringsAndTextProcessing-MoreExercise\01.ExtractPersonInformation\bin\Debug\netcoreapp3.1\01.ExtractPersonInformation.runtimeconfig.json
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\08.StringsAndTextProcessing-MoreExercise\01.ExtractPersonInformation\bin\Debug\netcoreapp3.1\01.ExtractPersonInformation.runtimeconfig.dev.json
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\08.StringsAndTextProcessing-MoreExercise\01.ExtractPersonInformation\bin\Debug\netcoreapp3.1\01.ExtractPersonInformation.dll
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\08.StringsAndTextProcessing-MoreExercise\01.ExtractPersonInformation\bin\Debug\netcoreapp3.1\01.ExtractPersonInformation.pdb
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\08.StringsAndTextProcessing-MoreExercise\01.ExtractPersonInformation\obj\Debug\netcoreapp3.1\01.ExtractPersonInformation.csproj.AssemblyReference.cache
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\08.StringsAndTextProcessing-MoreExercise\01.ExtractPersonInformation\obj\Debug\netcoreapp3.1\01.ExtractPersonInformation.AssemblyInfoInputs.cache
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\08.StringsAndTextProcessing-MoreExercise\01.ExtractPersonInformation\obj\Debug\netcoreapp3.1\01.ExtractPersonInformation.AssemblyInfo.cs
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\08.StringsAndTextProcessing-MoreExercise\01.ExtractPersonInformation\obj\Debug\netcoreapp3.1\01.ExtractPersonInformation.csproj.CoreCompileInputs.cache
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\08.StringsAndTextProcessing-MoreExercise\01.ExtractPersonInformation\obj\Debug\netcoreapp3.1\01.ExtractPersonInformation.dll
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\08.StringsAndTextProcessing-MoreExercise\01.ExtractPersonInformation\obj\Debug\netcoreapp3.1\01.ExtractPersonInformation.pdb
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\08.StringsAndTextProcessing-MoreExercise\01.ExtractPersonInformation\obj\Debug\netcoreapp3.1\01.ExtractPersonInformation.genruntimeconfig.cache
