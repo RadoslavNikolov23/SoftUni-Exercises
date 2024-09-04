@@ -28,8 +28,6 @@ namespace _03.TreasureFinder
                     }
 
                 }
-                Console.WriteLine(tempSt);
-
                 int[] indexType = new int[2];
                 int[] indexCord = new int[2];
                 int coutType = 0;
@@ -61,12 +59,6 @@ namespace _03.TreasureFinder
 
                 listCord.Add(new string[] { type, cordinates });
 
-
-                /*
-                 *you will get a type of treasure and its coordinates.
-                 *The type will be between the symbol '&' and the coordinates will be between the symbols '<' and '>'. 
-                 *For each line, print the type and the coordinates in format "Found {type} at {coordinates}".
-                 */
             }
 
             foreach (var treasure in listCord)
