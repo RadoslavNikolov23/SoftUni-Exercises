@@ -1,0 +1,13 @@
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\10.StringsAndTextProcessing-MoreExercise\05.HTML\bin\Debug\netcoreapp3.1\05.HTML.exe
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\10.StringsAndTextProcessing-MoreExercise\05.HTML\bin\Debug\netcoreapp3.1\05.HTML.deps.json
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\10.StringsAndTextProcessing-MoreExercise\05.HTML\bin\Debug\netcoreapp3.1\05.HTML.runtimeconfig.json
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\10.StringsAndTextProcessing-MoreExercise\05.HTML\bin\Debug\netcoreapp3.1\05.HTML.runtimeconfig.dev.json
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\10.StringsAndTextProcessing-MoreExercise\05.HTML\bin\Debug\netcoreapp3.1\05.HTML.dll
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\10.StringsAndTextProcessing-MoreExercise\05.HTML\bin\Debug\netcoreapp3.1\05.HTML.pdb
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\10.StringsAndTextProcessing-MoreExercise\05.HTML\obj\Debug\netcoreapp3.1\05.HTML.csproj.AssemblyReference.cache
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\10.StringsAndTextProcessing-MoreExercise\05.HTML\obj\Debug\netcoreapp3.1\05.HTML.AssemblyInfoInputs.cache
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\10.StringsAndTextProcessing-MoreExercise\05.HTML\obj\Debug\netcoreapp3.1\05.HTML.AssemblyInfo.cs
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\10.StringsAndTextProcessing-MoreExercise\05.HTML\obj\Debug\netcoreapp3.1\05.HTML.csproj.CoreCompileInputs.cache
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\10.StringsAndTextProcessing-MoreExercise\05.HTML\obj\Debug\netcoreapp3.1\05.HTML.dll
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\10.StringsAndTextProcessing-MoreExercise\05.HTML\obj\Debug\netcoreapp3.1\05.HTML.pdb
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\10.StringsAndTextProcessing-MoreExercise\05.HTML\obj\Debug\netcoreapp3.1\05.HTML.genruntimeconfig.cache
