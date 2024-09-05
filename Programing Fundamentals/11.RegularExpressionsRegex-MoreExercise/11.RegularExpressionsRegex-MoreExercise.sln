@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.34931.43
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.WinningTicket", "01.WinningTicket\01.WinningTicket.csproj", "{87A1F899-5926-40DA-B263-BD3244A45B57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.WinningTicket", "01.WinningTicket\01.WinningTicket.csproj", "{87A1F899-5926-40DA-B263-BD3244A45B57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.RageQuit", "02.RageQuit\02.RageQuit.csproj", "{79B49772-F297-43D2-B27F-2392AE970F70}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{87A1F899-5926-40DA-B263-BD3244A45B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87A1F899-5926-40DA-B263-BD3244A45B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87A1F899-5926-40DA-B263-BD3244A45B57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79B49772-F297-43D2-B27F-2392AE970F70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79B49772-F297-43D2-B27F-2392AE970F70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79B49772-F297-43D2-B27F-2392AE970F70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79B49772-F297-43D2-B27F-2392AE970F70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
