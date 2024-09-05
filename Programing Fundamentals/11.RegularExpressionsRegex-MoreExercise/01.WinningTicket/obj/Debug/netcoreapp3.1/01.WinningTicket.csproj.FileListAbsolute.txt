@@ -1,0 +1,13 @@
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\11.RegularExpressionsRegex-MoreExercise\01.WinningTicket\bin\Debug\netcoreapp3.1\01.WinningTicket.exe
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\11.RegularExpressionsRegex-MoreExercise\01.WinningTicket\bin\Debug\netcoreapp3.1\01.WinningTicket.deps.json
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\11.RegularExpressionsRegex-MoreExercise\01.WinningTicket\bin\Debug\netcoreapp3.1\01.WinningTicket.runtimeconfig.json
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\11.RegularExpressionsRegex-MoreExercise\01.WinningTicket\bin\Debug\netcoreapp3.1\01.WinningTicket.runtimeconfig.dev.json
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\11.RegularExpressionsRegex-MoreExercise\01.WinningTicket\bin\Debug\netcoreapp3.1\01.WinningTicket.dll
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\11.RegularExpressionsRegex-MoreExercise\01.WinningTicket\bin\Debug\netcoreapp3.1\01.WinningTicket.pdb
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\11.RegularExpressionsRegex-MoreExercise\01.WinningTicket\obj\Debug\netcoreapp3.1\01.WinningTicket.csproj.AssemblyReference.cache
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\11.RegularExpressionsRegex-MoreExercise\01.WinningTicket\obj\Debug\netcoreapp3.1\01.WinningTicket.AssemblyInfoInputs.cache
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\11.RegularExpressionsRegex-MoreExercise\01.WinningTicket\obj\Debug\netcoreapp3.1\01.WinningTicket.AssemblyInfo.cs
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\11.RegularExpressionsRegex-MoreExercise\01.WinningTicket\obj\Debug\netcoreapp3.1\01.WinningTicket.csproj.CoreCompileInputs.cache
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\11.RegularExpressionsRegex-MoreExercise\01.WinningTicket\obj\Debug\netcoreapp3.1\01.WinningTicket.dll
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\11.RegularExpressionsRegex-MoreExercise\01.WinningTicket\obj\Debug\netcoreapp3.1\01.WinningTicket.pdb
+D:\Other\Programing-CSharpSoftUni\Programing Fundamentals\11.RegularExpressionsRegex-MoreExercise\01.WinningTicket\obj\Debug\netcoreapp3.1\01.WinningTicket.genruntimeconfig.cache
