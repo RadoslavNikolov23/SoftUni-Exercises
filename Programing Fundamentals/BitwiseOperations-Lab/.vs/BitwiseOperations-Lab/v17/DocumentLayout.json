@@ -1,17 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Documents\\SoftUni\\Programing Course\\Programing Fundamentals C#\\BitwiseOperations-Lab\\",
+  "WorkspaceRootPath": "C:\\Programing - Work\\Programing Fundamentals\\BitwiseOperations-Lab\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8CB5B22B-DD45-4131-9263-023FCC1693E3}|03.P-thBit\\03.P-thBit.csproj|c:\\documents\\softuni\\programing course\\programing fundamentals c#\\bitwiseoperations-lab\\03.p-thbit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BF8F7981-1893-487A-BB19-46F4B96AB1BB}|06.Tri-bitSwitch\\06.Tri-bitSwitch.csproj|c:\\programing - work\\programing fundamentals\\bitwiseoperations-lab\\06.tri-bitswitch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF8F7981-1893-487A-BB19-46F4B96AB1BB}|06.Tri-bitSwitch\\06.Tri-bitSwitch.csproj|solutionrelative:06.tri-bitswitch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F5985D-E5E4-4EE0-A696-06E5D969C6BF}|5.OddTimes\\5.OddTimes.csproj|c:\\programing - work\\programing fundamentals\\bitwiseoperations-lab\\5.oddtimes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F5985D-E5E4-4EE0-A696-06E5D969C6BF}|5.OddTimes\\5.OddTimes.csproj|solutionrelative:5.oddtimes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D491CB-C4BD-49C1-9FC6-99A469C3006D}|04.BitDestroyer\\04.BitDestroyer.csproj|c:\\programing - work\\programing fundamentals\\bitwiseoperations-lab\\04.bitdestroyer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D491CB-C4BD-49C1-9FC6-99A469C3006D}|04.BitDestroyer\\04.BitDestroyer.csproj|solutionrelative:04.bitdestroyer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB5B22B-DD45-4131-9263-023FCC1693E3}|03.P-thBit\\03.P-thBit.csproj|c:\\programing - work\\programing fundamentals\\bitwiseoperations-lab\\03.p-thbit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CB5B22B-DD45-4131-9263-023FCC1693E3}|03.P-thBit\\03.P-thBit.csproj|solutionrelative:03.p-thbit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9EE7497D-9145-46DF-B1DA-C35B515452E0}|02.BitatPosition1\\02.BitatPosition1.csproj|c:\\documents\\softuni\\programing course\\programing fundamentals c#\\bitwiseoperations-lab\\02.bitatposition1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9EE7497D-9145-46DF-B1DA-C35B515452E0}|02.BitatPosition1\\02.BitatPosition1.csproj|c:\\programing - work\\programing fundamentals\\bitwiseoperations-lab\\02.bitatposition1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9EE7497D-9145-46DF-B1DA-C35B515452E0}|02.BitatPosition1\\02.BitatPosition1.csproj|solutionrelative:02.bitatposition1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3268701F-85A8-4F65-B16C-1A489718BF15}|01.BinaryDigitsCount\\01.BinaryDigitsCount.csproj|c:\\documents\\softuni\\programing course\\programing fundamentals c#\\bitwiseoperations-lab\\01.binarydigitscount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3268701F-85A8-4F65-B16C-1A489718BF15}|01.BinaryDigitsCount\\01.BinaryDigitsCount.csproj|c:\\programing - work\\programing fundamentals\\bitwiseoperations-lab\\01.binarydigitscount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3268701F-85A8-4F65-B16C-1A489718BF15}|01.BinaryDigitsCount\\01.BinaryDigitsCount.csproj|solutionrelative:01.binarydigitscount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,40 +44,78 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Documents\\SoftUni\\Programing Course\\Programing Fundamentals C#\\BitwiseOperations-Lab\\03.P-thBit\\Program.cs",
-              "RelativeDocumentMoniker": "03.P-thBit\\Program.cs",
-              "ToolTip": "C:\\Documents\\SoftUni\\Programing Course\\Programing Fundamentals C#\\BitwiseOperations-Lab\\03.P-thBit\\Program.cs",
-              "RelativeToolTip": "03.P-thBit\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\BitwiseOperations-Lab\\06.Tri-bitSwitch\\Program.cs",
+              "RelativeDocumentMoniker": "06.Tri-bitSwitch\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\BitwiseOperations-Lab\\06.Tri-bitSwitch\\Program.cs",
+              "RelativeToolTip": "06.Tri-bitSwitch\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAmwCEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T16:49:18.123Z",
+              "WhenOpened": "2024-09-07T17:21:04.312Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Documents\\SoftUni\\Programing Course\\Programing Fundamentals C#\\BitwiseOperations-Lab\\02.BitatPosition1\\Program.cs",
-              "RelativeDocumentMoniker": "02.BitatPosition1\\Program.cs",
-              "ToolTip": "C:\\Documents\\SoftUni\\Programing Course\\Programing Fundamentals C#\\BitwiseOperations-Lab\\02.BitatPosition1\\Program.cs",
-              "RelativeToolTip": "02.BitatPosition1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\BitwiseOperations-Lab\\5.OddTimes\\Program.cs",
+              "RelativeDocumentMoniker": "5.OddTimes\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\BitwiseOperations-Lab\\5.OddTimes\\Program.cs",
+              "RelativeToolTip": "5.OddTimes\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAcwBQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T16:35:11.646Z",
+              "WhenOpened": "2024-09-07T17:18:38.488Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Documents\\SoftUni\\Programing Course\\Programing Fundamentals C#\\BitwiseOperations-Lab\\01.BinaryDigitsCount\\Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\BitwiseOperations-Lab\\04.BitDestroyer\\Program.cs",
+              "RelativeDocumentMoniker": "04.BitDestroyer\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\BitwiseOperations-Lab\\04.BitDestroyer\\Program.cs",
+              "RelativeToolTip": "04.BitDestroyer\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAcwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T17:14:47.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\BitwiseOperations-Lab\\03.P-thBit\\Program.cs",
+              "RelativeDocumentMoniker": "03.P-thBit\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\BitwiseOperations-Lab\\03.P-thBit\\Program.cs",
+              "RelativeToolTip": "03.P-thBit\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T16:49:18.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\BitwiseOperations-Lab\\02.BitatPosition1\\Program.cs",
+              "RelativeDocumentMoniker": "02.BitatPosition1\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\BitwiseOperations-Lab\\02.BitatPosition1\\Program.cs",
+              "RelativeToolTip": "02.BitatPosition1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T16:35:11.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\BitwiseOperations-Lab\\01.BinaryDigitsCount\\Program.cs",
               "RelativeDocumentMoniker": "01.BinaryDigitsCount\\Program.cs",
-              "ToolTip": "C:\\Documents\\SoftUni\\Programing Course\\Programing Fundamentals C#\\BitwiseOperations-Lab\\01.BinaryDigitsCount\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\BitwiseOperations-Lab\\01.BinaryDigitsCount\\Program.cs",
               "RelativeToolTip": "01.BinaryDigitsCount\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T15:57:08.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T15:57:08.579Z"
             }
           ]
         }
