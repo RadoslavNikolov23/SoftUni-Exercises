@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02.RageQuit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27e111ffd3a163e00c96e8ac923e9a0fe8715add")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a5b04b9095c6631105b8d11069fa5e2db5abc48")]
 [assembly: System.Reflection.AssemblyProductAttribute("02.RageQuit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02.RageQuit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Programing - Work\\Programing Fundamentals\\11.RegularExpressionsRegex-MoreExercise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79B49772-F297-43D2-B27F-2392AE970F70}|02.RageQuit\\02.RageQuit.csproj|c:\\programing - work\\programing fundamentals\\11.regularexpressionsregex-moreexercise\\02.ragequit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79B49772-F297-43D2-B27F-2392AE970F70}|02.RageQuit\\02.RageQuit.csproj|solutionrelative:02.ragequit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16C9A538-E1C1-453D-98F4-897013BC7C46}|03.PostOffice\\03.PostOffice.csproj|c:\\programing - work\\programing fundamentals\\11.regularexpressionsregex-moreexercise\\03.postoffice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C9A538-E1C1-453D-98F4-897013BC7C46}|03.PostOffice\\03.PostOffice.csproj|solutionrelative:03.postoffice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87A1F899-5926-40DA-B263-BD3244A45B57}|01.WinningTicket\\01.WinningTicket.csproj|c:\\programing - work\\programing fundamentals\\11.regularexpressionsregex-moreexercise\\01.winningticket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87A1F899-5926-40DA-B263-BD3244A45B57}|01.WinningTicket\\01.WinningTicket.csproj|solutionrelative:01.winningticket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B49772-F297-43D2-B27F-2392AE970F70}|02.RageQuit\\02.RageQuit.csproj|c:\\programing - work\\programing fundamentals\\11.regularexpressionsregex-moreexercise\\02.ragequit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B49772-F297-43D2-B27F-2392AE970F70}|02.RageQuit\\02.RageQuit.csproj|solutionrelative:02.ragequit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\11.RegularExpressionsRegex-MoreExercise\\03.PostOffice\\Program.cs",
+              "RelativeDocumentMoniker": "03.PostOffice\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\11.RegularExpressionsRegex-MoreExercise\\03.PostOffice\\Program.cs",
+              "RelativeToolTip": "03.PostOffice\\Program.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAmwFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T18:13:41.195Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -32,13 +49,13 @@
               "RelativeDocumentMoniker": "01.WinningTicket\\Program.cs",
               "ToolTip": "C:\\Programing - Work\\Programing Fundamentals\\11.RegularExpressionsRegex-MoreExercise\\01.WinningTicket\\Program.cs",
               "RelativeToolTip": "01.WinningTicket\\Program.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAQwA0AAABYAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAkwA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-06T15:38:21.597Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Programing - Work\\Programing Fundamentals\\11.RegularExpressionsRegex-MoreExercise\\02.RageQuit\\Program.cs",
               "RelativeDocumentMoniker": "02.RageQuit\\Program.cs",
@@ -46,8 +63,7 @@
               "RelativeToolTip": "02.RageQuit\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T15:38:15.595Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T15:38:15.595Z"
             }
           ]
         }
