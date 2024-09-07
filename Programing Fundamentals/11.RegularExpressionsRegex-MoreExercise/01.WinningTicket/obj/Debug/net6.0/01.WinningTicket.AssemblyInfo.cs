@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("01.WinningTicket")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a5b04b9095c6631105b8d11069fa5e2db5abc48")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+752082e32d7dc04f3d21f9b7df67a6df9f97b86b")]
 [assembly: System.Reflection.AssemblyProductAttribute("01.WinningTicket")]
 [assembly: System.Reflection.AssemblyTitleAttribute("01.WinningTicket")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
