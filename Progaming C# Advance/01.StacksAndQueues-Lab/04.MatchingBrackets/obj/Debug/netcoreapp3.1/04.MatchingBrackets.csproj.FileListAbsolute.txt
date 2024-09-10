@@ -1,0 +1,12 @@
+D:\Other\Programing-CSharpSoftUni\Progaming C# Advance\01.StacksAndQueues-Lab\04.MatchingBrackets\bin\Debug\netcoreapp3.1\04.MatchingBrackets.exe
+D:\Other\Programing-CSharpSoftUni\Progaming C# Advance\01.StacksAndQueues-Lab\04.MatchingBrackets\bin\Debug\netcoreapp3.1\04.MatchingBrackets.deps.json
+D:\Other\Programing-CSharpSoftUni\Progaming C# Advance\01.StacksAndQueues-Lab\04.MatchingBrackets\bin\Debug\netcoreapp3.1\04.MatchingBrackets.runtimeconfig.json
+D:\Other\Programing-CSharpSoftUni\Progaming C# Advance\01.StacksAndQueues-Lab\04.MatchingBrackets\bin\Debug\netcoreapp3.1\04.MatchingBrackets.runtimeconfig.dev.json
+D:\Other\Programing-CSharpSoftUni\Progaming C# Advance\01.StacksAndQueues-Lab\04.MatchingBrackets\bin\Debug\netcoreapp3.1\04.MatchingBrackets.dll
+D:\Other\Programing-CSharpSoftUni\Progaming C# Advance\01.StacksAndQueues-Lab\04.MatchingBrackets\bin\Debug\netcoreapp3.1\04.MatchingBrackets.pdb
+D:\Other\Programing-CSharpSoftUni\Progaming C# Advance\01.StacksAndQueues-Lab\04.MatchingBrackets\obj\Debug\netcoreapp3.1\04.MatchingBrackets.AssemblyInfoInputs.cache
+D:\Other\Programing-CSharpSoftUni\Progaming C# Advance\01.StacksAndQueues-Lab\04.MatchingBrackets\obj\Debug\netcoreapp3.1\04.MatchingBrackets.AssemblyInfo.cs
+D:\Other\Programing-CSharpSoftUni\Progaming C# Advance\01.StacksAndQueues-Lab\04.MatchingBrackets\obj\Debug\netcoreapp3.1\04.MatchingBrackets.csproj.CoreCompileInputs.cache
+D:\Other\Programing-CSharpSoftUni\Progaming C# Advance\01.StacksAndQueues-Lab\04.MatchingBrackets\obj\Debug\netcoreapp3.1\04.MatchingBrackets.dll
+D:\Other\Programing-CSharpSoftUni\Progaming C# Advance\01.StacksAndQueues-Lab\04.MatchingBrackets\obj\Debug\netcoreapp3.1\04.MatchingBrackets.pdb
+D:\Other\Programing-CSharpSoftUni\Progaming C# Advance\01.StacksAndQueues-Lab\04.MatchingBrackets\obj\Debug\netcoreapp3.1\04.MatchingBrackets.genruntimeconfig.cache
