@@ -1,0 +1,15 @@
+C:\Programing - Work\Progaming C# Advance\01.StacksAndQueues-Lab\06.Supermarket\bin\Debug\net8.0\06.Supermarket.exe
+C:\Programing - Work\Progaming C# Advance\01.StacksAndQueues-Lab\06.Supermarket\bin\Debug\net8.0\06.Supermarket.deps.json
+C:\Programing - Work\Progaming C# Advance\01.StacksAndQueues-Lab\06.Supermarket\bin\Debug\net8.0\06.Supermarket.runtimeconfig.json
+C:\Programing - Work\Progaming C# Advance\01.StacksAndQueues-Lab\06.Supermarket\bin\Debug\net8.0\06.Supermarket.dll
+C:\Programing - Work\Progaming C# Advance\01.StacksAndQueues-Lab\06.Supermarket\bin\Debug\net8.0\06.Supermarket.pdb
+C:\Programing - Work\Progaming C# Advance\01.StacksAndQueues-Lab\06.Supermarket\obj\Debug\net8.0\06.Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing - Work\Progaming C# Advance\01.StacksAndQueues-Lab\06.Supermarket\obj\Debug\net8.0\06.Supermarket.AssemblyInfoInputs.cache
+C:\Programing - Work\Progaming C# Advance\01.StacksAndQueues-Lab\06.Supermarket\obj\Debug\net8.0\06.Supermarket.AssemblyInfo.cs
+C:\Programing - Work\Progaming C# Advance\01.StacksAndQueues-Lab\06.Supermarket\obj\Debug\net8.0\06.Supermarket.csproj.CoreCompileInputs.cache
+C:\Programing - Work\Progaming C# Advance\01.StacksAndQueues-Lab\06.Supermarket\obj\Debug\net8.0\06.Supermarket.sourcelink.json
+C:\Programing - Work\Progaming C# Advance\01.StacksAndQueues-Lab\06.Supermarket\obj\Debug\net8.0\06.Supermarket.dll
+C:\Programing - Work\Progaming C# Advance\01.StacksAndQueues-Lab\06.Supermarket\obj\Debug\net8.0\refint\06.Supermarket.dll
+C:\Programing - Work\Progaming C# Advance\01.StacksAndQueues-Lab\06.Supermarket\obj\Debug\net8.0\06.Supermarket.pdb
+C:\Programing - Work\Progaming C# Advance\01.StacksAndQueues-Lab\06.Supermarket\obj\Debug\net8.0\06.Supermarket.genruntimeconfig.cache
+C:\Programing - Work\Progaming C# Advance\01.StacksAndQueues-Lab\06.Supermarket\obj\Debug\net8.0\ref\06.Supermarket.dll

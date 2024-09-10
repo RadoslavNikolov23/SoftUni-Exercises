@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Programing - Work\\Progaming C# Advance\\01.StacksAndQueues-Lab\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9F93F00C-D3D5-4378-B789-3752E3823384}|06.Supermarket\\06.Supermarket.csproj|c:\\programing - work\\progaming c# advance\\01.stacksandqueues-lab\\06.supermarket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F93F00C-D3D5-4378-B789-3752E3823384}|06.Supermarket\\06.Supermarket.csproj|solutionrelative:06.supermarket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0A684305-5505-4323-871B-3C7AB20F0E46}|05.PrintEvenNumbers\\05.PrintEvenNumbers.csproj|c:\\programing - work\\progaming c# advance\\01.stacksandqueues-lab\\05.printevennumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A684305-5505-4323-871B-3C7AB20F0E46}|05.PrintEvenNumbers\\05.PrintEvenNumbers.csproj|solutionrelative:05.printevennumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Progaming C# Advance\\01.StacksAndQueues-Lab\\06.Supermarket\\Program.cs",
+              "RelativeDocumentMoniker": "06.Supermarket\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Progaming C# Advance\\01.StacksAndQueues-Lab\\06.Supermarket\\Program.cs*",
+              "RelativeToolTip": "06.Supermarket\\Program.cs*",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAWwBkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T14:36:25.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Programing - Work\\Progaming C# Advance\\01.StacksAndQueues-Lab\\05.PrintEvenNumbers\\Program.cs",
               "RelativeDocumentMoniker": "05.PrintEvenNumbers\\Program.cs",
