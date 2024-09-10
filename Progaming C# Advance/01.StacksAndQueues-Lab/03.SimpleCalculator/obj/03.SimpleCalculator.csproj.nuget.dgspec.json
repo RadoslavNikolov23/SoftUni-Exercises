@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Other\\Programing-CSharpSoftUni\\Progaming C# Advance\\01.StacksAndQueues-Lab\\03.SimpleCalculator\\03.SimpleCalculator.csproj": {}
+    "C:\\Programing - Work\\Progaming C# Advance\\01.StacksAndQueues-Lab\\03.SimpleCalculator\\03.SimpleCalculator.csproj": {}
   },
   "projects": {
-    "D:\\Other\\Programing-CSharpSoftUni\\Progaming C# Advance\\01.StacksAndQueues-Lab\\03.SimpleCalculator\\03.SimpleCalculator.csproj": {
+    "C:\\Programing - Work\\Progaming C# Advance\\01.StacksAndQueues-Lab\\03.SimpleCalculator\\03.SimpleCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Other\\Programing-CSharpSoftUni\\Progaming C# Advance\\01.StacksAndQueues-Lab\\03.SimpleCalculator\\03.SimpleCalculator.csproj",
+        "projectUniqueName": "C:\\Programing - Work\\Progaming C# Advance\\01.StacksAndQueues-Lab\\03.SimpleCalculator\\03.SimpleCalculator.csproj",
         "projectName": "03.SimpleCalculator",
-        "projectPath": "D:\\Other\\Programing-CSharpSoftUni\\Progaming C# Advance\\01.StacksAndQueues-Lab\\03.SimpleCalculator\\03.SimpleCalculator.csproj",
+        "projectPath": "C:\\Programing - Work\\Progaming C# Advance\\01.StacksAndQueues-Lab\\03.SimpleCalculator\\03.SimpleCalculator.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "D:\\Other\\Programing-CSharpSoftUni\\Progaming C# Advance\\01.StacksAndQueues-Lab\\03.SimpleCalculator\\obj\\",
+        "outputPath": "C:\\Programing - Work\\Progaming C# Advance\\01.StacksAndQueues-Lab\\03.SimpleCalculator\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -45,7 +55,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -54,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }

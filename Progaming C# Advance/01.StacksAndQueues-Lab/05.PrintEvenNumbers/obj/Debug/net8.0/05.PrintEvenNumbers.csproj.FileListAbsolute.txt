@@ -1,0 +1,15 @@
+C:\Programing - Work\Progaming C# Advance\01.StacksAndQueues-Lab\05.PrintEvenNumbers\bin\Debug\net8.0\05.PrintEvenNumbers.exe
+C:\Programing - Work\Progaming C# Advance\01.StacksAndQueues-Lab\05.PrintEvenNumbers\bin\Debug\net8.0\05.PrintEvenNumbers.deps.json
+C:\Programing - Work\Progaming C# Advance\01.StacksAndQueues-Lab\05.PrintEvenNumbers\bin\Debug\net8.0\05.PrintEvenNumbers.runtimeconfig.json
+C:\Programing - Work\Progaming C# Advance\01.StacksAndQueues-Lab\05.PrintEvenNumbers\bin\Debug\net8.0\05.PrintEvenNumbers.dll
+C:\Programing - Work\Progaming C# Advance\01.StacksAndQueues-Lab\05.PrintEvenNumbers\bin\Debug\net8.0\05.PrintEvenNumbers.pdb
+C:\Programing - Work\Progaming C# Advance\01.StacksAndQueues-Lab\05.PrintEvenNumbers\obj\Debug\net8.0\05.PrintEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing - Work\Progaming C# Advance\01.StacksAndQueues-Lab\05.PrintEvenNumbers\obj\Debug\net8.0\05.PrintEvenNumbers.AssemblyInfoInputs.cache
+C:\Programing - Work\Progaming C# Advance\01.StacksAndQueues-Lab\05.PrintEvenNumbers\obj\Debug\net8.0\05.PrintEvenNumbers.AssemblyInfo.cs
+C:\Programing - Work\Progaming C# Advance\01.StacksAndQueues-Lab\05.PrintEvenNumbers\obj\Debug\net8.0\05.PrintEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Programing - Work\Progaming C# Advance\01.StacksAndQueues-Lab\05.PrintEvenNumbers\obj\Debug\net8.0\05.PrintEvenNumbers.sourcelink.json
+C:\Programing - Work\Progaming C# Advance\01.StacksAndQueues-Lab\05.PrintEvenNumbers\obj\Debug\net8.0\05.PrintEvenNumbers.dll
+C:\Programing - Work\Progaming C# Advance\01.StacksAndQueues-Lab\05.PrintEvenNumbers\obj\Debug\net8.0\refint\05.PrintEvenNumbers.dll
+C:\Programing - Work\Progaming C# Advance\01.StacksAndQueues-Lab\05.PrintEvenNumbers\obj\Debug\net8.0\05.PrintEvenNumbers.pdb
+C:\Programing - Work\Progaming C# Advance\01.StacksAndQueues-Lab\05.PrintEvenNumbers\obj\Debug\net8.0\05.PrintEvenNumbers.genruntimeconfig.cache
+C:\Programing - Work\Progaming C# Advance\01.StacksAndQueues-Lab\05.PrintEvenNumbers\obj\Debug\net8.0\ref\05.PrintEvenNumbers.dll

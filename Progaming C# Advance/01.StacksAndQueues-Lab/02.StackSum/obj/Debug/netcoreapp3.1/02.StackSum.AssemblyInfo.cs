@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02.StackSum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8187da15c56518b083ed44c2126c86c27c3bdd38")]
 [assembly: System.Reflection.AssemblyProductAttribute("02.StackSum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02.StackSum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
