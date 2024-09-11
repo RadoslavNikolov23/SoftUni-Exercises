@@ -1,0 +1,13 @@
+D:\Other\Programing-CSharpSoftUni\Progaming C# Advance\01.StacksAndQueues-Exercises\04.FastFood\bin\Debug\netcoreapp3.1\04.FastFood.exe
+D:\Other\Programing-CSharpSoftUni\Progaming C# Advance\01.StacksAndQueues-Exercises\04.FastFood\bin\Debug\netcoreapp3.1\04.FastFood.deps.json
+D:\Other\Programing-CSharpSoftUni\Progaming C# Advance\01.StacksAndQueues-Exercises\04.FastFood\bin\Debug\netcoreapp3.1\04.FastFood.runtimeconfig.json
+D:\Other\Programing-CSharpSoftUni\Progaming C# Advance\01.StacksAndQueues-Exercises\04.FastFood\bin\Debug\netcoreapp3.1\04.FastFood.runtimeconfig.dev.json
+D:\Other\Programing-CSharpSoftUni\Progaming C# Advance\01.StacksAndQueues-Exercises\04.FastFood\bin\Debug\netcoreapp3.1\04.FastFood.dll
+D:\Other\Programing-CSharpSoftUni\Progaming C# Advance\01.StacksAndQueues-Exercises\04.FastFood\bin\Debug\netcoreapp3.1\04.FastFood.pdb
+D:\Other\Programing-CSharpSoftUni\Progaming C# Advance\01.StacksAndQueues-Exercises\04.FastFood\obj\Debug\netcoreapp3.1\04.FastFood.csproj.AssemblyReference.cache
+D:\Other\Programing-CSharpSoftUni\Progaming C# Advance\01.StacksAndQueues-Exercises\04.FastFood\obj\Debug\netcoreapp3.1\04.FastFood.AssemblyInfoInputs.cache
+D:\Other\Programing-CSharpSoftUni\Progaming C# Advance\01.StacksAndQueues-Exercises\04.FastFood\obj\Debug\netcoreapp3.1\04.FastFood.AssemblyInfo.cs
+D:\Other\Programing-CSharpSoftUni\Progaming C# Advance\01.StacksAndQueues-Exercises\04.FastFood\obj\Debug\netcoreapp3.1\04.FastFood.csproj.CoreCompileInputs.cache
+D:\Other\Programing-CSharpSoftUni\Progaming C# Advance\01.StacksAndQueues-Exercises\04.FastFood\obj\Debug\netcoreapp3.1\04.FastFood.dll
+D:\Other\Programing-CSharpSoftUni\Progaming C# Advance\01.StacksAndQueues-Exercises\04.FastFood\obj\Debug\netcoreapp3.1\04.FastFood.pdb
+D:\Other\Programing-CSharpSoftUni\Progaming C# Advance\01.StacksAndQueues-Exercises\04.FastFood\obj\Debug\netcoreapp3.1\04.FastFood.genruntimeconfig.cache
