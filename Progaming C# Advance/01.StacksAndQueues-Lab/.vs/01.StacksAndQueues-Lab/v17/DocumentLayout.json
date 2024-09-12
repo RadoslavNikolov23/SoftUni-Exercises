@@ -38,9 +38,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Programing - Work\\Progaming C# Advance\\01.StacksAndQueues-Lab\\08.TrafficJam\\Program.cs",
               "RelativeDocumentMoniker": "08.TrafficJam\\Program.cs",
-              "ToolTip": "C:\\Programing - Work\\Progaming C# Advance\\01.StacksAndQueues-Lab\\08.TrafficJam\\Program.cs",
-              "RelativeToolTip": "08.TrafficJam\\Program.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAmwCQAAAAAAAAA",
+              "ToolTip": "C:\\Programing - Work\\Progaming C# Advance\\01.StacksAndQueues-Lab\\08.TrafficJam\\Program.cs*",
+              "RelativeToolTip": "08.TrafficJam\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-10T14:47:40.355Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "07.HotPotato\\Program.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAmwBoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T14:41:51.588Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T14:41:51.588Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "06.Supermarket\\Program.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAqwB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T14:36:25.442Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T14:36:25.442Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "05.PrintEvenNumbers\\Program.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAmwBkAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T14:25:30.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T14:25:30.394Z"
             }
           ]
         }

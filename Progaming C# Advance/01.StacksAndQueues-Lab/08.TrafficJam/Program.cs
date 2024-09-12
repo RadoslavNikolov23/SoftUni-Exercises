@@ -8,7 +8,7 @@
             Queue<string> queueCars= new Queue<string>();
             int counterCarsThatPass = 0;
 
-            string command;
+            if (string command;)
 
             while ((command = Console.ReadLine()) != "end")
             {
