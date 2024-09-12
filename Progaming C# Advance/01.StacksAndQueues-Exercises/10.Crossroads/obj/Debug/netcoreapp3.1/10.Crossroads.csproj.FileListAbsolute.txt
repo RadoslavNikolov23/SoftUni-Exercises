@@ -1,0 +1,13 @@
+D:\Other\Programing-CSharpSoftUni\Progaming C# Advance\01.StacksAndQueues-Exercises\10.Crossroads\bin\Debug\netcoreapp3.1\10.Crossroads.exe
+D:\Other\Programing-CSharpSoftUni\Progaming C# Advance\01.StacksAndQueues-Exercises\10.Crossroads\bin\Debug\netcoreapp3.1\10.Crossroads.deps.json
+D:\Other\Programing-CSharpSoftUni\Progaming C# Advance\01.StacksAndQueues-Exercises\10.Crossroads\bin\Debug\netcoreapp3.1\10.Crossroads.runtimeconfig.json
+D:\Other\Programing-CSharpSoftUni\Progaming C# Advance\01.StacksAndQueues-Exercises\10.Crossroads\bin\Debug\netcoreapp3.1\10.Crossroads.runtimeconfig.dev.json
+D:\Other\Programing-CSharpSoftUni\Progaming C# Advance\01.StacksAndQueues-Exercises\10.Crossroads\bin\Debug\netcoreapp3.1\10.Crossroads.dll
+D:\Other\Programing-CSharpSoftUni\Progaming C# Advance\01.StacksAndQueues-Exercises\10.Crossroads\bin\Debug\netcoreapp3.1\10.Crossroads.pdb
+D:\Other\Programing-CSharpSoftUni\Progaming C# Advance\01.StacksAndQueues-Exercises\10.Crossroads\obj\Debug\netcoreapp3.1\10.Crossroads.AssemblyInfoInputs.cache
+D:\Other\Programing-CSharpSoftUni\Progaming C# Advance\01.StacksAndQueues-Exercises\10.Crossroads\obj\Debug\netcoreapp3.1\10.Crossroads.AssemblyInfo.cs
+D:\Other\Programing-CSharpSoftUni\Progaming C# Advance\01.StacksAndQueues-Exercises\10.Crossroads\obj\Debug\netcoreapp3.1\10.Crossroads.csproj.CoreCompileInputs.cache
+D:\Other\Programing-CSharpSoftUni\Progaming C# Advance\01.StacksAndQueues-Exercises\10.Crossroads\obj\Debug\netcoreapp3.1\10.Crossroads.dll
+D:\Other\Programing-CSharpSoftUni\Progaming C# Advance\01.StacksAndQueues-Exercises\10.Crossroads\obj\Debug\netcoreapp3.1\10.Crossroads.pdb
+D:\Other\Programing-CSharpSoftUni\Progaming C# Advance\01.StacksAndQueues-Exercises\10.Crossroads\obj\Debug\netcoreapp3.1\10.Crossroads.genruntimeconfig.cache
+D:\Other\Programing-CSharpSoftUni\Progaming C# Advance\01.StacksAndQueues-Exercises\10.Crossroads\obj\Debug\netcoreapp3.1\10.Crossroads.csproj.AssemblyReference.cache
