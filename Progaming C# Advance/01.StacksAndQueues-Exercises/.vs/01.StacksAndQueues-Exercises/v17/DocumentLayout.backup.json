@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Programing - Work\\Progaming C# Advance\\01.StacksAndQueues-Exercises\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E0F736AE-BBCE-4A29-84CF-BD2421E57D62}|12.CupsAndBottles\\12.CupsAndBottles.csproj|c:\\programing - work\\progaming c# advance\\01.stacksandqueues-exercises\\12.cupsandbottles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F736AE-BBCE-4A29-84CF-BD2421E57D62}|12.CupsAndBottles\\12.CupsAndBottles.csproj|solutionrelative:12.cupsandbottles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{17B6EF77-EF19-4646-B6C9-B580DFC2BE91}|11.KeyRevolver\\11.KeyRevolver.csproj|c:\\programing - work\\progaming c# advance\\01.stacksandqueues-exercises\\11.keyrevolver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17B6EF77-EF19-4646-B6C9-B580DFC2BE91}|11.KeyRevolver\\11.KeyRevolver.csproj|solutionrelative:11.keyrevolver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,28 +18,40 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Progaming C# Advance\\01.StacksAndQueues-Exercises\\12.CupsAndBottles\\Program.cs",
+              "RelativeDocumentMoniker": "12.CupsAndBottles\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Progaming C# Advance\\01.StacksAndQueues-Exercises\\12.CupsAndBottles\\Program.cs",
+              "RelativeToolTip": "12.CupsAndBottles\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwBoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T14:24:29.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Programing - Work\\Progaming C# Advance\\01.StacksAndQueues-Exercises\\11.KeyRevolver\\Program.cs",
               "RelativeDocumentMoniker": "11.KeyRevolver\\Program.cs",
               "ToolTip": "C:\\Programing - Work\\Progaming C# Advance\\01.StacksAndQueues-Exercises\\11.KeyRevolver\\Program.cs",
               "RelativeToolTip": "11.KeyRevolver\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAqwDkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T13:55:22.55Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-09-12T13:55:22.55Z"
             }
           ]
         }

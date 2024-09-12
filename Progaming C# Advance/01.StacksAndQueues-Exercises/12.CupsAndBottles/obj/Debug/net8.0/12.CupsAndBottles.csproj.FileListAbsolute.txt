@@ -1,0 +1,15 @@
+C:\Programing - Work\Progaming C# Advance\01.StacksAndQueues-Exercises\12.CupsAndBottles\bin\Debug\net8.0\12.CupsAndBottles.exe
+C:\Programing - Work\Progaming C# Advance\01.StacksAndQueues-Exercises\12.CupsAndBottles\bin\Debug\net8.0\12.CupsAndBottles.deps.json
+C:\Programing - Work\Progaming C# Advance\01.StacksAndQueues-Exercises\12.CupsAndBottles\bin\Debug\net8.0\12.CupsAndBottles.runtimeconfig.json
+C:\Programing - Work\Progaming C# Advance\01.StacksAndQueues-Exercises\12.CupsAndBottles\bin\Debug\net8.0\12.CupsAndBottles.dll
+C:\Programing - Work\Progaming C# Advance\01.StacksAndQueues-Exercises\12.CupsAndBottles\bin\Debug\net8.0\12.CupsAndBottles.pdb
+C:\Programing - Work\Progaming C# Advance\01.StacksAndQueues-Exercises\12.CupsAndBottles\obj\Debug\net8.0\12.CupsAndBottles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing - Work\Progaming C# Advance\01.StacksAndQueues-Exercises\12.CupsAndBottles\obj\Debug\net8.0\12.CupsAndBottles.AssemblyInfoInputs.cache
+C:\Programing - Work\Progaming C# Advance\01.StacksAndQueues-Exercises\12.CupsAndBottles\obj\Debug\net8.0\12.CupsAndBottles.AssemblyInfo.cs
+C:\Programing - Work\Progaming C# Advance\01.StacksAndQueues-Exercises\12.CupsAndBottles\obj\Debug\net8.0\12.CupsAndBottles.csproj.CoreCompileInputs.cache
+C:\Programing - Work\Progaming C# Advance\01.StacksAndQueues-Exercises\12.CupsAndBottles\obj\Debug\net8.0\12.CupsAndBottles.sourcelink.json
+C:\Programing - Work\Progaming C# Advance\01.StacksAndQueues-Exercises\12.CupsAndBottles\obj\Debug\net8.0\12.CupsAndBottles.dll
+C:\Programing - Work\Progaming C# Advance\01.StacksAndQueues-Exercises\12.CupsAndBottles\obj\Debug\net8.0\refint\12.CupsAndBottles.dll
+C:\Programing - Work\Progaming C# Advance\01.StacksAndQueues-Exercises\12.CupsAndBottles\obj\Debug\net8.0\12.CupsAndBottles.pdb
+C:\Programing - Work\Progaming C# Advance\01.StacksAndQueues-Exercises\12.CupsAndBottles\obj\Debug\net8.0\12.CupsAndBottles.genruntimeconfig.cache
+C:\Programing - Work\Progaming C# Advance\01.StacksAndQueues-Exercises\12.CupsAndBottles\obj\Debug\net8.0\ref\12.CupsAndBottles.dll

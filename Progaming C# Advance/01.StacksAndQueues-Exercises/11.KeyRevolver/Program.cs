@@ -34,7 +34,7 @@
 
                 if (counterBangs >= sizeOfGunBarrel && stackBullets.Count>0)
                 {
-                    Console.WriteLine("Reloading");
+                    Console.WriteLine("Reloading!");
                     counterBangs=0;
                 }
 
@@ -51,13 +51,6 @@
                 Console.WriteLine($"{stackBullets.Count} bullets left. Earned ${moneyEarned}");
             }
 
-            /*
-             * •	 If Sam runs out of bullets before the safe runs out of locks, print
-               "Couldn't get through. Locks left: {locksLeft}".
-               •	If Sam manages to open the safe, print
-               "{bulletsLeft} bullets left. Earned ${moneyEarned}".
-               
-             */
 
         }
     }

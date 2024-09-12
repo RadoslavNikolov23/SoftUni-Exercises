@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("06.SongsQueue")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32a09324b37a62a1421d72ddf5fd3384a1354119")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a61df510535ef7e256ab42baa85c57f9abe0a79")]
 [assembly: System.Reflection.AssemblyProductAttribute("06.SongsQueue")]
 [assembly: System.Reflection.AssemblyTitleAttribute("06.SongsQueue")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
