@@ -1,0 +1,13 @@
+D:\Other\Programing-CSharpSoftUni\Progaming C# Advance\02.MultidimensionalArrays-Lab\04.SymbolInMatrix\bin\Debug\netcoreapp3.1\04.SymbolInMatrix.exe
+D:\Other\Programing-CSharpSoftUni\Progaming C# Advance\02.MultidimensionalArrays-Lab\04.SymbolInMatrix\bin\Debug\netcoreapp3.1\04.SymbolInMatrix.deps.json
+D:\Other\Programing-CSharpSoftUni\Progaming C# Advance\02.MultidimensionalArrays-Lab\04.SymbolInMatrix\bin\Debug\netcoreapp3.1\04.SymbolInMatrix.runtimeconfig.json
+D:\Other\Programing-CSharpSoftUni\Progaming C# Advance\02.MultidimensionalArrays-Lab\04.SymbolInMatrix\bin\Debug\netcoreapp3.1\04.SymbolInMatrix.runtimeconfig.dev.json
+D:\Other\Programing-CSharpSoftUni\Progaming C# Advance\02.MultidimensionalArrays-Lab\04.SymbolInMatrix\bin\Debug\netcoreapp3.1\04.SymbolInMatrix.dll
+D:\Other\Programing-CSharpSoftUni\Progaming C# Advance\02.MultidimensionalArrays-Lab\04.SymbolInMatrix\bin\Debug\netcoreapp3.1\04.SymbolInMatrix.pdb
+D:\Other\Programing-CSharpSoftUni\Progaming C# Advance\02.MultidimensionalArrays-Lab\04.SymbolInMatrix\obj\Debug\netcoreapp3.1\04.SymbolInMatrix.csproj.AssemblyReference.cache
+D:\Other\Programing-CSharpSoftUni\Progaming C# Advance\02.MultidimensionalArrays-Lab\04.SymbolInMatrix\obj\Debug\netcoreapp3.1\04.SymbolInMatrix.AssemblyInfoInputs.cache
+D:\Other\Programing-CSharpSoftUni\Progaming C# Advance\02.MultidimensionalArrays-Lab\04.SymbolInMatrix\obj\Debug\netcoreapp3.1\04.SymbolInMatrix.AssemblyInfo.cs
+D:\Other\Programing-CSharpSoftUni\Progaming C# Advance\02.MultidimensionalArrays-Lab\04.SymbolInMatrix\obj\Debug\netcoreapp3.1\04.SymbolInMatrix.csproj.CoreCompileInputs.cache
+D:\Other\Programing-CSharpSoftUni\Progaming C# Advance\02.MultidimensionalArrays-Lab\04.SymbolInMatrix\obj\Debug\netcoreapp3.1\04.SymbolInMatrix.dll
+D:\Other\Programing-CSharpSoftUni\Progaming C# Advance\02.MultidimensionalArrays-Lab\04.SymbolInMatrix\obj\Debug\netcoreapp3.1\04.SymbolInMatrix.pdb
+D:\Other\Programing-CSharpSoftUni\Progaming C# Advance\02.MultidimensionalArrays-Lab\04.SymbolInMatrix\obj\Debug\netcoreapp3.1\04.SymbolInMatrix.genruntimeconfig.cache

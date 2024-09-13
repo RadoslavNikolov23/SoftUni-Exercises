@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\source\\repos\\02.MultidimensionalArrays-Lab\\02.SumMatrixColumns\\02.SumMatrixColumns.csproj",
+      "projectUniqueName": "D:\\Other\\Programing-CSharpSoftUni\\Progaming C# Advance\\02.MultidimensionalArrays-Lab\\02.SumMatrixColumns\\02.SumMatrixColumns.csproj",
       "projectName": "02.SumMatrixColumns",
-      "projectPath": "C:\\Users\\PC\\source\\repos\\02.MultidimensionalArrays-Lab\\02.SumMatrixColumns\\02.SumMatrixColumns.csproj",
+      "projectPath": "D:\\Other\\Programing-CSharpSoftUni\\Progaming C# Advance\\02.MultidimensionalArrays-Lab\\02.SumMatrixColumns\\02.SumMatrixColumns.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\source\\repos\\02.MultidimensionalArrays-Lab\\02.SumMatrixColumns\\obj\\",
+      "outputPath": "D:\\Other\\Programing-CSharpSoftUni\\Progaming C# Advance\\02.MultidimensionalArrays-Lab\\02.SumMatrixColumns\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

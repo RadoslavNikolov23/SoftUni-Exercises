@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Other\\Programing-CSharpSoftUni\\Progaming C# Advance\\02.MultidimensionalArrays-Lab\\01.SumMatrixElements\\01.SumMatrixElements.csproj": {}
+    "D:\\Other\\Programing-CSharpSoftUni\\Progaming C# Advance\\02.MultidimensionalArrays-Lab\\04.SymbolInMatrix\\04.SymbolInMatrix.csproj": {}
   },
   "projects": {
-    "D:\\Other\\Programing-CSharpSoftUni\\Progaming C# Advance\\02.MultidimensionalArrays-Lab\\01.SumMatrixElements\\01.SumMatrixElements.csproj": {
+    "D:\\Other\\Programing-CSharpSoftUni\\Progaming C# Advance\\02.MultidimensionalArrays-Lab\\04.SymbolInMatrix\\04.SymbolInMatrix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Other\\Programing-CSharpSoftUni\\Progaming C# Advance\\02.MultidimensionalArrays-Lab\\01.SumMatrixElements\\01.SumMatrixElements.csproj",
-        "projectName": "01.SumMatrixElements",
-        "projectPath": "D:\\Other\\Programing-CSharpSoftUni\\Progaming C# Advance\\02.MultidimensionalArrays-Lab\\01.SumMatrixElements\\01.SumMatrixElements.csproj",
+        "projectUniqueName": "D:\\Other\\Programing-CSharpSoftUni\\Progaming C# Advance\\02.MultidimensionalArrays-Lab\\04.SymbolInMatrix\\04.SymbolInMatrix.csproj",
+        "projectName": "04.SymbolInMatrix",
+        "projectPath": "D:\\Other\\Programing-CSharpSoftUni\\Progaming C# Advance\\02.MultidimensionalArrays-Lab\\04.SymbolInMatrix\\04.SymbolInMatrix.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "D:\\Other\\Programing-CSharpSoftUni\\Progaming C# Advance\\02.MultidimensionalArrays-Lab\\01.SumMatrixElements\\obj\\",
+        "outputPath": "D:\\Other\\Programing-CSharpSoftUni\\Progaming C# Advance\\02.MultidimensionalArrays-Lab\\04.SymbolInMatrix\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
