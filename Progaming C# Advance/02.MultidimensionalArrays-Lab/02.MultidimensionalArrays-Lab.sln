@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.SumMatrixElements", "01.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.SumMatrixColumns", "02.SumMatrixColumns\02.SumMatrixColumns.csproj", "{E3A7897C-F48D-464B-B87A-AAE50CD2214C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.PrimaryDiagonal", "03.PrimaryDiagonal\03.PrimaryDiagonal.csproj", "{FD6EE471-1BC4-4297-9ACF-6998F944BA1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.PrimaryDiagonal", "03.PrimaryDiagonal\03.PrimaryDiagonal.csproj", "{FD6EE471-1BC4-4297-9ACF-6998F944BA1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.SymbolInMatrix", "04.SymbolInMatrix\04.SymbolInMatrix.csproj", "{BDED6185-09F9-431E-9698-C4D76B33958D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.SymbolInMatrix", "04.SymbolInMatrix\04.SymbolInMatrix.csproj", "{BDED6185-09F9-431E-9698-C4D76B33958D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.SquareWithMaximumSum", "05.SquareWithMaximumSum\05.SquareWithMaximumSum.csproj", "{36496295-FAFF-4565-843F-F6E2C631680E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{BDED6185-09F9-431E-9698-C4D76B33958D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDED6185-09F9-431E-9698-C4D76B33958D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDED6185-09F9-431E-9698-C4D76B33958D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36496295-FAFF-4565-843F-F6E2C631680E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36496295-FAFF-4565-843F-F6E2C631680E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36496295-FAFF-4565-843F-F6E2C631680E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36496295-FAFF-4565-843F-F6E2C631680E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
