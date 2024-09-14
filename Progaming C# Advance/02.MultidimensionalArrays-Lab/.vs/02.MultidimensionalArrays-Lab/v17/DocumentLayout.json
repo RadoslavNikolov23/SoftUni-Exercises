@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Programing - Work\\Progaming C# Advance\\02.MultidimensionalArrays-Lab\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1F3E1222-6C66-4BF6-9A3A-3169A55A1658}|07.PascalTriangle\\07.PascalTriangle.csproj|c:\\programing - work\\progaming c# advance\\02.multidimensionalarrays-lab\\07.pascaltriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F3E1222-6C66-4BF6-9A3A-3169A55A1658}|07.PascalTriangle\\07.PascalTriangle.csproj|solutionrelative:07.pascaltriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{845942A3-49D6-4177-9827-8E141DAB3A1E}|06.Jagged-ArrayModification\\06.Jagged-ArrayModification.csproj|c:\\programing - work\\progaming c# advance\\02.multidimensionalarrays-lab\\06.jagged-arraymodification\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{845942A3-49D6-4177-9827-8E141DAB3A1E}|06.Jagged-ArrayModification\\06.Jagged-ArrayModification.csproj|solutionrelative:06.jagged-arraymodification\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Progaming C# Advance\\02.MultidimensionalArrays-Lab\\07.PascalTriangle\\Program.cs",
+              "RelativeDocumentMoniker": "07.PascalTriangle\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Progaming C# Advance\\02.MultidimensionalArrays-Lab\\07.PascalTriangle\\Program.cs",
+              "RelativeToolTip": "07.PascalTriangle\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwCMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T14:58:56.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Programing - Work\\Progaming C# Advance\\02.MultidimensionalArrays-Lab\\06.Jagged-ArrayModification\\Program.cs",
               "RelativeDocumentMoniker": "06.Jagged-ArrayModification\\Program.cs",
