@@ -1,0 +1,15 @@
+C:\Programing - Work\Progaming C# Advance\02.MultidimensionalArrays-Lab\06.Jagged-ArrayModification\bin\Debug\net8.0\06.Jagged-ArrayModification.exe
+C:\Programing - Work\Progaming C# Advance\02.MultidimensionalArrays-Lab\06.Jagged-ArrayModification\bin\Debug\net8.0\06.Jagged-ArrayModification.deps.json
+C:\Programing - Work\Progaming C# Advance\02.MultidimensionalArrays-Lab\06.Jagged-ArrayModification\bin\Debug\net8.0\06.Jagged-ArrayModification.runtimeconfig.json
+C:\Programing - Work\Progaming C# Advance\02.MultidimensionalArrays-Lab\06.Jagged-ArrayModification\bin\Debug\net8.0\06.Jagged-ArrayModification.dll
+C:\Programing - Work\Progaming C# Advance\02.MultidimensionalArrays-Lab\06.Jagged-ArrayModification\bin\Debug\net8.0\06.Jagged-ArrayModification.pdb
+C:\Programing - Work\Progaming C# Advance\02.MultidimensionalArrays-Lab\06.Jagged-ArrayModification\obj\Debug\net8.0\06.Jagged-ArrayModification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing - Work\Progaming C# Advance\02.MultidimensionalArrays-Lab\06.Jagged-ArrayModification\obj\Debug\net8.0\06.Jagged-ArrayModification.AssemblyInfoInputs.cache
+C:\Programing - Work\Progaming C# Advance\02.MultidimensionalArrays-Lab\06.Jagged-ArrayModification\obj\Debug\net8.0\06.Jagged-ArrayModification.AssemblyInfo.cs
+C:\Programing - Work\Progaming C# Advance\02.MultidimensionalArrays-Lab\06.Jagged-ArrayModification\obj\Debug\net8.0\06.Jagged-ArrayModification.csproj.CoreCompileInputs.cache
+C:\Programing - Work\Progaming C# Advance\02.MultidimensionalArrays-Lab\06.Jagged-ArrayModification\obj\Debug\net8.0\06.Jagged-ArrayModification.sourcelink.json
+C:\Programing - Work\Progaming C# Advance\02.MultidimensionalArrays-Lab\06.Jagged-ArrayModification\obj\Debug\net8.0\06.Jagged-ArrayModification.dll
+C:\Programing - Work\Progaming C# Advance\02.MultidimensionalArrays-Lab\06.Jagged-ArrayModification\obj\Debug\net8.0\refint\06.Jagged-ArrayModification.dll
+C:\Programing - Work\Progaming C# Advance\02.MultidimensionalArrays-Lab\06.Jagged-ArrayModification\obj\Debug\net8.0\06.Jagged-ArrayModification.pdb
+C:\Programing - Work\Progaming C# Advance\02.MultidimensionalArrays-Lab\06.Jagged-ArrayModification\obj\Debug\net8.0\06.Jagged-ArrayModification.genruntimeconfig.cache
+C:\Programing - Work\Progaming C# Advance\02.MultidimensionalArrays-Lab\06.Jagged-ArrayModification\obj\Debug\net8.0\ref\06.Jagged-ArrayModification.dll

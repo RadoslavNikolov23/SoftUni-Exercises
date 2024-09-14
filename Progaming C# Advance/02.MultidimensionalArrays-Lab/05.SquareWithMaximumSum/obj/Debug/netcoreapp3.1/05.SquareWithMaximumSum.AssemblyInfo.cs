@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("05.SquareWithMaximumSum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b6277ca9270dfc125b302cfd42f124e856d0f3f")]
 [assembly: System.Reflection.AssemblyProductAttribute("05.SquareWithMaximumSum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("05.SquareWithMaximumSum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
