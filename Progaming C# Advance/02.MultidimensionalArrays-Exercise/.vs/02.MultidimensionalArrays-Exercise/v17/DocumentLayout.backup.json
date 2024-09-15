@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programing - Work\\Progaming C# Advance\\02.MultidimensionalArrays-Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E178CF36-63FC-4A78-AABE-717C70FAB15B}|03.MaximalSum\\03.MaximalSum.csproj|c:\\programing - work\\progaming c# advance\\02.multidimensionalarrays-exercise\\03.maximalsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E178CF36-63FC-4A78-AABE-717C70FAB15B}|03.MaximalSum\\03.MaximalSum.csproj|solutionrelative:03.maximalsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B54BA4DA-F639-4BEF-8CCF-D8BD000DBA7A}|02.SquaresInMatrix\\02.SquaresInMatrix.csproj|c:\\programing - work\\progaming c# advance\\02.multidimensionalarrays-exercise\\02.squaresinmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B54BA4DA-F639-4BEF-8CCF-D8BD000DBA7A}|02.SquaresInMatrix\\02.SquaresInMatrix.csproj|solutionrelative:02.squaresinmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBEE880-D465-4EA4-BE41-8FEE44C1461A}|01.Diagonal Difference\\01.Diagonal Difference.csproj|c:\\programing - work\\progaming c# advance\\02.multidimensionalarrays-exercise\\01.diagonal difference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBEE880-D465-4EA4-BE41-8FEE44C1461A}|01.Diagonal Difference\\01.Diagonal Difference.csproj|solutionrelative:01.diagonal difference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Progaming C# Advance\\02.MultidimensionalArrays-Exercise\\03.MaximalSum\\Program.cs",
+              "RelativeDocumentMoniker": "03.MaximalSum\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Progaming C# Advance\\02.MultidimensionalArrays-Exercise\\03.MaximalSum\\Program.cs*",
+              "RelativeToolTip": "03.MaximalSum\\Program.cs*",
+              "ViewState": "AgIAACQAAAAAAAAAAAAQwC0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T10:14:32.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Progaming C# Advance\\02.MultidimensionalArrays-Exercise\\02.SquaresInMatrix\\Program.cs",
+              "RelativeDocumentMoniker": "02.SquaresInMatrix\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Progaming C# Advance\\02.MultidimensionalArrays-Exercise\\02.SquaresInMatrix\\Program.cs",
+              "RelativeToolTip": "02.SquaresInMatrix\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAiwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T09:54:47.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Progaming C# Advance\\02.MultidimensionalArrays-Exercise\\01.Diagonal Difference\\Program.cs",
+              "RelativeDocumentMoniker": "01.Diagonal Difference\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Progaming C# Advance\\02.MultidimensionalArrays-Exercise\\01.Diagonal Difference\\Program.cs",
+              "RelativeToolTip": "01.Diagonal Difference\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T09:52:14.616Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
