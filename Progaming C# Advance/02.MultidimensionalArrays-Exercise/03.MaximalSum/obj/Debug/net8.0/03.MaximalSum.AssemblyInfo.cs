@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("03.MaximalSum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a389456c1361413ca9951cef74249cc62f6d758")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+698c1fbf6db924c1908f25615d4f2b595c4d8b1e")]
 [assembly: System.Reflection.AssemblyProductAttribute("03.MaximalSum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("03.MaximalSum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

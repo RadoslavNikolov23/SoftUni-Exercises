@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Programing - Work\\Progaming C# Advance\\02.MultidimensionalArrays-Exercise\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{97E14140-C6FC-40F0-BCC9-C9097D279121}|05.SnakeMoves\\05.SnakeMoves.csproj|c:\\programing - work\\progaming c# advance\\02.multidimensionalarrays-exercise\\05.snakemoves\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E14140-C6FC-40F0-BCC9-C9097D279121}|05.SnakeMoves\\05.SnakeMoves.csproj|solutionrelative:05.snakemoves\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{194DE2C0-39B5-4E59-9068-B0311413D78C}|04.MatrixShuffling\\04.MatrixShuffling.csproj|c:\\programing - work\\progaming c# advance\\02.multidimensionalarrays-exercise\\04.matrixshuffling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{194DE2C0-39B5-4E59-9068-B0311413D78C}|04.MatrixShuffling\\04.MatrixShuffling.csproj|solutionrelative:04.matrixshuffling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -40,18 +44,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Progaming C# Advance\\02.MultidimensionalArrays-Exercise\\05.SnakeMoves\\Program.cs",
+              "RelativeDocumentMoniker": "05.SnakeMoves\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Progaming C# Advance\\02.MultidimensionalArrays-Exercise\\05.SnakeMoves\\Program.cs",
+              "RelativeToolTip": "05.SnakeMoves\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAiwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T20:05:33.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Programing - Work\\Progaming C# Advance\\02.MultidimensionalArrays-Exercise\\04.MatrixShuffling\\Program.cs",
               "RelativeDocumentMoniker": "04.MatrixShuffling\\Program.cs",
               "ToolTip": "C:\\Programing - Work\\Progaming C# Advance\\02.MultidimensionalArrays-Exercise\\04.MatrixShuffling\\Program.cs",
               "RelativeToolTip": "04.MatrixShuffling\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAUwCUAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAiwGoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-15T13:31:25.383Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Programing - Work\\Progaming C# Advance\\02.MultidimensionalArrays-Exercise\\03.MaximalSum\\Program.cs",
               "RelativeDocumentMoniker": "03.MaximalSum\\Program.cs",
@@ -64,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Programing - Work\\Progaming C# Advance\\02.MultidimensionalArrays-Exercise\\02.SquaresInMatrix\\Program.cs",
               "RelativeDocumentMoniker": "02.SquaresInMatrix\\Program.cs",
@@ -77,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Programing - Work\\Progaming C# Advance\\02.MultidimensionalArrays-Exercise\\01.Diagonal Difference\\Program.cs",
               "RelativeDocumentMoniker": "01.Diagonal Difference\\Program.cs",

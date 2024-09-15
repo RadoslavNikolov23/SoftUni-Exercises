@@ -1,0 +1,15 @@
+C:\Programing - Work\Progaming C# Advance\02.MultidimensionalArrays-Exercise\05.SnakeMoves\bin\Debug\net8.0\05.SnakeMoves.exe
+C:\Programing - Work\Progaming C# Advance\02.MultidimensionalArrays-Exercise\05.SnakeMoves\bin\Debug\net8.0\05.SnakeMoves.deps.json
+C:\Programing - Work\Progaming C# Advance\02.MultidimensionalArrays-Exercise\05.SnakeMoves\bin\Debug\net8.0\05.SnakeMoves.runtimeconfig.json
+C:\Programing - Work\Progaming C# Advance\02.MultidimensionalArrays-Exercise\05.SnakeMoves\bin\Debug\net8.0\05.SnakeMoves.dll
+C:\Programing - Work\Progaming C# Advance\02.MultidimensionalArrays-Exercise\05.SnakeMoves\bin\Debug\net8.0\05.SnakeMoves.pdb
+C:\Programing - Work\Progaming C# Advance\02.MultidimensionalArrays-Exercise\05.SnakeMoves\obj\Debug\net8.0\05.SnakeMoves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing - Work\Progaming C# Advance\02.MultidimensionalArrays-Exercise\05.SnakeMoves\obj\Debug\net8.0\05.SnakeMoves.AssemblyInfoInputs.cache
+C:\Programing - Work\Progaming C# Advance\02.MultidimensionalArrays-Exercise\05.SnakeMoves\obj\Debug\net8.0\05.SnakeMoves.AssemblyInfo.cs
+C:\Programing - Work\Progaming C# Advance\02.MultidimensionalArrays-Exercise\05.SnakeMoves\obj\Debug\net8.0\05.SnakeMoves.csproj.CoreCompileInputs.cache
+C:\Programing - Work\Progaming C# Advance\02.MultidimensionalArrays-Exercise\05.SnakeMoves\obj\Debug\net8.0\05.SnakeMoves.sourcelink.json
+C:\Programing - Work\Progaming C# Advance\02.MultidimensionalArrays-Exercise\05.SnakeMoves\obj\Debug\net8.0\05.SnakeMoves.dll
+C:\Programing - Work\Progaming C# Advance\02.MultidimensionalArrays-Exercise\05.SnakeMoves\obj\Debug\net8.0\refint\05.SnakeMoves.dll
+C:\Programing - Work\Progaming C# Advance\02.MultidimensionalArrays-Exercise\05.SnakeMoves\obj\Debug\net8.0\05.SnakeMoves.pdb
+C:\Programing - Work\Progaming C# Advance\02.MultidimensionalArrays-Exercise\05.SnakeMoves\obj\Debug\net8.0\05.SnakeMoves.genruntimeconfig.cache
+C:\Programing - Work\Progaming C# Advance\02.MultidimensionalArrays-Exercise\05.SnakeMoves\obj\Debug\net8.0\ref\05.SnakeMoves.dll
