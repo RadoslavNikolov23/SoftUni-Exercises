@@ -1,0 +1,15 @@
+C:\Programing - Work\Progaming C# Advance\03.SetsAndDictionariesAdvanced-Lab\05.CitiesbyContinentandCountry\bin\Debug\net8.0\05.CitiesbyContinentandCountry.exe
+C:\Programing - Work\Progaming C# Advance\03.SetsAndDictionariesAdvanced-Lab\05.CitiesbyContinentandCountry\bin\Debug\net8.0\05.CitiesbyContinentandCountry.deps.json
+C:\Programing - Work\Progaming C# Advance\03.SetsAndDictionariesAdvanced-Lab\05.CitiesbyContinentandCountry\bin\Debug\net8.0\05.CitiesbyContinentandCountry.runtimeconfig.json
+C:\Programing - Work\Progaming C# Advance\03.SetsAndDictionariesAdvanced-Lab\05.CitiesbyContinentandCountry\bin\Debug\net8.0\05.CitiesbyContinentandCountry.dll
+C:\Programing - Work\Progaming C# Advance\03.SetsAndDictionariesAdvanced-Lab\05.CitiesbyContinentandCountry\bin\Debug\net8.0\05.CitiesbyContinentandCountry.pdb
+C:\Programing - Work\Progaming C# Advance\03.SetsAndDictionariesAdvanced-Lab\05.CitiesbyContinentandCountry\obj\Debug\net8.0\05.CitiesbyContinentandCountry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing - Work\Progaming C# Advance\03.SetsAndDictionariesAdvanced-Lab\05.CitiesbyContinentandCountry\obj\Debug\net8.0\05.CitiesbyContinentandCountry.AssemblyInfoInputs.cache
+C:\Programing - Work\Progaming C# Advance\03.SetsAndDictionariesAdvanced-Lab\05.CitiesbyContinentandCountry\obj\Debug\net8.0\05.CitiesbyContinentandCountry.AssemblyInfo.cs
+C:\Programing - Work\Progaming C# Advance\03.SetsAndDictionariesAdvanced-Lab\05.CitiesbyContinentandCountry\obj\Debug\net8.0\05.CitiesbyContinentandCountry.csproj.CoreCompileInputs.cache
+C:\Programing - Work\Progaming C# Advance\03.SetsAndDictionariesAdvanced-Lab\05.CitiesbyContinentandCountry\obj\Debug\net8.0\05.CitiesbyContinentandCountry.sourcelink.json
+C:\Programing - Work\Progaming C# Advance\03.SetsAndDictionariesAdvanced-Lab\05.CitiesbyContinentandCountry\obj\Debug\net8.0\05.CitiesbyContinentandCountry.dll
+C:\Programing - Work\Progaming C# Advance\03.SetsAndDictionariesAdvanced-Lab\05.CitiesbyContinentandCountry\obj\Debug\net8.0\refint\05.CitiesbyContinentandCountry.dll
+C:\Programing - Work\Progaming C# Advance\03.SetsAndDictionariesAdvanced-Lab\05.CitiesbyContinentandCountry\obj\Debug\net8.0\05.CitiesbyContinentandCountry.pdb
+C:\Programing - Work\Progaming C# Advance\03.SetsAndDictionariesAdvanced-Lab\05.CitiesbyContinentandCountry\obj\Debug\net8.0\05.CitiesbyContinentandCountry.genruntimeconfig.cache
+C:\Programing - Work\Progaming C# Advance\03.SetsAndDictionariesAdvanced-Lab\05.CitiesbyContinentandCountry\obj\Debug\net8.0\ref\05.CitiesbyContinentandCountry.dll

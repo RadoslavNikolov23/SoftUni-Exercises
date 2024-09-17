@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Programing - Work\\Progaming C# Advance\\03.SetsAndDictionariesAdvanced-Lab\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0F8BAEE5-D696-421C-9386-00BD87D9CB6C}|05.CitiesbyContinentandCountry\\05.CitiesbyContinentandCountry.csproj|c:\\programing - work\\progaming c# advance\\03.setsanddictionariesadvanced-lab\\05.citiesbycontinentandcountry\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F8BAEE5-D696-421C-9386-00BD87D9CB6C}|05.CitiesbyContinentandCountry\\05.CitiesbyContinentandCountry.csproj|solutionrelative:05.citiesbycontinentandcountry\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC468F1F-FBA3-4D4E-9B1E-0044C9F2DFBE}|04.ProductShop\\04.ProductShop.csproj|c:\\programing - work\\progaming c# advance\\03.setsanddictionariesadvanced-lab\\04.productshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC468F1F-FBA3-4D4E-9B1E-0044C9F2DFBE}|04.ProductShop\\04.ProductShop.csproj|solutionrelative:04.productshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDED16EA-9F12-4969-9C98-3D5DDAD66F63}|03.Largest3Numbers\\03.Largest3Numbers.csproj|c:\\programing - work\\progaming c# advance\\03.setsanddictionariesadvanced-lab\\03.largest3numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDED16EA-9F12-4969-9C98-3D5DDAD66F63}|03.Largest3Numbers\\03.Largest3Numbers.csproj|solutionrelative:03.largest3numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DDA16FB4-35C1-4F09-B365-5638ACA2A083}|02.AverageStudentGrades\\02.AverageStudentGrades.csproj|c:\\programing - work\\progaming c# advance\\03.setsanddictionariesadvanced-lab\\02.averagestudentgrades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DDA16FB4-35C1-4F09-B365-5638ACA2A083}|02.AverageStudentGrades\\02.AverageStudentGrades.csproj|solutionrelative:02.averagestudentgrades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,28 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Progaming C# Advance\\03.SetsAndDictionariesAdvanced-Lab\\05.CitiesbyContinentandCountry\\Program.cs",
+              "RelativeDocumentMoniker": "05.CitiesbyContinentandCountry\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Progaming C# Advance\\03.SetsAndDictionariesAdvanced-Lab\\05.CitiesbyContinentandCountry\\Program.cs",
+              "RelativeToolTip": "05.CitiesbyContinentandCountry\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:10:59.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Progaming C# Advance\\03.SetsAndDictionariesAdvanced-Lab\\04.ProductShop\\Program.cs",
+              "RelativeDocumentMoniker": "04.ProductShop\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Progaming C# Advance\\03.SetsAndDictionariesAdvanced-Lab\\04.ProductShop\\Program.cs",
+              "RelativeToolTip": "04.ProductShop\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:58:10.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Progaming C# Advance\\03.SetsAndDictionariesAdvanced-Lab\\03.Largest3Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "03.Largest3Numbers\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Progaming C# Advance\\03.SetsAndDictionariesAdvanced-Lab\\03.Largest3Numbers\\Program.cs",
+              "RelativeToolTip": "03.Largest3Numbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:54:01.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Programing - Work\\Progaming C# Advance\\03.SetsAndDictionariesAdvanced-Lab\\02.AverageStudentGrades\\Program.cs",
               "RelativeDocumentMoniker": "02.AverageStudentGrades\\Program.cs",
               "ToolTip": "C:\\Programing - Work\\Progaming C# Advance\\03.SetsAndDictionariesAdvanced-Lab\\02.AverageStudentGrades\\Program.cs",
               "RelativeToolTip": "02.AverageStudentGrades\\Program.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAswBwAAABSAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T20:43:08.352Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Programing - Work\\Progaming C# Advance\\03.SetsAndDictionariesAdvanced-Lab\\01.CountSameValuesInArray\\Program.cs",
               "RelativeDocumentMoniker": "01.CountSameValuesInArray\\Program.cs",
@@ -47,12 +102,7 @@
               "RelativeToolTip": "01.CountSameValuesInArray\\Program.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAmwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T20:37:49.532Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-09-16T20:37:49.532Z"
             }
           ]
         }

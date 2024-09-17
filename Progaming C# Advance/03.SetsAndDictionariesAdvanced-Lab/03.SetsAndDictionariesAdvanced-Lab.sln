@@ -3,9 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.CountSameValuesInArray", "01.CountSameValuesInArray\01.CountSameValuesInArray.csproj", "{B13D4DF8-31AE-411A-9FD5-9E23FC29DD34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.CountSameValuesInArray", "01.CountSameValuesInArray\01.CountSameValuesInArray.csproj", "{B13D4DF8-31AE-411A-9FD5-9E23FC29DD34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.AverageStudentGrades", "02.AverageStudentGrades\02.AverageStudentGrades.csproj", "{DDA16FB4-35C1-4F09-B365-5638ACA2A083}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.AverageStudentGrades", "02.AverageStudentGrades\02.AverageStudentGrades.csproj", "{DDA16FB4-35C1-4F09-B365-5638ACA2A083}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Largest3Numbers", "03.Largest3Numbers\03.Largest3Numbers.csproj", "{FDED16EA-9F12-4969-9C98-3D5DDAD66F63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.ProductShop", "04.ProductShop\04.ProductShop.csproj", "{AC468F1F-FBA3-4D4E-9B1E-0044C9F2DFBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.CitiesbyContinentandCountry", "05.CitiesbyContinentandCountry\05.CitiesbyContinentandCountry.csproj", "{0F8BAEE5-D696-421C-9386-00BD87D9CB6C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{DDA16FB4-35C1-4F09-B365-5638ACA2A083}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDA16FB4-35C1-4F09-B365-5638ACA2A083}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDA16FB4-35C1-4F09-B365-5638ACA2A083}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDED16EA-9F12-4969-9C98-3D5DDAD66F63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDED16EA-9F12-4969-9C98-3D5DDAD66F63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDED16EA-9F12-4969-9C98-3D5DDAD66F63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDED16EA-9F12-4969-9C98-3D5DDAD66F63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC468F1F-FBA3-4D4E-9B1E-0044C9F2DFBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC468F1F-FBA3-4D4E-9B1E-0044C9F2DFBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC468F1F-FBA3-4D4E-9B1E-0044C9F2DFBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC468F1F-FBA3-4D4E-9B1E-0044C9F2DFBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F8BAEE5-D696-421C-9386-00BD87D9CB6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F8BAEE5-D696-421C-9386-00BD87D9CB6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F8BAEE5-D696-421C-9386-00BD87D9CB6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F8BAEE5-D696-421C-9386-00BD87D9CB6C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
