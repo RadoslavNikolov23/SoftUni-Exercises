@@ -1,0 +1,15 @@
+C:\Programing - Work\Progaming C# Advance\04. Streams, Files and Directories-Lab\WordCount\bin\Debug\net6.0\WordCount.exe
+C:\Programing - Work\Progaming C# Advance\04. Streams, Files and Directories-Lab\WordCount\bin\Debug\net6.0\WordCount.deps.json
+C:\Programing - Work\Progaming C# Advance\04. Streams, Files and Directories-Lab\WordCount\bin\Debug\net6.0\WordCount.runtimeconfig.json
+C:\Programing - Work\Progaming C# Advance\04. Streams, Files and Directories-Lab\WordCount\bin\Debug\net6.0\WordCount.dll
+C:\Programing - Work\Progaming C# Advance\04. Streams, Files and Directories-Lab\WordCount\bin\Debug\net6.0\WordCount.pdb
+C:\Programing - Work\Progaming C# Advance\04. Streams, Files and Directories-Lab\WordCount\obj\Debug\net6.0\WordCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing - Work\Progaming C# Advance\04. Streams, Files and Directories-Lab\WordCount\obj\Debug\net6.0\WordCount.AssemblyInfoInputs.cache
+C:\Programing - Work\Progaming C# Advance\04. Streams, Files and Directories-Lab\WordCount\obj\Debug\net6.0\WordCount.AssemblyInfo.cs
+C:\Programing - Work\Progaming C# Advance\04. Streams, Files and Directories-Lab\WordCount\obj\Debug\net6.0\WordCount.csproj.CoreCompileInputs.cache
+C:\Programing - Work\Progaming C# Advance\04. Streams, Files and Directories-Lab\WordCount\obj\Debug\net6.0\WordCount.sourcelink.json
+C:\Programing - Work\Progaming C# Advance\04. Streams, Files and Directories-Lab\WordCount\obj\Debug\net6.0\WordCount.dll
+C:\Programing - Work\Progaming C# Advance\04. Streams, Files and Directories-Lab\WordCount\obj\Debug\net6.0\refint\WordCount.dll
+C:\Programing - Work\Progaming C# Advance\04. Streams, Files and Directories-Lab\WordCount\obj\Debug\net6.0\WordCount.pdb
+C:\Programing - Work\Progaming C# Advance\04. Streams, Files and Directories-Lab\WordCount\obj\Debug\net6.0\WordCount.genruntimeconfig.cache
+C:\Programing - Work\Progaming C# Advance\04. Streams, Files and Directories-Lab\WordCount\obj\Debug\net6.0\ref\WordCount.dll

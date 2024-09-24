@@ -1,0 +1,15 @@
+C:\Programing - Work\Progaming C# Advance\04. Streams, Files and Directories-Lab\SplitMergeBinaryFile\bin\Debug\net6.0\SplitMergeBinaryFile.exe
+C:\Programing - Work\Progaming C# Advance\04. Streams, Files and Directories-Lab\SplitMergeBinaryFile\bin\Debug\net6.0\SplitMergeBinaryFile.deps.json
+C:\Programing - Work\Progaming C# Advance\04. Streams, Files and Directories-Lab\SplitMergeBinaryFile\bin\Debug\net6.0\SplitMergeBinaryFile.runtimeconfig.json
+C:\Programing - Work\Progaming C# Advance\04. Streams, Files and Directories-Lab\SplitMergeBinaryFile\bin\Debug\net6.0\SplitMergeBinaryFile.dll
+C:\Programing - Work\Progaming C# Advance\04. Streams, Files and Directories-Lab\SplitMergeBinaryFile\bin\Debug\net6.0\SplitMergeBinaryFile.pdb
+C:\Programing - Work\Progaming C# Advance\04. Streams, Files and Directories-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\SplitMergeBinaryFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing - Work\Progaming C# Advance\04. Streams, Files and Directories-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\SplitMergeBinaryFile.AssemblyInfoInputs.cache
+C:\Programing - Work\Progaming C# Advance\04. Streams, Files and Directories-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\SplitMergeBinaryFile.AssemblyInfo.cs
+C:\Programing - Work\Progaming C# Advance\04. Streams, Files and Directories-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\SplitMergeBinaryFile.csproj.CoreCompileInputs.cache
+C:\Programing - Work\Progaming C# Advance\04. Streams, Files and Directories-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\SplitMergeBinaryFile.sourcelink.json
+C:\Programing - Work\Progaming C# Advance\04. Streams, Files and Directories-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\SplitMergeBinaryFile.dll
+C:\Programing - Work\Progaming C# Advance\04. Streams, Files and Directories-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\refint\SplitMergeBinaryFile.dll
+C:\Programing - Work\Progaming C# Advance\04. Streams, Files and Directories-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\SplitMergeBinaryFile.pdb
+C:\Programing - Work\Progaming C# Advance\04. Streams, Files and Directories-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\SplitMergeBinaryFile.genruntimeconfig.cache
+C:\Programing - Work\Progaming C# Advance\04. Streams, Files and Directories-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\ref\SplitMergeBinaryFile.dll

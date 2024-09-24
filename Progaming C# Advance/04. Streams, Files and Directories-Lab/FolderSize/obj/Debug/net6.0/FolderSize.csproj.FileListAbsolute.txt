@@ -1,0 +1,15 @@
+C:\Programing - Work\Progaming C# Advance\04. Streams, Files and Directories-Lab\FolderSize\bin\Debug\net6.0\FolderSize.exe
+C:\Programing - Work\Progaming C# Advance\04. Streams, Files and Directories-Lab\FolderSize\bin\Debug\net6.0\FolderSize.deps.json
+C:\Programing - Work\Progaming C# Advance\04. Streams, Files and Directories-Lab\FolderSize\bin\Debug\net6.0\FolderSize.runtimeconfig.json
+C:\Programing - Work\Progaming C# Advance\04. Streams, Files and Directories-Lab\FolderSize\bin\Debug\net6.0\FolderSize.dll
+C:\Programing - Work\Progaming C# Advance\04. Streams, Files and Directories-Lab\FolderSize\bin\Debug\net6.0\FolderSize.pdb
+C:\Programing - Work\Progaming C# Advance\04. Streams, Files and Directories-Lab\FolderSize\obj\Debug\net6.0\FolderSize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing - Work\Progaming C# Advance\04. Streams, Files and Directories-Lab\FolderSize\obj\Debug\net6.0\FolderSize.AssemblyInfoInputs.cache
+C:\Programing - Work\Progaming C# Advance\04. Streams, Files and Directories-Lab\FolderSize\obj\Debug\net6.0\FolderSize.AssemblyInfo.cs
+C:\Programing - Work\Progaming C# Advance\04. Streams, Files and Directories-Lab\FolderSize\obj\Debug\net6.0\FolderSize.csproj.CoreCompileInputs.cache
+C:\Programing - Work\Progaming C# Advance\04. Streams, Files and Directories-Lab\FolderSize\obj\Debug\net6.0\FolderSize.sourcelink.json
+C:\Programing - Work\Progaming C# Advance\04. Streams, Files and Directories-Lab\FolderSize\obj\Debug\net6.0\FolderSize.dll
+C:\Programing - Work\Progaming C# Advance\04. Streams, Files and Directories-Lab\FolderSize\obj\Debug\net6.0\refint\FolderSize.dll
+C:\Programing - Work\Progaming C# Advance\04. Streams, Files and Directories-Lab\FolderSize\obj\Debug\net6.0\FolderSize.pdb
+C:\Programing - Work\Progaming C# Advance\04. Streams, Files and Directories-Lab\FolderSize\obj\Debug\net6.0\FolderSize.genruntimeconfig.cache
+C:\Programing - Work\Progaming C# Advance\04. Streams, Files and Directories-Lab\FolderSize\obj\Debug\net6.0\ref\FolderSize.dll
