@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programing - Work\\Progaming C# Advance\\04. Streams, Files and Directories-Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46FD4DAE-85D2-4FA9-9C18-70C69E55A5D1}|ZipAndExtract\\ZipAndExtract.csproj|c:\\programing - work\\progaming c# advance\\04. streams, files and directories-exercise\\zipandextract\\zipandextract .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46FD4DAE-85D2-4FA9-9C18-70C69E55A5D1}|ZipAndExtract\\ZipAndExtract.csproj|solutionrelative:zipandextract\\zipandextract .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ZipAndExtract .cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Progaming C# Advance\\04. Streams, Files and Directories-Exercise\\ZipAndExtract\\ZipAndExtract .cs",
+              "RelativeDocumentMoniker": "ZipAndExtract\\ZipAndExtract .cs",
+              "ToolTip": "C:\\Programing - Work\\Progaming C# Advance\\04. Streams, Files and Directories-Exercise\\ZipAndExtract\\ZipAndExtract .cs",
+              "RelativeToolTip": "ZipAndExtract\\ZipAndExtract .cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA0wBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T19:12:14.776Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
