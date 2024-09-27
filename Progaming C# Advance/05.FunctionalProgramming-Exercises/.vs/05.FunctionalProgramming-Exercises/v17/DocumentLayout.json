@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programing - Work\\Progaming C# Advance\\05.FunctionalProgramming-Exercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEEC5B1-2C3B-4A59-A342-BDE5393A8886}|07.PredicateForNames\\07.PredicateForNames.csproj|c:\\programing - work\\progaming c# advance\\05.functionalprogramming-exercises\\07.predicatefornames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BEEC5B1-2C3B-4A59-A342-BDE5393A8886}|07.PredicateForNames\\07.PredicateForNames.csproj|solutionrelative:07.predicatefornames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39AED3E7-23AC-4D6A-8992-2267AD7BD662}|06.ReverseAndExclude\\06.ReverseAndExclude.csproj|c:\\programing - work\\progaming c# advance\\05.functionalprogramming-exercises\\06.reverseandexclude\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39AED3E7-23AC-4D6A-8992-2267AD7BD662}|06.ReverseAndExclude\\06.ReverseAndExclude.csproj|solutionrelative:06.reverseandexclude\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8ED641-5BEC-43FF-8C68-BCCA7D9E265F}|05.AppliedArithmetics\\05.AppliedArithmetics.csproj|c:\\programing - work\\progaming c# advance\\05.functionalprogramming-exercises\\05.appliedarithmetics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8ED641-5BEC-43FF-8C68-BCCA7D9E265F}|05.AppliedArithmetics\\05.AppliedArithmetics.csproj|solutionrelative:05.appliedarithmetics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E0EE1F-24C5-453A-916B-7DF768579861}|03.CustomMinFunction\\03.CustomMinFunction.csproj|c:\\programing - work\\progaming c# advance\\05.functionalprogramming-exercises\\03.customminfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E0EE1F-24C5-453A-916B-7DF768579861}|03.CustomMinFunction\\03.CustomMinFunction.csproj|solutionrelative:03.customminfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE727D99-9B65-464F-9932-3B2C414421DE}|02.KnightsOfHonor\\02.KnightsOfHonor.csproj|c:\\programing - work\\progaming c# advance\\05.functionalprogramming-exercises\\02.knightsofhonor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE727D99-9B65-464F-9932-3B2C414421DE}|02.KnightsOfHonor\\02.KnightsOfHonor.csproj|solutionrelative:02.knightsofhonor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51D670F-EB2B-460C-868C-AAB0E9F5ED46}|01.ActionPrint\\01.ActionPrint.csproj|c:\\programing - work\\progaming c# advance\\05.functionalprogramming-exercises\\01.actionprint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51D670F-EB2B-460C-868C-AAB0E9F5ED46}|01.ActionPrint\\01.ActionPrint.csproj|solutionrelative:01.actionprint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Progaming C# Advance\\05.FunctionalProgramming-Exercises\\07.PredicateForNames\\Program.cs",
+              "RelativeDocumentMoniker": "07.PredicateForNames\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Progaming C# Advance\\05.FunctionalProgramming-Exercises\\07.PredicateForNames\\Program.cs",
+              "RelativeToolTip": "07.PredicateForNames\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T15:24:29.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Progaming C# Advance\\05.FunctionalProgramming-Exercises\\06.ReverseAndExclude\\Program.cs",
+              "RelativeDocumentMoniker": "06.ReverseAndExclude\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Progaming C# Advance\\05.FunctionalProgramming-Exercises\\06.ReverseAndExclude\\Program.cs",
+              "RelativeToolTip": "06.ReverseAndExclude\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T14:59:26.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Progaming C# Advance\\05.FunctionalProgramming-Exercises\\03.CustomMinFunction\\Program.cs",
+              "RelativeDocumentMoniker": "03.CustomMinFunction\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Progaming C# Advance\\05.FunctionalProgramming-Exercises\\03.CustomMinFunction\\Program.cs",
+              "RelativeToolTip": "03.CustomMinFunction\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwBEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T14:47:58.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Progaming C# Advance\\05.FunctionalProgramming-Exercises\\02.KnightsOfHonor\\Program.cs",
+              "RelativeDocumentMoniker": "02.KnightsOfHonor\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Progaming C# Advance\\05.FunctionalProgramming-Exercises\\02.KnightsOfHonor\\Program.cs",
+              "RelativeToolTip": "02.KnightsOfHonor\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T14:47:55.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Progaming C# Advance\\05.FunctionalProgramming-Exercises\\01.ActionPrint\\Program.cs",
+              "RelativeDocumentMoniker": "01.ActionPrint\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Progaming C# Advance\\05.FunctionalProgramming-Exercises\\01.ActionPrint\\Program.cs",
+              "RelativeToolTip": "01.ActionPrint\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T14:47:53.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Progaming C# Advance\\05.FunctionalProgramming-Exercises\\05.AppliedArithmetics\\Program.cs",
+              "RelativeDocumentMoniker": "05.AppliedArithmetics\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Progaming C# Advance\\05.FunctionalProgramming-Exercises\\05.AppliedArithmetics\\Program.cs",
+              "RelativeToolTip": "05.AppliedArithmetics\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAkwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T14:46:43.331Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Programing - Work\Progaming C# Advance\05.FunctionalProgramming-Exercises\06.ReverseAndExclude\bin\Debug\net8.0\06.ReverseAndExclude.exe
+C:\Programing - Work\Progaming C# Advance\05.FunctionalProgramming-Exercises\06.ReverseAndExclude\bin\Debug\net8.0\06.ReverseAndExclude.deps.json
+C:\Programing - Work\Progaming C# Advance\05.FunctionalProgramming-Exercises\06.ReverseAndExclude\bin\Debug\net8.0\06.ReverseAndExclude.runtimeconfig.json
+C:\Programing - Work\Progaming C# Advance\05.FunctionalProgramming-Exercises\06.ReverseAndExclude\bin\Debug\net8.0\06.ReverseAndExclude.dll
+C:\Programing - Work\Progaming C# Advance\05.FunctionalProgramming-Exercises\06.ReverseAndExclude\bin\Debug\net8.0\06.ReverseAndExclude.pdb
+C:\Programing - Work\Progaming C# Advance\05.FunctionalProgramming-Exercises\06.ReverseAndExclude\obj\Debug\net8.0\06.ReverseAndExclude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing - Work\Progaming C# Advance\05.FunctionalProgramming-Exercises\06.ReverseAndExclude\obj\Debug\net8.0\06.ReverseAndExclude.AssemblyInfoInputs.cache
+C:\Programing - Work\Progaming C# Advance\05.FunctionalProgramming-Exercises\06.ReverseAndExclude\obj\Debug\net8.0\06.ReverseAndExclude.AssemblyInfo.cs
+C:\Programing - Work\Progaming C# Advance\05.FunctionalProgramming-Exercises\06.ReverseAndExclude\obj\Debug\net8.0\06.ReverseAndExclude.csproj.CoreCompileInputs.cache
+C:\Programing - Work\Progaming C# Advance\05.FunctionalProgramming-Exercises\06.ReverseAndExclude\obj\Debug\net8.0\06.ReverseAndExclude.sourcelink.json
+C:\Programing - Work\Progaming C# Advance\05.FunctionalProgramming-Exercises\06.ReverseAndExclude\obj\Debug\net8.0\06.ReverseAndExclude.dll
+C:\Programing - Work\Progaming C# Advance\05.FunctionalProgramming-Exercises\06.ReverseAndExclude\obj\Debug\net8.0\refint\06.ReverseAndExclude.dll
+C:\Programing - Work\Progaming C# Advance\05.FunctionalProgramming-Exercises\06.ReverseAndExclude\obj\Debug\net8.0\06.ReverseAndExclude.pdb
+C:\Programing - Work\Progaming C# Advance\05.FunctionalProgramming-Exercises\06.ReverseAndExclude\obj\Debug\net8.0\06.ReverseAndExclude.genruntimeconfig.cache
+C:\Programing - Work\Progaming C# Advance\05.FunctionalProgramming-Exercises\06.ReverseAndExclude\obj\Debug\net8.0\ref\06.ReverseAndExclude.dll
