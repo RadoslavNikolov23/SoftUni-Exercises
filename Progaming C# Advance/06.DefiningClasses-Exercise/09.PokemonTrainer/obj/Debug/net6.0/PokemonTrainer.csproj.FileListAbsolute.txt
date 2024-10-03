@@ -1,0 +1,15 @@
+C:\Programing - Work\Progaming C# Advance\06.DefiningClasses-Exercise\PokemonTrainer\bin\Debug\net6.0\PokemonTrainer.exe
+C:\Programing - Work\Progaming C# Advance\06.DefiningClasses-Exercise\PokemonTrainer\bin\Debug\net6.0\PokemonTrainer.deps.json
+C:\Programing - Work\Progaming C# Advance\06.DefiningClasses-Exercise\PokemonTrainer\bin\Debug\net6.0\PokemonTrainer.runtimeconfig.json
+C:\Programing - Work\Progaming C# Advance\06.DefiningClasses-Exercise\PokemonTrainer\bin\Debug\net6.0\PokemonTrainer.dll
+C:\Programing - Work\Progaming C# Advance\06.DefiningClasses-Exercise\PokemonTrainer\bin\Debug\net6.0\PokemonTrainer.pdb
+C:\Programing - Work\Progaming C# Advance\06.DefiningClasses-Exercise\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing - Work\Progaming C# Advance\06.DefiningClasses-Exercise\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.AssemblyInfoInputs.cache
+C:\Programing - Work\Progaming C# Advance\06.DefiningClasses-Exercise\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.AssemblyInfo.cs
+C:\Programing - Work\Progaming C# Advance\06.DefiningClasses-Exercise\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.csproj.CoreCompileInputs.cache
+C:\Programing - Work\Progaming C# Advance\06.DefiningClasses-Exercise\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.sourcelink.json
+C:\Programing - Work\Progaming C# Advance\06.DefiningClasses-Exercise\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.dll
+C:\Programing - Work\Progaming C# Advance\06.DefiningClasses-Exercise\PokemonTrainer\obj\Debug\net6.0\refint\PokemonTrainer.dll
+C:\Programing - Work\Progaming C# Advance\06.DefiningClasses-Exercise\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.pdb
+C:\Programing - Work\Progaming C# Advance\06.DefiningClasses-Exercise\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.genruntimeconfig.cache
+C:\Programing - Work\Progaming C# Advance\06.DefiningClasses-Exercise\PokemonTrainer\obj\Debug\net6.0\ref\PokemonTrainer.dll
