@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programing - Work\\Progaming C# Advance\\07.Generics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58846151-D48D-4864-A455-EA3E070BE56E}|03.GenericScale\\GenericScale.csproj|c:\\programing - work\\progaming c# advance\\07.generics\\03.genericscale\\equalityscale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58846151-D48D-4864-A455-EA3E070BE56E}|03.GenericScale\\GenericScale.csproj|solutionrelative:03.genericscale\\equalityscale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58846151-D48D-4864-A455-EA3E070BE56E}|03.GenericScale\\03.GenericScale.csproj|c:\\programing - work\\progaming c# advance\\07.generics\\03.genericscale\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58846151-D48D-4864-A455-EA3E070BE56E}|03.GenericScale\\03.GenericScale.csproj|solutionrelative:03.genericscale\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EqualityScale.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Progaming C# Advance\\07.Generics\\03.GenericScale\\EqualityScale.cs",
+              "RelativeDocumentMoniker": "03.GenericScale\\EqualityScale.cs",
+              "ToolTip": "C:\\Programing - Work\\Progaming C# Advance\\07.Generics\\03.GenericScale\\EqualityScale.cs",
+              "RelativeToolTip": "03.GenericScale\\EqualityScale.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T10:47:08.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Progaming C# Advance\\07.Generics\\03.GenericScale\\Program.cs",
+              "RelativeDocumentMoniker": "03.GenericScale\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Progaming C# Advance\\07.Generics\\03.GenericScale\\Program.cs",
+              "RelativeToolTip": "03.GenericScale\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T10:46:21.295Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
