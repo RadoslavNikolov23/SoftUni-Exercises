@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Programing - Work\\Progaming C# Advance\\07.Generics-Exercises\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{34373095-E0FB-4AD5-AD48-0DF7CC01B6D8}|05.GenericCountMethodStrings\\05.GenericCountMethodStrings.csproj|c:\\programing - work\\progaming c# advance\\07.generics-exercises\\05.genericcountmethodstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34373095-E0FB-4AD5-AD48-0DF7CC01B6D8}|05.GenericCountMethodStrings\\05.GenericCountMethodStrings.csproj|solutionrelative:05.genericcountmethodstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D8EF676-A1D8-4466-BBF8-D2200CB9D61A}|08.Threeuple\\08.Threeuple.csproj|c:\\programing - work\\progaming c# advance\\07.generics-exercises\\08.threeuple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D8EF676-A1D8-4466-BBF8-D2200CB9D61A}|08.Threeuple\\08.Threeuple.csproj|solutionrelative:08.threeuple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8EF676-A1D8-4466-BBF8-D2200CB9D61A}|08.Threeuple\\08.Threeuple.csproj|c:\\programing - work\\progaming c# advance\\07.generics-exercises\\08.threeuple\\tuple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D8EF676-A1D8-4466-BBF8-D2200CB9D61A}|08.Threeuple\\08.Threeuple.csproj|solutionrelative:08.threeuple\\tuple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +26,28 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tuple.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Progaming C# Advance\\07.Generics-Exercises\\08.Threeuple\\Tuple.cs",
+              "RelativeDocumentMoniker": "08.Threeuple\\Tuple.cs",
+              "ToolTip": "C:\\Programing - Work\\Progaming C# Advance\\07.Generics-Exercises\\08.Threeuple\\Tuple.cs",
+              "RelativeToolTip": "08.Threeuple\\Tuple.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T13:12:23.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Programing - Work\\Progaming C# Advance\\07.Generics-Exercises\\05.GenericCountMethodStrings\\Program.cs",
-              "RelativeDocumentMoniker": "05.GenericCountMethodStrings\\Program.cs",
-              "ToolTip": "C:\\Programing - Work\\Progaming C# Advance\\07.Generics-Exercises\\05.GenericCountMethodStrings\\Program.cs",
-              "RelativeToolTip": "05.GenericCountMethodStrings\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwBwAAAAmAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Programing - Work\\Progaming C# Advance\\07.Generics-Exercises\\08.Threeuple\\Program.cs",
+              "RelativeDocumentMoniker": "08.Threeuple\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Progaming C# Advance\\07.Generics-Exercises\\08.Threeuple\\Program.cs",
+              "RelativeToolTip": "08.Threeuple\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwBkAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T12:41:41.652Z",
+              "WhenOpened": "2024-10-06T13:11:52.976Z",
               "EditorCaption": ""
             }
           ]

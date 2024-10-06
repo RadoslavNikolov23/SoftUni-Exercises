@@ -1,0 +1,15 @@
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\07.Tuple\bin\Debug\net6.0\07.Tuple.exe
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\07.Tuple\bin\Debug\net6.0\07.Tuple.deps.json
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\07.Tuple\bin\Debug\net6.0\07.Tuple.runtimeconfig.json
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\07.Tuple\bin\Debug\net6.0\07.Tuple.dll
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\07.Tuple\bin\Debug\net6.0\07.Tuple.pdb
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\07.Tuple\obj\Debug\net6.0\07.Tuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\07.Tuple\obj\Debug\net6.0\07.Tuple.AssemblyInfoInputs.cache
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\07.Tuple\obj\Debug\net6.0\07.Tuple.AssemblyInfo.cs
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\07.Tuple\obj\Debug\net6.0\07.Tuple.csproj.CoreCompileInputs.cache
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\07.Tuple\obj\Debug\net6.0\07.Tuple.sourcelink.json
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\07.Tuple\obj\Debug\net6.0\07.Tuple.dll
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\07.Tuple\obj\Debug\net6.0\refint\07.Tuple.dll
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\07.Tuple\obj\Debug\net6.0\07.Tuple.pdb
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\07.Tuple\obj\Debug\net6.0\07.Tuple.genruntimeconfig.cache
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\07.Tuple\obj\Debug\net6.0\ref\07.Tuple.dll

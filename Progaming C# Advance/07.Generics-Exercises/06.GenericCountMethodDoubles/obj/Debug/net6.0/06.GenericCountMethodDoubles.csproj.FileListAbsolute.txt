@@ -1,0 +1,15 @@
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\06.GenericCountMethodDoubles\bin\Debug\net6.0\06.GenericCountMethodDoubles.exe
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\06.GenericCountMethodDoubles\bin\Debug\net6.0\06.GenericCountMethodDoubles.deps.json
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\06.GenericCountMethodDoubles\bin\Debug\net6.0\06.GenericCountMethodDoubles.runtimeconfig.json
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\06.GenericCountMethodDoubles\bin\Debug\net6.0\06.GenericCountMethodDoubles.dll
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\06.GenericCountMethodDoubles\bin\Debug\net6.0\06.GenericCountMethodDoubles.pdb
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\06.GenericCountMethodDoubles\obj\Debug\net6.0\06.GenericCountMethodDoubles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\06.GenericCountMethodDoubles\obj\Debug\net6.0\06.GenericCountMethodDoubles.AssemblyInfoInputs.cache
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\06.GenericCountMethodDoubles\obj\Debug\net6.0\06.GenericCountMethodDoubles.AssemblyInfo.cs
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\06.GenericCountMethodDoubles\obj\Debug\net6.0\06.GenericCountMethodDoubles.csproj.CoreCompileInputs.cache
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\06.GenericCountMethodDoubles\obj\Debug\net6.0\06.GenericCountMethodDoubles.sourcelink.json
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\06.GenericCountMethodDoubles\obj\Debug\net6.0\06.GenericCountMethodDoubles.dll
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\06.GenericCountMethodDoubles\obj\Debug\net6.0\refint\06.GenericCountMethodDoubles.dll
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\06.GenericCountMethodDoubles\obj\Debug\net6.0\06.GenericCountMethodDoubles.pdb
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\06.GenericCountMethodDoubles\obj\Debug\net6.0\06.GenericCountMethodDoubles.genruntimeconfig.cache
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\06.GenericCountMethodDoubles\obj\Debug\net6.0\ref\06.GenericCountMethodDoubles.dll
