@@ -1,0 +1,15 @@
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\04.GenericSwapMethodIntegers\bin\Debug\net6.0\04.GenericSwapMethodIntegers.exe
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\04.GenericSwapMethodIntegers\bin\Debug\net6.0\04.GenericSwapMethodIntegers.deps.json
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\04.GenericSwapMethodIntegers\bin\Debug\net6.0\04.GenericSwapMethodIntegers.runtimeconfig.json
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\04.GenericSwapMethodIntegers\bin\Debug\net6.0\04.GenericSwapMethodIntegers.dll
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\04.GenericSwapMethodIntegers\bin\Debug\net6.0\04.GenericSwapMethodIntegers.pdb
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\04.GenericSwapMethodIntegers\obj\Debug\net6.0\04.GenericSwapMethodIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\04.GenericSwapMethodIntegers\obj\Debug\net6.0\04.GenericSwapMethodIntegers.AssemblyInfoInputs.cache
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\04.GenericSwapMethodIntegers\obj\Debug\net6.0\04.GenericSwapMethodIntegers.AssemblyInfo.cs
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\04.GenericSwapMethodIntegers\obj\Debug\net6.0\04.GenericSwapMethodIntegers.csproj.CoreCompileInputs.cache
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\04.GenericSwapMethodIntegers\obj\Debug\net6.0\04.GenericSwapMethodIntegers.sourcelink.json
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\04.GenericSwapMethodIntegers\obj\Debug\net6.0\04.GenericSwapMethodIntegers.dll
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\04.GenericSwapMethodIntegers\obj\Debug\net6.0\refint\04.GenericSwapMethodIntegers.dll
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\04.GenericSwapMethodIntegers\obj\Debug\net6.0\04.GenericSwapMethodIntegers.pdb
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\04.GenericSwapMethodIntegers\obj\Debug\net6.0\04.GenericSwapMethodIntegers.genruntimeconfig.cache
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\04.GenericSwapMethodIntegers\obj\Debug\net6.0\ref\04.GenericSwapMethodIntegers.dll

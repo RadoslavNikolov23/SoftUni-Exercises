@@ -1,0 +1,15 @@
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\05.GenericCountMethodStrings\bin\Debug\net6.0\05.GenericCountMethodStrings.exe
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\05.GenericCountMethodStrings\bin\Debug\net6.0\05.GenericCountMethodStrings.deps.json
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\05.GenericCountMethodStrings\bin\Debug\net6.0\05.GenericCountMethodStrings.runtimeconfig.json
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\05.GenericCountMethodStrings\bin\Debug\net6.0\05.GenericCountMethodStrings.dll
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\05.GenericCountMethodStrings\bin\Debug\net6.0\05.GenericCountMethodStrings.pdb
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\05.GenericCountMethodStrings\obj\Debug\net6.0\05.GenericCountMethodStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\05.GenericCountMethodStrings\obj\Debug\net6.0\05.GenericCountMethodStrings.AssemblyInfoInputs.cache
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\05.GenericCountMethodStrings\obj\Debug\net6.0\05.GenericCountMethodStrings.AssemblyInfo.cs
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\05.GenericCountMethodStrings\obj\Debug\net6.0\05.GenericCountMethodStrings.csproj.CoreCompileInputs.cache
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\05.GenericCountMethodStrings\obj\Debug\net6.0\05.GenericCountMethodStrings.sourcelink.json
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\05.GenericCountMethodStrings\obj\Debug\net6.0\05.GenericCountMethodStrings.dll
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\05.GenericCountMethodStrings\obj\Debug\net6.0\refint\05.GenericCountMethodStrings.dll
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\05.GenericCountMethodStrings\obj\Debug\net6.0\05.GenericCountMethodStrings.pdb
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\05.GenericCountMethodStrings\obj\Debug\net6.0\05.GenericCountMethodStrings.genruntimeconfig.cache
+C:\Programing - Work\Progaming C# Advance\07.Generics-Exercises\05.GenericCountMethodStrings\obj\Debug\net6.0\ref\05.GenericCountMethodStrings.dll
