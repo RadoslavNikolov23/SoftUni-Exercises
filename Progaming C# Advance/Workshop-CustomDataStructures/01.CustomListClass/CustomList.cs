@@ -12,12 +12,12 @@ namespace _01.CustomListClass
         {
             this.items = new int[InitialCapacity];
         }
-     
+
         public int Cout { get; set; }
 
         public int this[int index]
         {
-            get 
+            get
             {
                 if (index >= this.Cout)
                 {
@@ -31,7 +31,7 @@ namespace _01.CustomListClass
                 {
                     throw new ArgumentOutOfRangeException("Index is out of range");
                 }
-                items[index]=value;
+                items[index] = value;
 
             }
         }
@@ -40,7 +40,7 @@ namespace _01.CustomListClass
         {
             int[] newArray = new int[this.items.Length * 2];
 
-            for(int i = 0; i < this.items.Length; i++)
+            for (int i = 0; i < this.items.Length; i++)
             {
                 newArray[i] = this.items[i];
             }
@@ -50,7 +50,7 @@ namespace _01.CustomListClass
 
         private void Shift(int index)
         {
-            for(int i = index; i < this.Cout-1; i++)
+            for (int i = index; i < this.Cout - 1; i++)
             {
                 this.items[i] = this.items[i + 1];
             }
@@ -59,7 +59,7 @@ namespace _01.CustomListClass
 
         private void Shrink()
         {
-            int[] newArray = new int[this.items.Length/2];
+            int[] newArray = new int[this.items.Length / 2];
 
             for (int i = 0; i < this.items.Length; i++)
             {
@@ -91,7 +91,7 @@ namespace _01.CustomListClass
             this.Shift(index);
             this.Cout--;
 
-            if (Cout<=this.items.Length/4)
+            if (Cout <= this.items.Length / 4)
             {
                 this.Shrink();
             }
@@ -101,7 +101,7 @@ namespace _01.CustomListClass
 
         public void ShiftToRight(int index)
         {
-            for(int i = Cout; i > index; i--)
+            for (int i = Cout; i > index; i--)
             {
                 this.items[i] = this.items[i - i];
             }
@@ -141,11 +141,61 @@ namespace _01.CustomListClass
             return contains;
         }
 
-        public void  Swap(int firstIndex, int secondIndex)
+        public void Swap(int firstIndex, int secondIndex)
         {
             int tempValue = this.items[firstIndex];
             this.items[firstIndex] = this.items[secondIndex];
             this.items[secondIndex] = tempValue;
+        }
+
+        public int Find(Predicate<int> predicate)
+        {
+            int element = default;
+
+            for (int i = 0; i < this.items.Length; i++)
+            {
+                if (predicate(this.items[i]))
+                {
+                    element = this.items[i];
+                    break;
+                }
+            }
+
+            return element;
+        }
+
+        public void ForEach(Action<int> action)
+        {
+            for (int i = 0; i < this.items.Length; i++)
+            {
+                action(this.items[i]);
+            }
+
+        }
+
+        public void Reverse()
+        {
+            int[] tempArray = new int[this.items.Length];
+            int opposite = 0;
+
+            for (int i = this.items.Length - 1; i >= 0; i--)
+            {
+                tempArray[opposite++] = this.items[i];
+            }
+
+            this.items = tempArray;
+
+        }
+
+        public override string ToString()
+        {
+            StringBuilder sbResult = new StringBuilder();
+
+            for (int i = 0; i < this.items.Length; i++)
+            {
+                sbResult.AppendLine(this.items[i].ToString());
+            }
+            return sbResult.ToString();
         }
     }
 }

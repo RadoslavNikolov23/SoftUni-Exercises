@@ -33,15 +33,7 @@ namespace _03.CustomQueueClass
 
         }
 
-        private void ShrinkQueue()
-        {
-            int[] tempArray = new int[this.items.Length / 2];
 
-            tempArray.CopyTo(this.items, 0);
-
-            this.items = tempArray;
-
-        }
         public void Enqueue(int element)
         {
             if (this.Count == this.items.Length)
@@ -106,7 +98,7 @@ namespace _03.CustomQueueClass
            
                 this.count=0;
             */
-            ShrinkQueue();
+          
         }
 
     }
