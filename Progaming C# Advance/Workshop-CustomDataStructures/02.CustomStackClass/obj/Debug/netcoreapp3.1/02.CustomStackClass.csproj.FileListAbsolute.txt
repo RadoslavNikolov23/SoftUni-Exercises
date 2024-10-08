@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\08.Workshop-CustomDataStructures\02.CustomStackClass\bin\Debug\netcoreapp3.1\02.CustomStackClass.exe
+C:\Users\PC\source\repos\08.Workshop-CustomDataStructures\02.CustomStackClass\bin\Debug\netcoreapp3.1\02.CustomStackClass.deps.json
+C:\Users\PC\source\repos\08.Workshop-CustomDataStructures\02.CustomStackClass\bin\Debug\netcoreapp3.1\02.CustomStackClass.runtimeconfig.json
+C:\Users\PC\source\repos\08.Workshop-CustomDataStructures\02.CustomStackClass\bin\Debug\netcoreapp3.1\02.CustomStackClass.runtimeconfig.dev.json
+C:\Users\PC\source\repos\08.Workshop-CustomDataStructures\02.CustomStackClass\bin\Debug\netcoreapp3.1\02.CustomStackClass.dll
+C:\Users\PC\source\repos\08.Workshop-CustomDataStructures\02.CustomStackClass\bin\Debug\netcoreapp3.1\02.CustomStackClass.pdb
+C:\Users\PC\source\repos\08.Workshop-CustomDataStructures\02.CustomStackClass\obj\Debug\netcoreapp3.1\02.CustomStackClass.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\08.Workshop-CustomDataStructures\02.CustomStackClass\obj\Debug\netcoreapp3.1\02.CustomStackClass.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\08.Workshop-CustomDataStructures\02.CustomStackClass\obj\Debug\netcoreapp3.1\02.CustomStackClass.AssemblyInfo.cs
+C:\Users\PC\source\repos\08.Workshop-CustomDataStructures\02.CustomStackClass\obj\Debug\netcoreapp3.1\02.CustomStackClass.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\08.Workshop-CustomDataStructures\02.CustomStackClass\obj\Debug\netcoreapp3.1\02.CustomStackClass.dll
+C:\Users\PC\source\repos\08.Workshop-CustomDataStructures\02.CustomStackClass\obj\Debug\netcoreapp3.1\02.CustomStackClass.pdb
+C:\Users\PC\source\repos\08.Workshop-CustomDataStructures\02.CustomStackClass\obj\Debug\netcoreapp3.1\02.CustomStackClass.genruntimeconfig.cache
