@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\IteratorsAndComparators-Exercise\CustomComparator\bin\Debug\net6.0\CustomComparator.exe
+C:\Users\PC\source\repos\IteratorsAndComparators-Exercise\CustomComparator\bin\Debug\net6.0\CustomComparator.deps.json
+C:\Users\PC\source\repos\IteratorsAndComparators-Exercise\CustomComparator\bin\Debug\net6.0\CustomComparator.runtimeconfig.json
+C:\Users\PC\source\repos\IteratorsAndComparators-Exercise\CustomComparator\bin\Debug\net6.0\CustomComparator.dll
+C:\Users\PC\source\repos\IteratorsAndComparators-Exercise\CustomComparator\bin\Debug\net6.0\CustomComparator.pdb
+C:\Users\PC\source\repos\IteratorsAndComparators-Exercise\CustomComparator\obj\Debug\net6.0\CustomComparator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\IteratorsAndComparators-Exercise\CustomComparator\obj\Debug\net6.0\CustomComparator.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\IteratorsAndComparators-Exercise\CustomComparator\obj\Debug\net6.0\CustomComparator.AssemblyInfo.cs
+C:\Users\PC\source\repos\IteratorsAndComparators-Exercise\CustomComparator\obj\Debug\net6.0\CustomComparator.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\IteratorsAndComparators-Exercise\CustomComparator\obj\Debug\net6.0\CustomComparator.dll
+C:\Users\PC\source\repos\IteratorsAndComparators-Exercise\CustomComparator\obj\Debug\net6.0\refint\CustomComparator.dll
+C:\Users\PC\source\repos\IteratorsAndComparators-Exercise\CustomComparator\obj\Debug\net6.0\CustomComparator.pdb
+C:\Users\PC\source\repos\IteratorsAndComparators-Exercise\CustomComparator\obj\Debug\net6.0\CustomComparator.genruntimeconfig.cache
+C:\Users\PC\source\repos\IteratorsAndComparators-Exercise\CustomComparator\obj\Debug\net6.0\ref\CustomComparator.dll
