@@ -1,0 +1,15 @@
+C:\Programing - Work\Progaming C# Advance\10.ExanPreparation\01.WildSurvival\bin\Debug\net6.0\01.WildSurvival.exe
+C:\Programing - Work\Progaming C# Advance\10.ExanPreparation\01.WildSurvival\bin\Debug\net6.0\01.WildSurvival.deps.json
+C:\Programing - Work\Progaming C# Advance\10.ExanPreparation\01.WildSurvival\bin\Debug\net6.0\01.WildSurvival.runtimeconfig.json
+C:\Programing - Work\Progaming C# Advance\10.ExanPreparation\01.WildSurvival\bin\Debug\net6.0\01.WildSurvival.dll
+C:\Programing - Work\Progaming C# Advance\10.ExanPreparation\01.WildSurvival\bin\Debug\net6.0\01.WildSurvival.pdb
+C:\Programing - Work\Progaming C# Advance\10.ExanPreparation\01.WildSurvival\obj\Debug\net6.0\01.WildSurvival.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing - Work\Progaming C# Advance\10.ExanPreparation\01.WildSurvival\obj\Debug\net6.0\01.WildSurvival.AssemblyInfoInputs.cache
+C:\Programing - Work\Progaming C# Advance\10.ExanPreparation\01.WildSurvival\obj\Debug\net6.0\01.WildSurvival.AssemblyInfo.cs
+C:\Programing - Work\Progaming C# Advance\10.ExanPreparation\01.WildSurvival\obj\Debug\net6.0\01.WildSurvival.csproj.CoreCompileInputs.cache
+C:\Programing - Work\Progaming C# Advance\10.ExanPreparation\01.WildSurvival\obj\Debug\net6.0\01.WildSurvival.sourcelink.json
+C:\Programing - Work\Progaming C# Advance\10.ExanPreparation\01.WildSurvival\obj\Debug\net6.0\01.WildSurvival.dll
+C:\Programing - Work\Progaming C# Advance\10.ExanPreparation\01.WildSurvival\obj\Debug\net6.0\refint\01.WildSurvival.dll
+C:\Programing - Work\Progaming C# Advance\10.ExanPreparation\01.WildSurvival\obj\Debug\net6.0\01.WildSurvival.pdb
+C:\Programing - Work\Progaming C# Advance\10.ExanPreparation\01.WildSurvival\obj\Debug\net6.0\01.WildSurvival.genruntimeconfig.cache
+C:\Programing - Work\Progaming C# Advance\10.ExanPreparation\01.WildSurvival\obj\Debug\net6.0\ref\01.WildSurvival.dll

@@ -1,0 +1,15 @@
+C:\Programing - Work\Progaming C# Advance\10.ExanPreparation\02.CollectingStarsGame\bin\Debug\net6.0\02.CollectingStarsGame.exe
+C:\Programing - Work\Progaming C# Advance\10.ExanPreparation\02.CollectingStarsGame\bin\Debug\net6.0\02.CollectingStarsGame.deps.json
+C:\Programing - Work\Progaming C# Advance\10.ExanPreparation\02.CollectingStarsGame\bin\Debug\net6.0\02.CollectingStarsGame.runtimeconfig.json
+C:\Programing - Work\Progaming C# Advance\10.ExanPreparation\02.CollectingStarsGame\bin\Debug\net6.0\02.CollectingStarsGame.dll
+C:\Programing - Work\Progaming C# Advance\10.ExanPreparation\02.CollectingStarsGame\bin\Debug\net6.0\02.CollectingStarsGame.pdb
+C:\Programing - Work\Progaming C# Advance\10.ExanPreparation\02.CollectingStarsGame\obj\Debug\net6.0\02.CollectingStarsGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing - Work\Progaming C# Advance\10.ExanPreparation\02.CollectingStarsGame\obj\Debug\net6.0\02.CollectingStarsGame.AssemblyInfoInputs.cache
+C:\Programing - Work\Progaming C# Advance\10.ExanPreparation\02.CollectingStarsGame\obj\Debug\net6.0\02.CollectingStarsGame.AssemblyInfo.cs
+C:\Programing - Work\Progaming C# Advance\10.ExanPreparation\02.CollectingStarsGame\obj\Debug\net6.0\02.CollectingStarsGame.csproj.CoreCompileInputs.cache
+C:\Programing - Work\Progaming C# Advance\10.ExanPreparation\02.CollectingStarsGame\obj\Debug\net6.0\02.CollectingStarsGame.sourcelink.json
+C:\Programing - Work\Progaming C# Advance\10.ExanPreparation\02.CollectingStarsGame\obj\Debug\net6.0\02.CollectingStarsGame.dll
+C:\Programing - Work\Progaming C# Advance\10.ExanPreparation\02.CollectingStarsGame\obj\Debug\net6.0\refint\02.CollectingStarsGame.dll
+C:\Programing - Work\Progaming C# Advance\10.ExanPreparation\02.CollectingStarsGame\obj\Debug\net6.0\02.CollectingStarsGame.pdb
+C:\Programing - Work\Progaming C# Advance\10.ExanPreparation\02.CollectingStarsGame\obj\Debug\net6.0\02.CollectingStarsGame.genruntimeconfig.cache
+C:\Programing - Work\Progaming C# Advance\10.ExanPreparation\02.CollectingStarsGame\obj\Debug\net6.0\ref\02.CollectingStarsGame.dll

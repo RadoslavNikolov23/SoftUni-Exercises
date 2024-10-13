@@ -1,0 +1,14 @@
+C:\Documents\SoftUni\Programing Course\Programing C# Advanced\09. Exam Preparation\03.CoctailBar\CocktailBar\bin\Debug\net6.0\CocktailBar.exe
+C:\Documents\SoftUni\Programing Course\Programing C# Advanced\09. Exam Preparation\03.CoctailBar\CocktailBar\bin\Debug\net6.0\CocktailBar.deps.json
+C:\Documents\SoftUni\Programing Course\Programing C# Advanced\09. Exam Preparation\03.CoctailBar\CocktailBar\bin\Debug\net6.0\CocktailBar.runtimeconfig.json
+C:\Documents\SoftUni\Programing Course\Programing C# Advanced\09. Exam Preparation\03.CoctailBar\CocktailBar\bin\Debug\net6.0\CocktailBar.dll
+C:\Documents\SoftUni\Programing Course\Programing C# Advanced\09. Exam Preparation\03.CoctailBar\CocktailBar\bin\Debug\net6.0\CocktailBar.pdb
+C:\Documents\SoftUni\Programing Course\Programing C# Advanced\09. Exam Preparation\03.CoctailBar\CocktailBar\obj\Debug\net6.0\CocktailBar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documents\SoftUni\Programing Course\Programing C# Advanced\09. Exam Preparation\03.CoctailBar\CocktailBar\obj\Debug\net6.0\CocktailBar.AssemblyInfoInputs.cache
+C:\Documents\SoftUni\Programing Course\Programing C# Advanced\09. Exam Preparation\03.CoctailBar\CocktailBar\obj\Debug\net6.0\CocktailBar.AssemblyInfo.cs
+C:\Documents\SoftUni\Programing Course\Programing C# Advanced\09. Exam Preparation\03.CoctailBar\CocktailBar\obj\Debug\net6.0\CocktailBar.csproj.CoreCompileInputs.cache
+C:\Documents\SoftUni\Programing Course\Programing C# Advanced\09. Exam Preparation\03.CoctailBar\CocktailBar\obj\Debug\net6.0\CocktailBar.dll
+C:\Documents\SoftUni\Programing Course\Programing C# Advanced\09. Exam Preparation\03.CoctailBar\CocktailBar\obj\Debug\net6.0\refint\CocktailBar.dll
+C:\Documents\SoftUni\Programing Course\Programing C# Advanced\09. Exam Preparation\03.CoctailBar\CocktailBar\obj\Debug\net6.0\CocktailBar.pdb
+C:\Documents\SoftUni\Programing Course\Programing C# Advanced\09. Exam Preparation\03.CoctailBar\CocktailBar\obj\Debug\net6.0\CocktailBar.genruntimeconfig.cache
+C:\Documents\SoftUni\Programing Course\Programing C# Advanced\09. Exam Preparation\03.CoctailBar\CocktailBar\obj\Debug\net6.0\ref\CocktailBar.dll
