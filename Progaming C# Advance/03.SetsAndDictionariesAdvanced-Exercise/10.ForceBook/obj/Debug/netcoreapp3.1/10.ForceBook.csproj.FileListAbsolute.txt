@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\03.SetsAndDictionariesAdvanced-Exercise\10.ForceBook\bin\Debug\netcoreapp3.1\10.ForceBook.exe
+C:\Users\PC\source\repos\03.SetsAndDictionariesAdvanced-Exercise\10.ForceBook\bin\Debug\netcoreapp3.1\10.ForceBook.deps.json
+C:\Users\PC\source\repos\03.SetsAndDictionariesAdvanced-Exercise\10.ForceBook\bin\Debug\netcoreapp3.1\10.ForceBook.runtimeconfig.json
+C:\Users\PC\source\repos\03.SetsAndDictionariesAdvanced-Exercise\10.ForceBook\bin\Debug\netcoreapp3.1\10.ForceBook.runtimeconfig.dev.json
+C:\Users\PC\source\repos\03.SetsAndDictionariesAdvanced-Exercise\10.ForceBook\bin\Debug\netcoreapp3.1\10.ForceBook.dll
+C:\Users\PC\source\repos\03.SetsAndDictionariesAdvanced-Exercise\10.ForceBook\bin\Debug\netcoreapp3.1\10.ForceBook.pdb
+C:\Users\PC\source\repos\03.SetsAndDictionariesAdvanced-Exercise\10.ForceBook\obj\Debug\netcoreapp3.1\10.ForceBook.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\03.SetsAndDictionariesAdvanced-Exercise\10.ForceBook\obj\Debug\netcoreapp3.1\10.ForceBook.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\03.SetsAndDictionariesAdvanced-Exercise\10.ForceBook\obj\Debug\netcoreapp3.1\10.ForceBook.AssemblyInfo.cs
+C:\Users\PC\source\repos\03.SetsAndDictionariesAdvanced-Exercise\10.ForceBook\obj\Debug\netcoreapp3.1\10.ForceBook.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\03.SetsAndDictionariesAdvanced-Exercise\10.ForceBook\obj\Debug\netcoreapp3.1\10.ForceBook.dll
+C:\Users\PC\source\repos\03.SetsAndDictionariesAdvanced-Exercise\10.ForceBook\obj\Debug\netcoreapp3.1\10.ForceBook.pdb
+C:\Users\PC\source\repos\03.SetsAndDictionariesAdvanced-Exercise\10.ForceBook\obj\Debug\netcoreapp3.1\10.ForceBook.genruntimeconfig.cache
