@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\CSharpAdvancedRetakeExam-10April2024\01.PiePursuit\bin\Debug\netcoreapp3.1\01.PiePursuit.exe
+C:\Users\PC\source\repos\CSharpAdvancedRetakeExam-10April2024\01.PiePursuit\bin\Debug\netcoreapp3.1\01.PiePursuit.deps.json
+C:\Users\PC\source\repos\CSharpAdvancedRetakeExam-10April2024\01.PiePursuit\bin\Debug\netcoreapp3.1\01.PiePursuit.runtimeconfig.json
+C:\Users\PC\source\repos\CSharpAdvancedRetakeExam-10April2024\01.PiePursuit\bin\Debug\netcoreapp3.1\01.PiePursuit.runtimeconfig.dev.json
+C:\Users\PC\source\repos\CSharpAdvancedRetakeExam-10April2024\01.PiePursuit\bin\Debug\netcoreapp3.1\01.PiePursuit.dll
+C:\Users\PC\source\repos\CSharpAdvancedRetakeExam-10April2024\01.PiePursuit\bin\Debug\netcoreapp3.1\01.PiePursuit.pdb
+C:\Users\PC\source\repos\CSharpAdvancedRetakeExam-10April2024\01.PiePursuit\obj\Debug\netcoreapp3.1\01.PiePursuit.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\CSharpAdvancedRetakeExam-10April2024\01.PiePursuit\obj\Debug\netcoreapp3.1\01.PiePursuit.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\CSharpAdvancedRetakeExam-10April2024\01.PiePursuit\obj\Debug\netcoreapp3.1\01.PiePursuit.AssemblyInfo.cs
+C:\Users\PC\source\repos\CSharpAdvancedRetakeExam-10April2024\01.PiePursuit\obj\Debug\netcoreapp3.1\01.PiePursuit.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSharpAdvancedRetakeExam-10April2024\01.PiePursuit\obj\Debug\netcoreapp3.1\01.PiePursuit.dll
+C:\Users\PC\source\repos\CSharpAdvancedRetakeExam-10April2024\01.PiePursuit\obj\Debug\netcoreapp3.1\01.PiePursuit.pdb
+C:\Users\PC\source\repos\CSharpAdvancedRetakeExam-10April2024\01.PiePursuit\obj\Debug\netcoreapp3.1\01.PiePursuit.genruntimeconfig.cache

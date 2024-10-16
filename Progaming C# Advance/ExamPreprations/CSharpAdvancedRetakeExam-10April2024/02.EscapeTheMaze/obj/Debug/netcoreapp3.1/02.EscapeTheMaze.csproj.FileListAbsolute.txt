@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\CSharpAdvancedRetakeExam-10April2024\02.EscapeTheMaze\bin\Debug\netcoreapp3.1\02.EscapeTheMaze.exe
+C:\Users\PC\source\repos\CSharpAdvancedRetakeExam-10April2024\02.EscapeTheMaze\bin\Debug\netcoreapp3.1\02.EscapeTheMaze.deps.json
+C:\Users\PC\source\repos\CSharpAdvancedRetakeExam-10April2024\02.EscapeTheMaze\bin\Debug\netcoreapp3.1\02.EscapeTheMaze.runtimeconfig.json
+C:\Users\PC\source\repos\CSharpAdvancedRetakeExam-10April2024\02.EscapeTheMaze\bin\Debug\netcoreapp3.1\02.EscapeTheMaze.runtimeconfig.dev.json
+C:\Users\PC\source\repos\CSharpAdvancedRetakeExam-10April2024\02.EscapeTheMaze\bin\Debug\netcoreapp3.1\02.EscapeTheMaze.dll
+C:\Users\PC\source\repos\CSharpAdvancedRetakeExam-10April2024\02.EscapeTheMaze\bin\Debug\netcoreapp3.1\02.EscapeTheMaze.pdb
+C:\Users\PC\source\repos\CSharpAdvancedRetakeExam-10April2024\02.EscapeTheMaze\obj\Debug\netcoreapp3.1\02.EscapeTheMaze.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\CSharpAdvancedRetakeExam-10April2024\02.EscapeTheMaze\obj\Debug\netcoreapp3.1\02.EscapeTheMaze.AssemblyInfo.cs
+C:\Users\PC\source\repos\CSharpAdvancedRetakeExam-10April2024\02.EscapeTheMaze\obj\Debug\netcoreapp3.1\02.EscapeTheMaze.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSharpAdvancedRetakeExam-10April2024\02.EscapeTheMaze\obj\Debug\netcoreapp3.1\02.EscapeTheMaze.dll
+C:\Users\PC\source\repos\CSharpAdvancedRetakeExam-10April2024\02.EscapeTheMaze\obj\Debug\netcoreapp3.1\02.EscapeTheMaze.pdb
+C:\Users\PC\source\repos\CSharpAdvancedRetakeExam-10April2024\02.EscapeTheMaze\obj\Debug\netcoreapp3.1\02.EscapeTheMaze.genruntimeconfig.cache
+C:\Users\PC\source\repos\CSharpAdvancedRetakeExam-10April2024\02.EscapeTheMaze\obj\Debug\netcoreapp3.1\02.EscapeTheMaze.csproj.AssemblyReference.cache
