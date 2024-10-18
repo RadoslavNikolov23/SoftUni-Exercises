@@ -1,0 +1,15 @@
+C:\Programing - Work\Progaming C# Advance\ExamPreprations\CSharpAdvancedRetakeExam-17February2024\02.ClearSkies\bin\Debug\net6.0\02.ClearSkies.exe
+C:\Programing - Work\Progaming C# Advance\ExamPreprations\CSharpAdvancedRetakeExam-17February2024\02.ClearSkies\bin\Debug\net6.0\02.ClearSkies.deps.json
+C:\Programing - Work\Progaming C# Advance\ExamPreprations\CSharpAdvancedRetakeExam-17February2024\02.ClearSkies\bin\Debug\net6.0\02.ClearSkies.runtimeconfig.json
+C:\Programing - Work\Progaming C# Advance\ExamPreprations\CSharpAdvancedRetakeExam-17February2024\02.ClearSkies\bin\Debug\net6.0\02.ClearSkies.dll
+C:\Programing - Work\Progaming C# Advance\ExamPreprations\CSharpAdvancedRetakeExam-17February2024\02.ClearSkies\bin\Debug\net6.0\02.ClearSkies.pdb
+C:\Programing - Work\Progaming C# Advance\ExamPreprations\CSharpAdvancedRetakeExam-17February2024\02.ClearSkies\obj\Debug\net6.0\02.ClearSkies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing - Work\Progaming C# Advance\ExamPreprations\CSharpAdvancedRetakeExam-17February2024\02.ClearSkies\obj\Debug\net6.0\02.ClearSkies.AssemblyInfoInputs.cache
+C:\Programing - Work\Progaming C# Advance\ExamPreprations\CSharpAdvancedRetakeExam-17February2024\02.ClearSkies\obj\Debug\net6.0\02.ClearSkies.AssemblyInfo.cs
+C:\Programing - Work\Progaming C# Advance\ExamPreprations\CSharpAdvancedRetakeExam-17February2024\02.ClearSkies\obj\Debug\net6.0\02.ClearSkies.csproj.CoreCompileInputs.cache
+C:\Programing - Work\Progaming C# Advance\ExamPreprations\CSharpAdvancedRetakeExam-17February2024\02.ClearSkies\obj\Debug\net6.0\02.ClearSkies.sourcelink.json
+C:\Programing - Work\Progaming C# Advance\ExamPreprations\CSharpAdvancedRetakeExam-17February2024\02.ClearSkies\obj\Debug\net6.0\02.ClearSkies.dll
+C:\Programing - Work\Progaming C# Advance\ExamPreprations\CSharpAdvancedRetakeExam-17February2024\02.ClearSkies\obj\Debug\net6.0\refint\02.ClearSkies.dll
+C:\Programing - Work\Progaming C# Advance\ExamPreprations\CSharpAdvancedRetakeExam-17February2024\02.ClearSkies\obj\Debug\net6.0\02.ClearSkies.pdb
+C:\Programing - Work\Progaming C# Advance\ExamPreprations\CSharpAdvancedRetakeExam-17February2024\02.ClearSkies\obj\Debug\net6.0\02.ClearSkies.genruntimeconfig.cache
+C:\Programing - Work\Progaming C# Advance\ExamPreprations\CSharpAdvancedRetakeExam-17February2024\02.ClearSkies\obj\Debug\net6.0\ref\02.ClearSkies.dll

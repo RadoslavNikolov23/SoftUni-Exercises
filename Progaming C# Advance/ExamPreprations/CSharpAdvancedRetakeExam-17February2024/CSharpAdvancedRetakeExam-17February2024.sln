@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ChickenSnack", "01.ChickenSnack\01.ChickenSnack.csproj", "{EF41ED7C-79F9-4073-8E98-5BE7B416D687}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ClearSkies", "02.ClearSkies\02.ClearSkies.csproj", "{C45D8028-9E83-45AE-A70D-C941D16E10CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{EF41ED7C-79F9-4073-8E98-5BE7B416D687}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF41ED7C-79F9-4073-8E98-5BE7B416D687}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF41ED7C-79F9-4073-8E98-5BE7B416D687}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C45D8028-9E83-45AE-A70D-C941D16E10CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C45D8028-9E83-45AE-A70D-C941D16E10CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C45D8028-9E83-45AE-A70D-C941D16E10CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C45D8028-9E83-45AE-A70D-C941D16E10CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
