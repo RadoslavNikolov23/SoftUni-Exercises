@@ -1,0 +1,15 @@
+C:\Programing - Work\Progaming C# Advance\ExamPreprations\CSharpAdvancedRetakeExam-17February2024\01.ChickenSnack\bin\Debug\net6.0\01.ChickenSnack.exe
+C:\Programing - Work\Progaming C# Advance\ExamPreprations\CSharpAdvancedRetakeExam-17February2024\01.ChickenSnack\bin\Debug\net6.0\01.ChickenSnack.deps.json
+C:\Programing - Work\Progaming C# Advance\ExamPreprations\CSharpAdvancedRetakeExam-17February2024\01.ChickenSnack\bin\Debug\net6.0\01.ChickenSnack.runtimeconfig.json
+C:\Programing - Work\Progaming C# Advance\ExamPreprations\CSharpAdvancedRetakeExam-17February2024\01.ChickenSnack\bin\Debug\net6.0\01.ChickenSnack.dll
+C:\Programing - Work\Progaming C# Advance\ExamPreprations\CSharpAdvancedRetakeExam-17February2024\01.ChickenSnack\bin\Debug\net6.0\01.ChickenSnack.pdb
+C:\Programing - Work\Progaming C# Advance\ExamPreprations\CSharpAdvancedRetakeExam-17February2024\01.ChickenSnack\obj\Debug\net6.0\01.ChickenSnack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing - Work\Progaming C# Advance\ExamPreprations\CSharpAdvancedRetakeExam-17February2024\01.ChickenSnack\obj\Debug\net6.0\01.ChickenSnack.AssemblyInfoInputs.cache
+C:\Programing - Work\Progaming C# Advance\ExamPreprations\CSharpAdvancedRetakeExam-17February2024\01.ChickenSnack\obj\Debug\net6.0\01.ChickenSnack.AssemblyInfo.cs
+C:\Programing - Work\Progaming C# Advance\ExamPreprations\CSharpAdvancedRetakeExam-17February2024\01.ChickenSnack\obj\Debug\net6.0\01.ChickenSnack.csproj.CoreCompileInputs.cache
+C:\Programing - Work\Progaming C# Advance\ExamPreprations\CSharpAdvancedRetakeExam-17February2024\01.ChickenSnack\obj\Debug\net6.0\01.ChickenSnack.sourcelink.json
+C:\Programing - Work\Progaming C# Advance\ExamPreprations\CSharpAdvancedRetakeExam-17February2024\01.ChickenSnack\obj\Debug\net6.0\01.ChickenSnack.dll
+C:\Programing - Work\Progaming C# Advance\ExamPreprations\CSharpAdvancedRetakeExam-17February2024\01.ChickenSnack\obj\Debug\net6.0\refint\01.ChickenSnack.dll
+C:\Programing - Work\Progaming C# Advance\ExamPreprations\CSharpAdvancedRetakeExam-17February2024\01.ChickenSnack\obj\Debug\net6.0\01.ChickenSnack.pdb
+C:\Programing - Work\Progaming C# Advance\ExamPreprations\CSharpAdvancedRetakeExam-17February2024\01.ChickenSnack\obj\Debug\net6.0\01.ChickenSnack.genruntimeconfig.cache
+C:\Programing - Work\Progaming C# Advance\ExamPreprations\CSharpAdvancedRetakeExam-17February2024\01.ChickenSnack\obj\Debug\net6.0\ref\01.ChickenSnack.dll
