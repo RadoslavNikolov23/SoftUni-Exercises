@@ -1,0 +1,15 @@
+C:\Programing - Work\Progaming C# Advance\ExamPreprations\CSharpAdvancedRetakeExam-13December2023\02.TheGambler\bin\Debug\net6.0\02.TheGambler.exe
+C:\Programing - Work\Progaming C# Advance\ExamPreprations\CSharpAdvancedRetakeExam-13December2023\02.TheGambler\bin\Debug\net6.0\02.TheGambler.deps.json
+C:\Programing - Work\Progaming C# Advance\ExamPreprations\CSharpAdvancedRetakeExam-13December2023\02.TheGambler\bin\Debug\net6.0\02.TheGambler.runtimeconfig.json
+C:\Programing - Work\Progaming C# Advance\ExamPreprations\CSharpAdvancedRetakeExam-13December2023\02.TheGambler\bin\Debug\net6.0\02.TheGambler.dll
+C:\Programing - Work\Progaming C# Advance\ExamPreprations\CSharpAdvancedRetakeExam-13December2023\02.TheGambler\bin\Debug\net6.0\02.TheGambler.pdb
+C:\Programing - Work\Progaming C# Advance\ExamPreprations\CSharpAdvancedRetakeExam-13December2023\02.TheGambler\obj\Debug\net6.0\02.TheGambler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing - Work\Progaming C# Advance\ExamPreprations\CSharpAdvancedRetakeExam-13December2023\02.TheGambler\obj\Debug\net6.0\02.TheGambler.AssemblyInfoInputs.cache
+C:\Programing - Work\Progaming C# Advance\ExamPreprations\CSharpAdvancedRetakeExam-13December2023\02.TheGambler\obj\Debug\net6.0\02.TheGambler.AssemblyInfo.cs
+C:\Programing - Work\Progaming C# Advance\ExamPreprations\CSharpAdvancedRetakeExam-13December2023\02.TheGambler\obj\Debug\net6.0\02.TheGambler.csproj.CoreCompileInputs.cache
+C:\Programing - Work\Progaming C# Advance\ExamPreprations\CSharpAdvancedRetakeExam-13December2023\02.TheGambler\obj\Debug\net6.0\02.TheGambler.sourcelink.json
+C:\Programing - Work\Progaming C# Advance\ExamPreprations\CSharpAdvancedRetakeExam-13December2023\02.TheGambler\obj\Debug\net6.0\02.TheGambler.dll
+C:\Programing - Work\Progaming C# Advance\ExamPreprations\CSharpAdvancedRetakeExam-13December2023\02.TheGambler\obj\Debug\net6.0\refint\02.TheGambler.dll
+C:\Programing - Work\Progaming C# Advance\ExamPreprations\CSharpAdvancedRetakeExam-13December2023\02.TheGambler\obj\Debug\net6.0\02.TheGambler.pdb
+C:\Programing - Work\Progaming C# Advance\ExamPreprations\CSharpAdvancedRetakeExam-13December2023\02.TheGambler\obj\Debug\net6.0\02.TheGambler.genruntimeconfig.cache
+C:\Programing - Work\Progaming C# Advance\ExamPreprations\CSharpAdvancedRetakeExam-13December2023\02.TheGambler\obj\Debug\net6.0\ref\02.TheGambler.dll

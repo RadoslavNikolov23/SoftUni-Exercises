@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programing - Work\\Progaming C# Advance\\ExamPreprations\\CSharpAdvancedRetakeExam-13December2023\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAA28D6F-C28C-46D3-AB3E-7936F28D5D4D}|..\\..\\..\\..\\Users\\PC\\Desktop\\GroceriesManagement\\GroceriesManagement\\GroceriesManagement.csproj|c:\\users\\pc\\desktop\\groceriesmanagement\\groceriesmanagement\\groceriesstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAA28D6F-C28C-46D3-AB3E-7936F28D5D4D}|..\\..\\..\\..\\Users\\PC\\Desktop\\GroceriesManagement\\GroceriesManagement\\GroceriesManagement.csproj|c:\\users\\pc\\desktop\\groceriesmanagement\\groceriesmanagement\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAA28D6F-C28C-46D3-AB3E-7936F28D5D4D}|..\\..\\..\\..\\Users\\PC\\Desktop\\GroceriesManagement\\GroceriesManagement\\GroceriesManagement.csproj|c:\\users\\pc\\desktop\\groceriesmanagement\\groceriesmanagement\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\GroceriesManagement\\GroceriesManagement\\StartUp.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\PC\\Desktop\\GroceriesManagement\\GroceriesManagement\\StartUp.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\GroceriesManagement\\GroceriesManagement\\StartUp.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\PC\\Desktop\\GroceriesManagement\\GroceriesManagement\\StartUp.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T18:17:11.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GroceriesStore.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\GroceriesManagement\\GroceriesManagement\\GroceriesStore.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\PC\\Desktop\\GroceriesManagement\\GroceriesManagement\\GroceriesStore.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\GroceriesManagement\\GroceriesManagement\\GroceriesStore.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\PC\\Desktop\\GroceriesManagement\\GroceriesManagement\\GroceriesStore.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T18:17:10.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\GroceriesManagement\\GroceriesManagement\\Product.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\PC\\Desktop\\GroceriesManagement\\GroceriesManagement\\Product.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\GroceriesManagement\\GroceriesManagement\\Product.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\PC\\Desktop\\GroceriesManagement\\GroceriesManagement\\Product.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T18:17:11.157Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
