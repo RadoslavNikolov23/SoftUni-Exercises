@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\SumOfCoins_Skeleton_6.0\bin\Debug\net6.0\SumOfCoins.exe
+C:\Users\PC\Desktop\SumOfCoins_Skeleton_6.0\bin\Debug\net6.0\SumOfCoins.deps.json
+C:\Users\PC\Desktop\SumOfCoins_Skeleton_6.0\bin\Debug\net6.0\SumOfCoins.runtimeconfig.json
+C:\Users\PC\Desktop\SumOfCoins_Skeleton_6.0\bin\Debug\net6.0\SumOfCoins.dll
+C:\Users\PC\Desktop\SumOfCoins_Skeleton_6.0\bin\Debug\net6.0\SumOfCoins.pdb
+C:\Users\PC\Desktop\SumOfCoins_Skeleton_6.0\obj\Debug\net6.0\SumOfCoins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\SumOfCoins_Skeleton_6.0\obj\Debug\net6.0\SumOfCoins.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\SumOfCoins_Skeleton_6.0\obj\Debug\net6.0\SumOfCoins.AssemblyInfo.cs
+C:\Users\PC\Desktop\SumOfCoins_Skeleton_6.0\obj\Debug\net6.0\SumOfCoins.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\SumOfCoins_Skeleton_6.0\obj\Debug\net6.0\SumOfCoins.dll
+C:\Users\PC\Desktop\SumOfCoins_Skeleton_6.0\obj\Debug\net6.0\refint\SumOfCoins.dll
+C:\Users\PC\Desktop\SumOfCoins_Skeleton_6.0\obj\Debug\net6.0\SumOfCoins.pdb
+C:\Users\PC\Desktop\SumOfCoins_Skeleton_6.0\obj\Debug\net6.0\SumOfCoins.genruntimeconfig.cache
+C:\Users\PC\Desktop\SumOfCoins_Skeleton_6.0\obj\Debug\net6.0\ref\SumOfCoins.dll

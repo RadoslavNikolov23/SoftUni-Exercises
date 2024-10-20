@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.RecursiveArraySum", "01.RecursiveArraySum\01.RecursiveArraySum.csproj", "{618F92BA-F9F0-42E9-B399-393BC80091D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.RecursiveArraySum", "01.RecursiveArraySum\01.RecursiveArraySum.csproj", "{618F92BA-F9F0-42E9-B399-393BC80091D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.RecursiveFactorial", "02.RecursiveFactorial\02.RecursiveFactorial.csproj", "{81765E0B-F476-42E2-88CA-004494B8D6E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.RecursiveFactorial", "02.RecursiveFactorial\02.RecursiveFactorial.csproj", "{81765E0B-F476-42E2-88CA-004494B8D6E5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumOfCoins", "..\..\..\Users\PC\Desktop\SumOfCoins_Skeleton_6.0\SumOfCoins.csproj", "{093B3AD5-F2D2-4CB8-A98A-52B473F1003F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SetCover", "..\..\..\Users\PC\Desktop\SetCover_Skeleton_6.0\SetCover.csproj", "{DA971018-DEA3-4E0D-92FA-11F0D48A15B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{81765E0B-F476-42E2-88CA-004494B8D6E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81765E0B-F476-42E2-88CA-004494B8D6E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81765E0B-F476-42E2-88CA-004494B8D6E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{093B3AD5-F2D2-4CB8-A98A-52B473F1003F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{093B3AD5-F2D2-4CB8-A98A-52B473F1003F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{093B3AD5-F2D2-4CB8-A98A-52B473F1003F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{093B3AD5-F2D2-4CB8-A98A-52B473F1003F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA971018-DEA3-4E0D-92FA-11F0D48A15B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA971018-DEA3-4E0D-92FA-11F0D48A15B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA971018-DEA3-4E0D-92FA-11F0D48A15B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA971018-DEA3-4E0D-92FA-11F0D48A15B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

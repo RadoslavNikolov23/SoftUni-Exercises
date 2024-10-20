@@ -3,12 +3,10 @@
   "WorkspaceRootPath": "C:\\Programing - Work\\Progaming C# Advance\\11.BasicAlgorithms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{81765E0B-F476-42E2-88CA-004494B8D6E5}|02.RecursiveFactorial\\02.RecursiveFactorial.csproj|c:\\programing - work\\progaming c# advance\\11.basicalgorithms\\02.recursivefactorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81765E0B-F476-42E2-88CA-004494B8D6E5}|02.RecursiveFactorial\\02.RecursiveFactorial.csproj|solutionrelative:02.recursivefactorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA971018-DEA3-4E0D-92FA-11F0D48A15B5}|..\\..\\..\\Users\\PC\\Desktop\\SetCover_Skeleton_6.0\\SetCover.csproj|c:\\users\\pc\\desktop\\setcover_skeleton_6.0\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{618F92BA-F9F0-42E9-B399-393BC80091D3}|01.RecursiveArraySum\\01.RecursiveArraySum.csproj|c:\\programing - work\\progaming c# advance\\11.basicalgorithms\\01.recursivearraysum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{618F92BA-F9F0-42E9-B399-393BC80091D3}|01.RecursiveArraySum\\01.RecursiveArraySum.csproj|solutionrelative:01.recursivearraysum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{093B3AD5-F2D2-4CB8-A98A-52B473F1003F}|..\\..\\..\\Users\\PC\\Desktop\\SumOfCoins_Skeleton_6.0\\SumOfCoins.csproj|c:\\users\\pc\\desktop\\sumofcoins_skeleton_6.0\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +16,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +24,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Programing - Work\\Progaming C# Advance\\11.BasicAlgorithms\\02.RecursiveFactorial\\Program.cs",
-              "RelativeDocumentMoniker": "02.RecursiveFactorial\\Program.cs",
-              "ToolTip": "C:\\Programing - Work\\Progaming C# Advance\\11.BasicAlgorithms\\02.RecursiveFactorial\\Program.cs",
-              "RelativeToolTip": "02.RecursiveFactorial\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBAAAAAUAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\SumOfCoins_Skeleton_6.0\\StartUp.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\PC\\Desktop\\SumOfCoins_Skeleton_6.0\\StartUp.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\SumOfCoins_Skeleton_6.0\\StartUp.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\PC\\Desktop\\SumOfCoins_Skeleton_6.0\\StartUp.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T14:22:45.329Z",
+              "WhenOpened": "2024-10-20T13:46:20.419Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Programing - Work\\Progaming C# Advance\\11.BasicAlgorithms\\01.RecursiveArraySum\\Program.cs",
-              "RelativeDocumentMoniker": "01.RecursiveArraySum\\Program.cs",
-              "ToolTip": "C:\\Programing - Work\\Progaming C# Advance\\11.BasicAlgorithms\\01.RecursiveArraySum\\Program.cs",
-              "RelativeToolTip": "01.RecursiveArraySum\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAA+wBgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\SetCover_Skeleton_6.0\\StartUp.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\PC\\Desktop\\SetCover_Skeleton_6.0\\StartUp.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\SetCover_Skeleton_6.0\\StartUp.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\PC\\Desktop\\SetCover_Skeleton_6.0\\StartUp.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwDIAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T14:12:36.322Z",
+              "WhenOpened": "2024-10-20T13:45:13.92Z",
               "EditorCaption": ""
             }
           ]

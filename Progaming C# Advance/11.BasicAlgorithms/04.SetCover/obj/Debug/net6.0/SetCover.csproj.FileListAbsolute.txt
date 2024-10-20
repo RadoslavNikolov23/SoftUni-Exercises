@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\SetCover_Skeleton_6.0\bin\Debug\net6.0\SetCover.exe
+C:\Users\PC\Desktop\SetCover_Skeleton_6.0\bin\Debug\net6.0\SetCover.deps.json
+C:\Users\PC\Desktop\SetCover_Skeleton_6.0\bin\Debug\net6.0\SetCover.runtimeconfig.json
+C:\Users\PC\Desktop\SetCover_Skeleton_6.0\bin\Debug\net6.0\SetCover.dll
+C:\Users\PC\Desktop\SetCover_Skeleton_6.0\bin\Debug\net6.0\SetCover.pdb
+C:\Users\PC\Desktop\SetCover_Skeleton_6.0\obj\Debug\net6.0\SetCover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\SetCover_Skeleton_6.0\obj\Debug\net6.0\SetCover.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\SetCover_Skeleton_6.0\obj\Debug\net6.0\SetCover.AssemblyInfo.cs
+C:\Users\PC\Desktop\SetCover_Skeleton_6.0\obj\Debug\net6.0\SetCover.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\SetCover_Skeleton_6.0\obj\Debug\net6.0\SetCover.dll
+C:\Users\PC\Desktop\SetCover_Skeleton_6.0\obj\Debug\net6.0\refint\SetCover.dll
+C:\Users\PC\Desktop\SetCover_Skeleton_6.0\obj\Debug\net6.0\SetCover.pdb
+C:\Users\PC\Desktop\SetCover_Skeleton_6.0\obj\Debug\net6.0\SetCover.genruntimeconfig.cache
+C:\Users\PC\Desktop\SetCover_Skeleton_6.0\obj\Debug\net6.0\ref\SetCover.dll
