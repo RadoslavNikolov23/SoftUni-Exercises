@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programing - Work\\Progaming C# Advance\\11.RegularExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{790DAB29-72F0-4E29-AC64-7640D0043292}|..\\..\\..\\Users\\PC\\Desktop\\CreaturesOfTheCode\\CreaturesOfTheCode\\CreaturesOfTheCode.csproj|c:\\users\\pc\\desktop\\creaturesofthecode\\creaturesofthecode\\mythicalcreatureshub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790DAB29-72F0-4E29-AC64-7640D0043292}|..\\..\\..\\Users\\PC\\Desktop\\CreaturesOfTheCode\\CreaturesOfTheCode\\CreaturesOfTheCode.csproj|c:\\users\\pc\\desktop\\creaturesofthecode\\creaturesofthecode\\creature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790DAB29-72F0-4E29-AC64-7640D0043292}|..\\..\\..\\Users\\PC\\Desktop\\CreaturesOfTheCode\\CreaturesOfTheCode\\CreaturesOfTheCode.csproj|c:\\users\\pc\\desktop\\creaturesofthecode\\creaturesofthecode\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\CreaturesOfTheCode\\CreaturesOfTheCode\\StartUp.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\PC\\Desktop\\CreaturesOfTheCode\\CreaturesOfTheCode\\StartUp.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\CreaturesOfTheCode\\CreaturesOfTheCode\\StartUp.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\PC\\Desktop\\CreaturesOfTheCode\\CreaturesOfTheCode\\StartUp.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T09:03:48.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MythicalCreaturesHub.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\CreaturesOfTheCode\\CreaturesOfTheCode\\MythicalCreaturesHub.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\PC\\Desktop\\CreaturesOfTheCode\\CreaturesOfTheCode\\MythicalCreaturesHub.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\CreaturesOfTheCode\\CreaturesOfTheCode\\MythicalCreaturesHub.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\PC\\Desktop\\CreaturesOfTheCode\\CreaturesOfTheCode\\MythicalCreaturesHub.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T09:03:48.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Creature.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\CreaturesOfTheCode\\CreaturesOfTheCode\\Creature.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\PC\\Desktop\\CreaturesOfTheCode\\CreaturesOfTheCode\\Creature.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\CreaturesOfTheCode\\CreaturesOfTheCode\\Creature.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\PC\\Desktop\\CreaturesOfTheCode\\CreaturesOfTheCode\\Creature.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAzwAYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T09:03:47.448Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

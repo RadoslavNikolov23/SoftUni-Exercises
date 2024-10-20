@@ -1,0 +1,15 @@
+C:\Programing - Work\Progaming C# Advance\11.RegularExam\01.BallGame\bin\Debug\net6.0\01.BallGame.exe
+C:\Programing - Work\Progaming C# Advance\11.RegularExam\01.BallGame\bin\Debug\net6.0\01.BallGame.deps.json
+C:\Programing - Work\Progaming C# Advance\11.RegularExam\01.BallGame\bin\Debug\net6.0\01.BallGame.runtimeconfig.json
+C:\Programing - Work\Progaming C# Advance\11.RegularExam\01.BallGame\bin\Debug\net6.0\01.BallGame.dll
+C:\Programing - Work\Progaming C# Advance\11.RegularExam\01.BallGame\bin\Debug\net6.0\01.BallGame.pdb
+C:\Programing - Work\Progaming C# Advance\11.RegularExam\01.BallGame\obj\Debug\net6.0\01.BallGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing - Work\Progaming C# Advance\11.RegularExam\01.BallGame\obj\Debug\net6.0\01.BallGame.AssemblyInfoInputs.cache
+C:\Programing - Work\Progaming C# Advance\11.RegularExam\01.BallGame\obj\Debug\net6.0\01.BallGame.AssemblyInfo.cs
+C:\Programing - Work\Progaming C# Advance\11.RegularExam\01.BallGame\obj\Debug\net6.0\01.BallGame.csproj.CoreCompileInputs.cache
+C:\Programing - Work\Progaming C# Advance\11.RegularExam\01.BallGame\obj\Debug\net6.0\01.BallGame.sourcelink.json
+C:\Programing - Work\Progaming C# Advance\11.RegularExam\01.BallGame\obj\Debug\net6.0\01.BallGame.dll
+C:\Programing - Work\Progaming C# Advance\11.RegularExam\01.BallGame\obj\Debug\net6.0\refint\01.BallGame.dll
+C:\Programing - Work\Progaming C# Advance\11.RegularExam\01.BallGame\obj\Debug\net6.0\01.BallGame.pdb
+C:\Programing - Work\Progaming C# Advance\11.RegularExam\01.BallGame\obj\Debug\net6.0\01.BallGame.genruntimeconfig.cache
+C:\Programing - Work\Progaming C# Advance\11.RegularExam\01.BallGame\obj\Debug\net6.0\ref\01.BallGame.dll

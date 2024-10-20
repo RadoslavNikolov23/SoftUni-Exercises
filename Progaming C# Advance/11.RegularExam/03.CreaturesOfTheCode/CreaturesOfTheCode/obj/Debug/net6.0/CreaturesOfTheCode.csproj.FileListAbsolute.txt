@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\CreaturesOfTheCode\CreaturesOfTheCode\bin\Debug\net6.0\CreaturesOfTheCode.exe
+C:\Users\PC\Desktop\CreaturesOfTheCode\CreaturesOfTheCode\bin\Debug\net6.0\CreaturesOfTheCode.deps.json
+C:\Users\PC\Desktop\CreaturesOfTheCode\CreaturesOfTheCode\bin\Debug\net6.0\CreaturesOfTheCode.runtimeconfig.json
+C:\Users\PC\Desktop\CreaturesOfTheCode\CreaturesOfTheCode\bin\Debug\net6.0\CreaturesOfTheCode.dll
+C:\Users\PC\Desktop\CreaturesOfTheCode\CreaturesOfTheCode\bin\Debug\net6.0\CreaturesOfTheCode.pdb
+C:\Users\PC\Desktop\CreaturesOfTheCode\CreaturesOfTheCode\obj\Debug\net6.0\CreaturesOfTheCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\CreaturesOfTheCode\CreaturesOfTheCode\obj\Debug\net6.0\CreaturesOfTheCode.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\CreaturesOfTheCode\CreaturesOfTheCode\obj\Debug\net6.0\CreaturesOfTheCode.AssemblyInfo.cs
+C:\Users\PC\Desktop\CreaturesOfTheCode\CreaturesOfTheCode\obj\Debug\net6.0\CreaturesOfTheCode.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\CreaturesOfTheCode\CreaturesOfTheCode\obj\Debug\net6.0\CreaturesOfTheCode.dll
+C:\Users\PC\Desktop\CreaturesOfTheCode\CreaturesOfTheCode\obj\Debug\net6.0\refint\CreaturesOfTheCode.dll
+C:\Users\PC\Desktop\CreaturesOfTheCode\CreaturesOfTheCode\obj\Debug\net6.0\CreaturesOfTheCode.pdb
+C:\Users\PC\Desktop\CreaturesOfTheCode\CreaturesOfTheCode\obj\Debug\net6.0\CreaturesOfTheCode.genruntimeconfig.cache
+C:\Users\PC\Desktop\CreaturesOfTheCode\CreaturesOfTheCode\obj\Debug\net6.0\ref\CreaturesOfTheCode.dll

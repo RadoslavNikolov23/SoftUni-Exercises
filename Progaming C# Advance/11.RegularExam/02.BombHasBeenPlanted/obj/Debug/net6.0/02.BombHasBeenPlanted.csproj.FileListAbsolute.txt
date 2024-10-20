@@ -1,0 +1,15 @@
+C:\Programing - Work\Progaming C# Advance\11.RegularExam\02.BombHasBeenPlanted\bin\Debug\net6.0\02.BombHasBeenPlanted.exe
+C:\Programing - Work\Progaming C# Advance\11.RegularExam\02.BombHasBeenPlanted\bin\Debug\net6.0\02.BombHasBeenPlanted.deps.json
+C:\Programing - Work\Progaming C# Advance\11.RegularExam\02.BombHasBeenPlanted\bin\Debug\net6.0\02.BombHasBeenPlanted.runtimeconfig.json
+C:\Programing - Work\Progaming C# Advance\11.RegularExam\02.BombHasBeenPlanted\bin\Debug\net6.0\02.BombHasBeenPlanted.dll
+C:\Programing - Work\Progaming C# Advance\11.RegularExam\02.BombHasBeenPlanted\bin\Debug\net6.0\02.BombHasBeenPlanted.pdb
+C:\Programing - Work\Progaming C# Advance\11.RegularExam\02.BombHasBeenPlanted\obj\Debug\net6.0\02.BombHasBeenPlanted.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing - Work\Progaming C# Advance\11.RegularExam\02.BombHasBeenPlanted\obj\Debug\net6.0\02.BombHasBeenPlanted.AssemblyInfoInputs.cache
+C:\Programing - Work\Progaming C# Advance\11.RegularExam\02.BombHasBeenPlanted\obj\Debug\net6.0\02.BombHasBeenPlanted.AssemblyInfo.cs
+C:\Programing - Work\Progaming C# Advance\11.RegularExam\02.BombHasBeenPlanted\obj\Debug\net6.0\02.BombHasBeenPlanted.csproj.CoreCompileInputs.cache
+C:\Programing - Work\Progaming C# Advance\11.RegularExam\02.BombHasBeenPlanted\obj\Debug\net6.0\02.BombHasBeenPlanted.sourcelink.json
+C:\Programing - Work\Progaming C# Advance\11.RegularExam\02.BombHasBeenPlanted\obj\Debug\net6.0\02.BombHasBeenPlanted.dll
+C:\Programing - Work\Progaming C# Advance\11.RegularExam\02.BombHasBeenPlanted\obj\Debug\net6.0\refint\02.BombHasBeenPlanted.dll
+C:\Programing - Work\Progaming C# Advance\11.RegularExam\02.BombHasBeenPlanted\obj\Debug\net6.0\02.BombHasBeenPlanted.pdb
+C:\Programing - Work\Progaming C# Advance\11.RegularExam\02.BombHasBeenPlanted\obj\Debug\net6.0\02.BombHasBeenPlanted.genruntimeconfig.cache
+C:\Programing - Work\Progaming C# Advance\11.RegularExam\02.BombHasBeenPlanted\obj\Debug\net6.0\ref\02.BombHasBeenPlanted.dll
