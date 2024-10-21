@@ -11,6 +11,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumOfCoins", "..\..\..\User
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SetCover", "..\..\..\Users\PC\Desktop\SetCover_Skeleton_6.0\SetCover.csproj", "{DA971018-DEA3-4E0D-92FA-11F0D48A15B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.MergeSort", "05.MergeSort\05.MergeSort.csproj", "{FB3D5037-4BA2-48BF-9FB1-631471564D0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Quicksort", "04.Quicksort\06.Quicksort.csproj", "{CE3033B1-64B3-4026-A146-DD37C4B2B883}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{DA971018-DEA3-4E0D-92FA-11F0D48A15B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA971018-DEA3-4E0D-92FA-11F0D48A15B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA971018-DEA3-4E0D-92FA-11F0D48A15B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB3D5037-4BA2-48BF-9FB1-631471564D0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB3D5037-4BA2-48BF-9FB1-631471564D0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB3D5037-4BA2-48BF-9FB1-631471564D0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB3D5037-4BA2-48BF-9FB1-631471564D0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE3033B1-64B3-4026-A146-DD37C4B2B883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE3033B1-64B3-4026-A146-DD37C4B2B883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE3033B1-64B3-4026-A146-DD37C4B2B883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE3033B1-64B3-4026-A146-DD37C4B2B883}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

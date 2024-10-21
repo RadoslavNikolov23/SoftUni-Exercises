@@ -3,10 +3,12 @@
   "WorkspaceRootPath": "C:\\Programing - Work\\Progaming C# Advance\\11.BasicAlgorithms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DA971018-DEA3-4E0D-92FA-11F0D48A15B5}|..\\..\\..\\Users\\PC\\Desktop\\SetCover_Skeleton_6.0\\SetCover.csproj|c:\\users\\pc\\desktop\\setcover_skeleton_6.0\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CE3033B1-64B3-4026-A146-DD37C4B2B883}|04.Quicksort\\04.Quicksort.csproj|c:\\programing - work\\progaming c# advance\\11.basicalgorithms\\04.quicksort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3033B1-64B3-4026-A146-DD37C4B2B883}|04.Quicksort\\04.Quicksort.csproj|solutionrelative:04.quicksort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{093B3AD5-F2D2-4CB8-A98A-52B473F1003F}|..\\..\\..\\Users\\PC\\Desktop\\SumOfCoins_Skeleton_6.0\\SumOfCoins.csproj|c:\\users\\pc\\desktop\\sumofcoins_skeleton_6.0\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB3D5037-4BA2-48BF-9FB1-631471564D0F}|05.MergeSort\\05.MergeSort.csproj|c:\\programing - work\\progaming c# advance\\11.basicalgorithms\\05.mergesort\\mergesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB3D5037-4BA2-48BF-9FB1-631471564D0F}|05.MergeSort\\05.MergeSort.csproj|solutionrelative:05.mergesort\\mergesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,27 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "StartUp.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\SumOfCoins_Skeleton_6.0\\StartUp.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Users\\PC\\Desktop\\SumOfCoins_Skeleton_6.0\\StartUp.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\SumOfCoins_Skeleton_6.0\\StartUp.cs",
-              "RelativeToolTip": "..\\..\\..\\Users\\PC\\Desktop\\SumOfCoins_Skeleton_6.0\\StartUp.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Mergesort.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Progaming C# Advance\\11.BasicAlgorithms\\05.MergeSort\\Mergesort.cs",
+              "RelativeDocumentMoniker": "05.MergeSort\\Mergesort.cs",
+              "ToolTip": "C:\\Programing - Work\\Progaming C# Advance\\11.BasicAlgorithms\\05.MergeSort\\Mergesort.cs",
+              "RelativeToolTip": "05.MergeSort\\Mergesort.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T13:46:20.419Z",
+              "WhenOpened": "2024-10-21T14:26:02.554Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "StartUp.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\SetCover_Skeleton_6.0\\StartUp.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Users\\PC\\Desktop\\SetCover_Skeleton_6.0\\StartUp.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\SetCover_Skeleton_6.0\\StartUp.cs",
-              "RelativeToolTip": "..\\..\\..\\Users\\PC\\Desktop\\SetCover_Skeleton_6.0\\StartUp.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAQwDIAAAAsAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Progaming C# Advance\\11.BasicAlgorithms\\04.Quicksort\\Program.cs",
+              "RelativeDocumentMoniker": "04.Quicksort\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Progaming C# Advance\\11.BasicAlgorithms\\04.Quicksort\\Program.cs",
+              "RelativeToolTip": "04.Quicksort\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAADwv0QAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T13:45:13.92Z",
+              "WhenOpened": "2024-10-21T14:23:15.879Z",
               "EditorCaption": ""
             }
           ]

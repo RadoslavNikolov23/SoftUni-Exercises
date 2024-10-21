@@ -1,0 +1,15 @@
+C:\Programing - Work\Progaming C# Advance\11.BasicAlgorithms\05.MergeSort\obj\Debug\net6.0\05.MergeSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing - Work\Progaming C# Advance\11.BasicAlgorithms\05.MergeSort\obj\Debug\net6.0\05.MergeSort.AssemblyInfoInputs.cache
+C:\Programing - Work\Progaming C# Advance\11.BasicAlgorithms\05.MergeSort\obj\Debug\net6.0\05.MergeSort.AssemblyInfo.cs
+C:\Programing - Work\Progaming C# Advance\11.BasicAlgorithms\05.MergeSort\obj\Debug\net6.0\05.MergeSort.csproj.CoreCompileInputs.cache
+C:\Programing - Work\Progaming C# Advance\11.BasicAlgorithms\05.MergeSort\obj\Debug\net6.0\05.MergeSort.sourcelink.json
+C:\Programing - Work\Progaming C# Advance\11.BasicAlgorithms\05.MergeSort\bin\Debug\net6.0\05.MergeSort.exe
+C:\Programing - Work\Progaming C# Advance\11.BasicAlgorithms\05.MergeSort\bin\Debug\net6.0\05.MergeSort.deps.json
+C:\Programing - Work\Progaming C# Advance\11.BasicAlgorithms\05.MergeSort\bin\Debug\net6.0\05.MergeSort.runtimeconfig.json
+C:\Programing - Work\Progaming C# Advance\11.BasicAlgorithms\05.MergeSort\bin\Debug\net6.0\05.MergeSort.dll
+C:\Programing - Work\Progaming C# Advance\11.BasicAlgorithms\05.MergeSort\bin\Debug\net6.0\05.MergeSort.pdb
+C:\Programing - Work\Progaming C# Advance\11.BasicAlgorithms\05.MergeSort\obj\Debug\net6.0\05.MergeSort.dll
+C:\Programing - Work\Progaming C# Advance\11.BasicAlgorithms\05.MergeSort\obj\Debug\net6.0\refint\05.MergeSort.dll
+C:\Programing - Work\Progaming C# Advance\11.BasicAlgorithms\05.MergeSort\obj\Debug\net6.0\05.MergeSort.pdb
+C:\Programing - Work\Progaming C# Advance\11.BasicAlgorithms\05.MergeSort\obj\Debug\net6.0\05.MergeSort.genruntimeconfig.cache
+C:\Programing - Work\Progaming C# Advance\11.BasicAlgorithms\05.MergeSort\obj\Debug\net6.0\ref\05.MergeSort.dll
