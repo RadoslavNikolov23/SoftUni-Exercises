@@ -1,0 +1,29 @@
+C:\Programing - Work\Programing C# - OOP\02.Encapsulation-Lab\01.SortPeopleByNameAndAge\obj\Debug\net6.0\PersonsInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing - Work\Programing C# - OOP\02.Encapsulation-Lab\01.SortPeopleByNameAndAge\obj\Debug\net6.0\PersonsInfo.AssemblyInfoInputs.cache
+C:\Programing - Work\Programing C# - OOP\02.Encapsulation-Lab\01.SortPeopleByNameAndAge\obj\Debug\net6.0\PersonsInfo.AssemblyInfo.cs
+C:\Programing - Work\Programing C# - OOP\02.Encapsulation-Lab\01.SortPeopleByNameAndAge\obj\Debug\net6.0\PersonsInfo.csproj.CoreCompileInputs.cache
+C:\Programing - Work\Programing C# - OOP\02.Encapsulation-Lab\01.SortPeopleByNameAndAge\obj\Debug\net6.0\PersonsInfo.sourcelink.json
+C:\Programing - Work\Programing C# - OOP\02.Encapsulation-Lab\01.SortPeopleByNameAndAge\bin\Debug\net6.0\PersonsInfo.exe
+C:\Programing - Work\Programing C# - OOP\02.Encapsulation-Lab\01.SortPeopleByNameAndAge\bin\Debug\net6.0\PersonsInfo.deps.json
+C:\Programing - Work\Programing C# - OOP\02.Encapsulation-Lab\01.SortPeopleByNameAndAge\bin\Debug\net6.0\PersonsInfo.runtimeconfig.json
+C:\Programing - Work\Programing C# - OOP\02.Encapsulation-Lab\01.SortPeopleByNameAndAge\bin\Debug\net6.0\PersonsInfo.dll
+C:\Programing - Work\Programing C# - OOP\02.Encapsulation-Lab\01.SortPeopleByNameAndAge\bin\Debug\net6.0\PersonsInfo.pdb
+C:\Programing - Work\Programing C# - OOP\02.Encapsulation-Lab\01.SortPeopleByNameAndAge\obj\Debug\net6.0\PersonsInfo.dll
+C:\Programing - Work\Programing C# - OOP\02.Encapsulation-Lab\01.SortPeopleByNameAndAge\obj\Debug\net6.0\refint\PersonsInfo.dll
+C:\Programing - Work\Programing C# - OOP\02.Encapsulation-Lab\01.SortPeopleByNameAndAge\obj\Debug\net6.0\PersonsInfo.pdb
+C:\Programing - Work\Programing C# - OOP\02.Encapsulation-Lab\01.SortPeopleByNameAndAge\obj\Debug\net6.0\PersonsInfo.genruntimeconfig.cache
+C:\Programing - Work\Programing C# - OOP\02.Encapsulation-Lab\01.SortPeopleByNameAndAge\obj\Debug\net6.0\ref\PersonsInfo.dll
+C:\Users\PC\Desktop\02.Encapsulation-Lab\01.SortPeopleByNameAndAge\bin\Debug\net6.0\PersonsInfo.exe
+C:\Users\PC\Desktop\02.Encapsulation-Lab\01.SortPeopleByNameAndAge\bin\Debug\net6.0\PersonsInfo.deps.json
+C:\Users\PC\Desktop\02.Encapsulation-Lab\01.SortPeopleByNameAndAge\bin\Debug\net6.0\PersonsInfo.runtimeconfig.json
+C:\Users\PC\Desktop\02.Encapsulation-Lab\01.SortPeopleByNameAndAge\bin\Debug\net6.0\PersonsInfo.dll
+C:\Users\PC\Desktop\02.Encapsulation-Lab\01.SortPeopleByNameAndAge\bin\Debug\net6.0\PersonsInfo.pdb
+C:\Users\PC\Desktop\02.Encapsulation-Lab\01.SortPeopleByNameAndAge\obj\Debug\net6.0\PersonsInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\02.Encapsulation-Lab\01.SortPeopleByNameAndAge\obj\Debug\net6.0\PersonsInfo.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\02.Encapsulation-Lab\01.SortPeopleByNameAndAge\obj\Debug\net6.0\PersonsInfo.AssemblyInfo.cs
+C:\Users\PC\Desktop\02.Encapsulation-Lab\01.SortPeopleByNameAndAge\obj\Debug\net6.0\PersonsInfo.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\02.Encapsulation-Lab\01.SortPeopleByNameAndAge\obj\Debug\net6.0\PersonsInfo.dll
+C:\Users\PC\Desktop\02.Encapsulation-Lab\01.SortPeopleByNameAndAge\obj\Debug\net6.0\refint\PersonsInfo.dll
+C:\Users\PC\Desktop\02.Encapsulation-Lab\01.SortPeopleByNameAndAge\obj\Debug\net6.0\PersonsInfo.pdb
+C:\Users\PC\Desktop\02.Encapsulation-Lab\01.SortPeopleByNameAndAge\obj\Debug\net6.0\PersonsInfo.genruntimeconfig.cache
+C:\Users\PC\Desktop\02.Encapsulation-Lab\01.SortPeopleByNameAndAge\obj\Debug\net6.0\ref\PersonsInfo.dll
