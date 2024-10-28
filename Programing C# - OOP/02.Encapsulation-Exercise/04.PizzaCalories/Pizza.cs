@@ -9,13 +9,14 @@ namespace PizzaCalories
     public class Pizza
     {
         private string _namePizza;
-        private List<Toppings> _toppingsPizza=new List<Toppings>();
+        private List<Toppings> _toppingsPizza;
         private Dough _doughtPizza;
         
-        public Pizza(string namePizza,Dough dough)
+        public Pizza(string namePizza)
         {
             this.NamePizza = namePizza;
-            this.DoughtPizza = dough;
+            this._toppingsPizza=new List<Toppings>();
+            this.ToppingsPizza = this._toppingsPizza.AsReadOnly();
         }
 
 
@@ -24,28 +25,21 @@ namespace PizzaCalories
 
             private set 
             {
-                if(string.IsNullOrWhiteSpace(value) || value.Length>15) throw new ArgumentNullException("Pizza name should be between 1 and 15 symbols.");
-                _namePizza = value;
+                if(string.IsNullOrEmpty(value) || value.Length<1 || value.Length>15) throw new ArgumentException("Pizza name should be between 1 and 15 symbols.");
+                else _namePizza = value;
             }
         }
-        public IReadOnlyCollection<Toppings> ToppingsPizza { get => this._toppingsPizza.AsReadOnly(); }
+        public IReadOnlyCollection<Toppings> ToppingsPizza { get; }
         public int NumberToppings { get => this._toppingsPizza.Count(); }
         public Dough DoughtPizza { get; set; }
 
-        public double TotalCalories
-        {
-            get=> TotalCaloriesMethod();
-        }
-
-        public double TotalCaloriesMethod()
-        {
-            return this._toppingsPizza.Sum(x => x.CalculateCalories()) + this.DoughtPizza.CalculateCalories();
-        }
+        public double TotalCalories => this._toppingsPizza.Sum(x => x.CalculateCaloriesToppings) + this.DoughtPizza.CalculateCaloriesDought;
+     
 
         public void AddToppings(Toppings topping)
         {
 
-            if (this.NumberToppings == 10) throw new ArgumentException("Number of toppings should be in range [0..10].");
+            if (this.NumberToppings >= 10) throw new ArgumentException("Number of toppings should be in range [0..10].");
 
             this._toppingsPizza.Add(topping);
 

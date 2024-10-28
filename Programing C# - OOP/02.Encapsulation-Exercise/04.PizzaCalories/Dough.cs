@@ -8,47 +8,45 @@ namespace PizzaCalories
 {
     public class Dough
     {
-       
+
         public Dough(string flour, string bakingTechique, double grams)
         {
-            Flour = flour;
-            BakingTechique = bakingTechique;
-            Grams = grams;
+            this.Flour = flour;
+            this.BakingTechique = bakingTechique;
+            this.Grams = grams;
         }
 
         private string _flour;
         private string _bakingTechique;
         private double _grams;
 
-        public string Flour
+        private string Flour
         {
             get => _flour;
-            private set
+            set
             {
 
-                if (value.ToLower() == "white" || value.ToLower() == "wholegrain") _flour = value;
+                if (value == "white" || value == "wholegrain") _flour = value;
                 else throw new ArgumentException("Invalid type of dough.");
             }
         }
-        public string BakingTechique
+        private string BakingTechique
         {
             get => _bakingTechique;
-            private set
+            set
             {
-
-                if (value.ToLower() == "crispy" || value.ToLower() == "chewy" || value.ToLower() == "homemade") _bakingTechique = value;
+                if (value.ToLower()== "crispy" || value.ToLower() == "chewy" || value.ToLower() == "homemade") _bakingTechique = value;
                 else throw new ArgumentException("Invalid type of dough.");
             }
         }
 
-        public double Grams
+        private double Grams
         {
             get => _grams;
-            private set
+            set
             {
                 if (value < 1 || value > 200) throw new ArgumentException("Dough weight should be in the range [1..200].");
-
-                _grams = value;
+                else _grams = value;
             }
         }
 
@@ -72,15 +70,13 @@ namespace PizzaCalories
                     return 1.0;
                     break;
                 default:
-                    return 1.0;
+                    return 0.0;
                     break;
             }
         }
 
-        public double CalculateCalories()
-        {
-            return (2 * this.Grams) * Modifiers(this.Flour) * Modifiers(this.BakingTechique);
-        }
+        public double CalculateCaloriesDought => (2 * this.Grams) * Modifiers(this.Flour) * Modifiers(this.BakingTechique);
+
 
     }
 }
