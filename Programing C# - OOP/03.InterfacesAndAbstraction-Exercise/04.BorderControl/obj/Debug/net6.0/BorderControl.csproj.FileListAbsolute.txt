@@ -12,3 +12,18 @@ C:\Users\PC\source\repos\InterfacesAndAbstraction-Exercise\BorderControl\obj\Deb
 C:\Users\PC\source\repos\InterfacesAndAbstraction-Exercise\BorderControl\obj\Debug\net6.0\BorderControl.pdb
 C:\Users\PC\source\repos\InterfacesAndAbstraction-Exercise\BorderControl\obj\Debug\net6.0\BorderControl.genruntimeconfig.cache
 C:\Users\PC\source\repos\InterfacesAndAbstraction-Exercise\BorderControl\obj\Debug\net6.0\ref\BorderControl.dll
+C:\Programing - Work\Programing C# - OOP\03.InterfacesAndAbstraction-Exercise\04.BorderControl\bin\Debug\net6.0\BorderControl.exe
+C:\Programing - Work\Programing C# - OOP\03.InterfacesAndAbstraction-Exercise\04.BorderControl\bin\Debug\net6.0\BorderControl.deps.json
+C:\Programing - Work\Programing C# - OOP\03.InterfacesAndAbstraction-Exercise\04.BorderControl\bin\Debug\net6.0\BorderControl.runtimeconfig.json
+C:\Programing - Work\Programing C# - OOP\03.InterfacesAndAbstraction-Exercise\04.BorderControl\bin\Debug\net6.0\BorderControl.dll
+C:\Programing - Work\Programing C# - OOP\03.InterfacesAndAbstraction-Exercise\04.BorderControl\bin\Debug\net6.0\BorderControl.pdb
+C:\Programing - Work\Programing C# - OOP\03.InterfacesAndAbstraction-Exercise\04.BorderControl\obj\Debug\net6.0\BorderControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing - Work\Programing C# - OOP\03.InterfacesAndAbstraction-Exercise\04.BorderControl\obj\Debug\net6.0\BorderControl.AssemblyInfoInputs.cache
+C:\Programing - Work\Programing C# - OOP\03.InterfacesAndAbstraction-Exercise\04.BorderControl\obj\Debug\net6.0\BorderControl.AssemblyInfo.cs
+C:\Programing - Work\Programing C# - OOP\03.InterfacesAndAbstraction-Exercise\04.BorderControl\obj\Debug\net6.0\BorderControl.csproj.CoreCompileInputs.cache
+C:\Programing - Work\Programing C# - OOP\03.InterfacesAndAbstraction-Exercise\04.BorderControl\obj\Debug\net6.0\BorderControl.sourcelink.json
+C:\Programing - Work\Programing C# - OOP\03.InterfacesAndAbstraction-Exercise\04.BorderControl\obj\Debug\net6.0\BorderControl.dll
+C:\Programing - Work\Programing C# - OOP\03.InterfacesAndAbstraction-Exercise\04.BorderControl\obj\Debug\net6.0\refint\BorderControl.dll
+C:\Programing - Work\Programing C# - OOP\03.InterfacesAndAbstraction-Exercise\04.BorderControl\obj\Debug\net6.0\BorderControl.pdb
+C:\Programing - Work\Programing C# - OOP\03.InterfacesAndAbstraction-Exercise\04.BorderControl\obj\Debug\net6.0\BorderControl.genruntimeconfig.cache
+C:\Programing - Work\Programing C# - OOP\03.InterfacesAndAbstraction-Exercise\04.BorderControl\obj\Debug\net6.0\ref\BorderControl.dll
