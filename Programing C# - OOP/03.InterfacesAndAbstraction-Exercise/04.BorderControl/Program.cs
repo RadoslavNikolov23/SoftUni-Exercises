@@ -29,8 +29,6 @@ namespace BorderControl
 
             foreach (var id in identification.Where(id => id.Id.EndsWith(fakeId))) 
                 Console.WriteLine(id.Id);
-           
-
           
         }
 
