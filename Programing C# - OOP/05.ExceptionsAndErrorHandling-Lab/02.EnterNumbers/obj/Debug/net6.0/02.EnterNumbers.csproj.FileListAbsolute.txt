@@ -1,0 +1,15 @@
+C:\Programing - Work\Programing C# - OOP\05.ExceptionsAndErrorHandling-Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing - Work\Programing C# - OOP\05.ExceptionsAndErrorHandling-Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.AssemblyInfoInputs.cache
+C:\Programing - Work\Programing C# - OOP\05.ExceptionsAndErrorHandling-Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.AssemblyInfo.cs
+C:\Programing - Work\Programing C# - OOP\05.ExceptionsAndErrorHandling-Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.csproj.CoreCompileInputs.cache
+C:\Programing - Work\Programing C# - OOP\05.ExceptionsAndErrorHandling-Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.sourcelink.json
+C:\Programing - Work\Programing C# - OOP\05.ExceptionsAndErrorHandling-Lab\02.EnterNumbers\bin\Debug\net6.0\02.EnterNumbers.exe
+C:\Programing - Work\Programing C# - OOP\05.ExceptionsAndErrorHandling-Lab\02.EnterNumbers\bin\Debug\net6.0\02.EnterNumbers.deps.json
+C:\Programing - Work\Programing C# - OOP\05.ExceptionsAndErrorHandling-Lab\02.EnterNumbers\bin\Debug\net6.0\02.EnterNumbers.runtimeconfig.json
+C:\Programing - Work\Programing C# - OOP\05.ExceptionsAndErrorHandling-Lab\02.EnterNumbers\bin\Debug\net6.0\02.EnterNumbers.dll
+C:\Programing - Work\Programing C# - OOP\05.ExceptionsAndErrorHandling-Lab\02.EnterNumbers\bin\Debug\net6.0\02.EnterNumbers.pdb
+C:\Programing - Work\Programing C# - OOP\05.ExceptionsAndErrorHandling-Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.dll
+C:\Programing - Work\Programing C# - OOP\05.ExceptionsAndErrorHandling-Lab\02.EnterNumbers\obj\Debug\net6.0\refint\02.EnterNumbers.dll
+C:\Programing - Work\Programing C# - OOP\05.ExceptionsAndErrorHandling-Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.pdb
+C:\Programing - Work\Programing C# - OOP\05.ExceptionsAndErrorHandling-Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.genruntimeconfig.cache
+C:\Programing - Work\Programing C# - OOP\05.ExceptionsAndErrorHandling-Lab\02.EnterNumbers\obj\Debug\net6.0\ref\02.EnterNumbers.dll
