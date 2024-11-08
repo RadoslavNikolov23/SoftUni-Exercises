@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Programing - Work\\Programing C# - OOP\\05.ExceptionsAndErrorHandling-Lab\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D9918E7-BA62-452D-B349-9D7FDFD54019}|02.EnterNumbers\\02.EnterNumbers.csproj|c:\\programing - work\\programing c# - oop\\05.exceptionsanderrorhandling-lab\\02.enternumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D9918E7-BA62-452D-B349-9D7FDFD54019}|02.EnterNumbers\\02.EnterNumbers.csproj|solutionrelative:02.enternumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A91127A1-11B6-43D8-852D-E03CA43E8AC7}|01.SquareRoot\\01.SquareRoot.csproj|c:\\programing - work\\programing c# - oop\\05.exceptionsanderrorhandling-lab\\01.squareroot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A91127A1-11B6-43D8-852D-E03CA43E8AC7}|01.SquareRoot\\01.SquareRoot.csproj|solutionrelative:01.squareroot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E13688C8-0695-4D53-B00D-F0F258940172}|03.Cards\\03.Cards.csproj|c:\\programing - work\\programing c# - oop\\05.exceptionsanderrorhandling-lab\\03.cards\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13688C8-0695-4D53-B00D-F0F258940172}|03.Cards\\03.Cards.csproj|solutionrelative:03.cards\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,26 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Programing - Work\\Programing C# - OOP\\05.ExceptionsAndErrorHandling-Lab\\02.EnterNumbers\\Program.cs",
-              "RelativeDocumentMoniker": "02.EnterNumbers\\Program.cs",
-              "ToolTip": "C:\\Programing - Work\\Programing C# - OOP\\05.ExceptionsAndErrorHandling-Lab\\02.EnterNumbers\\Program.cs",
-              "RelativeToolTip": "02.EnterNumbers\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing C# - OOP\\05.ExceptionsAndErrorHandling-Lab\\03.Cards\\Program.cs",
+              "RelativeDocumentMoniker": "03.Cards\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing C# - OOP\\05.ExceptionsAndErrorHandling-Lab\\03.Cards\\Program.cs",
+              "RelativeToolTip": "03.Cards\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T21:39:45.349Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Programing - Work\\Programing C# - OOP\\05.ExceptionsAndErrorHandling-Lab\\01.SquareRoot\\Program.cs",
-              "RelativeDocumentMoniker": "01.SquareRoot\\Program.cs",
-              "ToolTip": "C:\\Programing - Work\\Programing C# - OOP\\05.ExceptionsAndErrorHandling-Lab\\01.SquareRoot\\Program.cs",
-              "RelativeToolTip": "01.SquareRoot\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAIwA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T21:15:37.429Z",
+              "WhenOpened": "2024-11-08T14:30:43.936Z",
               "EditorCaption": ""
             }
           ]
