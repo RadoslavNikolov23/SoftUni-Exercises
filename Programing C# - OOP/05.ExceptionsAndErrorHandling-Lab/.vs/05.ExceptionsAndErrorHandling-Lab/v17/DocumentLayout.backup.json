@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Programing - Work\\Programing C# - OOP\\05.ExceptionsAndErrorHandling-Lab\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1E18EDCF-2B56-4AF1-9BC0-878E90AC4746}|04.SumOfIntegers\\04.SumOfIntegers.csproj|c:\\programing - work\\programing c# - oop\\05.exceptionsanderrorhandling-lab\\04.sumofintegers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E18EDCF-2B56-4AF1-9BC0-878E90AC4746}|04.SumOfIntegers\\04.SumOfIntegers.csproj|solutionrelative:04.sumofintegers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E13688C8-0695-4D53-B00D-F0F258940172}|03.Cards\\03.Cards.csproj|c:\\programing - work\\programing c# - oop\\05.exceptionsanderrorhandling-lab\\03.cards\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E13688C8-0695-4D53-B00D-F0F258940172}|03.Cards\\03.Cards.csproj|solutionrelative:03.cards\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing C# - OOP\\05.ExceptionsAndErrorHandling-Lab\\04.SumOfIntegers\\Program.cs",
+              "RelativeDocumentMoniker": "04.SumOfIntegers\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing C# - OOP\\05.ExceptionsAndErrorHandling-Lab\\04.SumOfIntegers\\Program.cs*",
+              "RelativeToolTip": "04.SumOfIntegers\\Program.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAxwAgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T18:22:27.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Programing - Work\\Programing C# - OOP\\05.ExceptionsAndErrorHandling-Lab\\03.Cards\\Program.cs",
               "RelativeDocumentMoniker": "03.Cards\\Program.cs",

@@ -1,0 +1,15 @@
+C:\Programing - Work\Programing C# - OOP\05.ExceptionsAndErrorHandling-Lab\04.SumOfIntegers\bin\Debug\net6.0\04.SumOfIntegers.exe
+C:\Programing - Work\Programing C# - OOP\05.ExceptionsAndErrorHandling-Lab\04.SumOfIntegers\bin\Debug\net6.0\04.SumOfIntegers.deps.json
+C:\Programing - Work\Programing C# - OOP\05.ExceptionsAndErrorHandling-Lab\04.SumOfIntegers\bin\Debug\net6.0\04.SumOfIntegers.runtimeconfig.json
+C:\Programing - Work\Programing C# - OOP\05.ExceptionsAndErrorHandling-Lab\04.SumOfIntegers\bin\Debug\net6.0\04.SumOfIntegers.dll
+C:\Programing - Work\Programing C# - OOP\05.ExceptionsAndErrorHandling-Lab\04.SumOfIntegers\bin\Debug\net6.0\04.SumOfIntegers.pdb
+C:\Programing - Work\Programing C# - OOP\05.ExceptionsAndErrorHandling-Lab\04.SumOfIntegers\obj\Debug\net6.0\04.SumOfIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing - Work\Programing C# - OOP\05.ExceptionsAndErrorHandling-Lab\04.SumOfIntegers\obj\Debug\net6.0\04.SumOfIntegers.AssemblyInfoInputs.cache
+C:\Programing - Work\Programing C# - OOP\05.ExceptionsAndErrorHandling-Lab\04.SumOfIntegers\obj\Debug\net6.0\04.SumOfIntegers.AssemblyInfo.cs
+C:\Programing - Work\Programing C# - OOP\05.ExceptionsAndErrorHandling-Lab\04.SumOfIntegers\obj\Debug\net6.0\04.SumOfIntegers.csproj.CoreCompileInputs.cache
+C:\Programing - Work\Programing C# - OOP\05.ExceptionsAndErrorHandling-Lab\04.SumOfIntegers\obj\Debug\net6.0\04.SumOfIntegers.sourcelink.json
+C:\Programing - Work\Programing C# - OOP\05.ExceptionsAndErrorHandling-Lab\04.SumOfIntegers\obj\Debug\net6.0\04.SumOfIntegers.dll
+C:\Programing - Work\Programing C# - OOP\05.ExceptionsAndErrorHandling-Lab\04.SumOfIntegers\obj\Debug\net6.0\refint\04.SumOfIntegers.dll
+C:\Programing - Work\Programing C# - OOP\05.ExceptionsAndErrorHandling-Lab\04.SumOfIntegers\obj\Debug\net6.0\04.SumOfIntegers.pdb
+C:\Programing - Work\Programing C# - OOP\05.ExceptionsAndErrorHandling-Lab\04.SumOfIntegers\obj\Debug\net6.0\04.SumOfIntegers.genruntimeconfig.cache
+C:\Programing - Work\Programing C# - OOP\05.ExceptionsAndErrorHandling-Lab\04.SumOfIntegers\obj\Debug\net6.0\ref\04.SumOfIntegers.dll
