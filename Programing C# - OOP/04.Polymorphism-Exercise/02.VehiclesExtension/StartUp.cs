@@ -45,7 +45,7 @@ namespace Vehicles
             if (command == "Drive")
             {
                 double distance = double.Parse(commandArray[2]);
-                Console.WriteLine(vehicle.Driven(distance));
+                Console.WriteLine(vehicle.Driven(distance,false));
             }
             else if (command == "Refuel")
             {
@@ -56,7 +56,7 @@ namespace Vehicles
             else if (command == "DriveEmpty")
             {
                 double distance = double.Parse(commandArray[2]);
-                Console.WriteLine(vehicle.DriveEmpty(distance));
+                Console.WriteLine(vehicle.Driven(distance,true));
             }
         }
 

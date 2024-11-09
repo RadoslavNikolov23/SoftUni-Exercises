@@ -12,8 +12,7 @@ namespace Vehicles.Interface
         double FuelConsumption { get; }
         double TankCapacity { get; }
 
-        string Driven(double driveKM);
-        string DriveEmpty(double driveKM);
+        string Driven(double driveKM, bool emptyOrNot);
         void Refueled(double liters);
     }
 }

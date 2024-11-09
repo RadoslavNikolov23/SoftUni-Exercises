@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.Design;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -28,21 +29,11 @@ namespace Vehicles.Classes
 
         public abstract double IncreaseFuelConsumtion { get; }
 
-        public string DriveEmpty(double driveKM)
+        public string Driven(double drivenKM, bool emtptyOrNot)
         {
-            double needFuel = driveKM * this.FuelConsumption;
-            if (this.FuelQuantity < needFuel)
-            {
-                return $"{this.GetType().Name} needs refueling";
-            }
-
-            this.FuelQuantity -= needFuel;
-            return $"{this.GetType().Name} travelled {driveKM} km";
-        }
-
-        public string Driven(double drivenKM)
-        {
-            double needFuel = drivenKM * (this.FuelConsumption + this.IncreaseFuelConsumtion);
+            double needFuel;
+            if (emtptyOrNot)  needFuel = drivenKM * this.FuelConsumption;
+            else   needFuel = drivenKM * (this.FuelConsumption + this.IncreaseFuelConsumtion);
             if (this.FuelQuantity < needFuel)
             {
                 return $"{this.GetType().Name} needs refueling";
