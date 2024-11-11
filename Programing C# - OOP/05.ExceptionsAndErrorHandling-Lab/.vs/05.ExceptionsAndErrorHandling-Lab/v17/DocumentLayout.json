@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Programing - Work\\Programing C# - OOP\\05.ExceptionsAndErrorHandling-Lab\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D7C097A2-2FF4-40FD-8D6A-0AFF8A2260D9}|06.MoneyTransactions\\06.MoneyTransactions.csproj|c:\\programing - work\\programing c# - oop\\05.exceptionsanderrorhandling-lab\\06.moneytransactions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C097A2-2FF4-40FD-8D6A-0AFF8A2260D9}|06.MoneyTransactions\\06.MoneyTransactions.csproj|solutionrelative:06.moneytransactions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{10AB0115-0D65-4809-B57A-C036471BFAC5}|05.PlayCatch\\05.PlayCatch.csproj|c:\\programing - work\\programing c# - oop\\05.exceptionsanderrorhandling-lab\\05.playcatch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10AB0115-0D65-4809-B57A-C036471BFAC5}|05.PlayCatch\\05.PlayCatch.csproj|solutionrelative:05.playcatch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -32,6 +36,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\Programing C# - OOP\\05.ExceptionsAndErrorHandling-Lab\\06.MoneyTransactions\\Program.cs",
+              "RelativeDocumentMoniker": "06.MoneyTransactions\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\Programing C# - OOP\\05.ExceptionsAndErrorHandling-Lab\\06.MoneyTransactions\\Program.cs",
+              "RelativeToolTip": "06.MoneyTransactions\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:08:07.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Programing - Work\\Programing C# - OOP\\05.ExceptionsAndErrorHandling-Lab\\05.PlayCatch\\Program.cs",
               "RelativeDocumentMoniker": "05.PlayCatch\\Program.cs",
               "ToolTip": "C:\\Programing - Work\\Programing C# - OOP\\05.ExceptionsAndErrorHandling-Lab\\05.PlayCatch\\Program.cs",
@@ -43,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Programing - Work\\Programing C# - OOP\\05.ExceptionsAndErrorHandling-Lab\\04.SumOfIntegers\\Program.cs",
               "RelativeDocumentMoniker": "04.SumOfIntegers\\Program.cs",
@@ -51,12 +68,11 @@
               "RelativeToolTip": "04.SumOfIntegers\\Program.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAYwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T18:22:27.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-09T18:22:27.651Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Programing - Work\\Programing C# - OOP\\05.ExceptionsAndErrorHandling-Lab\\03.Cards\\Program.cs",
               "RelativeDocumentMoniker": "03.Cards\\Program.cs",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("05.PlayCatch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ec4b100d025bd58d72c6f8b9c8169486e2715f8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1bdac8d10718498e6cf1d225988958bd7a988faf")]
 [assembly: System.Reflection.AssemblyProductAttribute("05.PlayCatch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("05.PlayCatch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
