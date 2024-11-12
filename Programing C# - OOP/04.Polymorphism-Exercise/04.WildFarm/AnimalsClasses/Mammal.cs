@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using WildFarm.FoodClasses;
 
 namespace WildFarm.AnimalsClasses
 {
@@ -16,11 +17,24 @@ namespace WildFarm.AnimalsClasses
         public string LivingRegion { get; }
 
         public override double IndividualIncrese { get; }
-       
-        public override string ToString()
+
+        public override string Sound { get; }
+        public override IReadOnlyCollection<string> PrefferFoods { get; }
+
+        public override void ProduceSoundForFood(Food food)
         {
-        
-            return $"{this.Weight}, {this.LivingRegion}, {this.FoodEaten}]";
+            Console.WriteLine(this.Sound);
+            string foodType = food.GetType().Name;
+
+            if (PrefferFoods.Contains(foodType))
+            {
+                this.Weight += (this.IndividualIncrese * food.Quantity);
+                this.FoodEaten += food.Quantity;
+            }
+            else
+                Console.WriteLine($"{GetType().Name.ToString()} does not eat {foodType}!");
         }
+
+        public override string ToString() => $"{this.Weight}, {this.LivingRegion}, {this.FoodEaten}]";
     }
 }

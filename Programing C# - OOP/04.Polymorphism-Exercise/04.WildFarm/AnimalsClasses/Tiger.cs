@@ -14,27 +14,8 @@ namespace WildFarm.AnimalsClasses
         }
 
         public override double IndividualIncrese { get => 1.00; }
-
-
-        public override void ProduceSoundForFood(Food food)
-        {
-            Console.WriteLine("ROAR!!!");
-            string foodType = food.GetType().Name;
-            if (foodType.ToUpper() == "MEAT")
-            {
-                this.Weight += (this.IndividualIncrese * food.Quantity);
-                this.FoodEaten += food.Quantity;
-            }
-            else
-            {
-                Console.WriteLine($"{GetType().Name.ToString()} does not eat {foodType}!");
-            }
-        }
-
-        public override string ToString()
-        {
-            return $"{GetType().Name.ToString()} " + base.ToString();
-
-        }
+        public override string Sound { get => "ROAR!!!"; }
+        public override IReadOnlyCollection<string> PrefferFoods { get => new List<string>() { "Meat" }.AsReadOnly(); }
+        public override string ToString() => $"{GetType().Name.ToString()} " + base.ToString();
     }
 }

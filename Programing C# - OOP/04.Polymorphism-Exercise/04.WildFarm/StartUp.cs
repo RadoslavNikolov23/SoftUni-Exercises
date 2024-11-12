@@ -11,6 +11,7 @@ namespace WildFarm
         {
             List<Animal> animals = new List<Animal>();
 
+
             while (true)
             {
                 string inputEven = Console.ReadLine();

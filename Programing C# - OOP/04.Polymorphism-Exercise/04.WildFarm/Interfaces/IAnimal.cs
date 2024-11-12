@@ -13,6 +13,9 @@ namespace WildFarm.Interfaces
         public double Weight { get; }
         public int FoodEaten { get; }
 
+        public string Sound { get; }
+        public IReadOnlyCollection<string> PrefferFoods { get; }
+
         void ProduceSoundForFood(Food food);
     }
 }

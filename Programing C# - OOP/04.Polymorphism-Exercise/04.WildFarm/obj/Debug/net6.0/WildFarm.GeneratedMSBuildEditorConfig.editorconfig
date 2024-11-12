@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WildFarm
-build_property.ProjectDir = C:\Users\PC\source\repos\Polymorphism-Exercise\WildFarm\
+build_property.ProjectDir = C:\Programing - Work\Programing C# - OOP\04.Polymorphism-Exercise\04.WildFarm\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

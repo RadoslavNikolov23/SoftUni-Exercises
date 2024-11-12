@@ -15,9 +15,6 @@ namespace WildFarm.AnimalsClasses
 
         public string Breed { get; }
 
-        public override string ToString()
-        {
-            return $"[{this.Name}, {Breed}, " + base.ToString();
-        }
+        public override string ToString() => $"[{this.Name}, {Breed}, " + base.ToString();
     }
 }

@@ -22,6 +22,8 @@ namespace WildFarm.AnimalsClasses
         public string Name { get; }
         public double Weight { get; protected set; }
         public int FoodEaten { get; protected set; }
+        public abstract string Sound { get; }
+        public abstract IReadOnlyCollection<string> PrefferFoods { get; }
         public abstract double IndividualIncrese { get; }
 
         public abstract void ProduceSoundForFood(Food food);
