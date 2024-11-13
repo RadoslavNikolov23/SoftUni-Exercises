@@ -26,7 +26,19 @@ namespace WildFarm.AnimalsClasses
         public abstract IReadOnlyCollection<string> PrefferFoods { get; }
         public abstract double IndividualIncrese { get; }
 
-        public abstract void ProduceSoundForFood(Food food);
+        public virtual void ProduceSoundForFood(Food food)
+        {
+            Console.WriteLine(this.Sound);
+            string foodType = food.GetType().Name;
+
+            if (PrefferFoods.Contains(foodType))
+            {
+                this.Weight += (this.IndividualIncrese * food.Quantity);
+                this.FoodEaten += food.Quantity;
+            }
+            else
+                Console.WriteLine($"{GetType().Name.ToString()} does not eat {foodType}!");
+        }
 
     }
 }

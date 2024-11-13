@@ -20,19 +20,7 @@ namespace WildFarm.AnimalsClasses
         public override string Sound { get; }
         public override IReadOnlyCollection<string> PrefferFoods { get; }
 
-        public override void ProduceSoundForFood(Food food)
-        {
-            Console.WriteLine(this.Sound);
-            string foodType = food.GetType().Name;
-
-            if (PrefferFoods.Contains(foodType))
-            {
-                this.Weight += (this.IndividualIncrese * food.Quantity);
-                this.FoodEaten += food.Quantity;
-            }
-            else
-                Console.WriteLine($"{GetType().Name.ToString()} does not eat {foodType}!");
-        }
+ 
 
         public override string ToString() => $"[{this.Name}, {WingSize}, {this.Weight}, {this.FoodEaten}]";
 

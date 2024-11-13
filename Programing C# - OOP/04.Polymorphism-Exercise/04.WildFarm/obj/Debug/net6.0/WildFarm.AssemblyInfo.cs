@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WildFarm")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3009676eb13c6ced58c40c38b7501dce953bca25")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f809f00a918256d871b4ebe11c93ad3b0ae0007")]
 [assembly: System.Reflection.AssemblyProductAttribute("WildFarm")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WildFarm")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
