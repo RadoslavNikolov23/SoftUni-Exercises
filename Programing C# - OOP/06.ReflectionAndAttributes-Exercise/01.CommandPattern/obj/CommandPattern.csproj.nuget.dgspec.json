@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\Desktop\\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\\CommandPattern\\CommandPattern.csproj": {}
+    "C:\\Programing - Work\\Programing C# - OOP\\06.ReflectionAndAttributes-Exercise\\01.CommandPattern\\CommandPattern.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\Desktop\\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\\CommandPattern\\CommandPattern.csproj": {
+    "C:\\Programing - Work\\Programing C# - OOP\\06.ReflectionAndAttributes-Exercise\\01.CommandPattern\\CommandPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Desktop\\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\\CommandPattern\\CommandPattern.csproj",
+        "projectUniqueName": "C:\\Programing - Work\\Programing C# - OOP\\06.ReflectionAndAttributes-Exercise\\01.CommandPattern\\CommandPattern.csproj",
         "projectName": "CommandPattern",
-        "projectPath": "C:\\Users\\PC\\Desktop\\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\\CommandPattern\\CommandPattern.csproj",
+        "projectPath": "C:\\Programing - Work\\Programing C# - OOP\\06.ReflectionAndAttributes-Exercise\\01.CommandPattern\\CommandPattern.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Desktop\\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\\CommandPattern\\obj\\",
+        "outputPath": "C:\\Programing - Work\\Programing C# - OOP\\06.ReflectionAndAttributes-Exercise\\01.CommandPattern\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
