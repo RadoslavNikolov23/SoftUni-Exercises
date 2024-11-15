@@ -17,7 +17,7 @@ namespace CommandPattern.Core
             string commandName = array[0];
             string[] commandsArgs = array.Skip(1).ToArray();
 
-            Dictionary<string, Type> commandTypes = Assembly.GetEntryAssembly().GetTypes()
+            Dictionary<string, Type> commandTypes = Assembly.GetExecutingAssembly().GetTypes()
                 .Where(t => t.Name.EndsWith("Command")).ToDictionary(t => t.Name.Replace("Command", ""), t => t);
 
             if (!commandTypes.ContainsKey(commandName)) throw new InvalidOperationException("Wrong command!");
@@ -31,18 +31,18 @@ namespace CommandPattern.Core
 
         //public string Read(string args)
         //{
-        //    string[] array= args.Split(" ",StringSplitOptions.RemoveEmptyEntries);
-        //    string commandName= array[0];
-        //    string[] commandsArgs=array.Skip(1).ToArray();
+        //    string[] array = args.Split(" ", StringSplitOptions.RemoveEmptyEntries);
+        //    string commandName = array[0];
+        //    string[] commandsArgs = array.Skip(1).ToArray();
 
-        //    Type typeCM=Assembly.GetEntryAssembly().GetTypes().First(x=>x.Name==$"{commandName}Command");
+        //    Type typeCM = Assembly.GetExecutingAssembly().GetTypes().First(x => x.Name == $"{commandName}Command");
 
         //    if (typeCM == null) throw new InvalidOperationException("Wrong command!");
 
         //    ICommand mycom = (ICommand)Activator.CreateInstance(typeCM);
         //    return mycom.Execute(commandsArgs);
 
-        //}   
+        //}
 
 
         //public string Read(string args)
