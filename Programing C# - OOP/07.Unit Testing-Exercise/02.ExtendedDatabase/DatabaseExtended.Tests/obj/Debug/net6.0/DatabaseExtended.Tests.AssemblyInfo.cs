@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DatabaseExtended.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a623258c7c001bdb33e7817510a7ee01d882c9c4")]
 [assembly: System.Reflection.AssemblyProductAttribute("DatabaseExtended.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DatabaseExtended.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

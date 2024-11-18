@@ -9,3 +9,15 @@ C:\Users\PC\Desktop\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0\DatabaseEx
 C:\Users\PC\Desktop\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0\DatabaseExtended\obj\Debug\net6.0\refint\DatabaseExtended.dll
 C:\Users\PC\Desktop\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0\DatabaseExtended\obj\Debug\net6.0\DatabaseExtended.pdb
 C:\Users\PC\Desktop\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0\DatabaseExtended\obj\Debug\net6.0\ref\DatabaseExtended.dll
+C:\Programing - Work\Programing C# - OOP\07.Unit Testing-Exercise\02.ExtendedDatabase\DatabaseExtended\bin\Debug\net6.0\DatabaseExtended.deps.json
+C:\Programing - Work\Programing C# - OOP\07.Unit Testing-Exercise\02.ExtendedDatabase\DatabaseExtended\bin\Debug\net6.0\DatabaseExtended.dll
+C:\Programing - Work\Programing C# - OOP\07.Unit Testing-Exercise\02.ExtendedDatabase\DatabaseExtended\bin\Debug\net6.0\DatabaseExtended.pdb
+C:\Programing - Work\Programing C# - OOP\07.Unit Testing-Exercise\02.ExtendedDatabase\DatabaseExtended\obj\Debug\net6.0\DatabaseExtended.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing - Work\Programing C# - OOP\07.Unit Testing-Exercise\02.ExtendedDatabase\DatabaseExtended\obj\Debug\net6.0\DatabaseExtended.AssemblyInfoInputs.cache
+C:\Programing - Work\Programing C# - OOP\07.Unit Testing-Exercise\02.ExtendedDatabase\DatabaseExtended\obj\Debug\net6.0\DatabaseExtended.AssemblyInfo.cs
+C:\Programing - Work\Programing C# - OOP\07.Unit Testing-Exercise\02.ExtendedDatabase\DatabaseExtended\obj\Debug\net6.0\DatabaseExtended.csproj.CoreCompileInputs.cache
+C:\Programing - Work\Programing C# - OOP\07.Unit Testing-Exercise\02.ExtendedDatabase\DatabaseExtended\obj\Debug\net6.0\DatabaseExtended.sourcelink.json
+C:\Programing - Work\Programing C# - OOP\07.Unit Testing-Exercise\02.ExtendedDatabase\DatabaseExtended\obj\Debug\net6.0\DatabaseExtended.dll
+C:\Programing - Work\Programing C# - OOP\07.Unit Testing-Exercise\02.ExtendedDatabase\DatabaseExtended\obj\Debug\net6.0\refint\DatabaseExtended.dll
+C:\Programing - Work\Programing C# - OOP\07.Unit Testing-Exercise\02.ExtendedDatabase\DatabaseExtended\obj\Debug\net6.0\DatabaseExtended.pdb
+C:\Programing - Work\Programing C# - OOP\07.Unit Testing-Exercise\02.ExtendedDatabase\DatabaseExtended\obj\Debug\net6.0\ref\DatabaseExtended.dll

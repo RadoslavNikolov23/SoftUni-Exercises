@@ -10,25 +10,7 @@ namespace DatabaseExtended.Tests
     [TestFixture]
     public class ExtendedDatabaseTests
     {
-        private long _id;
-        private string _userName;
-        private long GenerateRandomId()
-        {
-            return Random.Shared.Next(1, 100000);
-        }
-        private string GenerateRandomString(int length)
-        {
-            Random random = new Random();
-            string chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
-            string result = new string(Enumerable.Repeat(chars, length).Select(x => x[random.Next(x.Length)]).ToArray());
-            return result;
-
-        }
-
-        private Person GenerateRandomPersons()
-        {
-            return new Person(GenerateRandomId(), GenerateRandomString(Random.Shared.Next(1, 100)));
-        }
+        private const int MaxSizeOfPersonsInDataBase = 16;
 
         [Test]
         public void InitializationOfPerson()
@@ -37,41 +19,29 @@ namespace DatabaseExtended.Tests
             Assert.IsNotNull(person);
         }
 
-        [TestCase(16)]
-        [TestCase(5)]
-        [TestCase(10)]
-        [TestCase(1)]
+        [TestCase(1), TestCase(5), TestCase(10), TestCase(MaxSizeOfPersonsInDataBase)]
         public void InitializationOfDataBaseWithLessThan16People(int length)
         {
-            Person[] persons = new Person[length];
-            for (int i = 0; i < length; i++)
-                persons[i] = GenerateRandomPersons();
-
+            Person[] persons = GenerateRandomPersonsArray(length);
             Database db = new Database(persons);
+
             Assert.IsNotNull(db);
 
         }
 
-        [TestCase(17)]
-        [TestCase(20)]
+        [TestCase(17), TestCase(20)]
         public void OutOfRangeExceptionTest(int lenght)
         {
-            Person[] persons = new Person[lenght];
-            for (int i = 0; i < lenght; i++)
-                persons[i] = GenerateRandomPersons();
-
+            Person[] persons = GenerateRandomPersonsArray(lenght);
             Assert.Throws<ArgumentException>(
                 () => new Database(persons));
 
         }
 
-        [TestCase(17)]
-        [TestCase(20)]
+        [TestCase(17), TestCase(20)]
         public void AddRangeMethodChechIfOver16ThrownsAnException(int numberOfPeople)
         {
-            Person[] persons = new Person[numberOfPeople];
-            for (int i = 0; i < numberOfPeople; i++)
-                persons[i] = GenerateRandomPersons();
+            Person[] persons = GenerateRandomPersonsArray(numberOfPeople);
 
             MethodInfo methods = typeof(Database).GetMethod("AddRange", BindingFlags.Instance | BindingFlags.NonPublic);
 
@@ -86,43 +56,41 @@ namespace DatabaseExtended.Tests
 
         }
 
-        [Test]
-        public void AddMethodDoesItWorkNormally()
+        [TestCase(1), TestCase(6), TestCase(10), TestCase(MaxSizeOfPersonsInDataBase)]
+        public void AddMethodDoesItWorkNormally(int numberOfPeople)
         {
-            Person persons = GenerateRandomPersons();
-            Database db= new Database();
+            Person[] persons = GenerateRandomPersonsArray(numberOfPeople);
+            Database db = new Database();
 
-            db.Add(persons);
-            
-            Assert.IsTrue(db.Count==1);
+            for (int i = 0; i < persons.Length; i++)
+            {
+                db.Add(persons[i]);
+            }
+            Assert.IsTrue(db.Count == persons.Length);
         }
 
-        [TestCase(4)]
-        [TestCase(1)]
+        [TestCase(4), TestCase(1), TestCase(10)]
         public void AddMethodWhenCountisGreatherThan16(int personsToAddNumber)
         {
-            Person[] persons = new Person[16];
-            for (int i = 0; i < 16; i++)
-                persons[i] = GenerateRandomPersons();
-
+            Person[] persons = GenerateRandomPersonsArray(MaxSizeOfPersonsInDataBase);
             Database db = new Database(persons);
 
-            for(int i=0;i<personsToAddNumber;i++)
-            Assert.Throws<InvalidOperationException>(
-                () => db.Add(GenerateRandomPersons()));
+            for (int i = 0; i < personsToAddNumber; i++)
+                Assert.Throws<InvalidOperationException>(
+                    () => db.Add(GenerateRandomPersons()));
 
         }
 
         [Test]
         public void AddMethodIfPersonIdExist()
         {
-            Person firstPerson= GenerateRandomPersons();
-            long idPerson=firstPerson.Id;
-            string namePerson = GenerateRandomString(50);
+            Person firstPerson = GenerateRandomPersons();
+            long idPerson = firstPerson.Id;
+            string namePerson = GenerateRandomString();
 
-            Database db= new Database(firstPerson);
+            Database db = new Database(firstPerson);
             Assert.Throws<InvalidOperationException>(
-              () => db.Add(new Person(idPerson,namePerson)));
+              () => db.Add(new Person(idPerson, namePerson)));
         }
 
         [Test]
@@ -137,25 +105,18 @@ namespace DatabaseExtended.Tests
               () => db.Add(new Person(idPerson, namePerson)));
         }
 
-        [Test]
-        public void RemoveMethodInDataBaseWorksProperly()
+        [TestCase(4), TestCase(1), TestCase(10)]
+        public void RemoveMethodInDataBaseWorksProperly(int numberOfPeople)
         {
-            Person person = GenerateRandomPersons();
-            Database db = new Database(person);
-            db.Remove();
-
-            Assert.That(db.Count, Is.EqualTo(0));
-        }    
-        
-        [Test]
-        public void RemoveMethodInDataBaseWorksProperlyIfTheresMoreThanOnePerson()
-        {
-            Person[] persons = new Person[] { GenerateRandomPersons(), GenerateRandomPersons(), GenerateRandomPersons() };
-            int originalPersonsNumber= persons.Length;
+            Person[] persons = GenerateRandomPersonsArray(numberOfPeople);
+            int originalPersonsNumber = persons.Length;
             Database db = new Database(persons);
-            db.Remove();
+
+            for (int i = 0; i < persons.Length; i++)
+                db.Remove();
 
             Assert.That(db.Count, Is.LessThan(originalPersonsNumber));
+            Assert.That(db.Count, Is.EqualTo(0));
         }
 
         [Test]
@@ -163,7 +124,7 @@ namespace DatabaseExtended.Tests
         {
             Database db = new Database();
 
-            Assert.Throws< InvalidOperationException>(()=>db.Remove());
+            Assert.Throws<InvalidOperationException>(() => db.Remove());
         }
 
         [Test]
@@ -171,9 +132,9 @@ namespace DatabaseExtended.Tests
         {
             Person person = GenerateRandomPersons();
             Database db = new Database(person);
-            long id=person.Id;
+            long id = person.Id;
 
-            Person resultPerson= db.FindById(id);
+            Person resultPerson = db.FindById(id);
 
             Assert.That(person.Equals(resultPerson));
         }
@@ -186,17 +147,15 @@ namespace DatabaseExtended.Tests
             long id = GenerateRandomId();
 
             Assert.Throws<InvalidOperationException>(() => db.FindById(id));
-        }   
-        
-        [TestCase(-1)]
-        [TestCase(-100)]
+        }
+
+        [TestCase(-1), TestCase(-100)]
         public void FindByIDMethodDoesItThrowExceptionIfIdIsLessThanZero(long numberForID)
         {
             Database db = new Database();
             long id = numberForID;
 
             Assert.Throws<ArgumentOutOfRangeException>(() => db.FindById(id));
-
         }
 
         [Test]
@@ -204,12 +163,11 @@ namespace DatabaseExtended.Tests
         {
             Person person = GenerateRandomPersons();
             Database db = new Database(person);
-            string userName=person.UserName;
+            string userName = person.UserName;
 
             Person resultPerson = db.FindByUsername(userName);
 
             Assert.That(person.Equals(resultPerson));
-
         }
 
         [Test]
@@ -217,20 +175,17 @@ namespace DatabaseExtended.Tests
         {
             Person person = GenerateRandomPersons();
             Database db = new Database(person);
-            string userName = GenerateRandomString(1000);
+            string userName = GenerateRandomString();
 
             Assert.Throws<InvalidOperationException>(() => db.FindByUsername(userName));
-
         }
 
-        [TestCase("")]
-        [TestCase(null)]
+        [TestCase(""), TestCase(null)]
         public void FindByNameMethodDoesItThrowExceptionIfNameIsNullOrEmpty(string userName)
         {
             Database db = new Database();
 
             Assert.Throws<ArgumentNullException>(() => db.FindByUsername(userName));
-
         }
 
         [Test]
@@ -238,10 +193,38 @@ namespace DatabaseExtended.Tests
         {
             Person person = GenerateRandomPersons();
             Database db = new Database(person);
-            string userName=person.UserName.ToLower();
+            string userName = person.UserName.ToLower();
 
             Assert.Throws<InvalidOperationException>(() => db.FindByUsername(userName));
+        }
 
+        private long GenerateRandomId()
+        {
+            return Random.Shared.Next(1, 100000);
+        }
+
+        private string GenerateRandomString()
+        {
+            Random random = new Random();
+            int length = Random.Shared.Next(52);
+            string chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
+            string result = new string(Enumerable.Repeat(chars, length).Select(x => x[random.Next(x.Length)]).ToArray());
+            return result;
+
+        }
+
+        private Person GenerateRandomPersons()
+        {
+            return new Person(GenerateRandomId(), GenerateRandomString());
+        }
+
+        private Person[] GenerateRandomPersonsArray(int lenght)
+        {
+            Person[] persons = new Person[lenght];
+            for (int i = 0; i < lenght; i++)
+                persons[i] = GenerateRandomPersons();
+
+            return persons;
         }
 
     }

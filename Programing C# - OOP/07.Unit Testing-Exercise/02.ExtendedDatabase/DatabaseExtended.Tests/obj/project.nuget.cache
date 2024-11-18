@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aWLNnp1BgP8=",
+  "dgSpecHash": "R9g6EsUywB8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Desktop\\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0\\DatabaseExtended.Tests\\DatabaseExtended.Tests.csproj",
+  "projectFilePath": "C:\\Programing - Work\\Programing C# - OOP\\07.Unit Testing-Exercise\\02.ExtendedDatabase\\DatabaseExtended.Tests\\DatabaseExtended.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.codecoverage\\15.9.0\\microsoft.codecoverage.15.9.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
