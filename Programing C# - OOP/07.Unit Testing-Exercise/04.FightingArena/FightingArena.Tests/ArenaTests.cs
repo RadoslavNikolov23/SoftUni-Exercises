@@ -18,13 +18,10 @@ public class ArenaTests
     {
         int numberOfWarriors = Random.Shared.Next(1, 10);
         Arena warriors = new Arena();
-        List<Warrior> testWarrios= new List<Warrior>();
         for (int i = 0; i < numberOfWarriors; i++)
         {
-            Warrior warriorTest = GenerateRandomWarrior();
-            warriors.Enroll(warriorTest);
+            warriors.Enroll(GenerateRandomWarrior());
             Assert.That(warriors.Count, Is.EqualTo(i+1));
-            testWarrios.Add(warriorTest);
         }
         Assert.That(warriors, Is.Not.Null);
     }
