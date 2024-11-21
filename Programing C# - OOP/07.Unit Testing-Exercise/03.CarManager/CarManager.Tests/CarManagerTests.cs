@@ -89,6 +89,7 @@ public class CarManagerTests
     }
 
     private Car GeneratorOfCar()=>new Car(this._make,this._model,this._fuelComsumption,this._fuelCapacity);
+    
     public static IEnumerable<object[]> CasesForTestingTheProperties()
     {
         yield return new object[] {null};
