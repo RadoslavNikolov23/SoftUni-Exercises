@@ -1,8 +1,10 @@
-﻿public class Hero
+﻿using FakeAxeAndDummy.Interfaces;
+
+public class Hero : IHero
 {
     private string name;
     private int experience;
-    private Axe weapon;
+    private IWeapon weapon;
 
     public Hero(string name)
     {
@@ -11,22 +13,17 @@
         this.weapon = new Axe(10, 10);
     }
 
-    public string Name
-    {
-        get { return this.name; }
-    }
+    public string Name => this.name;
 
     public int Experience
     {
-        get { return this.experience; }
+        get => this.experience;
+        set => this.experience = value;
     }
 
-    public Axe Weapon
-    {
-        get { return this.weapon; }
-    }
+    public IWeapon Weapon => this.weapon;
 
-    public void Attack(Dummy target)
+    public void Attack(ITarget target)
     {
         this.weapon.Attack(target);
 

@@ -15,10 +15,7 @@ public class Dummy : ITarget
         this.experience = experience;
     }
 
-    public int Health
-    {
-        get { return this.health; }
-    }
+    public int Health => this.health;
 
     public void TakeAttack(int attackPoints)
     {
@@ -40,8 +37,5 @@ public class Dummy : ITarget
         return this.experience;
     }
 
-    public bool IsDead()
-    {
-        return this.health <= 0;
-    }
+    public bool IsDead() => this.health <= 0;
 }

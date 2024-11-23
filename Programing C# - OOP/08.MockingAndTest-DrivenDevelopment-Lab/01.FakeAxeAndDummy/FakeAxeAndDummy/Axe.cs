@@ -16,15 +16,9 @@ public class Axe: IWeapon
         this.durabilityPoints = durability;
     }
 
-    public int AttackPoints
-    {
-        get { return this.attackPoints; }
-    }
+    public int AttackPoints => this.attackPoints;
 
-    public int DurabilityPoints
-    {
-        get { return this.durabilityPoints; }
-    }
+    public int DurabilityPoints => this.durabilityPoints;
 
     public void Attack(ITarget target)
     {

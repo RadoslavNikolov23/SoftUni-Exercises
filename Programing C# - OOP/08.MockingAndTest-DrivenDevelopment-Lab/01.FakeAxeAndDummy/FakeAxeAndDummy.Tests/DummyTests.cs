@@ -27,18 +27,10 @@ public class DummyTests
     }
 
     [TestCase(-15), TestCase(-1)]
-    public void DoDummyConstructorThorwsException_WhenHealthIsBelowZero(int healthForTest)
-    {
-        Assert.Throws<ArgumentOutOfRangeException>(() => new Dummy(healthForTest, this.experience));
-
-    }
+    public void DoDummyConstructorThorwsException_WhenHealthIsBelowZero(int healthForTest) => Assert.Throws<ArgumentOutOfRangeException>(() => new Dummy(healthForTest, this.experience));
 
     [TestCase(-15), TestCase(-1)]
-    public void DoDummyConstructorThorwsException_WhenExperianceIsBelowZero(int experianceForTest)
-    {
-        Assert.Throws<ArgumentOutOfRangeException>(() => new Dummy(this.health, experianceForTest));
-
-    }
+    public void DoDummyConstructorThorwsException_WhenExperianceIsBelowZero(int experianceForTest) => Assert.Throws<ArgumentOutOfRangeException>(() => new Dummy(this.health, experianceForTest));
 
     [TestCase(0)]
     public void IsDeadMethod_WorksProperly_RetursTrue(int healthForTest)
@@ -63,7 +55,6 @@ public class DummyTests
         FieldInfo fieldExperiance = typeof(Dummy).GetField("experience", BindingFlags.Instance | BindingFlags.NonPublic);
 
         Assert.That(fieldExperiance.GetValue(dummy), Is.EqualTo(experianceObtain));
-
     }
 
     [TestCase]
@@ -71,7 +62,6 @@ public class DummyTests
     {
         Dummy dummy = GenerateRandomDummy();
         Assert.Throws<InvalidOperationException>(() => dummy.GiveExperience());
-
     }
 
     [Test]
