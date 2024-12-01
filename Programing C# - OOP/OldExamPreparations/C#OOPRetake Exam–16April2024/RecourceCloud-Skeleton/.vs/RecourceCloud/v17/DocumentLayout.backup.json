@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\RecourceCloud-Skeleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A00D581-E5F9-41D1-B2DB-F233D1886767}|RecourceCloud.Tests\\RecourceCloud.Tests.csproj|c:\\users\\pc\\desktop\\recourcecloud-skeleton\\recourcecloud.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A00D581-E5F9-41D1-B2DB-F233D1886767}|RecourceCloud.Tests\\RecourceCloud.Tests.csproj|solutionrelative:recourcecloud.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F44C75-89BA-4FEA-8D08-D81025475D53}|RecourceCloud\\RecourceCloud.csproj|c:\\users\\pc\\desktop\\recourcecloud-skeleton\\recourcecloud\\departmentcloud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F44C75-89BA-4FEA-8D08-D81025475D53}|RecourceCloud\\RecourceCloud.csproj|solutionrelative:recourcecloud\\departmentcloud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F44C75-89BA-4FEA-8D08-D81025475D53}|RecourceCloud\\RecourceCloud.csproj|c:\\users\\pc\\desktop\\recourcecloud-skeleton\\recourcecloud\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F44C75-89BA-4FEA-8D08-D81025475D53}|RecourceCloud\\RecourceCloud.csproj|solutionrelative:recourcecloud\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F44C75-89BA-4FEA-8D08-D81025475D53}|RecourceCloud\\RecourceCloud.csproj|c:\\users\\pc\\desktop\\recourcecloud-skeleton\\recourcecloud\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F44C75-89BA-4FEA-8D08-D81025475D53}|RecourceCloud\\RecourceCloud.csproj|solutionrelative:recourcecloud\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Resource.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\RecourceCloud-Skeleton\\RecourceCloud\\Resource.cs",
+              "RelativeDocumentMoniker": "RecourceCloud\\Resource.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\RecourceCloud-Skeleton\\RecourceCloud\\Resource.cs",
+              "RelativeToolTip": "RecourceCloud\\Resource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:15:44.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\RecourceCloud-Skeleton\\RecourceCloud\\Task.cs",
+              "RelativeDocumentMoniker": "RecourceCloud\\Task.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\RecourceCloud-Skeleton\\RecourceCloud\\Task.cs",
+              "RelativeToolTip": "RecourceCloud\\Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:09:18.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\RecourceCloud-Skeleton\\RecourceCloud.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "RecourceCloud.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\RecourceCloud-Skeleton\\RecourceCloud.Tests\\UnitTest1.cs*",
+              "RelativeToolTip": "RecourceCloud.Tests\\UnitTest1.cs*",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAAwKUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:00:33.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentCloud.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\RecourceCloud-Skeleton\\RecourceCloud\\DepartmentCloud.cs",
+              "RelativeDocumentMoniker": "RecourceCloud\\DepartmentCloud.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\RecourceCloud-Skeleton\\RecourceCloud\\DepartmentCloud.cs",
+              "RelativeToolTip": "RecourceCloud\\DepartmentCloud.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowDkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:00:09.695Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

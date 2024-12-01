@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\RecourceCloud-Skeleton\RecourceCloud\bin\Debug\net6.0\RecourceCloud.exe
+C:\Users\PC\Desktop\RecourceCloud-Skeleton\RecourceCloud\bin\Debug\net6.0\RecourceCloud.deps.json
+C:\Users\PC\Desktop\RecourceCloud-Skeleton\RecourceCloud\bin\Debug\net6.0\RecourceCloud.runtimeconfig.json
+C:\Users\PC\Desktop\RecourceCloud-Skeleton\RecourceCloud\bin\Debug\net6.0\RecourceCloud.dll
+C:\Users\PC\Desktop\RecourceCloud-Skeleton\RecourceCloud\bin\Debug\net6.0\RecourceCloud.pdb
+C:\Users\PC\Desktop\RecourceCloud-Skeleton\RecourceCloud\obj\Debug\net6.0\RecourceCloud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\RecourceCloud-Skeleton\RecourceCloud\obj\Debug\net6.0\RecourceCloud.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\RecourceCloud-Skeleton\RecourceCloud\obj\Debug\net6.0\RecourceCloud.AssemblyInfo.cs
+C:\Users\PC\Desktop\RecourceCloud-Skeleton\RecourceCloud\obj\Debug\net6.0\RecourceCloud.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\RecourceCloud-Skeleton\RecourceCloud\obj\Debug\net6.0\RecourceCloud.dll
+C:\Users\PC\Desktop\RecourceCloud-Skeleton\RecourceCloud\obj\Debug\net6.0\refint\RecourceCloud.dll
+C:\Users\PC\Desktop\RecourceCloud-Skeleton\RecourceCloud\obj\Debug\net6.0\RecourceCloud.pdb
+C:\Users\PC\Desktop\RecourceCloud-Skeleton\RecourceCloud\obj\Debug\net6.0\RecourceCloud.genruntimeconfig.cache
+C:\Users\PC\Desktop\RecourceCloud-Skeleton\RecourceCloud\obj\Debug\net6.0\ref\RecourceCloud.dll
