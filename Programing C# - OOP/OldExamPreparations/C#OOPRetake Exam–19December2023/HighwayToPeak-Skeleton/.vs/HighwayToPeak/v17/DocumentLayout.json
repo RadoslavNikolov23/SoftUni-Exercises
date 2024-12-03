@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\HighwayToPeak-Skeleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|c:\\users\\pc\\desktop\\highwaytopeak-skeleton\\models\\naturalclimber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|solutionrelative:models\\naturalclimber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|c:\\users\\pc\\desktop\\highwaytopeak-skeleton\\repositories\\climberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|solutionrelative:repositories\\climberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|c:\\users\\pc\\desktop\\highwaytopeak-skeleton\\repositories\\peakrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|solutionrelative:repositories\\peakrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|c:\\users\\pc\\desktop\\highwaytopeak-skeleton\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|solutionrelative:repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|c:\\users\\pc\\desktop\\highwaytopeak-skeleton\\models\\basecamp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|solutionrelative:models\\basecamp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|c:\\users\\pc\\desktop\\highwaytopeak-skeleton\\models\\oxygenclimber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|solutionrelative:models\\oxygenclimber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|c:\\users\\pc\\desktop\\highwaytopeak-skeleton\\models\\peak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|solutionrelative:models\\peak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|c:\\users\\pc\\desktop\\highwaytopeak-skeleton\\models\\climber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|solutionrelative:models\\climber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClimberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\HighwayToPeak-Skeleton\\Repositories\\ClimberRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ClimberRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\HighwayToPeak-Skeleton\\Repositories\\ClimberRepository.cs",
+              "RelativeToolTip": "Repositories\\ClimberRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:02:01.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PeakRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\HighwayToPeak-Skeleton\\Repositories\\PeakRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\PeakRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\HighwayToPeak-Skeleton\\Repositories\\PeakRepository.cs",
+              "RelativeToolTip": "Repositories\\PeakRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:01:02.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\HighwayToPeak-Skeleton\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\HighwayToPeak-Skeleton\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Repositories\\Repository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T15:57:50.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseCamp.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\HighwayToPeak-Skeleton\\Models\\BaseCamp.cs",
+              "RelativeDocumentMoniker": "Models\\BaseCamp.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\HighwayToPeak-Skeleton\\Models\\BaseCamp.cs",
+              "RelativeToolTip": "Models\\BaseCamp.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T15:51:30.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NaturalClimber.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\HighwayToPeak-Skeleton\\Models\\NaturalClimber.cs",
+              "RelativeDocumentMoniker": "Models\\NaturalClimber.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\HighwayToPeak-Skeleton\\Models\\NaturalClimber.cs",
+              "RelativeToolTip": "Models\\NaturalClimber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T15:50:17.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OxygenClimber.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\HighwayToPeak-Skeleton\\Models\\OxygenClimber.cs",
+              "RelativeDocumentMoniker": "Models\\OxygenClimber.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\HighwayToPeak-Skeleton\\Models\\OxygenClimber.cs",
+              "RelativeToolTip": "Models\\OxygenClimber.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T15:47:13.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Peak.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\HighwayToPeak-Skeleton\\Models\\Peak.cs",
+              "RelativeDocumentMoniker": "Models\\Peak.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\HighwayToPeak-Skeleton\\Models\\Peak.cs",
+              "RelativeToolTip": "Models\\Peak.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T15:39:15.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Climber.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\HighwayToPeak-Skeleton\\Models\\Climber.cs",
+              "RelativeDocumentMoniker": "Models\\Climber.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\HighwayToPeak-Skeleton\\Models\\Climber.cs",
+              "RelativeToolTip": "Models\\Climber.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwB4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T15:33:30.063Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
