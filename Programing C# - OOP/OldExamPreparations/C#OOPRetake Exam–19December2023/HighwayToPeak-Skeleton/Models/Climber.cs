@@ -62,7 +62,21 @@ namespace HighwayToPeak.Models
 
         public override string ToString()
         {
-            return $"{this.GetType().Name} - Name: {this.Name}, Stamina: {this.Stamina} {Environment.NewLine}Peaks conquered: no peaks conquered /{this.conqueredPeaks.Count()}";
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine($"{this.GetType().Name} - Name: {this.Name}, Stamina: {this.Stamina}");
+
+            if (this.ConqueredPeaks.Count > 0)
+            {
+                sb.AppendLine($"Peaks conquered: {this.conqueredPeaks.Count()}");
+
+            }
+            else
+            {
+                sb.AppendLine($"Peaks conquered: no peaks conquered");
+
+            }
+
+            return  sb.ToString().Trim();
 
         }
 
