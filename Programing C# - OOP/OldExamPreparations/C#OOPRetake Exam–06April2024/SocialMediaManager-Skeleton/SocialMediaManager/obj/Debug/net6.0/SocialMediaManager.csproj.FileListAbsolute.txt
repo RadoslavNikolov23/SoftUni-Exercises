@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\SocialMediaManager-Skeleton\SocialMediaManager\bin\Debug\net6.0\SocialMediaManager.exe
+C:\Users\PC\Desktop\SocialMediaManager-Skeleton\SocialMediaManager\bin\Debug\net6.0\SocialMediaManager.deps.json
+C:\Users\PC\Desktop\SocialMediaManager-Skeleton\SocialMediaManager\bin\Debug\net6.0\SocialMediaManager.runtimeconfig.json
+C:\Users\PC\Desktop\SocialMediaManager-Skeleton\SocialMediaManager\bin\Debug\net6.0\SocialMediaManager.dll
+C:\Users\PC\Desktop\SocialMediaManager-Skeleton\SocialMediaManager\bin\Debug\net6.0\SocialMediaManager.pdb
+C:\Users\PC\Desktop\SocialMediaManager-Skeleton\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\SocialMediaManager-Skeleton\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\SocialMediaManager-Skeleton\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.AssemblyInfo.cs
+C:\Users\PC\Desktop\SocialMediaManager-Skeleton\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\SocialMediaManager-Skeleton\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.dll
+C:\Users\PC\Desktop\SocialMediaManager-Skeleton\SocialMediaManager\obj\Debug\net6.0\refint\SocialMediaManager.dll
+C:\Users\PC\Desktop\SocialMediaManager-Skeleton\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.pdb
+C:\Users\PC\Desktop\SocialMediaManager-Skeleton\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.genruntimeconfig.cache
+C:\Users\PC\Desktop\SocialMediaManager-Skeleton\SocialMediaManager\obj\Debug\net6.0\ref\SocialMediaManager.dll
