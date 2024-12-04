@@ -14,15 +14,8 @@ namespace NauticalCatchChallenge.Models
         {
         }
 
-        public override void Miss(int TimeToCatch)
-        {
-            this.OxygenLevel -= (int)(TimeToCatch * 0.30);
-        }
+        public override void Miss(int TimeToCatch) => this.OxygenLevel -= (int)(TimeToCatch * 0.30);
 
-        public override void RenewOxy()
-        {
-            this.OxygenLevel = oxygenLevelScubaDiver;
-
-        }
+        public override void RenewOxy() => this.OxygenLevel = oxygenLevelScubaDiver;
     }
 }

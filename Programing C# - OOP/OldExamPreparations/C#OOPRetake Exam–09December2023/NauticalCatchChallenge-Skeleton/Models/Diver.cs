@@ -28,7 +28,13 @@ namespace NauticalCatchChallenge.Models
         public string Name { get; }
         public int OxygenLevel
         {
-            get => oxygenLevel;
+            get 
+            {
+                if (oxygenLevel < 0)
+                    return 0;
+
+                return oxygenLevel ;
+            }
             protected set
             {
                 if (value < 0)
@@ -52,16 +58,10 @@ namespace NauticalCatchChallenge.Models
 
 
         public abstract void RenewOxy();
-        
 
-        public void UpdateHealthStatus()
-        {
-            this.HasHealthIssues = !this.HasHealthIssues;
-        }
 
-        public override string ToString()
-        {
-            return $"Diver [ Name: {this.Name}, Oxygen left: {this.OxygenLevel}, Fish caught: {this.Catch.Count()}, Points earned: {this.CompetitionPoints} ]";
-        }
+        public void UpdateHealthStatus() => this.HasHealthIssues = !this.HasHealthIssues;
+
+        public override string ToString() => $"Diver [ Name: {this.Name}, Oxygen left: {this.OxygenLevel}, Fish caught: {this.Catch.Count()}, Points earned: {this.CompetitionPoints} ]";
     }
 }

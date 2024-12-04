@@ -27,9 +27,6 @@ namespace NauticalCatchChallenge.Models
         public double Points { get; }
         public int TimeToCatch { get; }
 
-        public override string ToString()
-        {
-            return $"{this.GetType().Name}: {this.Name} [ Points: {this.Points}, Time to Catch: {this.TimeToCatch} seconds ]";
-        }
+        public override string ToString() => $"{this.GetType().Name}: {this.Name} [ Points: {this.Points}, Time to Catch: {this.TimeToCatch} seconds ]";
     }
 }

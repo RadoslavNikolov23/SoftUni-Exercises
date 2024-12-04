@@ -12,20 +12,11 @@ namespace NauticalCatchChallenge.Repositories
     {
         private List<IFish> models;
 
-        public FishRepository()
-        {
-            this.models = new List<IFish>();
-        }
+        public FishRepository() => this.models = new List<IFish>();
         public IReadOnlyCollection<IFish> Models { get => this.models.AsReadOnly(); }
 
-        public void AddModel(IFish model)
-        {
-            this.models.Add(model);
-        }
+        public void AddModel(IFish model) => this.models.Add(model);
 
-        public IFish GetModel(string name)
-        {
-            return this.models.FirstOrDefault(m => m.Name == name);
-        }
+        public IFish GetModel(string name) => this.models.FirstOrDefault(m => m.Name == name);
     }
 }

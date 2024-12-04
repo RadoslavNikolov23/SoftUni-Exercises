@@ -3,40 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\NauticalCatchChallenge-Skeleton\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|c:\\users\\pc\\desktop\\nauticalcatchchallenge-skeleton\\repositories\\fishrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|solutionrelative:repositories\\fishrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|c:\\users\\pc\\desktop\\nauticalcatchchallenge-skeleton\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|solutionrelative:core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|c:\\users\\pc\\desktop\\nauticalcatchchallenge-skeleton\\repositories\\contracts\\diverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|solutionrelative:repositories\\contracts\\diverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|c:\\users\\pc\\desktop\\nauticalcatchchallenge-skeleton\\repositories\\diverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|solutionrelative:repositories\\diverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|c:\\users\\pc\\desktop\\nauticalcatchchallenge-skeleton\\repositories\\fishrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|solutionrelative:repositories\\fishrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|c:\\users\\pc\\desktop\\nauticalcatchchallenge-skeleton\\models\\scubadiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|solutionrelative:models\\scubadiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|c:\\users\\pc\\desktop\\nauticalcatchchallenge-skeleton\\models\\freediver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|solutionrelative:models\\freediver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|c:\\users\\pc\\desktop\\nauticalcatchchallenge-skeleton\\models\\diver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|solutionrelative:models\\diver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|c:\\users\\pc\\desktop\\nauticalcatchchallenge-skeleton\\models\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|solutionrelative:models\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|c:\\users\\pc\\desktop\\nauticalcatchchallenge-skeleton\\models\\deepseafish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|solutionrelative:models\\deepseafish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|c:\\users\\pc\\desktop\\nauticalcatchchallenge-skeleton\\models\\reeffish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|solutionrelative:models\\reeffish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|c:\\users\\pc\\desktop\\nauticalcatchchallenge-skeleton\\models\\predatoryfish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|solutionrelative:models\\predatoryfish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|c:\\users\\pc\\desktop\\nauticalcatchchallenge-skeleton\\models\\reeffish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|solutionrelative:models\\reeffish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|c:\\users\\pc\\desktop\\nauticalcatchchallenge-skeleton\\models\\freediver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|solutionrelative:models\\freediver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|c:\\users\\pc\\desktop\\nauticalcatchchallenge-skeleton\\models\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|solutionrelative:models\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|c:\\users\\pc\\desktop\\nauticalcatchchallenge-skeleton\\models\\diver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|solutionrelative:models\\diver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|c:\\users\\pc\\desktop\\nauticalcatchchallenge-skeleton\\models\\deepseafish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|solutionrelative:models\\deepseafish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,8 +50,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\NauticalCatchChallenge-Skeleton\\Core\\Controller.cs",
+              "RelativeDocumentMoniker": "Core\\Controller.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\NauticalCatchChallenge-Skeleton\\Core\\Controller.cs*",
+              "RelativeToolTip": "Core\\Controller.cs*",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAqwKsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:11:29.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FishRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\NauticalCatchChallenge-Skeleton\\Repositories\\FishRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\FishRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\NauticalCatchChallenge-Skeleton\\Repositories\\FishRepository.cs*",
+              "RelativeToolTip": "Repositories\\FishRepository.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:10:59.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DiverRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\NauticalCatchChallenge-Skeleton\\Repositories\\DiverRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\DiverRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\NauticalCatchChallenge-Skeleton\\Repositories\\DiverRepository.cs*",
+              "RelativeToolTip": "Repositories\\DiverRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAtwA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:00:01.843Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
@@ -58,119 +101,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FishRepository.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\NauticalCatchChallenge-Skeleton\\Repositories\\FishRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\FishRepository.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\NauticalCatchChallenge-Skeleton\\Repositories\\FishRepository.cs*",
-              "RelativeToolTip": "Repositories\\FishRepository.cs*",
-              "ViewState": "AgIAABMAAAAAAAAAAAAYwBwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T16:04:11.953Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DiverRepository.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\NauticalCatchChallenge-Skeleton\\Repositories\\Contracts\\DiverRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Contracts\\DiverRepository.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\NauticalCatchChallenge-Skeleton\\Repositories\\Contracts\\DiverRepository.cs*",
-              "RelativeToolTip": "Repositories\\Contracts\\DiverRepository.cs*",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwBoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T16:02:30.216Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ScubaDiver.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\NauticalCatchChallenge-Skeleton\\Models\\ScubaDiver.cs",
               "RelativeDocumentMoniker": "Models\\ScubaDiver.cs",
               "ToolTip": "C:\\Users\\PC\\Desktop\\NauticalCatchChallenge-Skeleton\\Models\\ScubaDiver.cs*",
               "RelativeToolTip": "Models\\ScubaDiver.cs*",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBIAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBIAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T16:01:14.474Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FreeDiver.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\NauticalCatchChallenge-Skeleton\\Models\\FreeDiver.cs",
-              "RelativeDocumentMoniker": "Models\\FreeDiver.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\NauticalCatchChallenge-Skeleton\\Models\\FreeDiver.cs*",
-              "RelativeToolTip": "Models\\FreeDiver.cs*",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T15:57:17.639Z",
+              "WhenOpened": "2024-12-04T22:10:35.041Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Diver.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\NauticalCatchChallenge-Skeleton\\Models\\Diver.cs",
-              "RelativeDocumentMoniker": "Models\\Diver.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\NauticalCatchChallenge-Skeleton\\Models\\Diver.cs*",
-              "RelativeToolTip": "Models\\Diver.cs*",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwB8AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T15:44:01.177Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DeepSeaFish.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\NauticalCatchChallenge-Skeleton\\Models\\DeepSeaFish.cs",
-              "RelativeDocumentMoniker": "Models\\DeepSeaFish.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\NauticalCatchChallenge-Skeleton\\Models\\DeepSeaFish.cs*",
-              "RelativeToolTip": "Models\\DeepSeaFish.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T15:43:18.969Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PredatoryFish.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\NauticalCatchChallenge-Skeleton\\Models\\PredatoryFish.cs",
-              "RelativeDocumentMoniker": "Models\\PredatoryFish.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\NauticalCatchChallenge-Skeleton\\Models\\PredatoryFish.cs*",
-              "RelativeToolTip": "Models\\PredatoryFish.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T15:42:39.839Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "ReefFish.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\NauticalCatchChallenge-Skeleton\\Models\\ReefFish.cs",
               "RelativeDocumentMoniker": "Models\\ReefFish.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\NauticalCatchChallenge-Skeleton\\Models\\ReefFish.cs*",
-              "RelativeToolTip": "Models\\ReefFish.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\NauticalCatchChallenge-Skeleton\\Models\\ReefFish.cs",
+              "RelativeToolTip": "Models\\ReefFish.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T15:41:54.005Z",
+              "WhenOpened": "2024-12-04T22:10:33.547Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "PredatoryFish.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\NauticalCatchChallenge-Skeleton\\Models\\PredatoryFish.cs",
+              "RelativeDocumentMoniker": "Models\\PredatoryFish.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\NauticalCatchChallenge-Skeleton\\Models\\PredatoryFish.cs",
+              "RelativeToolTip": "Models\\PredatoryFish.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:10:30.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FreeDiver.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\NauticalCatchChallenge-Skeleton\\Models\\FreeDiver.cs",
+              "RelativeDocumentMoniker": "Models\\FreeDiver.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\NauticalCatchChallenge-Skeleton\\Models\\FreeDiver.cs*",
+              "RelativeToolTip": "Models\\FreeDiver.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:10:22.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Fish.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\NauticalCatchChallenge-Skeleton\\Models\\Fish.cs",
               "RelativeDocumentMoniker": "Models\\Fish.cs",
               "ToolTip": "C:\\Users\\PC\\Desktop\\NauticalCatchChallenge-Skeleton\\Models\\Fish.cs*",
               "RelativeToolTip": "Models\\Fish.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwB0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T15:37:07.702Z",
+              "WhenOpened": "2024-12-04T22:10:05.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Diver.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\NauticalCatchChallenge-Skeleton\\Models\\Diver.cs",
+              "RelativeDocumentMoniker": "Models\\Diver.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\NauticalCatchChallenge-Skeleton\\Models\\Diver.cs*",
+              "RelativeToolTip": "Models\\Diver.cs*",
+              "ViewState": "AgIAADkAAAAAAAAAAADwv0AAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:09:44.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeepSeaFish.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\NauticalCatchChallenge-Skeleton\\Models\\DeepSeaFish.cs",
+              "RelativeDocumentMoniker": "Models\\DeepSeaFish.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\NauticalCatchChallenge-Skeleton\\Models\\DeepSeaFish.cs",
+              "RelativeToolTip": "Models\\DeepSeaFish.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:09:41.5Z",
               "EditorCaption": ""
             }
           ]
