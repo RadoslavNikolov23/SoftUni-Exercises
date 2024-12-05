@@ -9,12 +9,12 @@ using System.Xml.Linq;
 
 namespace Handball.Models
 {
-    public abstract class Team : ITeam
+    public class Team : ITeam
     {
         private List<IPlayer> players;
         private double overallRating;
 
-        protected Team(string name)
+        public Team(string name)
         {
 
             if (string.IsNullOrWhiteSpace(name))
@@ -72,8 +72,9 @@ namespace Handball.Models
             sb.AppendLine($"Team: {this.Name} Points: {this.PointsEarned}");
             sb.AppendLine($"--Overall rating: {this.OverallRating}");
             
-            if(this.Players.Count > 0 )
-                sb.AppendLine($"--Players: {string.Join(", ",this.players)}");
+            List<string> playersName=this.Players.Select(p=> p.Name).ToList();
+            if(playersName.Count > 0 )
+                sb.AppendLine($"--Players: {string.Join(", ",playersName)}");
             else
                 sb.AppendLine($"--Players: none");
 
