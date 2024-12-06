@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\VendingRetail_Skeleton_netcoreapp6.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7F09B8-3C49-40EB-A592-013D06A6D1A8}|VendingRetail.Tests\\VendingRetail.Tests.csproj|c:\\users\\pc\\desktop\\vendingretail_skeleton_netcoreapp6.0\\vendingretail.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7F09B8-3C49-40EB-A592-013D06A6D1A8}|VendingRetail.Tests\\VendingRetail.Tests.csproj|solutionrelative:vendingretail.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E6D587-3CE3-4684-9523-E3CEB367CD4D}|VendingRetail\\VendingRetail.csproj|c:\\users\\pc\\desktop\\vendingretail_skeleton_netcoreapp6.0\\vendingretail\\coffeemat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98E6D587-3CE3-4684-9523-E3CEB367CD4D}|VendingRetail\\VendingRetail.csproj|solutionrelative:vendingretail\\coffeemat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoffeeMat.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VendingRetail_Skeleton_netcoreapp6.0\\VendingRetail\\CoffeeMat.cs",
+              "RelativeDocumentMoniker": "VendingRetail\\CoffeeMat.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\VendingRetail_Skeleton_netcoreapp6.0\\VendingRetail\\CoffeeMat.cs",
+              "RelativeToolTip": "VendingRetail\\CoffeeMat.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAD4v14AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T20:46:01.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VendingRetail_Skeleton_netcoreapp6.0\\VendingRetail.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "VendingRetail.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\VendingRetail_Skeleton_netcoreapp6.0\\VendingRetail.Tests\\UnitTest1.cs*",
+              "RelativeToolTip": "VendingRetail.Tests\\UnitTest1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T20:40:12.945Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
