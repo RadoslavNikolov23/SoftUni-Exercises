@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\SmartDevice_Skeleton_6.0\SmartDevice\bin\Debug\net6.0\SmartDevice.exe
+C:\Users\PC\Desktop\SmartDevice_Skeleton_6.0\SmartDevice\bin\Debug\net6.0\SmartDevice.deps.json
+C:\Users\PC\Desktop\SmartDevice_Skeleton_6.0\SmartDevice\bin\Debug\net6.0\SmartDevice.runtimeconfig.json
+C:\Users\PC\Desktop\SmartDevice_Skeleton_6.0\SmartDevice\bin\Debug\net6.0\SmartDevice.dll
+C:\Users\PC\Desktop\SmartDevice_Skeleton_6.0\SmartDevice\bin\Debug\net6.0\SmartDevice.pdb
+C:\Users\PC\Desktop\SmartDevice_Skeleton_6.0\SmartDevice\obj\Debug\net6.0\SmartDevice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\SmartDevice_Skeleton_6.0\SmartDevice\obj\Debug\net6.0\SmartDevice.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\SmartDevice_Skeleton_6.0\SmartDevice\obj\Debug\net6.0\SmartDevice.AssemblyInfo.cs
+C:\Users\PC\Desktop\SmartDevice_Skeleton_6.0\SmartDevice\obj\Debug\net6.0\SmartDevice.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\SmartDevice_Skeleton_6.0\SmartDevice\obj\Debug\net6.0\SmartDevice.dll
+C:\Users\PC\Desktop\SmartDevice_Skeleton_6.0\SmartDevice\obj\Debug\net6.0\refint\SmartDevice.dll
+C:\Users\PC\Desktop\SmartDevice_Skeleton_6.0\SmartDevice\obj\Debug\net6.0\SmartDevice.pdb
+C:\Users\PC\Desktop\SmartDevice_Skeleton_6.0\SmartDevice\obj\Debug\net6.0\SmartDevice.genruntimeconfig.cache
+C:\Users\PC\Desktop\SmartDevice_Skeleton_6.0\SmartDevice\obj\Debug\net6.0\ref\SmartDevice.dll
