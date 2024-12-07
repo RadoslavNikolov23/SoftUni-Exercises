@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\VehicleGarage_Skeleton_6.0\\VehicleGarage_Skeleton_6.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46CCA0AC-57C2-4D38-B24C-07BD568DAABD}|VehicleGarage.Tests\\VehicleGarage.Tests.csproj|c:\\users\\pc\\desktop\\vehiclegarage_skeleton_6.0\\vehiclegarage_skeleton_6.0\\vehiclegarage.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46CCA0AC-57C2-4D38-B24C-07BD568DAABD}|VehicleGarage.Tests\\VehicleGarage.Tests.csproj|solutionrelative:vehiclegarage.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293984EB-05AD-48AB-B25B-4908C92FA2D6}|VehicleGarage\\VehicleGarage.csproj|c:\\users\\pc\\desktop\\vehiclegarage_skeleton_6.0\\vehiclegarage_skeleton_6.0\\vehiclegarage\\garage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293984EB-05AD-48AB-B25B-4908C92FA2D6}|VehicleGarage\\VehicleGarage.csproj|solutionrelative:vehiclegarage\\garage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293984EB-05AD-48AB-B25B-4908C92FA2D6}|VehicleGarage\\VehicleGarage.csproj|c:\\users\\pc\\desktop\\vehiclegarage_skeleton_6.0\\vehiclegarage_skeleton_6.0\\vehiclegarage\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293984EB-05AD-48AB-B25B-4908C92FA2D6}|VehicleGarage\\VehicleGarage.csproj|solutionrelative:vehiclegarage\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VehicleGarage_Skeleton_6.0\\VehicleGarage_Skeleton_6.0\\VehicleGarage\\Vehicle.cs",
+              "RelativeDocumentMoniker": "VehicleGarage\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\VehicleGarage_Skeleton_6.0\\VehicleGarage_Skeleton_6.0\\VehicleGarage\\Vehicle.cs",
+              "RelativeToolTip": "VehicleGarage\\Vehicle.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T21:08:44.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Garage.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VehicleGarage_Skeleton_6.0\\VehicleGarage_Skeleton_6.0\\VehicleGarage\\Garage.cs",
+              "RelativeDocumentMoniker": "VehicleGarage\\Garage.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\VehicleGarage_Skeleton_6.0\\VehicleGarage_Skeleton_6.0\\VehicleGarage\\Garage.cs",
+              "RelativeToolTip": "VehicleGarage\\Garage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T20:36:16.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VehicleGarage_Skeleton_6.0\\VehicleGarage_Skeleton_6.0\\VehicleGarage.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "VehicleGarage.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\VehicleGarage_Skeleton_6.0\\VehicleGarage_Skeleton_6.0\\VehicleGarage.Tests\\UnitTest1.cs*",
+              "RelativeToolTip": "VehicleGarage.Tests\\UnitTest1.cs*",
+              "ViewState": "AgIAANUAAAAAAAAAAAAcwEgBAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T20:35:37.516Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
