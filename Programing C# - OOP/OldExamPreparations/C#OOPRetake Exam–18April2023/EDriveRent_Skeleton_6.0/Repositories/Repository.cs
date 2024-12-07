@@ -9,18 +9,16 @@ namespace EDriveRent.Repositories
 {
     public abstract class Repository<T> : IRepository<T> where T : class
     {
-        protected List<T> collection;
+        private List<T> collection;
 
         public Repository()
         {
             this.collection = new List<T>();
         }
 
-        public IReadOnlyCollection<T> Collection { get => this.collection.AsReadOnly(); }
-
         public void AddModel(T model) => this.collection.Add(model);
 
-        public IReadOnlyCollection<T> GetAll() => this.Collection;
+        public IReadOnlyCollection<T> GetAll() => this.collection.AsReadOnly();
 
         public abstract T FindById(string identifier);
        

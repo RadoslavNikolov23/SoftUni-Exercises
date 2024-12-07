@@ -10,7 +10,6 @@ namespace EDriveRent.Models
 {
     public class User : IUser
     {
-        private double rating;
         public User(string firstName, string lastName, string drivingLicenseNumber)
         {
             if (string.IsNullOrWhiteSpace(firstName))
@@ -32,39 +31,26 @@ namespace EDriveRent.Models
         public string FirstName { get; }
         public string LastName { get; }
         public double Rating { get; private set; }
-
-        //public double Rating { 
-        //    get 
-        //    {
-        //        if (rating > 10.0)
-        //            return 10.0;
-        //        return rating;
-        //    } 
-        //    private set 
-        //    {
-        //        if (value > 10.0)
-        //            rating= 10.0;
-        //         rating=value;
-        //    } 
-        //}
         public string DrivingLicenseNumber { get; }
         public bool IsBlocked { get; private set; }
 
         public void IncreaseRating()
         {
-            this.Rating += 0.5;
-            if (this.Rating > 10.0)
-                this.Rating = 10.0;
+            
+            if (this.Rating < 10)
+                this.Rating += 0.5;
         }
 
         public void DecreaseRating()
         {
-            this.Rating -= 2;
-            if (this.Rating < 0)
+            
+            if (this.Rating < 2)
             {
                 this.Rating = 0;
                 this.IsBlocked = true;
             }
+            else
+                this.Rating -= 2;
         }
 
         public override string ToString() => $"{this.FirstName} {this.LastName} Driving license: {this.DrivingLicenseNumber} Rating: {this.Rating}";

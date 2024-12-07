@@ -9,6 +9,6 @@ namespace EDriveRent.Repositories
 {
     public class RouteRepository : Repository<IRoute>
     {
-        public override IRoute FindById(string identifier) => this.collection.FirstOrDefault(r => r.RouteId == int.Parse(identifier));
+        public override IRoute FindById(string identifier) => this.GetAll().FirstOrDefault(r => r.RouteId == int.Parse(identifier));
     }
 }

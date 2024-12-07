@@ -7,12 +7,28 @@
       "RelativeMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|solutionrelative:models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|c:\\users\\pc\\desktop\\edriverent_skeleton_6.0\\models\\cargovan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|solutionrelative:models\\cargovan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|c:\\users\\pc\\desktop\\edriverent_skeleton_6.0\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|solutionrelative:core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|c:\\users\\pc\\desktop\\edriverent_skeleton_6.0\\models\\passengercar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|solutionrelative:models\\passengercar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|c:\\users\\pc\\desktop\\edriverent_skeleton_6.0\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|c:\\users\\pc\\desktop\\edriverent_skeleton_6.0\\models\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|solutionrelative:models\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|c:\\users\\pc\\desktop\\edriverent_skeleton_6.0\\utilities\\messages\\outputmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|solutionrelative:utilities\\messages\\outputmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|c:\\users\\pc\\desktop\\edriverent_skeleton_6.0\\utilities\\messages\\exceptionmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|solutionrelative:utilities\\messages\\exceptionmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|c:\\users\\pc\\desktop\\edriverent_skeleton_6.0\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|solutionrelative:repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|c:\\users\\pc\\desktop\\edriverent_skeleton_6.0\\repositories\\routerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,26 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|c:\\users\\pc\\desktop\\edriverent_skeleton_6.0\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|c:\\users\\pc\\desktop\\edriverent_skeleton_6.0\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|solutionrelative:repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|c:\\users\\pc\\desktop\\edriverent_skeleton_6.0\\repositories\\contracts\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|solutionrelative:repositories\\contracts\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|c:\\users\\pc\\desktop\\edriverent_skeleton_6.0\\models\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|solutionrelative:models\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|c:\\users\\pc\\desktop\\edriverent_skeleton_6.0\\utilities\\messages\\exceptionmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|solutionrelative:utilities\\messages\\exceptionmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|c:\\users\\pc\\desktop\\edriverent_skeleton_6.0\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,106 +62,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RouteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\EDriveRent_Skeleton_6.0\\Repositories\\RouteRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\RouteRepository.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\EDriveRent_Skeleton_6.0\\Repositories\\RouteRepository.cs",
-              "RelativeToolTip": "Repositories\\RouteRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAACEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T09:24:19.578Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "VehicleRepository.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\EDriveRent_Skeleton_6.0\\Repositories\\VehicleRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\VehicleRepository.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\EDriveRent_Skeleton_6.0\\Repositories\\VehicleRepository.cs",
-              "RelativeToolTip": "Repositories\\VehicleRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
+              "Title": "OutputMessages.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\EDriveRent_Skeleton_6.0\\Utilities\\Messages\\OutputMessages.cs",
+              "RelativeDocumentMoniker": "Utilities\\Messages\\OutputMessages.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\EDriveRent_Skeleton_6.0\\Utilities\\Messages\\OutputMessages.cs",
+              "RelativeToolTip": "Utilities\\Messages\\OutputMessages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T09:23:29.631Z",
+              "WhenOpened": "2024-12-07T14:50:07.507Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\EDriveRent_Skeleton_6.0\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\EDriveRent_Skeleton_6.0\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "Title": "ExceptionMessages.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\EDriveRent_Skeleton_6.0\\Utilities\\Messages\\ExceptionMessages.cs",
+              "RelativeDocumentMoniker": "Utilities\\Messages\\ExceptionMessages.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\EDriveRent_Skeleton_6.0\\Utilities\\Messages\\ExceptionMessages.cs",
+              "RelativeToolTip": "Utilities\\Messages\\ExceptionMessages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T09:21:01.913Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\EDriveRent_Skeleton_6.0\\Repositories\\Contracts\\IRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Contracts\\IRepository.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\EDriveRent_Skeleton_6.0\\Repositories\\Contracts\\IRepository.cs",
-              "RelativeToolTip": "Repositories\\Contracts\\IRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T09:18:00.759Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\EDriveRent_Skeleton_6.0\\Repositories\\Repository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Repository.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\EDriveRent_Skeleton_6.0\\Repositories\\Repository.cs",
-              "RelativeToolTip": "Repositories\\Repository.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA1wBoAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T09:17:10.958Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Route.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\EDriveRent_Skeleton_6.0\\Models\\Route.cs",
-              "RelativeDocumentMoniker": "Models\\Route.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\EDriveRent_Skeleton_6.0\\Models\\Route.cs",
-              "RelativeToolTip": "Models\\Route.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAzwCMAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T09:14:55.542Z",
+              "WhenOpened": "2024-12-07T14:49:45.768Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CargoVan.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\EDriveRent_Skeleton_6.0\\Models\\CargoVan.cs",
-              "RelativeDocumentMoniker": "Models\\CargoVan.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\EDriveRent_Skeleton_6.0\\Models\\CargoVan.cs",
-              "RelativeToolTip": "Models\\CargoVan.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAAAAAAAAAAAAA==",
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\EDriveRent_Skeleton_6.0\\Core\\Controller.cs",
+              "RelativeDocumentMoniker": "Core\\Controller.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\EDriveRent_Skeleton_6.0\\Core\\Controller.cs",
+              "RelativeToolTip": "Core\\Controller.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAwwEUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T09:11:42.1Z",
+              "WhenOpened": "2024-12-07T14:47:18.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RouteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\EDriveRent_Skeleton_6.0\\Repositories\\RouteRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\RouteRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\EDriveRent_Skeleton_6.0\\Repositories\\RouteRepository.cs",
+              "RelativeToolTip": "Repositories\\RouteRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T14:41:05.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Route.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\EDriveRent_Skeleton_6.0\\Models\\Route.cs",
+              "RelativeDocumentMoniker": "Models\\Route.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\EDriveRent_Skeleton_6.0\\Models\\Route.cs",
+              "RelativeToolTip": "Models\\Route.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T14:33:32.598Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PassengerCar.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\EDriveRent_Skeleton_6.0\\Models\\PassengerCar.cs",
-              "RelativeDocumentMoniker": "Models\\PassengerCar.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\EDriveRent_Skeleton_6.0\\Models\\PassengerCar.cs",
-              "RelativeToolTip": "Models\\PassengerCar.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\EDriveRent_Skeleton_6.0\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\EDriveRent_Skeleton_6.0\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAADwvygAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T09:10:43.911Z",
+              "WhenOpened": "2024-12-07T14:34:12.771Z",
               "EditorCaption": ""
             },
             {
@@ -176,35 +146,48 @@
               "RelativeDocumentMoniker": "Models\\Vehicle.cs",
               "ToolTip": "C:\\Users\\PC\\Desktop\\EDriveRent_Skeleton_6.0\\Models\\Vehicle.cs*",
               "RelativeToolTip": "Models\\Vehicle.cs*",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAgwCkAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAIwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T08:59:44.67Z",
+              "WhenOpened": "2024-12-07T14:35:21.068Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\EDriveRent_Skeleton_6.0\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\EDriveRent_Skeleton_6.0\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAIAwwEUAAAAsAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "VehicleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\EDriveRent_Skeleton_6.0\\Repositories\\VehicleRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\VehicleRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\EDriveRent_Skeleton_6.0\\Repositories\\VehicleRepository.cs",
+              "RelativeToolTip": "Repositories\\VehicleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T08:50:40.907Z",
+              "WhenOpened": "2024-12-07T14:43:43.419Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "ExceptionMessages.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\EDriveRent_Skeleton_6.0\\Utilities\\Messages\\ExceptionMessages.cs",
-              "RelativeDocumentMoniker": "Utilities\\Messages\\ExceptionMessages.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\EDriveRent_Skeleton_6.0\\Utilities\\Messages\\ExceptionMessages.cs",
-              "RelativeToolTip": "Utilities\\Messages\\ExceptionMessages.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAowBQAAAAyAAAAAAAAAA==",
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\EDriveRent_Skeleton_6.0\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\EDriveRent_Skeleton_6.0\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T08:49:58.988Z",
+              "WhenOpened": "2024-12-07T14:43:38.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\EDriveRent_Skeleton_6.0\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\EDriveRent_Skeleton_6.0\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Repositories\\Repository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T14:40:37.762Z",
               "EditorCaption": ""
             }
           ]

@@ -39,18 +39,43 @@ namespace EDriveRent.Models
 
         public void Drive(double mileage)
         {
-            this.BatteryLevel = (int)(this.BatteryLevel * (mileage / this.MaxMileage));
-            if(this.GetType().Name==nameof(CargoVan))
-                this.BatteryLevel = (int)(this.BatteryLevel * 0.95);
+            double percentage = Math.Round((mileage / this.MaxMileage) * 100);
+            this.BatteryLevel -= (int)percentage;
+
+            if (this.GetType().Name == nameof(CargoVan))
+            {
+                this.BatteryLevel -= 5;
+            }
         }
 
         public void ChangeStatus()
         {
-            this.IsDamaged = !IsDamaged;
+            if (!IsDamaged)
+            {
+                this.IsDamaged = true;
+            }
+            else
+            {
+                this.IsDamaged = false;
+            }
         }
 
         public void Recharge() => this.BatteryLevel = 100;
 
-        public override string ToString() => $"{this.Brand} {this.Model} License plate: {this.LicensePlateNumber} Battery: {this.BatteryLevel}% Status: OK/damaged";
+        public override string ToString()
+        {
+            string vehicleCondition;
+
+            if (IsDamaged)
+            {
+                vehicleCondition = "damaged";
+            }
+            else
+            {
+                vehicleCondition = "OK";
+            }
+
+            return $"{this.Brand} {this.Model} License plate: {this.LicensePlateNumber} Battery: {this.BatteryLevel}% Status: {vehicleCondition}";
+        } 
     }
 }

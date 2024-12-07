@@ -9,6 +9,6 @@ namespace EDriveRent.Repositories
 {
     public class VehicleRepository : Repository<IVehicle>
     {
-        public override IVehicle FindById(string identifier) => this.collection.FirstOrDefault(v=>v.LicensePlateNumber == identifier);
+        public override IVehicle FindById(string identifier) => this.GetAll().FirstOrDefault(v=>v.LicensePlateNumber == identifier);
     }
 }

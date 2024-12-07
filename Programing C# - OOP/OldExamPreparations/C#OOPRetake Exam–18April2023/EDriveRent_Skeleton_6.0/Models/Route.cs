@@ -35,9 +35,6 @@ namespace EDriveRent.Models
         public int RouteId { get; }
         public bool IsLocked { get; private set; }
 
-        public void LockRoute()
-        {
-            this.IsLocked = true;
-        }
+        public void LockRoute() => this.IsLocked = true;
     }
 }
