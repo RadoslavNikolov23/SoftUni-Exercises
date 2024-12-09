@@ -14,7 +14,7 @@ namespace BlackFriday.Models
         public Client(string userName, string email) : base(userName, email, hasDataAccessClient) => this.purchases = new Dictionary<string, bool>();
 
         public IReadOnlyDictionary<string, bool> Purchases { get => new ReadOnlyDictionary<string, bool>(this.purchases); }
-        public override bool HasDataAccess { get => false;}
+        public override bool HasDataAccess { get => hasDataAccessClient; }
 
         public void PurchaseProduct(string productName, bool blackFridayFlag) => this.purchases[productName] = blackFridayFlag;
 

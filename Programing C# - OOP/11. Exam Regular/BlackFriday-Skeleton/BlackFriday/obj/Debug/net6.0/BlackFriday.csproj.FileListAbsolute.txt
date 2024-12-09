@@ -12,3 +12,18 @@ C:\Users\PC\Desktop\BlackFriday-Skeleton\BlackFriday\obj\Debug\net6.0\refint\Bla
 C:\Users\PC\Desktop\BlackFriday-Skeleton\BlackFriday\obj\Debug\net6.0\BlackFriday.pdb
 C:\Users\PC\Desktop\BlackFriday-Skeleton\BlackFriday\obj\Debug\net6.0\BlackFriday.genruntimeconfig.cache
 C:\Users\PC\Desktop\BlackFriday-Skeleton\BlackFriday\obj\Debug\net6.0\ref\BlackFriday.dll
+C:\Programing - Work\Programing C# - OOP\11. Exam Regular\BlackFriday-Skeleton\BlackFriday\bin\Debug\net6.0\BlackFriday.exe
+C:\Programing - Work\Programing C# - OOP\11. Exam Regular\BlackFriday-Skeleton\BlackFriday\bin\Debug\net6.0\BlackFriday.deps.json
+C:\Programing - Work\Programing C# - OOP\11. Exam Regular\BlackFriday-Skeleton\BlackFriday\bin\Debug\net6.0\BlackFriday.runtimeconfig.json
+C:\Programing - Work\Programing C# - OOP\11. Exam Regular\BlackFriday-Skeleton\BlackFriday\bin\Debug\net6.0\BlackFriday.dll
+C:\Programing - Work\Programing C# - OOP\11. Exam Regular\BlackFriday-Skeleton\BlackFriday\bin\Debug\net6.0\BlackFriday.pdb
+C:\Programing - Work\Programing C# - OOP\11. Exam Regular\BlackFriday-Skeleton\BlackFriday\obj\Debug\net6.0\BlackFriday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing - Work\Programing C# - OOP\11. Exam Regular\BlackFriday-Skeleton\BlackFriday\obj\Debug\net6.0\BlackFriday.AssemblyInfoInputs.cache
+C:\Programing - Work\Programing C# - OOP\11. Exam Regular\BlackFriday-Skeleton\BlackFriday\obj\Debug\net6.0\BlackFriday.AssemblyInfo.cs
+C:\Programing - Work\Programing C# - OOP\11. Exam Regular\BlackFriday-Skeleton\BlackFriday\obj\Debug\net6.0\BlackFriday.csproj.CoreCompileInputs.cache
+C:\Programing - Work\Programing C# - OOP\11. Exam Regular\BlackFriday-Skeleton\BlackFriday\obj\Debug\net6.0\BlackFriday.sourcelink.json
+C:\Programing - Work\Programing C# - OOP\11. Exam Regular\BlackFriday-Skeleton\BlackFriday\obj\Debug\net6.0\BlackFriday.dll
+C:\Programing - Work\Programing C# - OOP\11. Exam Regular\BlackFriday-Skeleton\BlackFriday\obj\Debug\net6.0\refint\BlackFriday.dll
+C:\Programing - Work\Programing C# - OOP\11. Exam Regular\BlackFriday-Skeleton\BlackFriday\obj\Debug\net6.0\BlackFriday.pdb
+C:\Programing - Work\Programing C# - OOP\11. Exam Regular\BlackFriday-Skeleton\BlackFriday\obj\Debug\net6.0\BlackFriday.genruntimeconfig.cache
+C:\Programing - Work\Programing C# - OOP\11. Exam Regular\BlackFriday-Skeleton\BlackFriday\obj\Debug\net6.0\ref\BlackFriday.dll
