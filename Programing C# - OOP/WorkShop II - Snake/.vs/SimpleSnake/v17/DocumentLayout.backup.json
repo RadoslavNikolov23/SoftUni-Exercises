@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Documents\\SoftUni\\Programing Course\\Programing C# OOP\\WorkShop II\\12.Csharp-OOP-Snake-Workshop-SimpleSnake-Skeleton_6.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|c:\\documents\\softuni\\programing course\\programing c# oop\\workshop ii\\12.csharp-oop-snake-workshop-simplesnake-skeleton_6.0\\simplesnake\\gameobjects\\foodhash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|solutionrelative:simplesnake\\gameobjects\\foodhash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|c:\\documents\\softuni\\programing course\\programing c# oop\\workshop ii\\12.csharp-oop-snake-workshop-simplesnake-skeleton_6.0\\simplesnake\\gameobjects\\fooddollar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|solutionrelative:simplesnake\\gameobjects\\fooddollar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|c:\\documents\\softuni\\programing course\\programing c# oop\\workshop ii\\12.csharp-oop-snake-workshop-simplesnake-skeleton_6.0\\simplesnake\\gameobjects\\foodasterisk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|solutionrelative:simplesnake\\gameobjects\\foodasterisk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|c:\\documents\\softuni\\programing course\\programing c# oop\\workshop ii\\12.csharp-oop-snake-workshop-simplesnake-skeleton_6.0\\simplesnake\\gameobjects\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|solutionrelative:simplesnake\\gameobjects\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|c:\\documents\\softuni\\programing course\\programing c# oop\\workshop ii\\12.csharp-oop-snake-workshop-simplesnake-skeleton_6.0\\simplesnake\\gameobjects\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|solutionrelative:simplesnake\\gameobjects\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|c:\\documents\\softuni\\programing course\\programing c# oop\\workshop ii\\12.csharp-oop-snake-workshop-simplesnake-skeleton_6.0\\simplesnake\\utilities\\consolewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|solutionrelative:simplesnake\\utilities\\consolewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|c:\\documents\\softuni\\programing course\\programing c# oop\\workshop ii\\12.csharp-oop-snake-workshop-simplesnake-skeleton_6.0\\simplesnake\\gameobjects\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|solutionrelative:simplesnake\\gameobjects\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|c:\\documents\\softuni\\programing course\\programing c# oop\\workshop ii\\12.csharp-oop-snake-workshop-simplesnake-skeleton_6.0\\simplesnake\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|solutionrelative:simplesnake\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|c:\\documents\\softuni\\programing course\\programing c# oop\\workshop ii\\12.csharp-oop-snake-workshop-simplesnake-skeleton_6.0\\simplesnake\\enums\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|solutionrelative:simplesnake\\enums\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FoodHash.cs",
+              "DocumentMoniker": "C:\\Documents\\SoftUni\\Programing Course\\Programing C# OOP\\WorkShop II\\12.Csharp-OOP-Snake-Workshop-SimpleSnake-Skeleton_6.0\\SimpleSnake\\GameObjects\\FoodHash.cs",
+              "RelativeDocumentMoniker": "SimpleSnake\\GameObjects\\FoodHash.cs",
+              "ToolTip": "C:\\Documents\\SoftUni\\Programing Course\\Programing C# OOP\\WorkShop II\\12.Csharp-OOP-Snake-Workshop-SimpleSnake-Skeleton_6.0\\SimpleSnake\\GameObjects\\FoodHash.cs*",
+              "RelativeToolTip": "SimpleSnake\\GameObjects\\FoodHash.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T15:18:44.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FoodDollar.cs",
+              "DocumentMoniker": "C:\\Documents\\SoftUni\\Programing Course\\Programing C# OOP\\WorkShop II\\12.Csharp-OOP-Snake-Workshop-SimpleSnake-Skeleton_6.0\\SimpleSnake\\GameObjects\\FoodDollar.cs",
+              "RelativeDocumentMoniker": "SimpleSnake\\GameObjects\\FoodDollar.cs",
+              "ToolTip": "C:\\Documents\\SoftUni\\Programing Course\\Programing C# OOP\\WorkShop II\\12.Csharp-OOP-Snake-Workshop-SimpleSnake-Skeleton_6.0\\SimpleSnake\\GameObjects\\FoodDollar.cs*",
+              "RelativeToolTip": "SimpleSnake\\GameObjects\\FoodDollar.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T15:18:05.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FoodAsterisk.cs",
+              "DocumentMoniker": "C:\\Documents\\SoftUni\\Programing Course\\Programing C# OOP\\WorkShop II\\12.Csharp-OOP-Snake-Workshop-SimpleSnake-Skeleton_6.0\\SimpleSnake\\GameObjects\\FoodAsterisk.cs",
+              "RelativeDocumentMoniker": "SimpleSnake\\GameObjects\\FoodAsterisk.cs",
+              "ToolTip": "C:\\Documents\\SoftUni\\Programing Course\\Programing C# OOP\\WorkShop II\\12.Csharp-OOP-Snake-Workshop-SimpleSnake-Skeleton_6.0\\SimpleSnake\\GameObjects\\FoodAsterisk.cs*",
+              "RelativeToolTip": "SimpleSnake\\GameObjects\\FoodAsterisk.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T15:17:05.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Documents\\SoftUni\\Programing Course\\Programing C# OOP\\WorkShop II\\12.Csharp-OOP-Snake-Workshop-SimpleSnake-Skeleton_6.0\\SimpleSnake\\GameObjects\\Food.cs",
+              "RelativeDocumentMoniker": "SimpleSnake\\GameObjects\\Food.cs",
+              "ToolTip": "C:\\Documents\\SoftUni\\Programing Course\\Programing C# OOP\\WorkShop II\\12.Csharp-OOP-Snake-Workshop-SimpleSnake-Skeleton_6.0\\SimpleSnake\\GameObjects\\Food.cs",
+              "RelativeToolTip": "SimpleSnake\\GameObjects\\Food.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T14:50:01.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Wall.cs",
+              "DocumentMoniker": "C:\\Documents\\SoftUni\\Programing Course\\Programing C# OOP\\WorkShop II\\12.Csharp-OOP-Snake-Workshop-SimpleSnake-Skeleton_6.0\\SimpleSnake\\GameObjects\\Wall.cs",
+              "RelativeDocumentMoniker": "SimpleSnake\\GameObjects\\Wall.cs",
+              "ToolTip": "C:\\Documents\\SoftUni\\Programing Course\\Programing C# OOP\\WorkShop II\\12.Csharp-OOP-Snake-Workshop-SimpleSnake-Skeleton_6.0\\SimpleSnake\\GameObjects\\Wall.cs",
+              "RelativeToolTip": "SimpleSnake\\GameObjects\\Wall.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAkwCQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T14:40:13.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Documents\\SoftUni\\Programing Course\\Programing C# OOP\\WorkShop II\\12.Csharp-OOP-Snake-Workshop-SimpleSnake-Skeleton_6.0\\SimpleSnake\\GameObjects\\Point.cs",
+              "RelativeDocumentMoniker": "SimpleSnake\\GameObjects\\Point.cs",
+              "ToolTip": "C:\\Documents\\SoftUni\\Programing Course\\Programing C# OOP\\WorkShop II\\12.Csharp-OOP-Snake-Workshop-SimpleSnake-Skeleton_6.0\\SimpleSnake\\GameObjects\\Point.cs",
+              "RelativeToolTip": "SimpleSnake\\GameObjects\\Point.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T14:31:46.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Documents\\SoftUni\\Programing Course\\Programing C# OOP\\WorkShop II\\12.Csharp-OOP-Snake-Workshop-SimpleSnake-Skeleton_6.0\\SimpleSnake\\StartUp.cs",
+              "RelativeDocumentMoniker": "SimpleSnake\\StartUp.cs",
+              "ToolTip": "C:\\Documents\\SoftUni\\Programing Course\\Programing C# OOP\\WorkShop II\\12.Csharp-OOP-Snake-Workshop-SimpleSnake-Skeleton_6.0\\SimpleSnake\\StartUp.cs",
+              "RelativeToolTip": "SimpleSnake\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T14:30:51.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsoleWindow.cs",
+              "DocumentMoniker": "C:\\Documents\\SoftUni\\Programing Course\\Programing C# OOP\\WorkShop II\\12.Csharp-OOP-Snake-Workshop-SimpleSnake-Skeleton_6.0\\SimpleSnake\\Utilities\\ConsoleWindow.cs",
+              "RelativeDocumentMoniker": "SimpleSnake\\Utilities\\ConsoleWindow.cs",
+              "ToolTip": "C:\\Documents\\SoftUni\\Programing Course\\Programing C# OOP\\WorkShop II\\12.Csharp-OOP-Snake-Workshop-SimpleSnake-Skeleton_6.0\\SimpleSnake\\Utilities\\ConsoleWindow.cs",
+              "RelativeToolTip": "SimpleSnake\\Utilities\\ConsoleWindow.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T14:30:31.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Direction.cs",
+              "DocumentMoniker": "C:\\Documents\\SoftUni\\Programing Course\\Programing C# OOP\\WorkShop II\\12.Csharp-OOP-Snake-Workshop-SimpleSnake-Skeleton_6.0\\SimpleSnake\\Enums\\Direction.cs",
+              "RelativeDocumentMoniker": "SimpleSnake\\Enums\\Direction.cs",
+              "ToolTip": "C:\\Documents\\SoftUni\\Programing Course\\Programing C# OOP\\WorkShop II\\12.Csharp-OOP-Snake-Workshop-SimpleSnake-Skeleton_6.0\\SimpleSnake\\Enums\\Direction.cs",
+              "RelativeToolTip": "SimpleSnake\\Enums\\Direction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T14:30:25.53Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
