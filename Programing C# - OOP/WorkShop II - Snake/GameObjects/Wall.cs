@@ -9,11 +9,14 @@ namespace SimpleSnake.GameObjects
     public class Wall : Point
     {
         private const char wallSymbol = '\u25A0';
+        private int playersPoints;
         public Wall(int leftX, int topY) : base(leftX, topY)
         {
+            this.InitializeWallBorders();
+            this.DrawPlayersPoints();
         }
 
-        public void SetVerticalLine(int topY)
+        public void SetHorizontalLine(int topY)
         {
             for (int leftX = 0; leftX < this.LeftX; leftX++)
             {
@@ -21,7 +24,7 @@ namespace SimpleSnake.GameObjects
             }
         }
 
-        public void SetHorizontalLine(int leftX)
+        public void SetVerticalLine(int leftX)
         {
             for (int topY = 1; topY < this.TopY; topY++)
             {
@@ -39,9 +42,22 @@ namespace SimpleSnake.GameObjects
 
         public bool IsPointOfWall(Point snake)
         {
-            return snake.LeftX == 0 || snake.LeftX == this.LeftX - 1
+            return snake.LeftX == 0 || snake.LeftX == this.LeftX-1
                 || snake.TopY == 0 || snake.TopY == this.TopY;
         }
 
+        public void IncreasePlayersPoints(Queue<Point> snakeElements)
+        {
+            this.playersPoints = snakeElements.Count - 6;
+        }
+
+        public void DrawPlayersPoints()
+        {
+            Console.SetCursorPosition(this.LeftX+3, 0);
+            Console.Write($"Player points: {this.playersPoints}");
+
+            Console.SetCursorPosition(this.LeftX + 3, 1);
+            Console.Write($"Player level: {this.playersPoints / 10}");
+        }
     }
 }
