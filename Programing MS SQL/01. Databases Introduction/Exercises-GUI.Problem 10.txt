@@ -1,0 +1,70 @@
+CREATE DATABASE [School]
+
+GO
+
+USE [School]
+
+GO
+
+CREATE TABLE [Students](
+	[Id] INT PRIMARY KEY NOT NULL,
+	[Name] VARCHAR(60) NOT NULL,
+	[Age] INT NOT NULL,
+	[PhoneNumber] VARCHAR(10) CHECK(LEN(PhoneNumber)=10),
+)
+
+GO
+
+CREATE TABLE [Classes](
+	[Id] INT PRIMARY KEY NOT NULL,
+	[Name] VARCHAR(50) NOT NULL,
+	[MaxStudents] INT NOT NULL
+)
+
+GO
+
+CREATE TABLE [Teachers] (
+	[Id] INT PRIMARY KEY NOT NULL,
+	[Name] VARCHAR(50) NOT NULL,
+	[Class] INT FOREIGN KEY REFERENCES [Classes](Id)
+)
+
+GO
+
+SELECT * FROM [Students]
+
+INSERT INTO [Students] ([Id],[Name],[Age],[PhoneNumber])
+VALUES
+(1,'Rado',23,'1234567891'),
+(2,'Viki',13,'1987654321'),
+(3,'Krasimirs',35,'1234512345')
+
+INSERT INTO [Classes] ([Id],[Name],[MaxStudents])
+VALUES
+(1,'Math',25),
+(2,'Hystori',22),
+(3,'Sports',30)
+
+INSERT INTO [Teachers]([Id],[Name],[Class])
+VALUES
+(1,'John',1),
+(2,'Kelly',2),
+(3,'Jim',3),
+(4,'Rachel',1)
+
+DELETE FROM [Students] WHERE [Name]='Krasimirs'
+
+GO
+
+INSERT INTO [Classes] ([Id],[Name],[MaxStudents])
+VALUES
+(4,'Chemistry',50)
+
+
+DELETE FROM [Classes] WHERE [MaxStudents]>40
+
+GO
+
+SELECT * FROM [Students]
+SELECT * FROM [Teachers]
+SELECT * FROM [Classes]
