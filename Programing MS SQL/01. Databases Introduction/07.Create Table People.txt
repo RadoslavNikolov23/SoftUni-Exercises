@@ -1,0 +1,18 @@
+CREATE TABLE [People](
+	[Id] TINYINT PRIMARY KEY IDENTITY(1,1) NOT NULL,
+	[Name] NVARCHAR(200) NOT NULL,
+	[Picture] VARBINARY(MAX),
+	[Height] DECIMAL (18,2),
+	[Weight] DECIMAL (18,2),
+	[Gender] CHAR(1) CHECK([Gender] IN('F','M')) NOT NULL,
+	[Birtdate] DATETIME2,
+	[Biography] NVARCHAR(MAX)
+)
+
+INSERT INTO [People]([Name],[Picture],[Height],[Weight],[Gender],[Birtdate],[Biography])
+VALUES
+('Rado', Null, 1.85, 93, 'M','1993-08-23 07:30:20','Working man and a student at SOftUni'),
+('Ivan', 123, 1.65, 100, 'M','1983-06-13 07:30:20','Working man at Goverment'),
+('Iva', Null, 1.55, 50, 'F','1995-03-09 07:30:20','Student'),
+('Milen', Null, 1.75, 75, 'M','1987-12-13 07:30:20','Working man and a genious man'),
+('Krasimira', Null, 1.65, 67, 'F','1973-11-24 07:30:20',Null)

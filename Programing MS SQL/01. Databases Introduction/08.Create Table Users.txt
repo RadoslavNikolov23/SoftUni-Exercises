@@ -1,0 +1,16 @@
+CREATE TABLE [Users](
+	[Id] TINYINT PRIMARY KEY IDENTITY(1,1) NOT NULL,
+	[Username] VARCHAR(30) UNIQUE NOT NULL,
+	[Password] VARCHAR(26) NOT NULL,
+	[ProfilePicture] VARBINARY(1024),
+	[LastLoginTime] TIME,
+	[IsDeleted] BIT NOT NULL
+)
+
+INSERT INTO [Users]([Username],[Password],[ProfilePicture],[LastLoginTime],[IsDeleted])
+VALUES
+('Rado','1234',NULL,NULL,0),
+('Ivan','DA1',NULL,'19:55',0),
+('Krasimira','DWE4',NULL,NULL,1),
+('Viktoria','DWAS',NULL,NULL,0),
+('Ilia','XAR',NULL,NULL,0)
