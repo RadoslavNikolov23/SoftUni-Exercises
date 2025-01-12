@@ -1,0 +1,97 @@
+
+CREATE DATABASE [CarRental]
+
+GO
+
+USE [CarRental]
+
+GO
+
+CREATE TABLE [Categories](
+	[Id] INT PRIMARY KEY IDENTITY NOT NULL,
+	[CategoryName] VARCHAR(255) NOT NULL,
+	[DailyRate] DECIMAL(18,2) NOT NULL,
+	[WeeklyRate] DECIMAL(18,2) NOT NULL,
+	[MonthlyRate] DECIMAL(18,2),
+	[WeekendRate] DECIMAL(18,2)
+)
+
+CREATE TABLE [Cars](
+	[Id] INT PRIMARY KEY IDENTITY NOT NULL,
+	[PlateNumber] VARCHAR(10) NOT NULL,
+	[Manufacturer] VARCHAR(255) NOT NULL,
+	[Model] VARCHAR(255) NOT NULL,
+	[CarYear] DATE NOT NULL,
+	[CategoryId] INT FOREIGN KEY REFERENCES [Categories](Id) NOT NULL,
+	[Doors] INT NOT NULL,
+	[Picture] VARBINARY(MAX),
+	[Condition] VARCHAR(255),
+	[Available] VARCHAR(3) CHECK([Available]='Yes' OR [Available]='No')
+)
+
+CREATE TABLE [Employees](
+	[Id] INT PRIMARY KEY IDENTITY NOT NULL,
+	[FirstName] VARCHAR(85) NOT NULL,
+	[LastName] VARCHAR(85) NOT NULL,
+	[Title] VARCHAR(50) NOT NULL,
+	[Notes] VARCHAR(MAX)
+)
+
+CREATE TABLE [Customers](
+	[Id] INT PRIMARY KEY IDENTITY NOT NULL,
+	[DriverLicenceNumber] VARCHAR(25) NOT NULL,
+	[FullName] VARCHAR(255) NOT NULL,
+	[Address] VARCHAR(120),
+	[City] VARCHAR(85) NOT NULL,
+	[ZipCode] VARCHAR(10) NOT NULL,
+	[Notes] VARCHAR(MAX)
+)
+
+CREATE TABLE [RentalOrders](
+	[Id] INT PRIMARY KEY IDENTITY NOT NULL,
+	[EmployeeId] INT FOREIGN KEY REFERENCES [Employees](Id) NOT NULL,
+	[CustomerId] INT FOREIGN KEY REFERENCES [Customers](Id) NOT NULL,
+	[CarId] INT FOREIGN KEY REFERENCES [Cars](Id) NOT NULL,
+	[TankLevel] INT,
+	[KilometrageStart] DECIMAL(18,2) NOT NULL,
+	[KilometrageEnd] DECIMAL(18,2)  NOT NULL,
+	[TotalKilometrage] AS ([KilometrageStart]+[KilometrageEnd]),
+	[StartDate] DATE NOT NULL,
+	[EndDate] DATE NOT NULL,
+	[TotalDays] AS (DATEDIFF(DAY,[StartDate],[EndDate])),
+	[RateApplied] DECIMAL (18,2) NOT NULL,
+	[TaxRate] DECIMAL (18,2) NOT NULL,
+	[OrderStatus] VARCHAR(5) CHECK([OrderStatus]='True' OR [OrderStatus]='False'),
+	[Notes] VARCHAR(MAX)
+)
+
+INSERT INTO [Categories]([CategoryName],[DailyRate],[WeeklyRate],[MonthlyRate],[WeekendRate])
+VALUES
+('Mini',19.50,50.0,95.50,9.99),
+('Sport',45.95,100.55,Null,Null),
+('Van',13.50,30.40,65.99,Null)
+
+INSERT INTO [Cars]([PlateNumber],[Manufacturer],[Model],[CarYear],[CategoryId],[Doors],[Picture],[Condition],[Available])
+VALUES
+('CA4509PB','BMW','318','2015/01/01',2,4,NULL,NULL,'Yes'),
+('PB5309CC','Opel','Corsa','2020/01/01',1,2,NULL,NULL,'Yes'),
+('B3450BP','Opel','Zafira','2023/01/01',3,4,NULL,NULL,'No')
+
+INSERT INTO [Employees]([FirstName],[LastName],[Title],[Notes])
+VALUES
+('Rado','Radev','CEO','Full time CEO'),
+('Ivan','Ivanov','Salesman',Null),
+('Krasimira','Krasimirova','Cashier',Null)
+
+INSERT INTO [Customers]([DriverLicenceNumber],[FullName],[Address],[City],[ZipCode],[Notes])
+VALUES
+('RP09834','Peter Petrov',Null,'Sofia','1000',Null),
+('199-309834-BR','John Smith','USA','New Youk','145','Tourist'),
+('09349309834','Dimiter Ivanov',Null,'Ruse','7000',Null)
+
+INSERT INTO [RentalOrders]([EmployeeId],[CustomerId],[CarId],[TankLevel],[KilometrageStart],
+[KilometrageEnd],[StartDate],[EndDate],[RateApplied],[TaxRate],[OrderStatus],[Notes])
+VALUES
+(2,1,1,70,7000.90,8500.00,'2024/03/03','2024/03/05',34.4,15.5,'True',Null),
+(2,3,2,70,500.66,850.00,'2024/06/03','2024/06/28',55.5,45.5,'True',Null),
+(3,2,3,Null,76500.90,76500.90,'2024/05/05','2024/06/05',84.4,45.5,'False',Null)
