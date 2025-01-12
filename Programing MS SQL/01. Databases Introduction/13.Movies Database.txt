@@ -1,0 +1,70 @@
+CREATE DATABASE [Movies]
+
+GO
+
+USE Movies
+
+GO
+
+CREATE TABLE [Directors](
+	[Id] INT PRIMARY KEY IDENTITY(1,1) NOT NULL,
+	[DirectorName] VARCHAR(63) NOT NULL,
+	[Notes] VARCHAR(MAX)
+)
+
+CREATE TABLE [Genres](
+	[Id] INT PRIMARY KEY IDENTITY(1,1) NOT NULL,
+	[GenreName] VARCHAR(63) NOT NULL,
+	[Notes] VARCHAR(MAX)
+)
+
+CREATE TABLE [Categories](
+	[Id] INT PRIMARY KEY IDENTITY(1,1) NOT NULL,
+	[CategoryName] VARCHAR(63) NOT NULL,
+	[Notes] VARCHAR(MAX)
+)
+
+CREATE TABLE [Movies](
+	[Id] INT PRIMARY KEY IDENTITY(1,1) NOT NULL,
+	[Title] VARCHAR(255) NOT NULL,
+	[DirectorId] INT FOREIGN KEY REFERENCES [Directors](Id) NOT NULL,
+	[CopyrightYear] DATE,
+	[Length] INT NOT NULL,
+	[GenreId] INT FOREIGN KEY REFERENCES [Genres](Id),
+	[CategoryId] INT FOREIGN KEY REFERENCES [Categories](Id),
+	[Rating] VARCHAR(5) NOT NULL,
+	[Notes] VARCHAR(MAX)
+)
+
+
+INSERT INTO [Directors]([DirectorName],[Notes])
+VALUES
+('Steven Spielberg', 'One of the greates directors'),
+('Martin Scorsese', 'the second greates director'),
+('Alfred Hitchcock',Null),
+('Stanley Kubrick',Null),
+('Francis Ford Coppola',Null)
+
+INSERT INTO [Genres]([GenreName],[Notes])
+VALUES
+('Action','Movies in the action genre are defined by risk and stakes.'),
+('Animation','The animation genre is defined by inanimate objects being manipulated to appear as though they are living.'),
+('Comedy','The comedy genre is defined by events that are intended to make someone laugh, no matter if the story is macabre, droll, or zany.'),
+('Crime','The crime genre deals with both sides of the criminal justice system but does not focus on legislative matters or civil suits and legal actions. '),
+('Fantasy','The fantasy genre is defined by both circumstance and setting inside a fictional universe with an unrealistic set of natural laws. ')
+
+INSERT INTO [Categories]([CategoryName],[Notes])
+VALUES
+('Action movie',NULL),
+('Crime movie',NULL),
+('Comedy movie',NULL),
+('Cartoon movie',NULL),
+('Fantasy movie',NULL)
+
+INSERT INTO [Movies]([Title],[DirectorId],[CopyrightYear],[Length],[GenreId],[CategoryId],[Rating],[Notes])
+VALUES
+('The Godfather',1,'1985/01/01',255,4,2,'R','The greatest mob movie'),
+('The Departed',2,'2005/01/04',198,4,2,'R',NULL),
+('Fight Club',1,'1994/04/05',140,1,1,'R',NULL),
+('Batman Begins',3,'2010/05/05',155,4,4,'PG-13',NULL),
+(' Gladiator',4,'1992/03/03',176,4,4,'R',NULL)
