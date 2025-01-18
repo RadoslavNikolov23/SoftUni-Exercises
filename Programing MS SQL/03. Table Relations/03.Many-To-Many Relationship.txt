@@ -1,0 +1,37 @@
+CREATE TABLE Students(
+			 [StudentID]	INT IDENTITY(1,1)	NOT NULL
+		   , [Name]			VARCHAR(85)			NOT NULL
+			 PRIMARY KEY (StudentID)
+			 )
+
+CREATE TABLE Exams(
+			 [ExamID]	INT IDENTITY(101,1) NOT NULL
+		   , [Name]		VARCHAR(85)			NOT NULL
+			 PRIMARY KEY (ExamID)
+			 )
+
+CREATE TABLE StudentsExams(
+			 [StudentID] INT NOT NULL
+		   , [ExamID] INT NOT NULL
+			 CONSTRAINT PK_StudentExams_StudentExamID PRIMARY KEY ([StudentID],[ExamID])
+		   , CONSTRAINT FK_StudentExams_StudentID FOREIGN KEY (StudentID) REFERENCES Students(StudentID)
+		   , CONSTRAINT FK_StudentExams_ExamID FOREIGN KEY (ExamID) REFERENCES Exams (ExamID)
+			 )
+
+INSERT INTO Students([Name])
+	 VALUES ('Mila')
+	      , ('Toni')
+		  , ('Ron')
+
+INSERT INTO Exams([Name])
+	 VALUES ('SpringMVC')
+	      , ('Neo4j')
+		  , ('Oracle 11g')
+
+INSERT INTO StudentsExams
+	 VALUES (1,101)
+	      , (1,102)
+		  , (2,101)
+		  , (3,103)
+		  , (2,102)
+		  , (2,103)
