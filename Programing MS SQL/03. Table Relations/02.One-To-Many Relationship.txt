@@ -1,28 +1,27 @@
 CREATE TABLE Manufacturers(
-			 [ManufacturerID]	INT IDENTITY(1,1)	NOT NULL
-		   , [Name]				VARCHAR (85)		NOT NULL
-		   , [EstablishedOn]	DATE				NOT NULL
-			 PRIMARY KEY (ManufacturerID)
+		   [ManufacturerID]	INT IDENTITY(1,1)	NOT NULL
+		   , [Name]		VARCHAR (85)		NOT NULL
+		   , [EstablishedOn]	DATE			NOT NULL
+		   PRIMARY KEY (ManufacturerID)
 		   )
 
 		   
 CREATE TABLE Models(
-			 [ModelID]			INT IDENTITY(101,1)	NOT NULL
-		   , [Name]				VARCHAR (85)		NOT NULL
-		   , [ManufacturerID]		INT					NOT NULL
-			 PRIMARY KEY (ModelID)
-			 FOREIGN KEY (ManufacturerID) 
-			 REFERENCES Manufacturers(ManufacturerID)
+			 [ModelID]		INT IDENTITY(101,1)	NOT NULL
+		   , [Name]			VARCHAR (85)		NOT NULL
+		   , [ManufacturerID]		INT			NOT NULL
+		   PRIMARY KEY (ModelID)
+		   FOREIGN KEY (ManufacturerID) REFERENCES Manufacturers(ManufacturerID)
 		   )
 
 INSERT INTO Manufacturers([Name],[EstablishedOn])
-	 VALUES ('BMW','1916-03-07')
-		  , ('Tesla','2003-01-01')
-		  , ('Lada','1966-05-01')
+     VALUES ('BMW','1916-03-07')
+	  , ('Tesla','2003-01-01')
+	  , ('Lada','1966-05-01')
 
 INSERT INTO Models([Name],[ManufacturerID])
-	 VALUES ('X1',1)
-		  , ('Model S',2)
-		  , ('Model X',2)
-		  , ('Model 3',2)
-		  , ('Nove',3)
+     VALUES ('X1',1)
+	  , ('Model S',2)
+	  , ('Model X',2)
+	  , ('Model 3',2)
+	  , ('Nove',3)
