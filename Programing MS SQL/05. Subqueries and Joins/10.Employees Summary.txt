@@ -1,0 +1,11 @@
+ SELECT TOP 50
+	em.EmployeeID
+	,CONCAT_WS(' ',em.FirstName,em.LastName) AS EmployeeName
+	,CONCAT_WS(' ',e.FirstName,e.LastName) AS ManagerName
+	,d.[Name] AS DepartmentName
+  FROM Employees AS e
+  JOIN Employees AS em
+	ON e.EmployeeID=em.ManagerID
+ JOIN Departments AS d
+	ON d.DepartmentID=em.DepartmentID
+ORDER BY eM.EmployeeID

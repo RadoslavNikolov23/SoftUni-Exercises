@@ -1,0 +1,9 @@
+SELECT TOP 1
+	t1.s AS [MinAverageSalary]
+FROM (SELECT 
+	     AVG(e.Salary) AS s
+	FROM Employees AS e
+        JOIN Departments AS d
+	  ON e.DepartmentID=d.DepartmentID
+    GROUP BY (e.DepartmentID))AS t1
+ORDER BY t1.s

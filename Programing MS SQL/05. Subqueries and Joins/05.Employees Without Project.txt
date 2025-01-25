@@ -1,0 +1,9 @@
+SELECT TOP 3
+	e.EmployeeID
+	,e.FirstName
+FROM EmployeesProjects AS ep
+RIGHT JOIN Employees AS e
+	ON ep.EmployeeID=e.EmployeeID
+LEFT JOIN Projects AS pr
+	ON pr.ProjectID=ep.ProjectID
+WHERE ep.ProjectID IS NULL
