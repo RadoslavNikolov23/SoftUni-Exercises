@@ -1,0 +1,27 @@
+SELECT TOP 5
+	t1.CountryName
+	,t1.HighestPeakElevation
+	,t1.LongestRiverLength
+FROM (
+		SELECT 
+			c.CountryName
+			,RANK() OVER (PARTITION BY c.CountryName ORDER BY p.Elevation DESC,r.[Length] DESC ,c.CountryName ASC) AS Ranking
+			,p.Elevation
+			,MAX(p.Elevation) AS HighestPeakElevation
+			,r.[Length]
+			,MAX(r.[Length]) AS LongestRiverLength
+		FROM Countries as c
+		LEFT JOIN MountainsCountries AS mc
+		ON c.CountryCode=mc.CountryCode
+		LEFT JOIN Mountains AS m
+		ON m.Id=mc.MountainId
+		LEFT JOIN Peaks AS p
+		ON p.MountainId=m.Id
+		LEFT JOIN CountriesRivers AS cr
+		ON cr.CountryCode=c.CountryCode
+		LEFT JOIN Rivers AS r
+		ON r.Id=cr.RiverId
+		GROUP BY c.CountryName,p.Elevation,r.[Length]
+		) AS t1
+WHERE t1.Ranking=1
+ORDER BY t1.Elevation DESC, t1.[Length] DESC, t1.CountryName ASC
