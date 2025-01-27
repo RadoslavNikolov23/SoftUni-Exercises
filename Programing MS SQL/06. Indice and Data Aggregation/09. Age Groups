@@ -1,0 +1,36 @@
+CREATE TABLE #AgeTable (
+	AgeGroup VARCHAR(10) NOT NULL
+	,WizardCount INT
+	)
+
+INSERT INTO #AgeTable (AgeGroup,WizardCount)
+VALUES
+	('[0-10]', (SELECT COUNT(*)FROM WizzardDeposits AS w WHERE  w.Age BETWEEN 0 AND 10))
+	,('[11-20]', (SELECT COUNT(*)FROM WizzardDeposits AS w WHERE  w.Age BETWEEN 11 AND 20))
+	,('[21-30]', (SELECT COUNT(*)FROM WizzardDeposits AS w WHERE  w.Age BETWEEN 21 AND 30))
+	,('[31-40]',(SELECT COUNT(*)FROM WizzardDeposits AS w WHERE  w.Age BETWEEN 31 AND 40))
+	,('[41-50]',(SELECT COUNT(*)FROM WizzardDeposits AS w WHERE  w.Age BETWEEN 41 AND 50))
+	,('[51-60]',(SELECT COUNT(*)FROM WizzardDeposits AS w WHERE  w.Age BETWEEN 51 AND 60))
+	,('[61+]',(SELECT COUNT(*)FROM WizzardDeposits AS w WHERE  w.Age >=61))
+	
+SELECT*
+FROM #AgeTable
+
+--------------------------------------------
+SELECT 
+	t1.AgeGroup
+	,COUNT(T1.AgeGroup)
+FROM (
+		SELECT CASE	
+					WHEN w.Age BETWEEN 0 AND 10 THEN '[0-10]'
+					WHEN w.Age BETWEEN 11 AND 20 THEN '[11-20]'
+					WHEN w.Age BETWEEN 21 AND 30 THEN '[21-30]'
+					WHEN w.Age BETWEEN 31 AND 40 THEN '[31-40]'
+					WHEN w.Age BETWEEN 41 AND 50 THEN '[41-50]'
+					WHEN w.Age BETWEEN 51 AND 60 THEN '[51-60]'
+					WHEN w.Age >=61 THEN '[61+]'
+				END as AgeGroup
+		FROM WizzardDeposits AS w
+		) AS t1
+WHERE t1.AgeGroup IS NOT NULL
+GROUP BY t1.AgeGroup
