@@ -1,0 +1,17 @@
+SELECT *
+INTO SalaryTable
+FROM Employees AS e
+WHERE E.Salary>30000
+
+DELETE FROM SalaryTable
+WHERE ManagerID=42
+
+UPDATE SalaryTable
+SET Salary=Salary+5000
+WHERE DepartmentID=1 
+
+SELECT 
+	ts.DepartmentID
+	,AVG(ts.Salary) AS AverageSalary
+FROM SalaryTable AS ts
+GROUP BY ts.DepartmentID
