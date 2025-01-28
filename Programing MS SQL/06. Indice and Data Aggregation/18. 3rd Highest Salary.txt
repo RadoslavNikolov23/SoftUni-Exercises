@@ -1,0 +1,11 @@
+SELECT 
+	t1.DepartmentID
+	,t1.Salary AS ThirdHighestSalary
+FROM  (	SELECT 
+		e.DepartmentID
+		,e.Salary
+		,DENSE_RANK() OVER (PARTITION BY e.DepartmentID ORDER BY e.Salary DESC) AS [Rank]
+	FROM Employees AS e
+	GROUP BY e.DepartmentID,e.Salary
+	) AS t1
+WHERE [Rank]=3
