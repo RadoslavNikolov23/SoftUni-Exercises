@@ -1,0 +1,12 @@
+CREATE PROC usp_GetEmployeesFromTown 
+	(@CityName VARCHAR (85))
+AS
+	SELECT
+		e.FirstName AS [First Name]
+		,e.LastName AS [Lirst Name]
+	FROM Employees AS e
+	JOIN Addresses AS A
+		ON e.AddressID=a.AddressID
+	JOIN Towns AS t
+		ON t.TownID=a.TownID
+	WHERE t.[Name]=@CityName
