@@ -1,0 +1,17 @@
+SELECT 
+	a.[Name] AS [Author]
+	,b.Title
+	,l.[Name] AS [Library]
+	,c.PostAddress AS [Library Address]
+FROM Authors AS a
+JOIN Books AS b
+  ON b.AuthorId=a.Id
+JOIN LibrariesBooks AS lb
+  ON lb.BookId=b.Id
+JOIN Libraries AS l
+  ON lb.LibraryId=l.Id
+JOIN Contacts AS c
+  ON l.ContactId=c.Id
+WHERE b.GenreId IN (SELECT Id FROM Genres WHERE [Name]='Fiction')
+  AND c.PostAddress LIKE '%Denver%'
+ORDER BY b.Title

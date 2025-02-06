@@ -1,0 +1,15 @@
+SELECT 
+	l.[Name] AS [Library]
+	,c.Email
+FROM Libraries AS l
+JOIN Contacts AS c
+  ON l.ContactId=c.Id
+ JOIN LibrariesBooks as lb
+  ON lb.BookId=l.Id
+ JOIN Books AS b
+   ON lb.BookId=b.Id
+WHERE b.GenreId IN ( SELECT Id
+					FROM Genres
+					WHERE [Name] != 'Mystery'
+					)
+ORDER BY l.[Name]

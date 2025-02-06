@@ -1,0 +1,17 @@
+CREATE FUNCTION dbo.udf_AuthorsWithBooks (@name VARCHAR(100))
+RETURNS INT
+AS
+BEGIN
+	DECLARE @result INT = (
+							SELECT COUNT(*)
+							FROM Books AS b
+							JOIN LibrariesBooks AS lb
+						   	  ON lb.BookId=b.Id
+							JOIN Libraries AS l
+							  ON lb.LibraryId=l.Id
+							JOIN Authors AS a
+							  ON b.AuthorId=A.Id
+							WHERE a.[Name]=@name
+						  )
+	RETURN @result
+END 

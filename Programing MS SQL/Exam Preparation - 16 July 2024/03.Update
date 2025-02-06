@@ -1,0 +1,6 @@
+UPDATE c
+	SET Website=LOWER(CONCAT('www.',REPLACE(a.[Name],' ',''),'.com'))
+FROM Contacts AS c
+JOIN Authors as a
+ON a.ContactId=c.Id
+WHERE c.Website IS NULL
