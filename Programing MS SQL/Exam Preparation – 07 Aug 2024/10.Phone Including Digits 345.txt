@@ -1,0 +1,28 @@
+SELECT 
+	t1.FullName
+	,t1.PhoneNumber
+	,t1.OrderPrice
+	,t1.ShoeId
+	,t1.BrandId
+	,CONCAT(sz.EU,'EU/',sz.US,'US/',sz.UK,'UK') AS ShoeSize
+FROM (SELECT 
+			u.FullName
+			,u.PhoneNumber
+			,SUM(s.Price) AS OrderPrice
+			,s.Id AS ShoeId
+			,b.Id AS BrandId
+			,o.SizeId AS SizeOrder
+			,s.Model
+		FROM Users AS u
+		JOIN Orders AS o
+		  ON o.UserId=u.Id
+		JOIN Shoes AS s
+		  ON o.ShoeId=s.Id
+		JOIN Brands AS b
+		  ON s.BrandId=b.Id
+		WHERE u.PhoneNumber LIKE '%345%'
+		GROUP BY u.FullName,u.PhoneNumber,s.Price,s.Id,b.Id,s.Model,o.SizeId
+		) AS t1
+JOIN Sizes AS sz
+  ON t1.SizeOrder=sz.Id
+ORDER BY t1.Model ASC

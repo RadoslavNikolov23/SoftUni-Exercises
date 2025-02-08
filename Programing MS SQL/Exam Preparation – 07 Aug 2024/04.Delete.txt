@@ -1,0 +1,14 @@
+DELETE FROM sz
+FROM ShoesSizes AS sz
+JOIN Shoes AS s
+ON sz.ShoeId=s.Id
+WHERE s.Model='Joyride Run Flyknit'
+
+DELETE FROM o
+FROM Orders AS o
+JOIN Shoes AS s
+ON o.ShoeId=s.Id
+WHERE s.Model='Joyride Run Flyknit'
+
+DELETE FROM Shoes
+WHERE Model='Joyride Run Flyknit'

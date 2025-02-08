@@ -1,0 +1,16 @@
+SELECT 
+	s.Model
+	, COUNT(sz.Id) AS CountOfSizes
+	,b.[Name] AS BrandName
+FROM Brands AS b
+JOIN Shoes as s
+  ON s.BrandId=b.Id
+JOIN ShoesSizes AS shsz
+  ON shsz.ShoeId=s.Id
+JOIN Sizes AS sz
+  ON shsz.SizeId=sz.Id
+WHERE b.[Name] = 'Nike'
+ AND s.Model LIKE '%Run%'
+GROUP BY s.Model, b.[Name]
+HAVING COUNT(sz.Id)>5
+ORDER BY  s.Model DESC

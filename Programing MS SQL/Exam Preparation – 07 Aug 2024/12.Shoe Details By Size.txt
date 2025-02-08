@@ -1,0 +1,24 @@
+CREATE PROC usp_SearchByShoeSize (@shoeSize DECIMAL (5,2))
+AS
+
+	SELECT 
+		s.Model AS ModelName
+		,u.FullName AS UserFullName
+		,CASE 
+			WHEN s.Price<100 THEN 'Low'
+			WHEN s.Price>200 THEN 'High'
+			ELSE 'Medium'
+		END AS PriceLeve
+		,b.[Name] AS BrandName
+		,sz.EU AS SizaEU
+	FROM  Orders AS o 
+	JOIN Shoes AS s
+	  ON o.ShoeId=s.Id
+	JOIN Users AS u
+	  ON o.UserId=u.Id
+	JOIN Brands AS b
+	  ON s.BrandId=b.Id
+	JOIN Sizes AS sz
+	  ON o.SizeId=sz.Id
+	WHERE sz.EU= @shoeSize
+	ORDER BY b.[Name],u.FullName
