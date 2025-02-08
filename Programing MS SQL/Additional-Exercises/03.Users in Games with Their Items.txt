@@ -1,0 +1,17 @@
+SELECT 
+	u.Username
+	,g.[Name] AS Game
+	,COUNT(ugi.ItemId) AS [Items Count]
+	,SUM(i.Price) AS [Items Price]
+FROM UsersGames AS ug 
+JOIN Users AS u
+	ON ug.UserId=u.Id
+JOIN Games AS g
+	ON ug.GameId=g.Id
+JOIN UserGameItems AS ugi
+	ON ugi.UserGameId=ug.Id
+	JOIN Items AS i
+	ON ugi.ItemId=i.Id
+GROUP BY u.Username,g.[Name]
+HAVING COUNT(ugi.ItemId)>=10
+ORDER BY 3 DESC, 4 DESC, 1 ASC
