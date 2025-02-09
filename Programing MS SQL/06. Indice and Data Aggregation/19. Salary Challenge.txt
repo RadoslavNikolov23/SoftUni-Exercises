@@ -2,12 +2,11 @@ SELECT TOP 10
 	t2.FirstName
 	,t2.LastName
 	,t2.DepartmentID
-FROM (
-		SELECT
-			e.DepartmentID
-			,AVG(e.Salary) AS AvarageSalary
-		FROM Employees AS e
-		GROUP BY e.DepartmentID
+FROM ( SELECT
+		e.DepartmentID
+		,AVG(e.Salary) AS AvarageSalary
+	FROM Employees AS e
+	GROUP BY e.DepartmentID
 	 ) AS t1
 JOIN Employees AS t2
 ON t1.DepartmentID=t2.DepartmentID
