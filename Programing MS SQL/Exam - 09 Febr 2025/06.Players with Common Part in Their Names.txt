@@ -1,0 +1,11 @@
+
+SELECT 
+	p.[Name]
+	,t.City
+FROM Players AS p
+JOIN PlayersTeams AS pt
+  ON pt.PlayerId=p.Id
+JOIN Teams AS t
+  ON pt.TeamId=t.Id
+WHERE p.[Name] LIKE '%Aaron%'
+ORDER BY 1

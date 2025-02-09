@@ -1,0 +1,16 @@
+
+DELETE FROM ps
+FROM PlayerStats AS ps
+JOIN Players AS p
+  ON ps.PlayerId=p.Id
+WHERE p.[Name] IN ('Luuk de Jong','Josip Sutalo')
+		
+DELETE FROM pt
+FROM PlayersTeams AS pt
+JOIN Players AS p
+  ON pt.PlayerId=p.Id
+WHERE p.[Name] IN ('Luuk de Jong','Josip Sutalo')
+
+DELETE FROM Players
+WHERE [Name] IN ('Luuk de Jong','Josip Sutalo')
+

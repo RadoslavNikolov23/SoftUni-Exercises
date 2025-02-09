@@ -1,0 +1,30 @@
+
+UPDATE ps
+	SET ps.Goals+=1
+FROM PlayerStats AS ps
+JOIN Players AS p
+  ON ps.PlayerId=p.Id
+JOIN PlayersTeams AS pt
+  ON pt.PlayerId=p.Id
+JOIN Teams AS t
+  ON pt.TeamId=t.Id
+JOIN Leagues AS l
+  ON t.LeagueId=l.Id
+WHERE l.[Name]='La Liga'
+	AND p.Position='Forward'
+
+
+SELECT 
+	p.[Name]
+	,ps.Goals
+FROM PlayerStats AS ps
+JOIN Players AS p
+  ON ps.PlayerId=p.Id
+JOIN PlayersTeams AS pt
+  ON pt.PlayerId=p.Id
+JOIN Teams AS t
+  ON pt.TeamId=t.Id
+JOIN Leagues AS l
+  ON t.LeagueId=l.Id
+WHERE l.[Name]='La Liga'
+	AND p.Position='Forward'

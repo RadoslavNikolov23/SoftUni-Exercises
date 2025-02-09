@@ -1,0 +1,26 @@
+CREATE FUNCTION udf_LeagueTopScorer (@leagueName NVARCHAR (50))
+RETURNS TABLE 
+AS
+RETURN
+(		WITH PlayerGoals AS (
+							SELECT 
+								p.[Name] AS PlayerName
+								,SUM(ps.Goals) AS TotalGoals
+								, RANK() OVER (ORDER BY SUM(ps.Goals) DESC) AS [Rank]
+							FROM Players p
+							JOIN PlayerStats AS ps
+							  ON ps.PlayerId=p.Id
+							JOIN PlayersTeams AS pt
+							  ON pt.PlayerId=p.Id
+							JOIN Teams AS t
+							  ON pt.TeamId=t.Id
+							JOIN Leagues AS l
+							  ON t.LeagueId=l.Id
+							WHERE l.[Name] =@leagueName
+							GROUP BY p.[Name],t.Id
+							
+					)
+	Select PlayerName, TotalGoals
+	FROM PlayerGoals
+    WHERE [Rank]=1
+)	

@@ -1,0 +1,11 @@
+
+SELECT 
+	t.Id
+	,t.[Name]
+	,SUM(m.AwayTeamGoals) AS TotalAwayGoals
+FROM Teams AS t
+JOIN Matches AS m
+  ON m.AwayTeamId=t.Id
+GROUP BY t.Id,t.[Name]
+HAVING SUM(m.AwayTeamGoals)>=6
+ORDER BY 3 DESC,t.[Name]
