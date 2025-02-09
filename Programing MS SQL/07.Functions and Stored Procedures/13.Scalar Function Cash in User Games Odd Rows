@@ -1,24 +1,22 @@
 CREATE FUNCTION ufn_CashInUsersGames(@gameName VARCHAR(124))
 RETURNS TABLE
 AS
-RETURN(
-		SELECT
-			SUM(t2.Cash) AS [SumCash]
-		FROM (	SELECT 
-					t1.Cash
-					,g.[Name]
-					,ROW_NUMBER() OVER (ORDER BY t1.Cash DESC) as RankNumber
-				FROM (
-						SELECT
-							us.Id
-							,us.GameId
-							,us.Cash
-							--,ROW_NUMBER() OVER (ORDER BY us.Id) as RankNumber
-						FROM UsersGames AS us
-						) AS t1
-					JOIN Games AS g
-					  ON t1.GameId=g.Id
-					WHERE g.[Name]=@gameName
-			) AS t2
-		WHERE (t2.RankNumber%2)<>0
-)
+RETURN (SELECT
+		SUM(t2.Cash) AS [SumCash]
+	FROM (	SELECT 
+			t1.Cash
+			,g.[Name]
+			,ROW_NUMBER() OVER (ORDER BY t1.Cash DESC) as RankNumber
+		FROM (	SELECT
+				us.Id
+				,us.GameId
+				,us.Cash
+				--,ROW_NUMBER() OVER (ORDER BY us.Id) as RankNumber
+			FROM UsersGames AS us
+			) AS t1
+		JOIN Games AS g
+		  ON t1.GameId=g.Id
+		WHERE g.[Name]=@gameName
+		) AS t2
+	WHERE (t2.RankNumber%2)<>0
+	)
