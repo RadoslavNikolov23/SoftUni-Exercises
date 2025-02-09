@@ -7,7 +7,7 @@ CREATE TABLE Manufacturers(
 
 		   
 CREATE TABLE Models(
-			 [ModelID]		INT IDENTITY(101,1)	NOT NULL
+		   [ModelID]		INT IDENTITY(101,1)	NOT NULL
 		   , [Name]			VARCHAR (85)		NOT NULL
 		   , [ManufacturerID]		INT			NOT NULL
 		   PRIMARY KEY (ModelID)
