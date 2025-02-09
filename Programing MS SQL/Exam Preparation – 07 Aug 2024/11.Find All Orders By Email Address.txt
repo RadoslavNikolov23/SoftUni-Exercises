@@ -4,15 +4,15 @@ AS
 BEGIN
 	DECLARE @result INT 
 		SET @result = (SELECT COUNT(o.UserId)
-						FROM Users AS u
-						JOIN Orders as o
-							ON o.UserId=u.Id
-						WHERE u.Email=@email
-						GROUP BY o.UserId
-						)
+				FROM Users AS u
+				JOIN Orders as o
+			          ON o.UserId=u.Id
+				WHERE u.Email=@email
+				GROUP BY o.UserId
+			      )
 	IF @result IS NULL
 	BEGIN
-		SET @result=0
+	    SET @result=0
 	END
 
 	RETURN @result
