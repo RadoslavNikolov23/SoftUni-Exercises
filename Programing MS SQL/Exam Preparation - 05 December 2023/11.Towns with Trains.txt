@@ -3,16 +3,16 @@ RETURNS INT
 AS
 BEGIN
 	DECLARE @result INT
-	SET @result= (SELECT 
-					SUM(t1.CountTrains)
-				FROM (SELECT
-							COUNT(*) AS CountTrains
-						FROM Towns AS t
-						JOIN Trains AS tr
-							ON t.Id=tr.ArrivalTownId OR t.Id=tr.DepartureTownId
-						WHERE t.[Name]=@name
-						GROUP BY tr.Id
-						) AS t1
-				 )
+	SET @result= (	SELECT 
+				SUM(t1.CountTrains)
+			FROM (	SELECT
+					COUNT(*) AS CountTrains
+				FROM Towns AS t
+				JOIN Trains AS tr
+				  ON t.Id=tr.ArrivalTownId OR t.Id=tr.DepartureTownId
+				WHERE t.[Name]=@name
+				GROUP BY tr.Id
+			      ) AS t1
+			)
 	RETURN @result
 END
