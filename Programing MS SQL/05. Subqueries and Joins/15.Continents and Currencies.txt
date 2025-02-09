@@ -3,13 +3,13 @@ SELECT
 	,t1.CurrencyCode
 	,t1.CurrencyUsage
 FROM	(SELECT 
-			c.ContinentCode
-			,c.CurrencyCode
-			,DENSE_RANK() OVER (PARTITION BY c.ContinentCode ORDER BY COUNT(c.CurrencyCode) DESC) AS Ranking
-			,COUNT(c.CurrencyCode) AS CurrencyUsage
-		FROM Countries AS c
-		GROUP BY c.ContinentCode,c.CurrencyCode
-		HAVING COUNT(c.CurrencyCode)>1
-		) AS t1
+		c.ContinentCode
+		,c.CurrencyCode
+		,DENSE_RANK() OVER (PARTITION BY c.ContinentCode ORDER BY COUNT(c.CurrencyCode) DESC) AS Ranking
+		,COUNT(c.CurrencyCode) AS CurrencyUsage
+	FROM Countries AS c
+	GROUP BY c.ContinentCode,c.CurrencyCode
+	HAVING COUNT(c.CurrencyCode)>1
+	) AS t1
 WHERE t1.Ranking=1
 ORDER BY t1.ContinentCode
