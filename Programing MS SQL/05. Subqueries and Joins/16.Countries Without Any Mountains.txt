@@ -1,13 +1,13 @@
 SELECT
 	SUM(t1.ranking) AS [Count]
 FROM (	SELECT 
-			DENSE_RANK() OVER (PARTITION BY c.CountryName ORDER BY COUNT(c.CountryName)) AS ranking
-		FROM Countries AS c
-		LEFT JOIN MountainsCountries AS mc
-		ON c.CountryCode=mc.CountryCode
-		WHERE mc.MountainId IS NULL
-		GROUP BY c.CountryName
-		) AS t1
+		DENSE_RANK() OVER (PARTITION BY c.CountryName ORDER BY COUNT(c.CountryName)) AS ranking
+	FROM Countries AS c
+	LEFT JOIN MountainsCountries AS mc
+	ON c.CountryCode=mc.CountryCode
+	WHERE mc.MountainId IS NULL
+	GROUP BY c.CountryName
+	) AS t1
 
 ----------------------
 
