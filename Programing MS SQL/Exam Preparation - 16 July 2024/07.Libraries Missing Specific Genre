@@ -8,8 +8,8 @@ JOIN Contacts AS c
   ON lb.BookId=l.Id
  JOIN Books AS b
    ON lb.BookId=b.Id
-WHERE b.GenreId IN ( SELECT Id
-					FROM Genres
-					WHERE [Name] != 'Mystery'
-					)
+WHERE b.GenreId IN ( 	SELECT Id
+			FROM Genres
+			WHERE [Name] != 'Mystery'
+		    )
 ORDER BY l.[Name]
