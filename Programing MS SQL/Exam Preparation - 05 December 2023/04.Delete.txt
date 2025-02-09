@@ -1,0 +1,30 @@
+DELETE FROM trs
+FROM TrainsRailwayStations AS trs
+JOIN Trains AS tr
+  ON trs.TrainId=tr.Id
+JOIN Towns AS t
+  ON tr.DepartureTownId=t.Id
+WHERE t.[Name]='Berlin'
+
+DELETE FROM mr
+FROM MaintenanceRecords AS mr
+JOIN Trains AS tr
+  ON mr.TrainId=tr.Id
+JOIN Towns AS t
+  ON tr.DepartureTownId=t.Id
+WHERE t.[Name]='Berlin'
+
+
+DELETE FROM ti
+FROM Tickets AS ti
+JOIN Trains AS tr
+  ON ti.TrainId=tr.Id
+JOIN Towns AS t
+  ON tr.DepartureTownId=t.Id
+WHERE t.[Name]='Berlin'
+
+DELETE FROM tr
+FROM Trains AS tr
+JOIN Towns AS t
+  ON tr.DepartureTownId=t.Id
+WHERE t.[Name]='Berlin'

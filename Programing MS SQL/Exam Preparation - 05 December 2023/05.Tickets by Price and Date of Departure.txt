@@ -1,0 +1,5 @@
+SELECT 
+	DateOfDeparture
+	,Price as TicketPrice
+FROM Tickets
+ORDER BY 2, 1 DESC

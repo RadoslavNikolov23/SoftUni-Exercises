@@ -1,0 +1,10 @@
+SELECT
+	t.[Name] AS Town
+	,rs.[Name] AS RailwayStation
+FROM RailwayStations AS rs
+JOIN Towns AS t
+  ON rs.TownId=t.Id
+Left JOIN TrainsRailwayStations AS trs
+  ON trs.RailwayStationId=rs.Id
+WHERE trs.TrainId IS NULL and trs.RailwayStationId IS NULL
+ORDER BY t.[Name], rs.[Name]

@@ -1,0 +1,13 @@
+SELECT TOP 3
+	t.Id AS TrainId
+	,CONCAT('0',DATEPART(HOUR,t.HourOfDeparture),':',DATEPART(MINUTE,t.HourOfDeparture),'0')AS HourOfDeparture
+	,tc.Price AS TicketPrice
+	,tw.[Name] AS Destination
+FROM Trains AS t
+JOIN Tickets AS tc
+  ON tc.TrainId=t.Id
+JOIN Towns as tw
+  ON t.ArrivalTownId=tw.Id
+WHERE DATEPART(HOUR,t.HourOfDeparture)=8
+	AND tc.Price>50
+ORDER BY tc.Price,t.Id

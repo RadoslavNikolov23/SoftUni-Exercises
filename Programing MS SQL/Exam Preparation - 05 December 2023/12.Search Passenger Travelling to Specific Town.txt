@@ -1,0 +1,15 @@
+CREATE PROC usp_SearchByTown(@townName VARCHAR (30)) 
+AS
+	SELECT 
+		p.[Name] AS PassengerName
+		,tc.DateOfDeparture
+		,tr.HourOfDeparture
+	FROM Passengers AS p
+	JOIN Tickets AS tc
+	  ON tc.PassengerId=p.Id
+	JOIN Trains AS tr
+	  ON tc.TrainId=tr.Id
+	JOIN Towns AS t
+	  ON tr.ArrivalTownId=t.Id
+	WHERE t.[Name]=@townName
+	ORDER BY 2 DESC, 1 ASC

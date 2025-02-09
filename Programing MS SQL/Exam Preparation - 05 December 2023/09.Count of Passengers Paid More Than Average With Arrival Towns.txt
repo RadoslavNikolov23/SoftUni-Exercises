@@ -1,0 +1,13 @@
+SELECT 
+	t.[Name] AS TownName
+	,COUNT(tc.PassengerId) AS PassengersCount
+FROM Passengers AS p
+JOIN Tickets AS tc
+  ON tc.PassengerId=p.Id
+JOIN Trains AS tr
+  ON tc.TrainId=tr.Id
+JOIN Towns AS t
+  ON tr.ArrivalTownId=t.Id
+WHERE tc.Price>76.99
+GROUP BY t.[Name]
+Order by t.[Name]

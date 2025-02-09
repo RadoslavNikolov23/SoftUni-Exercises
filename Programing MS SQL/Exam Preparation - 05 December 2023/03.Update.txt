@@ -1,0 +1,5 @@
+UPDATE t
+	SET t.DateOfDeparture=DATEADD(day, 7, t.DateOfDeparture)
+	, t.DateOfArrival=DATEADD(day, 7, t.DateOfArrival)
+FROM Tickets as t
+WHERE DateOfDeparture>'2023-10-31'
