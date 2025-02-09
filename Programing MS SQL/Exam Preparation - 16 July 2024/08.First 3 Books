@@ -5,7 +5,7 @@ SELECT TOP 3
 FROM Books AS b
 JOIN Genres AS g
   ON b.GenreId=g.Id
-WHERE (b.YearPublished>2000 AND CHARINDEX('a',b.Title) !=0)
-	  OR
-	  (b.YearPublished<1950 AND g.[Name]='Fantasy')
+WHERE 	(b.YearPublished>2000 AND CHARINDEX('a',b.Title) !=0)
+  	 OR 	
+	(b.YearPublished<1950 AND g.[Name]='Fantasy')
 ORDER BY b.Title,b.YearPublished DESC
