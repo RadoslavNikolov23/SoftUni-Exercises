@@ -1,0 +1,30 @@
+SELECT 
+	u.Username
+	,g.[Name] AS [Game]
+	,MAX(ch.[Name]) AS [Character]
+	,(SUM(itemStatic.Strength)+MAX(gameStatick.Strength)+MAX(characterStatic.Strength)) AS Strenght
+	,(SUM(itemStatic.Defence)+MAX(gameStatick.Defence)+MAX(characterStatic.Defence)) AS Defence
+	,(SUM(itemStatic.Speed)+MAX(gameStatick.Speed)+MAX(characterStatic.Speed)) AS Speed
+	,(SUM(itemStatic.Mind)+MAX(gameStatick.Mind)+MAX(characterStatic.Mind)) AS Mind
+	,(SUM(itemStatic.Luck)+MAX(gameStatick.Luck)+MAX(characterStatic.Luck)) AS Luck
+FROM Users AS u
+JOIN UsersGames AS ug
+  ON ug.UserId=u.Id
+JOIN Games AS g
+  ON ug.GameId=g.Id
+JOIN GameTypes AS gt
+  ON gt.Id=g.GameTypeId
+JOIN [Statistics] as gameStatick
+  ON gt.BonusStatsId=gameStatick.Id
+JOIN Characters AS ch
+  ON ug.CharacterId=ch.Id
+JOIN [Statistics] AS characterStatic
+  on ch.StatisticId=characterStatic.Id
+JOIN UserGameItems AS ugi
+  ON ugi.UserGameId=ug.Id
+JOIN Items AS i
+  ON ugi.ItemId=i.Id
+JOIN [Statistics] AS itemStatic
+  on i.StatisticId=itemStatic.Id
+GROUP BY u.Username,g.[Name]
+ORDER BY 4 DESC, 5 DESC, 6 DESC, 7 DESC, 8 DESC

@@ -1,0 +1,41 @@
+ DECLARE @itemPrice MONEY = (SELECT SUM(Price)
+                            FROM Items
+                            WHERE Id IN (51, 71, 157, 184, 197, 223))
+DECLARE @userId    INT = (SELECT Id
+                          FROM Users
+                          WHERE Username = 'Alex')
+DECLARE @gameId    INT = (SELECT Id
+                          FROM Games
+                          WHERE Name = 'Edinburgh')
+
+UPDATE UsersGames
+SET Cash -= @itemPrice
+WHERE UserId = @userId
+  AND GameId = @gameId
+
+DECLARE @userGameId INT = (SELECT Id
+                           FROM UsersGames
+                           WHERE UserId = @userId
+                             AND GameId = @gameId)
+
+INSERT INTO UserGameItems (ItemId, UserGameId)
+SELECT Id, @userGameId
+FROM Items
+WHERE Id IN (51, 71, 157, 184, 197, 223)
+
+SELECT 
+	u.[Username]
+	,g.[Name]
+	,ug.Cash
+	, i.[Name] AS [Item Name]
+FROM Users AS u
+LEFT JOIN UsersGames AS ug
+  ON ug.UserId=u.Id
+LEFT JOIN UserGameItems AS ugi
+  ON ugi.UserGameId=ug.id
+LEFT JOIN Items AS i
+  ON ugi.ItemId=i.Id
+JOIN Games AS g
+  ON ug.GameId=g.Id
+WHERE g.[Name]='Edinburgh'
+ ORDER BY i.[Name]
