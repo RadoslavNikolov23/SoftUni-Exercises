@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\01.ORM-Fundamentals-Exercise-MiniORM-Skeleton-6.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4E30F1-AEEA-446B-8A14-4E619B2923CD}|MiniORM\\MiniORM.csproj|c:\\users\\pc\\desktop\\01.orm-fundamentals-exercise-miniorm-skeleton-6.0\\miniorm\\dbset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4E30F1-AEEA-446B-8A14-4E619B2923CD}|MiniORM\\MiniORM.csproj|solutionrelative:miniorm\\dbset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4E30F1-AEEA-446B-8A14-4E619B2923CD}|MiniORM\\MiniORM.csproj|c:\\users\\pc\\desktop\\01.orm-fundamentals-exercise-miniorm-skeleton-6.0\\miniorm\\exceptionmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4E30F1-AEEA-446B-8A14-4E619B2923CD}|MiniORM\\MiniORM.csproj|solutionrelative:miniorm\\exceptionmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4E30F1-AEEA-446B-8A14-4E619B2923CD}|MiniORM\\MiniORM.csproj|c:\\users\\pc\\desktop\\01.orm-fundamentals-exercise-miniorm-skeleton-6.0\\miniorm\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4E30F1-AEEA-446B-8A14-4E619B2923CD}|MiniORM\\MiniORM.csproj|solutionrelative:miniorm\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbSet.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\01.ORM-Fundamentals-Exercise-MiniORM-Skeleton-6.0\\MiniORM\\DbSet.cs",
+              "RelativeDocumentMoniker": "MiniORM\\DbSet.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\01.ORM-Fundamentals-Exercise-MiniORM-Skeleton-6.0\\MiniORM\\DbSet.cs",
+              "RelativeToolTip": "MiniORM\\DbSet.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T16:44:46.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExceptionMessages.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\01.ORM-Fundamentals-Exercise-MiniORM-Skeleton-6.0\\MiniORM\\ExceptionMessages.cs",
+              "RelativeDocumentMoniker": "MiniORM\\ExceptionMessages.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\01.ORM-Fundamentals-Exercise-MiniORM-Skeleton-6.0\\MiniORM\\ExceptionMessages.cs",
+              "RelativeToolTip": "MiniORM\\ExceptionMessages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T15:23:36.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\01.ORM-Fundamentals-Exercise-MiniORM-Skeleton-6.0\\MiniORM\\DbContext.cs",
+              "RelativeDocumentMoniker": "MiniORM\\DbContext.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\01.ORM-Fundamentals-Exercise-MiniORM-Skeleton-6.0\\MiniORM\\DbContext.cs",
+              "RelativeToolTip": "MiniORM\\DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T12:28:49.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
