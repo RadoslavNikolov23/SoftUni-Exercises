@@ -1,0 +1,8 @@
+ SELECT 
+	p.PeakName
+	,m.MountainRange AS Mountain
+	,p.Elevation
+ FROM Peaks AS p
+ JOIN Mountains AS m
+   ON p.MountainId=m.Id
+ORDER BY 3 DESC, 1 ASC
