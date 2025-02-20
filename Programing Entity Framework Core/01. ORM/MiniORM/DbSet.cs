@@ -9,7 +9,7 @@ namespace MiniORM
 
         internal ChangeTracker<TEntity> ChangeTracker { get; set; }
 
-        internal ICollection<TEntity> Entities { get; set; }
+        internal IList<TEntity> Entities { get; set; }
 
         internal DbSet(IEnumerable<TEntity> entities)
         {
@@ -23,7 +23,8 @@ namespace MiniORM
 
         public void Add(TEntity item)
         {
-            if (item == null) throw new ArgumentNullException(String.Format(ExceptionMessages.ItemCanBeNullAttribute));
+            if (item == null) 
+                throw new ArgumentNullException(String.Format(ExceptionMessages.ItemCanBeNullAttribute));
 
             this.Entities.Add(item);
             ChangeTracker.Add(item);
@@ -40,7 +41,8 @@ namespace MiniORM
 
         public bool Remove(TEntity item)
         {
-            if (item == null) throw new ArgumentNullException(String.Format(ExceptionMessages.ItemCanBeNullAttribute));
+            if (item == null) 
+                throw new ArgumentNullException(String.Format(ExceptionMessages.ItemCanBeNullAttribute));
 
             bool removedSuccessfully = this.Entities.Remove(item);
 
@@ -54,7 +56,7 @@ namespace MiniORM
 
         public void RemoveRange(IEnumerable<TEntity> entities)
         {
-            foreach(TEntity entity in entities.ToArray())
+            foreach (TEntity entity in entities.ToArray())
             {
                 Remove(entity);
             }

@@ -4,7 +4,7 @@ namespace MiniORM
     using System.ComponentModel.DataAnnotations;
     using System.Reflection;
     internal class ChangeTracker<T>
-        where T:class,new()
+        where T : class, new()
     {
 
         /* The ChangeTracker class will track the:
@@ -16,14 +16,14 @@ namespace MiniORM
         private readonly ICollection<T> added;
         private readonly ICollection<T> removed;
 
-        public IReadOnlyCollection<T> AllEntities=> this.allEntities.ToList().AsReadOnly();
+        public IReadOnlyCollection<T> AllEntities => this.allEntities.ToList().AsReadOnly();
         public IReadOnlyCollection<T> Added => this.added.ToList().AsReadOnly();
         public IReadOnlyCollection<T> Removed => this.removed.ToList().AsReadOnly();
 
 
         public ChangeTracker(IEnumerable<T> entities)
         {
-            this.added= new List<T>();
+            this.added = new List<T>();
             this.removed = new List<T>();
             this.allEntities = CloneEntities(entities);
 
@@ -32,19 +32,19 @@ namespace MiniORM
         private static ICollection<T> CloneEntities(IEnumerable<T> entities)
         {
             ICollection<T> clonedEntities = new List<T>();
-            PropertyInfo[] propertiesClone=typeof(T).GetProperties()
-                .Where(pi=>DbContext.AllowedSqlTypes.Contains(pi.PropertyType))
+            PropertyInfo[] propertiesClone = typeof(T).GetProperties()
+                .Where(pi => DbContext.AllowedSqlTypes.Contains(pi.PropertyType))
                 .ToArray();
 
             foreach (T entity in entities)
             {
                 T clonedEntity = Activator.CreateInstance<T>();
 
-                foreach(PropertyInfo property in propertiesClone)
+                foreach (PropertyInfo property in propertiesClone)
                 {
                     object value = property.GetValue(entity)!;
                     property.SetValue(clonedEntity, value);
-                            
+
                 }
                 clonedEntities.Add(clonedEntity);
             }
@@ -58,16 +58,16 @@ namespace MiniORM
 
         private static bool IsModifield(T proxyEntity, T entity)
         {
-            PropertyInfo[] monitoredProperty= typeof(T).GetProperties()
+            PropertyInfo[] monitoredProperty = typeof(T).GetProperties()
                 .Where(pi => DbContext.AllowedSqlTypes.Contains(pi.PropertyType))
                 .ToArray();
 
-            foreach(PropertyInfo propertyInfo in monitoredProperty)
+            foreach (PropertyInfo propertyInfo in monitoredProperty)
             {
                 object? peValue = propertyInfo.GetValue(proxyEntity);
                 object? dbeValue = propertyInfo.GetValue(entity);
 
-                if(peValue == null && dbeValue == null)
+                if (peValue == null && dbeValue == null)
                 {
                     continue;
                 }
@@ -85,7 +85,7 @@ namespace MiniORM
             this.added.Add(entity);
         }
 
-        public void Remove (T Entity)
+        public void Remove(T Entity)
         {
             this.removed.Add(Entity);
         }
@@ -93,14 +93,14 @@ namespace MiniORM
         public IEnumerable<T> GetModifieldEntities(DbSet<T> dbSet)
         {
             ICollection<T> modifieldEntities = new List<T>();
-            PropertyInfo[] primaryKey=typeof(T).GetProperties()
-                .Where(pi=> pi.HasAttribute<KeyAttribute>())
+            PropertyInfo[] primaryKey = typeof(T).GetProperties()
+                .Where(pi => pi.HasAttribute<KeyAttribute>())
                 .ToArray();
 
-            foreach(T proxyEntity in this.AllEntities)
+            foreach (T proxyEntity in this.AllEntities)
             {
                 IEnumerable<object> primaryKeyValues = GetPrimaryKeyValues(primaryKey, proxyEntity).ToArray();
-                T entity=dbSet.Entities
+                T entity = dbSet.Entities
                     .Single(e => GetPrimaryKeyValues(primaryKey, e).SequenceEqual(primaryKeyValues));
 
                 bool isModified = IsModifield(proxyEntity, entity);
@@ -113,6 +113,6 @@ namespace MiniORM
             return modifieldEntities;
         }
 
-  
+
     }
 }

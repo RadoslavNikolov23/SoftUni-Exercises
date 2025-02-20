@@ -10,7 +10,7 @@ namespace MiniORM
         /// </summary>
         public static void ReplaceBackingField(object sourceObj, string propertyName, object targetObj)
         {
-            FieldInfo backingField = sourceObj.GetType()
+            var backingField = sourceObj.GetType()
                 .GetFields(BindingFlags.Instance | BindingFlags.NonPublic | BindingFlags.SetField)
                 .First(fi => fi.Name == $"<{propertyName}>k__BackingField");
 
@@ -23,7 +23,7 @@ namespace MiniORM
         public static bool HasAttribute<T>(this MemberInfo mi)
             where T : Attribute
         {
-            bool hasAttribute = mi.GetCustomAttribute<T>() != null;
+            var hasAttribute = mi.GetCustomAttribute<T>() != null;
             return hasAttribute;
         }
     }
