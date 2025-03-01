@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\P01_StudentSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADD6743-4B40-48AA-ACB3-047775AA6752}|P01_StudentSystem.Data.Models\\P01_StudentSystem.Data.Models.csproj|c:\\users\\pc\\source\\repos\\p01_studentsystem\\p01_studentsystem.data.models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADD6743-4B40-48AA-ACB3-047775AA6752}|P01_StudentSystem.Data.Models\\P01_StudentSystem.Data.Models.csproj|solutionrelative:p01_studentsystem.data.models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADD6743-4B40-48AA-ACB3-047775AA6752}|P01_StudentSystem.Data.Models\\P01_StudentSystem.Data.Models.csproj|c:\\users\\pc\\source\\repos\\p01_studentsystem\\p01_studentsystem.data.models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADD6743-4B40-48AA-ACB3-047775AA6752}|P01_StudentSystem.Data.Models\\P01_StudentSystem.Data.Models.csproj|solutionrelative:p01_studentsystem.data.models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADD6743-4B40-48AA-ACB3-047775AA6752}|P01_StudentSystem.Data.Models\\P01_StudentSystem.Data.Models.csproj|c:\\users\\pc\\source\\repos\\p01_studentsystem\\p01_studentsystem.data.models\\homework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADD6743-4B40-48AA-ACB3-047775AA6752}|P01_StudentSystem.Data.Models\\P01_StudentSystem.Data.Models.csproj|solutionrelative:p01_studentsystem.data.models\\homework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5AE15F-C152-4093-93C6-55392E0A7F36}|P01_StudentSystem.Data\\P01_StudentSystem.Data.csproj|c:\\users\\pc\\source\\repos\\p01_studentsystem\\p01_studentsystem.data\\studentsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E5AE15F-C152-4093-93C6-55392E0A7F36}|P01_StudentSystem.Data\\P01_StudentSystem.Data.csproj|solutionrelative:p01_studentsystem.data\\studentsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADD6743-4B40-48AA-ACB3-047775AA6752}|P01_StudentSystem.Data.Models\\P01_StudentSystem.Data.Models.csproj|c:\\users\\pc\\source\\repos\\p01_studentsystem\\p01_studentsystem.data.models\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADD6743-4B40-48AA-ACB3-047775AA6752}|P01_StudentSystem.Data.Models\\P01_StudentSystem.Data.Models.csproj|solutionrelative:p01_studentsystem.data.models\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC468D2-BCAE-4E22-9258-19DBE589B1AE}|P01_StudentSystem\\P01_StudentSystem.csproj|c:\\users\\pc\\source\\repos\\p01_studentsystem\\p01_studentsystem\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBC468D2-BCAE-4E22-9258-19DBE589B1AE}|P01_StudentSystem\\P01_StudentSystem.csproj|solutionrelative:p01_studentsystem\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40E0D48-7AA6-49E0-8E11-AB0266E99BFA}|P01_StudentSystem.Common\\P01_StudentSystem.Common.csproj|c:\\users\\pc\\source\\repos\\p01_studentsystem\\p01_studentsystem.common\\connectionstringvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40E0D48-7AA6-49E0-8E11-AB0266E99BFA}|P01_StudentSystem.Common\\P01_StudentSystem.Common.csproj|solutionrelative:p01_studentsystem.common\\connectionstringvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Homework.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\P01_StudentSystem\\P01_StudentSystem.Data.Models\\Homework.cs",
+              "RelativeDocumentMoniker": "P01_StudentSystem.Data.Models\\Homework.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\P01_StudentSystem\\P01_StudentSystem.Data.Models\\Homework.cs",
+              "RelativeToolTip": "P01_StudentSystem.Data.Models\\Homework.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T19:28:41.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\P01_StudentSystem\\P01_StudentSystem.Data.Models\\Course.cs",
+              "RelativeDocumentMoniker": "P01_StudentSystem.Data.Models\\Course.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\P01_StudentSystem\\P01_StudentSystem.Data.Models\\Course.cs",
+              "RelativeToolTip": "P01_StudentSystem.Data.Models\\Course.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T19:21:18.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentCourse.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\P01_StudentSystem\\P01_StudentSystem.Data.Models\\StudentCourse.cs",
+              "RelativeDocumentMoniker": "P01_StudentSystem.Data.Models\\StudentCourse.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\P01_StudentSystem\\P01_StudentSystem.Data.Models\\StudentCourse.cs",
+              "RelativeToolTip": "P01_StudentSystem.Data.Models\\StudentCourse.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T19:20:51.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\P01_StudentSystem\\P01_StudentSystem.Data.Models\\Student.cs",
+              "RelativeDocumentMoniker": "P01_StudentSystem.Data.Models\\Student.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\P01_StudentSystem\\P01_StudentSystem.Data.Models\\Student.cs",
+              "RelativeToolTip": "P01_StudentSystem.Data.Models\\Student.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwBoAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T19:19:33.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\StartUp.cs",
+              "RelativeDocumentMoniker": "P01_StudentSystem\\StartUp.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\StartUp.cs",
+              "RelativeToolTip": "P01_StudentSystem\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T19:15:05.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConnectionStringValidation.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\P01_StudentSystem\\P01_StudentSystem.Common\\ConnectionStringValidation.cs",
+              "RelativeDocumentMoniker": "P01_StudentSystem.Common\\ConnectionStringValidation.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\P01_StudentSystem\\P01_StudentSystem.Common\\ConnectionStringValidation.cs",
+              "RelativeToolTip": "P01_StudentSystem.Common\\ConnectionStringValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T19:11:08.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentSystemContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\P01_StudentSystem\\P01_StudentSystem.Data\\StudentSystemContext.cs",
+              "RelativeDocumentMoniker": "P01_StudentSystem.Data\\StudentSystemContext.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\P01_StudentSystem\\P01_StudentSystem.Data\\StudentSystemContext.cs",
+              "RelativeToolTip": "P01_StudentSystem.Data\\StudentSystemContext.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAiwDQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T19:10:23.782Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
