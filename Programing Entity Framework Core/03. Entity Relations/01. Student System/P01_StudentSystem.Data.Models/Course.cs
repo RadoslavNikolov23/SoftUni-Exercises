@@ -21,7 +21,6 @@ namespace P01_StudentSystem.Data.Models
         public DateTime EndDate { get; set; }
         public decimal Price { get; set; }
 
-        public virtual ICollection<Student> Students { get; set; } = new HashSet<Student>();
         public virtual ICollection<Resource> Resources { get; set; } = new HashSet<Resource>();
 
         public virtual ICollection<Homework> Homeworks { get; set; } = new HashSet<Homework>();
