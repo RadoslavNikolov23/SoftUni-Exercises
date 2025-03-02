@@ -8,7 +8,7 @@ namespace P01_StudentSystem.Common
 {
     public static class ConnectionStringValidation
     {
-        public const string StringConnectionAddress = "Server=RADO\\RMSSQLSERVER;Database=StudentSystem;Trusted_Connection=True;";
+        public const string StringConnectionAddress = "Server=.;Database=StudentSystem;Trusted_Connection=True;";
 
     }
 }
