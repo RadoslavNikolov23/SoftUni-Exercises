@@ -1,7 +1,7 @@
-﻿namespace ProductShop.Data
+﻿using Microsoft.EntityFrameworkCore;
+using ProductShop.Models;
+namespace ProductShop.Data
 {
-    using Microsoft.EntityFrameworkCore;
-    using ProductShop.Models;
     public class ProductShopContext : DbContext
     {
         public ProductShopContext()
@@ -13,13 +13,13 @@
         {
         }
 
-        public virtual DbSet<Category> Categories { get; set; } = null!;
-                 
-        public virtual DbSet<Product> Products { get; set; } = null!;
-        
-        public virtual DbSet<User> Users { get; set; } = null!;
-       
-        public virtual DbSet<CategoryProduct> CategoriesProducts { get; set; } = null!;
+        public DbSet<Category> Categories { get; set; } = null!;
+
+        public DbSet<Product> Products { get; set; } = null!;
+
+        public DbSet<User> Users { get; set; } = null!;
+
+        public DbSet<CategoryProduct> CategoriesProducts { get; set; } = null!;
 
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
@@ -35,20 +35,37 @@
         {
             modelBuilder.Entity<CategoryProduct>(entity =>
             {
-                entity.HasKey(x => new {x.CategoryId, x.ProductId });
+                entity.HasKey(x => new { x.CategoryId, x.ProductId });
             });
 
-            modelBuilder.Entity<User>(entity =>
-            {
-                entity.HasMany(x => x.ProductsBought)
-                      .WithOne(x => x.Buyer)
-                      .HasForeignKey(x => x.BuyerId)
-                      .OnDelete(DeleteBehavior.NoAction);
+            //modelBuilder.Entity<User>(entity =>
+            //{
+            //    entity.HasMany(x => x.ProductsBought)
+            //          .WithOne(x => x.Buyer)
+            //          .HasForeignKey(x => x.BuyerId)
+            //          .OnDelete(DeleteBehavior.SetNull);
 
-                entity.HasMany(x => x.ProductsSold)
-                      .WithOne(x => x.Seller)
-                      .HasForeignKey(x => x.SellerId)
-                      .OnDelete(DeleteBehavior.NoAction);
+            //    entity.HasMany(x => x.ProductsSold)
+            //          .WithOne(x => x.Seller)
+            //          .HasForeignKey(x => x.SellerId)
+            //          .OnDelete(DeleteBehavior.Restrict);
+            //});
+
+            modelBuilder.Entity<Product>(entity =>
+            {
+                entity
+                    .HasOne(e => e.Seller)
+                    .WithMany(s => s.ProductsSold)
+                    .HasForeignKey(e => e.SellerId)
+                    .OnDelete(DeleteBehavior.Restrict);
+
+                entity
+                     .HasOne(e => e.Buyer)
+                     .WithMany(b => b.ProductsBought)
+                     .HasForeignKey(e => e.BuyerId)
+                     .IsRequired(false)
+                     .OnDelete(DeleteBehavior.SetNull);
+
             });
         }
     }
