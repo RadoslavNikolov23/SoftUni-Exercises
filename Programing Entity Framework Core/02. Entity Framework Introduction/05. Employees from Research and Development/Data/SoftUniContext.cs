@@ -1,4 +1,4 @@
-﻿
+9﻿
 namespace SoftUni.Data
 {
     using System.Collections.Generic;
@@ -28,7 +28,7 @@ namespace SoftUni.Data
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Server=RADO\\RMSSQLSERVER;Database=SoftUni;Integrated Security=True;");
+                optionsBuilder.UseSqlServer("Server=.;Database=SoftUni;Integrated Security=True;");
             }
         }
 
