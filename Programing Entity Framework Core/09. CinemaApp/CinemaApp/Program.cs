@@ -1,5 +1,6 @@
 using CinemaApp.Data;
 using CinemaApp.Data.Models;
+using CinemaApp.Data.Utilities;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
@@ -19,8 +20,8 @@ builder.Services
     .AddRoles<IdentityRole<Guid>>()
     .AddEntityFrameworkStores<CinemaDbContext>();
 builder.Services.AddControllersWithViews();
-builder.Services.AddRazorPages();
 
+builder.Services.AddRazorPages();
 
 var app = builder.Build();
 
@@ -53,6 +54,10 @@ using (var scope = app.Services.CreateScope())
 {
     var services= scope.ServiceProvider;
     var dbContext=services.GetRequiredService<CinemaDbContext>();
+
+    await DataProcessor.ImportMoviesFromJson(dbContext);
+    await DataProcessor.ImportCinemaMoviesFromJson(dbContext);
+    //await DataProcessor.ImportTicketsFromXml(dbContext);
 }
 
 app.Run();

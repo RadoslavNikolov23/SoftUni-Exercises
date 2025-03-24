@@ -1,4 +1,4 @@
-﻿namespace CinemaApp.Data
+﻿namespace CinemaApp.Data.Validations
 {
     public class ValidationConstants
     {

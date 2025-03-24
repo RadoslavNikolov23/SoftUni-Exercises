@@ -1,4 +1,6 @@
-﻿namespace CinemaApp.Data.Models
+﻿using CinemaApp.Data.Validations;
+
+namespace CinemaApp.Data.Models
 {
     using Microsoft.EntityFrameworkCore;
     using System;
