@@ -2,13 +2,23 @@
 {
     using CinemaApp.Data.DTOs;
     using CinemaApp.Data.Models;
+    using CinemaApp.Data.Utilities.Contracts;
     using Microsoft.EntityFrameworkCore;
-    using System.ComponentModel.DataAnnotations;
+    using Microsoft.Extensions.Logging;
     using System.Text.Json;
 
-    public static class DataProcessor
+    public class DataProcessor
     {
-        public static async Task ImportMoviesFromJson(CinemaDbContext dbContext)
+        private readonly IEntityValidator entityValidator;
+        private readonly ILogger<DataProcessor> logger;
+
+        public DataProcessor(IEntityValidator entityValidator, ILogger<DataProcessor> logger)
+        {
+            this.entityValidator = entityValidator;
+            this.logger = logger;
+        }
+
+        public async Task ImportMoviesFromJson(CinemaDbContext dbContext)
         {
             string moviesStr = await GetFileString("movies.json");
             var moviesDTOs = JsonSerializer.Deserialize<List<MoviesDTO>>(moviesStr);
@@ -24,7 +34,7 @@
                     if (moviesTitles.Contains(movieDTO.Title)) 
                         continue;
 
-                    if (!await IsValid(movieDTO))
+                    if (!await this.entityValidator.IsValid(movieDTO))
                         continue;
 
                     Movie movie = new Movie
@@ -46,7 +56,7 @@
 
         }
 
-        public static async Task ImportCinemaMoviesFromJson(CinemaDbContext dbContext)
+        public async Task ImportCinemaMoviesFromJson(CinemaDbContext dbContext)
         {
             string cinemaMoviesStr = await GetFileString("cinemasMovies.json");
             var cinemaMoviesDTOs = JsonSerializer.Deserialize<List<CinemaMoviesDTO>>(cinemaMoviesStr);
@@ -55,11 +65,9 @@
             {
                 ICollection<CinemaMovie> validCinemaMovies = new List<CinemaMovie>();
 
-
-
                 foreach (var cinemaMovieDTO in cinemaMoviesDTOs)
                 {
-                    if (!await IsValid(cinemaMovieDTO))
+                    if (!await this.entityValidator.IsValid(cinemaMovieDTO))
                         continue;
 
                     Movie movie = dbContext.Movies.FirstOrDefault(m => m.Title == cinemaMovieDTO.Movie)!;
@@ -82,7 +90,6 @@
                         cinema = dbContext.Cinemas
                             .FirstOrDefault(c => c.Name == cinemaMovieDTO.Cinema)!;
                     }
-
 
                     if (movie == null || cinema == null)
                         continue;
@@ -121,20 +128,14 @@
             throw new NotImplementedException();
         }
 
-        private static async Task<string> GetFileString(string fileName)
+        private async Task<string> GetFileString(string fileName)
         {
             string projectDirectory = Path.Combine(AppContext.BaseDirectory, "Files", fileName);
             string fileStr = await File.ReadAllTextAsync(projectDirectory);
             return fileStr;
         }
 
-        private static Task<bool> IsValid(object dto)
-        {
-            var validationContext = new ValidationContext(dto);
-            var validationResult = new List<ValidationResult>();
 
-            return Task.FromResult(Validator.TryValidateObject(dto, validationContext, validationResult, true));
-        }
 
     }
 }

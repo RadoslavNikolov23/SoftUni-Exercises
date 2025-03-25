@@ -55,9 +55,10 @@ using (var scope = app.Services.CreateScope())
     var services= scope.ServiceProvider;
     var dbContext=services.GetRequiredService<CinemaDbContext>();
 
-    await DataProcessor.ImportMoviesFromJson(dbContext);
-    await DataProcessor.ImportCinemaMoviesFromJson(dbContext);
-    //await DataProcessor.ImportTicketsFromXml(dbContext);
+    DataProcessor dataProcessor = new DataProcessor(new EntityValidator(), new Logger<DataProcessor>(new LoggerFactory()));
+    await dataProcessor.ImportMoviesFromJson(dbContext);
+    await dataProcessor.ImportCinemaMoviesFromJson(dbContext);
+    //await dataProcessor.ImportTicketsFromXml(dbContext);
 }
 
 app.Run();
