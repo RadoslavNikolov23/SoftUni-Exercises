@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace CinemaApp.Data.Migrations
 {
     /// <inheritdoc />
-    public partial class InitialCreateCinemaApplicationDB : Migration
+    public partial class InitialCreate : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -280,9 +280,9 @@ namespace CinemaApp.Data.Migrations
                 columns: new[] { "Id", "IsDeleted", "Location", "Name" },
                 values: new object[,]
                 {
-                    { new Guid("5157f8c4-cc29-4c5a-a432-23599e6ebf79"), false, "Varna", "Cinemax" },
-                    { new Guid("6389b718-23ec-439c-8184-1b009853b7ab"), false, "Plovdiv", "Cinema city" },
-                    { new Guid("baac2540-f3be-4533-8940-fc8c5189d44f"), false, "Sofia", "Cinema city" }
+                    { new Guid("064d27fc-072c-4e66-8b94-5f2fc1b28965"), false, "Sofia", "Cinema city" },
+                    { new Guid("329a1880-6a13-4b34-baa3-04da86548dce"), false, "Plovdiv", "Cinema city" },
+                    { new Guid("f5717d71-3b72-4cd7-9e45-e4af46ff3bad"), false, "Varna", "Cinemax" }
                 });
 
             migrationBuilder.InsertData(

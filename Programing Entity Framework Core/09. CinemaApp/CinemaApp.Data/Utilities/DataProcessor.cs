@@ -5,6 +5,7 @@
     using CinemaApp.Data.Utilities.Contracts;
     using Microsoft.EntityFrameworkCore;
     using Microsoft.Extensions.Logging;
+    using System.Globalization;
     using System.Text.Json;
 
     public class DataProcessor
@@ -123,9 +124,74 @@
             }
         }
 
-        public static async Task ImportTicketsFromXml(CinemaDbContext dbContext)
+        public async Task ImportTicketsFromXml(CinemaDbContext dbContext)
         {
-            throw new NotImplementedException();
+            string filePath =Path.Combine(AppContext.BaseDirectory, "Files", "tickets.xml");
+            string ticketsStr = await File.ReadAllTextAsync(filePath);
+
+            IXmlHelper xmlHelper = new XmlHelper();
+            string rootName = "Tickets";
+
+            TicketDto[]? ticketDtos = xmlHelper
+                    .Deserialize<TicketDto[]>(ticketsStr, rootName);
+
+            if (ticketDtos != null && ticketDtos.Length > 0)
+            {
+                ICollection<Ticket> validTickets = new List<Ticket>();
+
+                foreach (TicketDto ticketDto in ticketDtos)
+                {
+                    if (!await this.entityValidator.IsValid(ticketDto))
+                        continue;
+
+                    bool isPriceValid = decimal
+                                            .TryParse(ticketDto.Price, 
+                                            NumberStyles.Any,
+                                            CultureInfo.InvariantCulture, out decimal ticketPrice);
+                    bool isMovieIdValid = Guid
+                                            .TryParse(ticketDto.MovieId, out Guid ticketMovieId);
+                    bool isCinemaIdValid = Guid
+                                            .TryParse(ticketDto.CinemaId, out Guid ticketCinemaId);
+                    bool isUserIdValid = Guid
+                                            .TryParse(ticketDto.UserId, out Guid ticketUserId);
+                   
+                    if (!isPriceValid || !isMovieIdValid 
+                        || !isCinemaIdValid || !isUserIdValid)
+                       continue;
+
+
+                    Cinema? ticketCinema = await dbContext
+                                                         .Cinemas
+                                                          .SingleOrDefaultAsync(c => c.Id == ticketCinemaId);
+
+                    Movie? ticketMovie = await dbContext
+                                                         .Movies
+                                                          .SingleOrDefaultAsync(m => m.Id == ticketMovieId);
+                   
+                    ApplicationUser? ticketUser = await dbContext
+                                                            .Users
+                                                            .SingleOrDefaultAsync(u => u.Id == ticketUserId);
+                    
+                    if (ticketCinema == null || ticketMovie == null || ticketUser == null)
+                    {
+                        continue;
+                    }
+
+
+                    Ticket newTicket = new Ticket()
+                    {
+                        Price = ticketPrice,
+                        CinemaId = ticketCinemaId,
+                        MovieId = ticketMovieId,
+                        ApplicationUserId = ticketUserId
+                    };
+                    validTickets.Add(newTicket);
+                }
+
+                await dbContext.Tickets.AddRangeAsync(validTickets);
+                await dbContext.SaveChangesAsync();
+            }
+
         }
 
         private async Task<string> GetFileString(string fileName)

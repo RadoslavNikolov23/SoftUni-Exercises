@@ -132,21 +132,21 @@ namespace CinemaApp.Data.Migrations
                     b.HasData(
                         new
                         {
-                            Id = new Guid("baac2540-f3be-4533-8940-fc8c5189d44f"),
+                            Id = new Guid("064d27fc-072c-4e66-8b94-5f2fc1b28965"),
                             IsDeleted = false,
                             Location = "Sofia",
                             Name = "Cinema city"
                         },
                         new
                         {
-                            Id = new Guid("6389b718-23ec-439c-8184-1b009853b7ab"),
+                            Id = new Guid("329a1880-6a13-4b34-baa3-04da86548dce"),
                             IsDeleted = false,
                             Location = "Plovdiv",
                             Name = "Cinema city"
                         },
                         new
                         {
-                            Id = new Guid("5157f8c4-cc29-4c5a-a432-23599e6ebf79"),
+                            Id = new Guid("f5717d71-3b72-4cd7-9e45-e4af46ff3bad"),
                             IsDeleted = false,
                             Location = "Varna",
                             Name = "Cinemax"
