@@ -1,0 +1,29 @@
+SELECT 
+		t1.[Name]
+		,t1.Price
+		,t1.MinLevel
+		,t1.Strength
+		,t1.Defence
+		,t1.Speed
+		,t1.Luck
+		,t1.Mind
+FROM (	SELECT 
+			i.[Name]
+			,i.Price
+			,i.MinLevel
+			,s.Strength
+			,s.Defence
+			,s.Speed
+			,s.Luck
+			,s.Mind
+			, AVG (s.Mind) over () AS AvarageMind
+			, AVG (s.Luck) over () AS AvarageLuck
+			,AVG (s.Speed) over () AS AvarageSpeed
+		FROM Items AS i
+		JOIN [Statistics] AS s
+			ON i.StatisticId=s.Id
+	) AS t1
+WHERE t1.Mind>t1.AvarageMind
+AND t1.Luck>t1.AvarageLuck
+AND t1.Speed>t1.AvarageSpeed
+ORDER BY t1.[Name]

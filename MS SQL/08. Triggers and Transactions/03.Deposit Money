@@ -1,0 +1,14 @@
+CREATE PROC usp_DepositMoney 
+	@AccountId INT
+	,@MoneyAmount DECIMAL (18,4)
+AS
+	IF (@MoneyAmount>00) 
+	BEGIN
+		UPDATE Accounts
+		SET Balance+=@MoneyAmount
+		WHERE Id=@AccountId 
+	END
+	ELSE
+	BEGIN
+		PRINT ('Money deposit cannot be negative!')
+	END

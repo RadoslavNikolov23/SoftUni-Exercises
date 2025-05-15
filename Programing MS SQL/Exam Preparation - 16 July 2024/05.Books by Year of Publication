@@ -1,6 +1,0 @@
- SELECT 
-	b.Title AS [Book Title]
-	,b.ISBN
-	,b.YearPublished AS [YearReleased]
-FROM Books AS b
-ORDER BY b.YearPublished DESC, b.Title ASC  

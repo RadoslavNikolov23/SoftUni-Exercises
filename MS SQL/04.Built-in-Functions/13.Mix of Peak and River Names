@@ -1,0 +1,7 @@
+SELECT p.PeakName,
+	   r.RiverName,
+	   LOWER(STUFF(p.PeakName,LEN(p.PeakName),1,r.RiverName)) AS Mix
+FROM Peaks AS p
+CROSS JOIN Rivers AS r
+WHERE RIGHT(p.PeakName,1)=LEFT(r.RiverName,1)
+ORDER BY Mix

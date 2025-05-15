@@ -1,9 +1,0 @@
-CREATE TRIGGER tr_EmailNotification
-ON Logs FOR INSERT
-AS
-	INSERT INTO NotificationEmails(Recipient,[Subject], Body)
-	SELECT 
-		l.LogID
-		,CONCAT('Balance change for account: ', l.LogID)
-		,CONCAT('On ',GETDATE(), ' your balance was change from ',l.OldSum,' to ',l.NewSum,'.')
-	FROM Logs as l

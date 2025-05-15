@@ -1,0 +1,57 @@
+
+
+CREATE TABLE Monasteries(
+	Id INT  PRIMARY KEY IDENTITY
+	,[Name] NVARCHAR(125) NOT NULL
+	,CountryCode CHAR(2) NOT NULL FOREIGN KEY REFERENCES Countries(CountryCode)
+)
+
+INSERT INTO Monasteries(Name, CountryCode) VALUES
+  ('Rila Monastery “St. Ivan of Rila”', 'BG'), 
+  ('Bachkovo Monastery “Virgin Mary”', 'BG'),
+  ('Troyan Monastery “Holy Mother''s Assumption”', 'BG'),
+  ('Kopan Monastery', 'NP'),
+  ('Thrangu Tashi Yangtse Monastery', 'NP'),
+  ('Shechen Tennyi Dargyeling Monastery', 'NP'),
+  ('Benchen Monastery', 'NP'),
+  ('Southern Shaolin Monastery', 'CN'),
+  ('Dabei Monastery', 'CN'),
+  ('Wa Sau Toi', 'CN'),
+  ('Lhunshigyia Monastery', 'CN'),
+  ('Rakya Monastery', 'CN'),
+  ('Monasteries of Meteora', 'GR'),
+  ('The Holy Monastery of Stavronikita', 'GR'),
+  ('Taung Kalat Monastery', 'MM'),
+  ('Pa-Auk Forest Monastery', 'MM'),
+  ('Taktsang Palphug Monastery', 'BT'),
+  ('Sümela Monastery', 'TR');
+
+
+--In Judje put the solution without the Alter/Add Column, but with the Insert above!
+ALTER TABLE Countries
+ADD IsDeleted BIT NOT NULL DEFAULT 0
+
+
+UPDATE Countries
+SET IsDeleted = 1
+WHERE CountryCode IN (
+						SELECT 
+							c.CountryCode
+						FROM Countries AS c
+						LEFT JOIN CountriesRivers AS cr
+						   ON c.CountryCode=cr.CountryCode
+						LEFT JOIN Rivers AS r
+							ON cr.RiverId=r.Id
+						GROUP BY c.CountryCode
+						HAVING COUNT(r.RiverName)>3
+						)
+						
+SELECT 
+	m.[Name] AS Monastery
+	,c.CountryName AS Country
+FROM Monasteries AS m
+left JOIN Countries AS c
+  ON c.CountryCode=m.CountryCode
+WHERE c.IsDeleted = 0
+ORDER BY m.[Name]
+

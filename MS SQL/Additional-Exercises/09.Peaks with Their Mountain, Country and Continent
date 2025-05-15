@@ -1,0 +1,15 @@
+SELECT 
+	p.PeakName
+	,m.MountainRange
+	,c.CountryName
+	,cn.ContinentName
+FROM Peaks AS p
+JOIN Mountains AS m
+  ON p.MountainId=m.Id
+JOIN MountainsCountries AS mc
+  ON m.Id=mc.MountainId
+JOIN Countries AS c
+  ON mc.CountryCode=c.CountryCode
+JOIN Continents AS cn
+  ON c.ContinentCode=cn.ContinentCode
+ORDER BY 1 ASC, 3 ASC

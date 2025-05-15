@@ -1,0 +1,28 @@
+CREATE PROC dbo.usp_TransferMoney
+	@SenderId INT
+	,@ReceiverId INT
+	,@Amount DECIMAL (18,4)
+AS
+	BEGIN TRANSACTION 
+	IF @Amount <=0
+	BEGIN
+		ROLLBACK
+		;THROW 50001, 'Money must be positive!',1
+		;
+	END
+	IF @SenderId NOT IN (SELECT Id FROM Accounts)
+	BEGIN
+		ROLLBACK
+		;THROW 50002, 'Sender is invalid!',1
+		;
+	END
+	IF @ReceiverId NOT IN (SELECT Id FROM Accounts)
+	BEGIN
+		ROLLBACK
+		;THROW 50002, 'Sender is invalid!',1
+		;
+	END
+
+		EXEC dbo.usp_DepositMoney @ReceiverId, @Amount
+		EXEC dbo.usp_WithdrawMoney @SenderId, @Amount
+	COMMIT
