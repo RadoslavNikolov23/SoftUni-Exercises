@@ -1,13 +1,25 @@
-type codeNumber = 200 | 201 | 301 | 400 | 404 | 500;
+type httpCode = {code: 200 | 201 | 301, text: string};
+type httpCodeWithChar = { code: 400 | 404 | 500, text: string, printChars?: number};
 
-function htttpCodeInfromation(httpCode: {code : codeNumber, text : string, printChars? : number} ) :void{
+function htttpCodeInfromation(httpCode: httpCode | httpCodeWithChar) :void{
 
-    let resultText:string = httpCode.text;
-    if(httpCode.printChars){
-        resultText= httpCode.text.substring(0,httpCode.printChars);
+    // I Case:
+    // switch(httpCode.code){
+    //     case 200:
+    //     case 201:
+    //     case 301: console.log(httpCode.text); return;
+    //     case 400:
+    //     case 404:
+    //     case 500: console.log(httpCode.text.slice(0,httpCode.printChars)); return;
+    // }
+
+    // II Case:
+    if("printChars" in httpCode){
+        console.log(httpCode.text.substring(0,httpCode.printChars));
     }
-
-    console.log(resultText);
+    else{
+        console.log(httpCode.text);
+    }
 }
 
 htttpCodeInfromation({ code: 200, text: 'OK'});

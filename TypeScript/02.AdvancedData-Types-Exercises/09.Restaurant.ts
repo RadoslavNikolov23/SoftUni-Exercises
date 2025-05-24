@@ -12,7 +12,7 @@ interface OrderDetails {
     orderId: number;
     price: number;
     quantity: number;
-    orderStatus:string;
+    orderStatus:OrderStatus;
     getOrderSummary():string;
     updateOrderStatus():void;
     getOrderStatus():string;
@@ -25,7 +25,7 @@ class CustomerOrder implements Dish, OrderDetails {
     isVegan: boolean;
     orderId: number;
     quantity: number;
-    orderStatus = "Pending";
+    orderStatus: OrderStatus = "Pending";
 
     constructor(dishName: string, price: number, isVegan: boolean, orderId: number, quantity: number) {
         this.dishName = dishName;
