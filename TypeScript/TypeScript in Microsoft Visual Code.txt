@@ -1,0 +1,56 @@
+TypeScript in Microsoft Visual Code
+
+
+
+Install TypeScript with npm
+	▪ npm install -g typescript // latest stable build
+
+Test if TypeScript is installed properly
+	▪ tsc --version // Should return a message 'Version 5.x.x'
+	
+---------------------------------------------------------------------
+Create the tsconfig.json file
+	▪ tsc --init // This command will create a new tsconfig.json file
+	
+In the tsconfig.json file
+{
+	"compilerOptions" : {
+		"target": "esnext", // ECMAScript target version
+		"module": "esnext", // module code generation
+		"sourceMap": true, // Generates corresponding .map file
+		"strict": true, // strict type-checking options
+		"outDir": "out", // redirect output to the directory.
+		"experimentalDecorators": true, // for decorators enable
+		"emitDecoratorMetadata": true, // for decorators enable
+	}
+}
+
+Choose the create a launch.json file option from the Debug tab
+▪ Replace the contents of launch.json with the following:
+
+
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "node",
+			"request": "launch",
+			"name": "Launch Program",
+			"program": "${workspaceFolder}/${fileBasename}", // Run the currently opened file
+			"preLaunchTask": "tsc: build - tsconfig.json", // Transpile the files
+			"outFiles": [
+				"${workspaceFolder}/out/**/*.js" // Look for the transpiled files in /out dir
+			]
+		}
+	]
+}
+
+
+------------------------------------------------------------
+To have the same class in evry file in the same solution, type in the file :
+	export { };
+
+and create in the solution a package.json file, which has:
+{
+	"type":"module"
+}
