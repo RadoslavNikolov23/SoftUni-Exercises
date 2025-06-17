@@ -1,6 +1,9 @@
-﻿@* @{
+﻿@using Horizons.Web.ViewModels.Destinations
+@model DestinationAddViewModel
+
+@{
     ViewData["Title"] = "Add Destination";
-    var today = DateTime.Now.ToString("dd-MM-yyyy");
+    string today = DateTime.UtcNow.ToString("dd-MM-yyyy");
 }
 
 <div class="d-flex justify-content-between align-items-center mb-3" style="margin-top: 20px;">
@@ -53,4 +56,3 @@
         </form>
     </div>
 </div>
- *@

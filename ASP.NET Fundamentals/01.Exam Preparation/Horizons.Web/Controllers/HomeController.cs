@@ -12,7 +12,21 @@
         [AllowAnonymous]
         public IActionResult Index()
         {
-            return View();
+            try
+            {
+                if (this.IsAuthenticated())
+                {
+                    return this.RedirectToAction(nameof(Index), "Destination");
+                }
+                return this.View();
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+                return RedirectToAction(nameof(Index));
+            }
+
+         
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

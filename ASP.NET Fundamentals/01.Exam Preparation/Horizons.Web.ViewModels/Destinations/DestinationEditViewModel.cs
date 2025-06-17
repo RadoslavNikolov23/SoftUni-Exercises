@@ -1,0 +1,14 @@
+﻿namespace Horizons.Web.ViewModels.Destinations
+{
+    using System.ComponentModel.DataAnnotations;
+
+    public class DestinationEditViewModel : DestinationAddViewModel
+    {
+        [Required]
+        public int Id { get; set; } // This should be the ID of the destination being edited
+
+        [Required]
+        public string PublisherId { get; set; } = null!; // This should be the ID of the user who is editing the destination, typically the publisher's ID
+
+    }
+}
