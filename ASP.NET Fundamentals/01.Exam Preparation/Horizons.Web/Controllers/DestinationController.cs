@@ -202,9 +202,12 @@
             {
                 if (!this.ModelState.IsValid)
                 {
-                    return this.RedirectToAction(nameof(Delete), new { id = destinationDeleteVM.Id });
+                    this.ModelState.AddModelError(string.Empty, "Please do not modife this destination!");
+                    return this.View(destinationDeleteVM)
+                    
+                    //return this.RedirectToAction(nameof(Delete), new { id = destinationDeleteVM.Id }); // Maybe this?
 
-                    // return this.View(destinationEditViewModel); // With this will return the view with the model errors displayed!
+                    // return this.View(destinationDeleteVM); // With this will return the view with the model errors displayed!
                 }
 
                 string userId = this.GetUserId()!;
