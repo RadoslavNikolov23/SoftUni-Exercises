@@ -144,7 +144,8 @@
         {
             try
             {
-                if (this.ModelState.IsValid)
+            //Changing to ! opposite
+                if (!this.ModelState.IsValid)
                 {
                     return this.RedirectToAction(nameof(Edit), new { id = destinationEditViewModel.Id });
 
