@@ -21,5 +21,8 @@
 
         Task<IEnumerable<DestinationFavoriteViewModel>?> GetAllFavoriteDestinationsListAsync(string? userId);
 
+        Task<bool> AddToFavoriteListAsync(int Id, string userId);
+
+
     }
 }
