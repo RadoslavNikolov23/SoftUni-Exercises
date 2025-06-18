@@ -19,7 +19,7 @@
 
         Task<bool> SoftDeleteDestinationAsync(DestinationDeleteViewModel destinationDeleteViewModel, string userId);
 
-        Task<IEnumerable<DestinationFavoriteViewModelv>> GetAllFavoriteDestinationsListAsync(string? userId);
+        Task<IEnumerable<DestinationFavoriteViewModel>?> GetAllFavoriteDestinationsListAsync(string? userId);
 
     }
 }
