@@ -105,19 +105,19 @@
 
             if ((publisher != null) && (terrainRef != null) && (isDateParseable))
             {
-                Destination destination = new Destination
+                Destination newDestination = new Destination
                 {
                     Name = destinationAddViewModel.Name,
                     Description = destinationAddViewModel.Description,
                     ImageUrl = destinationAddViewModel.ImageUrl,
                     PublishedOn = publishedOn,
-                    PublisherId = publisher.Id,
-                    TerrainId = terrainRef.Id,
+                    PublisherId = userId,
+                    TerrainId = destinationAddViewModel.TerrainId,
                 };
 
-                await this.dbContext.Destinations.AddAsync(destination);
-                int rowsAffected = await this.dbContext.SaveChangesAsync();
-                isValid = rowsAffected > 0;
+                await this.dbContext.Destinations.AddAsync(newDestination);
+                await this.dbContext.SaveChangesAsync();
+                isValid = true;
             }
 
             return isValid;
