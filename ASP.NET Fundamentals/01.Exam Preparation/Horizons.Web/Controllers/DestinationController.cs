@@ -265,7 +265,20 @@
             {
                 string userId = this.GetUserId()!;
 
+                if(id==nul)
+                {
+                      return this.RedirectToAction(nameof(Index));
+                }
+                bool isAddedToFavorite = await this.destinationService
+                    .AddToFavoriteListAsync(int id.Value, userId);
+
                 
+                if (isAddedToFavorite == null)
+                {
+                    return this.RedirectToAction(nameof(Index));
+                }
+
+                return this.RedirectToAction(nameof(Favorite));
 
             }
             catch (Exception e)
