@@ -147,7 +147,7 @@
                         ImageUrl = destination.ImageUrl,
                         TerrainId = destination.TerrainId,
                         PublishedOn = destination.PublishedOn.ToString(DestinationConst.DateTimeFormat),
-                        PublisherId = userId ?? string.Empty
+                        PublisherId = userId
                     };
 
                 }
