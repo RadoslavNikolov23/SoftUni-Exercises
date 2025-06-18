@@ -249,5 +249,31 @@
 
             return isDeleted;
         }
+
+        public async Task<IEnumerable<DestinationFavoriteViewModel>?> GetAllFavoriteDestinationsListAsync(string? userId)
+        {
+            IEnumerable<DestinationFavoriteViewModel> favoriteDestionationsList = null!;
+            IdentityUser? publisher = await this.userManager.FindByIdAsync(userId);
+            
+            if ((publisher != null)
+            {
+                favoriteDestionationsList = this.dbContext
+                        .UsersDestionations
+                        .Include(ud=>ud.Destination)
+                        .ThenInclide(d=>d.Terrain)
+                        .Where(ud=>ud.UserId.ToLower()==userId.ToLower())
+                        .Select(ud=> new DestinationFavoriteViewModel()
+                            {
+                                Id=ud.Destination.Id,
+                                Name=ud.Destination.Name,
+                                ImageUrl=ud.Destination.ImageUrl,
+                                Terrain=ud.Destination.Terrain.Name,
+                                
+                            }
+                            .ToListAsync();
+            }
+            return favoriteDestionationsList;
+            
+        }
     }
 }
