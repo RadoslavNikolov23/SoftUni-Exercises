@@ -8,7 +8,6 @@
         public int Id { get; set; } // This should be the ID of the destination being edited
 
         [Required]
-        public string PublisherId { get; set; } = null!; // This should be the ID of the user who is editing the destination, typically the publisher's ID
-
+        public string PublisherId { get; set; } = null!;
     }
 }

@@ -19,7 +19,6 @@
 
             entity
                 .HasData(this.SeedDefaultTerrains());
-
         }
 
         private ICollection<Terrain> SeedDefaultTerrains()

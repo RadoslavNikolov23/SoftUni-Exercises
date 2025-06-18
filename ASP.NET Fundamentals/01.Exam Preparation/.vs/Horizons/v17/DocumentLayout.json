@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programing - Work\\ASP.NET Fundamentals\\01.Exam Preparation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{483E42EB-206C-445D-A634-36AF08697409}|Horizons.GCommon\\Horizons.GCommon.csproj|c:\\programing - work\\asp.net fundamentals\\01.exam preparation\\horizons.gcommon\\validationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483E42EB-206C-445D-A634-36AF08697409}|Horizons.GCommon\\Horizons.GCommon.csproj|solutionrelative:horizons.gcommon\\validationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC408A46-5524-4418-A246-ADF07399AAED}|Horizons.Web.ViewModels\\Horizons.Web.ViewModels.csproj|c:\\programing - work\\asp.net fundamentals\\01.exam preparation\\horizons.web.viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC408A46-5524-4418-A246-ADF07399AAED}|Horizons.Web.ViewModels\\Horizons.Web.ViewModels.csproj|solutionrelative:horizons.web.viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC408A46-5524-4418-A246-ADF07399AAED}|Horizons.Web.ViewModels\\Horizons.Web.ViewModels.csproj|c:\\programing - work\\asp.net fundamentals\\01.exam preparation\\horizons.web.viewmodels\\destinations\\destinationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC408A46-5524-4418-A246-ADF07399AAED}|Horizons.Web.ViewModels\\Horizons.Web.ViewModels.csproj|solutionrelative:horizons.web.viewmodels\\destinations\\destinationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC408A46-5524-4418-A246-ADF07399AAED}|Horizons.Web.ViewModels\\Horizons.Web.ViewModels.csproj|c:\\programing - work\\asp.net fundamentals\\01.exam preparation\\horizons.web.viewmodels\\destinations\\destinationfavoriteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC408A46-5524-4418-A246-ADF07399AAED}|Horizons.Web.ViewModels\\Horizons.Web.ViewModels.csproj|solutionrelative:horizons.web.viewmodels\\destinations\\destinationfavoriteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC408A46-5524-4418-A246-ADF07399AAED}|Horizons.Web.ViewModels\\Horizons.Web.ViewModels.csproj|c:\\programing - work\\asp.net fundamentals\\01.exam preparation\\horizons.web.viewmodels\\destinations\\destinationeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC408A46-5524-4418-A246-ADF07399AAED}|Horizons.Web.ViewModels\\Horizons.Web.ViewModels.csproj|solutionrelative:horizons.web.viewmodels\\destinations\\destinationeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC408A46-5524-4418-A246-ADF07399AAED}|Horizons.Web.ViewModels\\Horizons.Web.ViewModels.csproj|c:\\programing - work\\asp.net fundamentals\\01.exam preparation\\horizons.web.viewmodels\\destinations\\destinationdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC408A46-5524-4418-A246-ADF07399AAED}|Horizons.Web.ViewModels\\Horizons.Web.ViewModels.csproj|solutionrelative:horizons.web.viewmodels\\destinations\\destinationdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC408A46-5524-4418-A246-ADF07399AAED}|Horizons.Web.ViewModels\\Horizons.Web.ViewModels.csproj|c:\\programing - work\\asp.net fundamentals\\01.exam preparation\\horizons.web.viewmodels\\destinations\\destinationdeleteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC408A46-5524-4418-A246-ADF07399AAED}|Horizons.Web.ViewModels\\Horizons.Web.ViewModels.csproj|solutionrelative:horizons.web.viewmodels\\destinations\\destinationdeleteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC408A46-5524-4418-A246-ADF07399AAED}|Horizons.Web.ViewModels\\Horizons.Web.ViewModels.csproj|c:\\programing - work\\asp.net fundamentals\\01.exam preparation\\horizons.web.viewmodels\\destinations\\destinationaddviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC408A46-5524-4418-A246-ADF07399AAED}|Horizons.Web.ViewModels\\Horizons.Web.ViewModels.csproj|solutionrelative:horizons.web.viewmodels\\destinations\\destinationaddviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC408A46-5524-4418-A246-ADF07399AAED}|Horizons.Web.ViewModels\\Horizons.Web.ViewModels.csproj|c:\\programing - work\\asp.net fundamentals\\01.exam preparation\\horizons.web.viewmodels\\destinations\\destinationaddterrainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC408A46-5524-4418-A246-ADF07399AAED}|Horizons.Web.ViewModels\\Horizons.Web.ViewModels.csproj|solutionrelative:horizons.web.viewmodels\\destinations\\destinationaddterrainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC408A46-5524-4418-A246-ADF07399AAED}|Horizons.Web.ViewModels\\Horizons.Web.ViewModels.csproj|c:\\programing - work\\asp.net fundamentals\\01.exam preparation\\horizons.web.viewmodels\\destinations\\basedestinationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC408A46-5524-4418-A246-ADF07399AAED}|Horizons.Web.ViewModels\\Horizons.Web.ViewModels.csproj|solutionrelative:horizons.web.viewmodels\\destinations\\basedestinationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9A3160-C444-7127-6C6F-993A709154CD}|Horizons.Web\\Horizons.Web.csproj|c:\\programing - work\\asp.net fundamentals\\01.exam preparation\\horizons.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C9A3160-C444-7127-6C6F-993A709154CD}|Horizons.Web\\Horizons.Web.csproj|solutionrelative:horizons.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9A3160-C444-7127-6C6F-993A709154CD}|Horizons.Web\\Horizons.Web.csproj|c:\\programing - work\\asp.net fundamentals\\01.exam preparation\\horizons.web\\views\\destination\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C9A3160-C444-7127-6C6F-993A709154CD}|Horizons.Web\\Horizons.Web.csproj|solutionrelative:horizons.web\\views\\destination\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValidationConstants.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\ASP.NET Fundamentals\\01.Exam Preparation\\Horizons.GCommon\\ValidationConstants.cs",
+              "RelativeDocumentMoniker": "Horizons.GCommon\\ValidationConstants.cs",
+              "ToolTip": "C:\\Programing - Work\\ASP.NET Fundamentals\\01.Exam Preparation\\Horizons.GCommon\\ValidationConstants.cs",
+              "RelativeToolTip": "Horizons.GCommon\\ValidationConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T20:22:10.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\ASP.NET Fundamentals\\01.Exam Preparation\\Horizons.Web.ViewModels\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Horizons.Web.ViewModels\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Programing - Work\\ASP.NET Fundamentals\\01.Exam Preparation\\Horizons.Web.ViewModels\\ErrorViewModel.cs",
+              "RelativeToolTip": "Horizons.Web.ViewModels\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T20:22:06.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DestinationViewModel.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\ASP.NET Fundamentals\\01.Exam Preparation\\Horizons.Web.ViewModels\\Destinations\\DestinationViewModel.cs",
+              "RelativeDocumentMoniker": "Horizons.Web.ViewModels\\Destinations\\DestinationViewModel.cs",
+              "ToolTip": "C:\\Programing - Work\\ASP.NET Fundamentals\\01.Exam Preparation\\Horizons.Web.ViewModels\\Destinations\\DestinationViewModel.cs",
+              "RelativeToolTip": "Horizons.Web.ViewModels\\Destinations\\DestinationViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T20:21:58.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DestinationFavoriteViewModel.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\ASP.NET Fundamentals\\01.Exam Preparation\\Horizons.Web.ViewModels\\Destinations\\DestinationFavoriteViewModel.cs",
+              "RelativeDocumentMoniker": "Horizons.Web.ViewModels\\Destinations\\DestinationFavoriteViewModel.cs",
+              "ToolTip": "C:\\Programing - Work\\ASP.NET Fundamentals\\01.Exam Preparation\\Horizons.Web.ViewModels\\Destinations\\DestinationFavoriteViewModel.cs",
+              "RelativeToolTip": "Horizons.Web.ViewModels\\Destinations\\DestinationFavoriteViewModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T20:21:53.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DestinationEditViewModel.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\ASP.NET Fundamentals\\01.Exam Preparation\\Horizons.Web.ViewModels\\Destinations\\DestinationEditViewModel.cs",
+              "RelativeDocumentMoniker": "Horizons.Web.ViewModels\\Destinations\\DestinationEditViewModel.cs",
+              "ToolTip": "C:\\Programing - Work\\ASP.NET Fundamentals\\01.Exam Preparation\\Horizons.Web.ViewModels\\Destinations\\DestinationEditViewModel.cs",
+              "RelativeToolTip": "Horizons.Web.ViewModels\\Destinations\\DestinationEditViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T20:21:44.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DestinationDetailViewModel.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\ASP.NET Fundamentals\\01.Exam Preparation\\Horizons.Web.ViewModels\\Destinations\\DestinationDetailViewModel.cs",
+              "RelativeDocumentMoniker": "Horizons.Web.ViewModels\\Destinations\\DestinationDetailViewModel.cs",
+              "ToolTip": "C:\\Programing - Work\\ASP.NET Fundamentals\\01.Exam Preparation\\Horizons.Web.ViewModels\\Destinations\\DestinationDetailViewModel.cs",
+              "RelativeToolTip": "Horizons.Web.ViewModels\\Destinations\\DestinationDetailViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T20:21:42.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DestinationDeleteViewModel.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\ASP.NET Fundamentals\\01.Exam Preparation\\Horizons.Web.ViewModels\\Destinations\\DestinationDeleteViewModel.cs",
+              "RelativeDocumentMoniker": "Horizons.Web.ViewModels\\Destinations\\DestinationDeleteViewModel.cs",
+              "ToolTip": "C:\\Programing - Work\\ASP.NET Fundamentals\\01.Exam Preparation\\Horizons.Web.ViewModels\\Destinations\\DestinationDeleteViewModel.cs",
+              "RelativeToolTip": "Horizons.Web.ViewModels\\Destinations\\DestinationDeleteViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T20:21:40.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DestinationAddViewModel.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\ASP.NET Fundamentals\\01.Exam Preparation\\Horizons.Web.ViewModels\\Destinations\\DestinationAddViewModel.cs",
+              "RelativeDocumentMoniker": "Horizons.Web.ViewModels\\Destinations\\DestinationAddViewModel.cs",
+              "ToolTip": "C:\\Programing - Work\\ASP.NET Fundamentals\\01.Exam Preparation\\Horizons.Web.ViewModels\\Destinations\\DestinationAddViewModel.cs",
+              "RelativeToolTip": "Horizons.Web.ViewModels\\Destinations\\DestinationAddViewModel.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T20:21:37.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DestinationAddTerrainViewModel.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\ASP.NET Fundamentals\\01.Exam Preparation\\Horizons.Web.ViewModels\\Destinations\\DestinationAddTerrainViewModel.cs",
+              "RelativeDocumentMoniker": "Horizons.Web.ViewModels\\Destinations\\DestinationAddTerrainViewModel.cs",
+              "ToolTip": "C:\\Programing - Work\\ASP.NET Fundamentals\\01.Exam Preparation\\Horizons.Web.ViewModels\\Destinations\\DestinationAddTerrainViewModel.cs",
+              "RelativeToolTip": "Horizons.Web.ViewModels\\Destinations\\DestinationAddTerrainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T20:21:34.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseDestinationViewModel.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\ASP.NET Fundamentals\\01.Exam Preparation\\Horizons.Web.ViewModels\\Destinations\\BaseDestinationViewModel.cs",
+              "RelativeDocumentMoniker": "Horizons.Web.ViewModels\\Destinations\\BaseDestinationViewModel.cs",
+              "ToolTip": "C:\\Programing - Work\\ASP.NET Fundamentals\\01.Exam Preparation\\Horizons.Web.ViewModels\\Destinations\\BaseDestinationViewModel.cs",
+              "RelativeToolTip": "Horizons.Web.ViewModels\\Destinations\\BaseDestinationViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T20:21:27.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing - Work\\ASP.NET Fundamentals\\01.Exam Preparation\\Horizons.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Horizons.Web\\Program.cs",
+              "ToolTip": "C:\\Programing - Work\\ASP.NET Fundamentals\\01.Exam Preparation\\Horizons.Web\\Program.cs",
+              "RelativeToolTip": "Horizons.Web\\Program.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAQwCQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T20:20:58.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Programing - Work\\ASP.NET Fundamentals\\01.Exam Preparation\\Horizons.Web\\Views\\Destination\\Add.cshtml",
+              "RelativeDocumentMoniker": "Horizons.Web\\Views\\Destination\\Add.cshtml",
+              "ToolTip": "C:\\Programing - Work\\ASP.NET Fundamentals\\01.Exam Preparation\\Horizons.Web\\Views\\Destination\\Add.cshtml",
+              "RelativeToolTip": "Horizons.Web\\Views\\Destination\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T20:20:49.626Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

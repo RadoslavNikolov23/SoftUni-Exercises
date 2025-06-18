@@ -6,7 +6,6 @@
     using Microsoft.AspNetCore.Mvc;
     using static Horizons.GCommon.ValidationConstants.DestinationConst;
 
-
     public class DestinationController : BaseController
     {
         private readonly IDestinationService destinationService;
@@ -34,7 +33,6 @@
                 Console.WriteLine(e.Message);
                 return this.RedirectToAction(nameof(Index), "Home");
             }
-
         }
 
         [HttpGet]
@@ -53,7 +51,6 @@
                 }
 
                 return this.View(destinationDetailVM);
-
             }
             catch (Exception e)
             {
@@ -80,8 +77,6 @@
                 Console.WriteLine(e.Message);
                 return this.RedirectToAction(nameof(Index));
             }
-
-
         }
 
         [HttpPost]
@@ -92,7 +87,7 @@
                 if (!this.ModelState.IsValid)
                 {
                     return this.RedirectToAction(nameof(Add));
-                    // return this.View(destinationEditViewModel); // With this will return the view with the model errors displayed!
+                    // return this.View(destinationEditViewModel); // Witch will return the view with the model errors displayed!
                 }
 
                 string? userId = this.GetUserId();
@@ -140,30 +135,28 @@
         }
 
         [HttpPost]
-        public async Task<IActionResult> Edit(DestinationEditViewModel destinationEditViewModel)
+        public async Task<IActionResult> Edit(DestinationEditViewModel destinationEditVM)
         {
             try
             {
-            //Changing to ! opposite
                 if (!this.ModelState.IsValid)
                 {
-                    return this.RedirectToAction(nameof(Edit), new { id = destinationEditViewModel.Id });
+                    return this.RedirectToAction(nameof(Edit), new { id = destinationEditVM.Id });
 
-                    // return this.View(destinationEditViewModel); // With this will return the view with the model errors displayed!
+                    // return this.View(destinationEditViewModel); // Witch will return the view with the model errors displayed!
                 }
 
                 string? userId = this.GetUserId();
                 bool isDestinationEdited = await this.destinationService
-                    .EditDestinationAsync(destinationEditViewModel, userId);
-
+                    .EditDestinationAsync(destinationEditVM, userId);
 
                 if (isDestinationEdited == false)
                 {
                     this.ModelState.AddModelError(string.Empty, "Destination could not be edited. Please try again.");
-                    return this.View(destinationEditViewModel);
+                    return this.View(destinationEditVM);
                 }
 
-                return this.RedirectToAction(nameof(Details), new { Id = destinationEditViewModel.Id });
+                return this.RedirectToAction(nameof(Details), new { Id = destinationEditVM.Id });
             }
             catch (Exception e)
             {
@@ -202,10 +195,8 @@
             {
                 if (!this.ModelState.IsValid)
                 {
-                    this.ModelState.AddModelError(string.Empty, "Please do not modife this destination!");
-                    return this.View(destinationDeleteVM)
-                    
-                    //return this.RedirectToAction(nameof(Delete), new { id = destinationDeleteVM.Id }); // Maybe this?
+                    this.ModelState.AddModelError(string.Empty, "Please do not modify this destination!");
+                    return this.View(destinationDeleteVM);
 
                     // return this.View(destinationDeleteVM); // With this will return the view with the model errors displayed!
                 }
@@ -235,12 +226,12 @@
         [HttpGet]
         public async Task<IActionResult> Favorites()
         {
-             try
+            try
             {
                 string userId = this.GetUserId()!;
 
                 IEnumerable<DestinationFavoriteViewModel> favoriteDestinationList = await this.destinationService
-                    .GetAllFavoriteDestinationsListAsync( userId);
+                    .GetAllFavoriteDestinationsListAsync(userId);
 
 
                 if (favoriteDestinationList == null)
@@ -258,27 +249,30 @@
             }
         }
 
-        [HttpGet]
-        public async Task<IActionResult> AddToFavorites(int? id)
+        [HttpPost]
+        public async Task<IActionResult> AddToFavorites(int? id, string returnTo)
         {
             try
             {
                 string userId = this.GetUserId()!;
 
-                if(id==nul)
-                {
-                      return this.RedirectToAction(nameof(Index));
-                }
-                bool isAddedToFavorite = await this.destinationService
-                    .AddToFavoriteListAsync(int id.Value, userId);
-
-                
-                if (isAddedToFavorite == null)
+                if (id == null)
                 {
                     return this.RedirectToAction(nameof(Index));
                 }
 
-                return this.RedirectToAction(nameof(Favorite));
+                bool isAddedToFavorite = await this.destinationService
+                    .AddToFavoriteListAsync(id.Value, userId);
+
+
+                if (isAddedToFavorite == false || returnTo == "Index")
+                {
+                    return this.RedirectToAction(nameof(Index));
+                }
+
+                return this.RedirectToAction("Details", new { id = id });
+
+                //return this.RedirectToAction(nameof(Favorites)); //Original return to Favorites page
 
             }
             catch (Exception e)
@@ -288,5 +282,35 @@
             }
         }
 
+        [HttpPost]
+        public async Task<IActionResult> RemoveFromFavorites(int? id)
+        {
+            try
+            {
+                string userId = this.GetUserId()!;
+
+                if (id == null)
+                {
+                    return this.RedirectToAction(nameof(Index));
+                }
+
+                bool isRemovedFromFavorite = await this.destinationService
+                    .RemoveFavoriteFromListAsync(id.Value, userId);
+
+
+                if (isRemovedFromFavorite == false)
+                {
+                    return this.RedirectToAction(nameof(Index));
+                }
+
+                return this.RedirectToAction(nameof(Favorites));
+                //When a user removes a favorite destination from the list, the application should update the view without redirecting the user
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+                return this.RedirectToAction(nameof(Index));
+            }
+        }
     }
 }

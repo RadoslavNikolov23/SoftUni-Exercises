@@ -25,8 +25,6 @@
                 Console.WriteLine(e.Message);
                 return RedirectToAction(nameof(Index));
             }
-
-         
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

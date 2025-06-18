@@ -29,14 +29,14 @@
             entity
                 .Property(d => d.PublishedOn)
                 .IsRequired();
-               // .HasColumnType("datetime2")
-               // .HasConversion(
-              //      v => v.ToString("dd-MM-yyyy"),
-              //      v => DateTime.ParseExact(v, "dd-MM-yyyy", null));
 
             entity
                 .Property(d => d.IsDeleted)
                 .HasDefaultValue(false);
+
+            entity
+               .Property(d => d.PublisherId)
+               .IsRequired();
 
             entity
                 .HasOne(d => d.Publisher)
@@ -55,7 +55,6 @@
 
             entity
                .HasData(this.SeedDefaultDestinations());
-
         }
 
         private ICollection<Destination> SeedDefaultDestinations()
