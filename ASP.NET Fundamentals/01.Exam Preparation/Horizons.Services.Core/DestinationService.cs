@@ -202,7 +202,7 @@
             {
                 Destination? destination = await this.dbContext
                     .Destinations
-                    .Include(d => d.Terrain)
+                    //.Include(d => d.Terrain) //don't need to include the terrain here!
                     .Include(d => d.Publisher)
                     .AsNoTracking()
                     .SingleOrDefaultAsync(d => d.Id == id && !d.IsDeleted);
