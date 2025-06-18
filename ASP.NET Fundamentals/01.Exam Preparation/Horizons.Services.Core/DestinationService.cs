@@ -205,7 +205,7 @@
                     //.Include(d => d.Terrain) //don't need to include the terrain here!
                     .Include(d => d.Publisher)
                     .AsNoTracking()
-                    .SingleOrDefaultAsync(d => d.Id == id && !d.IsDeleted);
+                    .SingleOrDefaultAsync(d => d.Id == id);
 
                 if (destination != null &&
                     destination.PublisherId.ToLower() == userId!.ToLower())
@@ -274,6 +274,46 @@
             }
             return favoriteDestionationsList;
             
+        }
+
+        public async Task<bool> AddToFavoriteListAsync(int destId, string userId)
+        {
+            bool isAdded = false;
+            IdentityUser? publisher = await this.userManager.FindByIdAsync(userId);
+
+            Destination? destination = await this.dbContext
+                .Destinations
+                .FindAsync(destId);
+
+  
+
+            if ((publisher != null)
+                && (destination != null)
+                && (destination.PublisherId.ToLower() == userId.ToLower()))
+            {
+                UsersDestionations? usersDestination = this.dbContext
+                        .UsersDestinations
+                        .SingleOrDefaultAsync(ud=>ud.UserId.ToLower()==userId
+                        && ud.DestinationId==destId);
+
+                if(usersDestination!=null)
+                {
+                    usersDestination = new UsersDestionations90
+                    {
+                        UserId=userId,
+                        DestinationId=destId
+                    }
+                    
+                    await this.dbContext.UsesDestinations.AddAsunc(usersDestination);
+                    await this.dbContext.SaveChangesAsync();
+                }
+
+            
+                isAdded = true;
+
+            }
+
+            return isAdded;
         }
     }
 }
