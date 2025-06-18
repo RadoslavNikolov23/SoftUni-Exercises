@@ -218,7 +218,7 @@
 
                 if (isDestinationDeleted == false)
                 {
-                    this.ModelState.AddModelError(string.Empty, "Destination could not be deleted. Please try again.");
+                    this.ModelState.AddModelError(string.Empty, "Fatal error occured. Please try again.");
                     return this.View(destinationDeleteVM);
                 }
 
