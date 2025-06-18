@@ -231,5 +231,49 @@
                 return this.RedirectToAction(nameof(Index));
             }
         }
+
+        [HttpGet]
+        public async Task<IActionResult> Favorites()
+        {
+             try
+            {
+                string userId = this.GetUserId()!;
+
+                IEnumerable<DestinationFavoriteViewModel> favoriteDestinationList = await this.destinationService
+                    .GetAllFavoriteDestinationsListAsync( userId);
+
+
+                if (favoriteDestinationList == null)
+                {
+                    return this.RedirectToAction(nameof(Index));
+                }
+
+                return this.View(favoriteDestinationList);
+
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+                return this.RedirectToAction(nameof(Index));
+            }
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> AddToFavorites(int? id)
+        {
+            try
+            {
+                string userId = this.GetUserId()!;
+
+                
+
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+                return this.RedirectToAction(nameof(Index));
+            }
+        }
+
     }
 }
