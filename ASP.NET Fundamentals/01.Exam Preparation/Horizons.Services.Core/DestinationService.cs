@@ -184,7 +184,7 @@
                 destination.Description = destinationEditViewModel.Description;
                 destination.PublishedOn = publishedOn;
                 destination.ImageUrl = destinationEditViewModel.ImageUrl;
-                destination.TerrainId = terrainRef.Id;
+                destination.TerrainId = destinationEditViewModel.TerrainId;
 
                 await this.dbContext.SaveChangesAsync();
                 isValid = true;
