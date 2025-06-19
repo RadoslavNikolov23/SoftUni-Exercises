@@ -8,9 +8,6 @@
     {
         public int Id { get; set; }
 
-        [Required]
-        [MinLength(NameMinLength)]
-        [MaxLength(NameMaxLength)]
         public string Name { get; set; } = null!; 
  
         public string PublisherId { get; set; } = null!;

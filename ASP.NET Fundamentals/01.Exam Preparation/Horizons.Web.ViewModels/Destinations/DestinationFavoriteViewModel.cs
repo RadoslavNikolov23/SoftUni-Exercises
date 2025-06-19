@@ -7,9 +7,6 @@
     {
         public int Id { get; set; }
 
-        [Required]
-        [MinLength(NameMinLength)]
-        [MaxLength(NameMaxLength)]
         public string Name { get; set; } = null!;
 
         public string Terrain { get; set; } = null!;
