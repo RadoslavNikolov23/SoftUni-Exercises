@@ -5,8 +5,6 @@
 
     public class DestinationDetailViewModel:BaseDestinationViewModel
     {
-        [MinLength(DescriptionMinLength)]
-        [MaxLength(DescriptionMaxLength)]
         public string Description { get; set; } = null!;
 
         public string PublishedOn { get; set; } = null!;
