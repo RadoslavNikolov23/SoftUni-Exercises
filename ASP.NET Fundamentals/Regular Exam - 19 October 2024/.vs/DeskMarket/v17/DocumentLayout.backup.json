@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programing - Work\\ASP.NET Fundamentals\\Regular Exam - 19 October 2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|c:\\programing - work\\asp.net fundamentals\\regular exam - 19 october 2024\\deskmarket\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|solutionrelative:deskmarket\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|c:\\programing - work\\asp.net fundamentals\\regular exam - 19 october 2024\\deskmarket\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|solutionrelative:deskmarket\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Programing - Work\\ASP.NET Fundamentals\\Regular Exam - 19 October 2024\\DeskMarket\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "DeskMarket\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Programing - Work\\ASP.NET Fundamentals\\Regular Exam - 19 October 2024\\DeskMarket\\wwwroot\\css\\site.css*",
+              "RelativeToolTip": "DeskMarket\\wwwroot\\css\\site.css*",
+              "ViewState": "AgIAAAQ1AAAAAAAAAAAAAA81AAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-19T21:03:10.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Programing - Work\\ASP.NET Fundamentals\\Regular Exam - 19 October 2024\\DeskMarket\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DeskMarket\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Programing - Work\\ASP.NET Fundamentals\\Regular Exam - 19 October 2024\\DeskMarket\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DeskMarket\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T21:03:01.378Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

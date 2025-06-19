@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Programing - Work\\ASP.NET Fundamentals\\01.Exam Preparation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C9A3160-C444-7127-6C6F-993A709154CD}|Horizons.Web\\Horizons.Web.csproj|c:\\programing - work\\asp.net fundamentals\\01.exam preparation\\horizons.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C9A3160-C444-7127-6C6F-993A709154CD}|Horizons.Web\\Horizons.Web.csproj|solutionrelative:horizons.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C9A3160-C444-7127-6C6F-993A709154CD}|Horizons.Web\\Horizons.Web.csproj|c:\\programing - work\\asp.net fundamentals\\01.exam preparation\\horizons.web\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C9A3160-C444-7127-6C6F-993A709154CD}|Horizons.Web\\Horizons.Web.csproj|solutionrelative:horizons.web\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C9A3160-C444-7127-6C6F-993A709154CD}|Horizons.Web\\Horizons.Web.csproj|c:\\programing - work\\asp.net fundamentals\\01.exam preparation\\horizons.web\\controllers\\destinationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C9A3160-C444-7127-6C6F-993A709154CD}|Horizons.Web\\Horizons.Web.csproj|solutionrelative:horizons.web\\controllers\\destinationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C9A3160-C444-7127-6C6F-993A709154CD}|Horizons.Web\\Horizons.Web.csproj|c:\\programing - work\\asp.net fundamentals\\01.exam preparation\\horizons.web\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C9A3160-C444-7127-6C6F-993A709154CD}|Horizons.Web\\Horizons.Web.csproj|solutionrelative:horizons.web\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C9A3160-C444-7127-6C6F-993A709154CD}|Horizons.Web\\Horizons.Web.csproj|c:\\programing - work\\asp.net fundamentals\\01.exam preparation\\horizons.web\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C9A3160-C444-7127-6C6F-993A709154CD}|Horizons.Web\\Horizons.Web.csproj|solutionrelative:horizons.web\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C9A3160-C444-7127-6C6F-993A709154CD}|Horizons.Web\\Horizons.Web.csproj|c:\\programing - work\\asp.net fundamentals\\01.exam preparation\\horizons.web\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C9A3160-C444-7127-6C6F-993A709154CD}|Horizons.Web\\Horizons.Web.csproj|solutionrelative:horizons.web\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9A3160-C444-7127-6C6F-993A709154CD}|Horizons.Web\\Horizons.Web.csproj|c:\\programing - work\\asp.net fundamentals\\01.exam preparation\\horizons.web\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C9A3160-C444-7127-6C6F-993A709154CD}|Horizons.Web\\Horizons.Web.csproj|solutionrelative:horizons.web\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,40 +35,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Programing - Work\\ASP.NET Fundamentals\\01.Exam Preparation\\Horizons.Web\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Horizons.Web\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Programing - Work\\ASP.NET Fundamentals\\01.Exam Preparation\\Horizons.Web\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Horizons.Web\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T20:20:27.787Z",
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Programing - Work\\ASP.NET Fundamentals\\01.Exam Preparation\\Horizons.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Horizons.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Programing - Work\\ASP.NET Fundamentals\\01.Exam Preparation\\Horizons.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Horizons.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T20:29:57.691Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DestinationController.cs",
-              "DocumentMoniker": "C:\\Programing - Work\\ASP.NET Fundamentals\\01.Exam Preparation\\Horizons.Web\\Controllers\\DestinationController.cs",
-              "RelativeDocumentMoniker": "Horizons.Web\\Controllers\\DestinationController.cs",
-              "ToolTip": "C:\\Programing - Work\\ASP.NET Fundamentals\\01.Exam Preparation\\Horizons.Web\\Controllers\\DestinationController.cs",
-              "RelativeToolTip": "Horizons.Web\\Controllers\\DestinationController.cs",
-              "ViewState": "AgIAAOYAAAAAAAAAAAAUwDUBAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T20:17:28.249Z",
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Programing - Work\\ASP.NET Fundamentals\\01.Exam Preparation\\Horizons.Web\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "Horizons.Web\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Programing - Work\\ASP.NET Fundamentals\\01.Exam Preparation\\Horizons.Web\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "Horizons.Web\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T20:29:56.067Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "BaseController.cs",
-              "DocumentMoniker": "C:\\Programing - Work\\ASP.NET Fundamentals\\01.Exam Preparation\\Horizons.Web\\Controllers\\BaseController.cs",
-              "RelativeDocumentMoniker": "Horizons.Web\\Controllers\\BaseController.cs",
-              "ToolTip": "C:\\Programing - Work\\ASP.NET Fundamentals\\01.Exam Preparation\\Horizons.Web\\Controllers\\BaseController.cs",
-              "RelativeToolTip": "Horizons.Web\\Controllers\\BaseController.cs",
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Programing - Work\\ASP.NET Fundamentals\\01.Exam Preparation\\Horizons.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Horizons.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Programing - Work\\ASP.NET Fundamentals\\01.Exam Preparation\\Horizons.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Horizons.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAB8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T20:29:42.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Programing - Work\\ASP.NET Fundamentals\\01.Exam Preparation\\Horizons.Web\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Horizons.Web\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Programing - Work\\ASP.NET Fundamentals\\01.Exam Preparation\\Horizons.Web\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Horizons.Web\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T20:17:19.669Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T20:29:40.178Z",
               "EditorCaption": ""
             }
           ]
