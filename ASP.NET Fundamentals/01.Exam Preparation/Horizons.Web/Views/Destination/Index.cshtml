@@ -9,7 +9,7 @@
 @using Horizons.Web.ViewModels.Destinations;
 @model IEnumerable<DestinationViewModel>
 
- @{
+@{
     ViewData["Title"] = "All Destinations";
 }
 
@@ -18,7 +18,8 @@
     @if (User?.Identity?.IsAuthenticated == true)
     {
         <a asp-controller="Destination" asp-action="Add" class="btn btn-primary">
-            <i class="fas fa-plus"></i> Add Destination</a>
+            <i class="fas fa-plus"></i> Add Destination
+        </a>
     }
 </div>
 <hr />
@@ -45,18 +46,24 @@
                         @if (User?.Identity?.IsAuthenticated == true && !destination.IsPublisher && !destination.IsFavorite)
                         {
                             <a asp-controller="Destination" asp-action="Details" asp-route-id="@destination.Id" class="btn btn-info me-2 w-50">
-                                <i class="fas fa-info-circle"></i> Details</a>
+                                <i class="fas fa-info-circle"></i> Details
+                            </a>
                             <form asp-controller="Destination" asp-action="AddToFavorites" method="post" class="w-50">
                                 <input type="hidden" name="id" value="@destination.Id" />
+                                @*The next line for an additional value, which will help in remaining in this View or 
+                                  if an destination is added to favorites from another View
+                                 *@
                                 <input type="hidden" name="returnTo" value="Index" />
                                 <button type="submit" class="btn btn-success w-100">
-                                    <i class="fas fa-heart"></i> Favorites</button>
+                                    <i class="fas fa-heart"></i> Favorites
+                                </button>
                             </form>
                         }
                         else
                         {
                             <a asp-controller="Destination" asp-action="Details" asp-route-id="@destination.Id" class="btn btn-info w-100">
-                                <i class="fas fa-info-circle"></i> Details</a>
+                                <i class="fas fa-info-circle"></i> Details
+                            </a>
                         }
                     </div>
                 </div>
@@ -64,4 +71,3 @@
         </div>
     }
 </div>
- 

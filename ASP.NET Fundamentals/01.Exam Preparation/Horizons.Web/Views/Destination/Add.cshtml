@@ -14,6 +14,9 @@
 <div class="row">
     <div class="col-sm-12 offset-lg-2 col-lg-8 offset-xl-3 col-xl-6">
         <form asp-action="Add" method="post">
+            @*This line is for adding errors in the ModelState and displaying them*@
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            @*------------------------------------------------------*@
             <div class="row">
                 <div class="col-sm-6 mb-2">
                     <label asp-for="@Model.Name" class="form-label-add-edit">Destination Name</label>

@@ -1,5 +1,6 @@
 ﻿namespace Horizons.Web.Controllers
 {
+    using Horizons.Data.Models;
     using Horizons.Services.Core.Contracts;
     using Horizons.Web.ViewModels.Destinations;
     using Microsoft.AspNetCore.Authorization;
@@ -86,11 +87,15 @@
             {
                 if (!this.ModelState.IsValid)
                 {
-                    return this.RedirectToAction(nameof(Add));
-                    // return this.View(destinationEditViewModel); // Witch will return the view with the model errors displayed!
+                    this.ModelState.AddModelError(string.Empty, "Something wen wrong, try again!");
+                    //return this.RedirectToAction(nameof(Add));
+
+                    destinationAddViewModel.PublishedOn = DateTime.UtcNow.ToString(DateTimeFormat);
+                    destinationAddViewModel.Terrains = await this.terrainService.GetAllTerrainsDropDownAsync();
+                     return this.View(destinationAddViewModel); // Witch will return the view with the model errors displayed!
                 }
 
-                string? userId = this.GetUserId();
+                string userId = this.GetUserId()!;
                 bool isAddedSuccessfully = await this.destinationService
                     .AddDestinationAsync(destinationAddViewModel, userId);
 
