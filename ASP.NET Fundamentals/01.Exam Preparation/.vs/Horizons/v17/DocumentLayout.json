@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Programing - Work\\ASP.NET Fundamentals\\01.Exam Preparation\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1C9A3160-C444-7127-6C6F-993A709154CD}|Horizons.Web\\Horizons.Web.csproj|c:\\programing - work\\asp.net fundamentals\\01.exam preparation\\horizons.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C9A3160-C444-7127-6C6F-993A709154CD}|Horizons.Web\\Horizons.Web.csproj|solutionrelative:horizons.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1C9A3160-C444-7127-6C6F-993A709154CD}|Horizons.Web\\Horizons.Web.csproj|c:\\programing - work\\asp.net fundamentals\\01.exam preparation\\horizons.web\\views\\destination\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1C9A3160-C444-7127-6C6F-993A709154CD}|Horizons.Web\\Horizons.Web.csproj|solutionrelative:horizons.web\\views\\destination\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -35,19 +39,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Programing - Work\\ASP.NET Fundamentals\\01.Exam Preparation\\Horizons.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Horizons.Web\\appsettings.json",
+              "ToolTip": "C:\\Programing - Work\\ASP.NET Fundamentals\\01.Exam Preparation\\Horizons.Web\\appsettings.json",
+              "RelativeToolTip": "Horizons.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-21T11:50:01.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Programing - Work\\ASP.NET Fundamentals\\01.Exam Preparation\\Horizons.Web\\Views\\Destination\\Index.cshtml",
               "RelativeDocumentMoniker": "Horizons.Web\\Views\\Destination\\Index.cshtml",
               "ToolTip": "C:\\Programing - Work\\ASP.NET Fundamentals\\01.Exam Preparation\\Horizons.Web\\Views\\Destination\\Index.cshtml",
               "RelativeToolTip": "Horizons.Web\\Views\\Destination\\Index.cshtml",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAADUAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAC4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-20T20:06:26.528Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Programing - Work\\ASP.NET Fundamentals\\01.Exam Preparation\\Horizons.Web\\Views\\Destination\\Details.cshtml",
               "RelativeDocumentMoniker": "Horizons.Web\\Views\\Destination\\Details.cshtml",
@@ -55,12 +72,11 @@
               "RelativeToolTip": "Horizons.Web\\Views\\Destination\\Details.cshtml",
               "ViewState": "AgIAACEAAAAAAAAAAAAAADQAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-20T20:04:38.261Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T20:04:38.261Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Add.cshtml",
               "DocumentMoniker": "C:\\Programing - Work\\ASP.NET Fundamentals\\01.Exam Preparation\\Horizons.Web\\Views\\Destination\\Add.cshtml",
               "RelativeDocumentMoniker": "Horizons.Web\\Views\\Destination\\Add.cshtml",
@@ -68,12 +84,11 @@
               "RelativeToolTip": "Horizons.Web\\Views\\Destination\\Add.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-20T19:48:20.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T19:48:20.665Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "DestinationController.cs",
               "DocumentMoniker": "C:\\Programing - Work\\ASP.NET Fundamentals\\01.Exam Preparation\\Horizons.Web\\Controllers\\DestinationController.cs",
               "RelativeDocumentMoniker": "Horizons.Web\\Controllers\\DestinationController.cs",
@@ -81,8 +96,7 @@
               "RelativeToolTip": "Horizons.Web\\Controllers\\DestinationController.cs",
               "ViewState": "AgIAAAEBAAAAAAAAAAAxwFsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T19:40:36.985Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T19:40:36.985Z"
             }
           ]
         }
