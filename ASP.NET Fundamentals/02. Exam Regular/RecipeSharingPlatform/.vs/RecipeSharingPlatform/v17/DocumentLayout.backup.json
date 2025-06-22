@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\RecipeSharingPlatform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB6FCD5-D27B-4D80-99AB-21817CF658A6}|RecipeSharingPlatform.Web\\RecipeSharingPlatform.Web.csproj|c:\\users\\pc\\desktop\\recipesharingplatform\\recipesharingplatform.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BAB6FCD5-D27B-4D80-99AB-21817CF658A6}|RecipeSharingPlatform.Web\\RecipeSharingPlatform.Web.csproj|solutionrelative:recipesharingplatform.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\RecipeSharingPlatform\\RecipeSharingPlatform.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "RecipeSharingPlatform.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\RecipeSharingPlatform\\RecipeSharingPlatform.Web\\appsettings.json",
+              "RelativeToolTip": "RecipeSharingPlatform.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-21T10:47:53.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
