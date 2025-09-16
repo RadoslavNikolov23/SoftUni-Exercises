@@ -1,0 +1,35 @@
+
+li a{
+    color:blue
+}
+
+nav a{
+    color:red;
+}
+
+#Home-Item{
+    font-weight: bold;
+}
+
+nav section {
+  display: inline;   /* or inline-block */
+  margin: 0 5px;
+  color:red;
+}
+
+nav{
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+article p:nth-of-type(1){
+    background-color: aqua;
+}
+
+article p:nth-of-type(2){
+    background-color: aqua;
+}
+
+li img{
+    border: 15px solid red;
+}

@@ -1,0 +1,24 @@
+div p{
+    background-color: goldenrod;
+}
+
+
+#main-paragh{
+    color: blue;
+}
+
+#specl-item1{
+    color:aqua
+}
+
+#specl-item2{
+    color:red
+}
+
+.goldText{
+    color:gold;
+}
+
+.multiClasses{
+    color:blue
+}
