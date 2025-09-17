@@ -1,0 +1,19 @@
+article{
+    padding:5px;
+}
+
+
+article head{
+    font-weight: bold;
+}
+
+section time{
+    font-style: italic;
+    color: gray;
+}
+
+section span{
+    font-style: italic;
+    color: gray;
+    font-weight: bold;
+}

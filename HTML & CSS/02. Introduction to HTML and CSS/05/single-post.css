@@ -1,0 +1,16 @@
+
+.author{
+    font-weight: bold;
+}
+
+time{
+    font-style: italic;
+}
+
+h1 h2{
+    font-weight: bold;
+}
+
+blockquote{
+    font-style: italic;
+}
