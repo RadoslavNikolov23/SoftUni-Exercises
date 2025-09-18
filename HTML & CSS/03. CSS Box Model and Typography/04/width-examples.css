@@ -1,0 +1,18 @@
+div>*{
+    padding: 10px;
+    border: 2px solid black;
+}
+
+.Fixed{
+    width: 300px;
+}
+.Percetage{
+    width: 50%;
+}
+.Viewport{
+    width: 50vw;
+}
+.Min-Max{
+    min-width: 100px;
+    max-width: 300px;
+}

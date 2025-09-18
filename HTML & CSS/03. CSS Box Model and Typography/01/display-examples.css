@@ -1,0 +1,43 @@
+body {
+    padding: 10px;
+    margin-left: 10px;
+
+}
+
+body>* {
+    margin-bottom: 15px;
+}
+
+section {
+    border: 2px solid black;
+    padding: 5px;
+}
+
+section>* {
+    margin-left: 15px;
+}
+
+p {
+    border: 4px solid gray;
+}
+
+p.Block {
+    display: block;
+    border: 4px solid gray;
+    margin: 5px, 5px;
+    padding: 5px;
+}
+
+p.Inline {
+    display: inline;
+    border: 4px solid gray;
+    margin: 5px, 5px;
+    padding: 5px;
+}
+
+p.Inline-Block {
+    display: inline-block;
+    border: 4px solid gray;
+    margin: 5px, 5px;
+    padding: 5px;
+}

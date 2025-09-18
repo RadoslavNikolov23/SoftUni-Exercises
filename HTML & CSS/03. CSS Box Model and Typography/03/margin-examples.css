@@ -1,0 +1,19 @@
+div>* {
+    padding: 5px;
+}
+
+div {
+    border: 2px solid black;
+}
+
+.Uniform {
+    margin: 20px;
+}
+
+.Non-Uniform {
+    margin: 10px 30px 20px 40px
+}
+
+.Negative{
+    margin: -20px;
+}
