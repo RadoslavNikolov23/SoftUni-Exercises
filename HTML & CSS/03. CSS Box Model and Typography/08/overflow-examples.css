@@ -1,0 +1,16 @@
+div{
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid black;
+    display: flex;
+}
+
+.Visible{
+    overflow: visible;
+}
+.Hidden{
+    overflow: hidden;
+}
+.Scroll{
+    overflow: scroll;
+}

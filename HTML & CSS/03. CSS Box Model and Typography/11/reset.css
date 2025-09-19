@@ -1,0 +1,9 @@
+*{
+    padding: none;
+    margin: none;
+    box-sizing: inherit;
+}
+
+html{
+    box-sizing: border-box;
+}
