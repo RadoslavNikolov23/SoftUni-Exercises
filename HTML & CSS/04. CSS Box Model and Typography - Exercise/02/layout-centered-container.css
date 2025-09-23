@@ -1,0 +1,24 @@
+*,
+*::after,
+*::before{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    border: 2px solid green;
+}
+
+div{
+    border: 2px solid blue;
+    margin: 40px;
+    padding: 20px;
+}
+
+p{
+    border: 2px solid black;
+    padding:20px;
+    margin: 20px;
+    text-align: center;
+}

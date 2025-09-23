@@ -1,0 +1,30 @@
+*,
+*::after,
+*::before {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 20px;
+    padding: 20px;
+}
+
+.box {
+  border: 2px dotted black;
+  margin: 20px;
+  padding: 20px;
+}
+
+.box1 { background-color: coral; }
+.box2 { background-color: pink; }
+.box3 { background-color: lightgreen; }
+.box4 { background-color: lightblue; }
+
+p {
+  background-color: lightseagreen;
+  padding: 20px;
+  text-align: center;
+  font-weight: bold;
+}
