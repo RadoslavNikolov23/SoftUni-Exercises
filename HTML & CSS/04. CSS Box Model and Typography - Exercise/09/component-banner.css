@@ -1,0 +1,32 @@
+ *, *::after, *::before{
+    padding:0px;
+    margin:0px;
+    box-sizing: border-box;
+ }
+
+body, html {
+  height: 100%;
+}
+
+.image {
+  height: 100vh;
+  background-image: url("./images/image1.jpg");
+  background-size: cover; 
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; 
+  align-items: center;  
+  text-align: center;
+  color: white;
+}
+
+.image h1 {
+  font-size: 3rem;  
+  margin-bottom: 10px;
+}
+
+.image h2 {
+  font-size: 1.5rem; 
+  font-weight: 400;
+}

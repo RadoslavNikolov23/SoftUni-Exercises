@@ -1,0 +1,57 @@
+ *, *::after, *::before{
+    padding:0px;
+    margin:0px;
+    box-sizing: border-box;
+ }
+
+ body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+
+ div{
+    margin:10px;
+    padding: 10px;
+ }
+
+
+ .divBtn{
+    display: flex;
+    column-gap: 10px;
+ }
+
+ button, .btn{
+    width: 100px;
+    height: 40px;
+ }
+
+.divBtn button:nth-child(1),
+.divBtn .btn:nth-child(1) {
+    background-color: gray;
+    color: white;
+}
+
+.divBtn button:nth-child(2),
+.divBtn .btn:nth-child(2) {
+    background-color: gold;
+    color: black;
+}
+
+.divBtn button:nth-child(3),
+.divBtn .btn:nth-child(3) {
+    background-color: lightyellow;
+    color: black;
+}
+
+.divBtn button:nth-child(4),
+.divBtn .btn:nth-child(4) {
+    background-color: white;
+    color: black;
+    border: 1px solid gray;
+}
+
+.divBtn button:nth-child(5),
+.divBtn .btn:nth-child(5) {
+    background-color: gray;
+    color: white;
+}
+ 

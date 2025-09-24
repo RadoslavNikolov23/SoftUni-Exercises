@@ -1,0 +1,19 @@
+html {
+    font-family: Lato, sans-serif;
+}
+
+body {
+    margin: 10px;
+    padding: 15px 20px;
+    border: 1px solid gray;
+}
+
+div {
+    text-align: justify;
+
+}
+
+span {
+    font-style: italic;
+    font-size: small;
+}
