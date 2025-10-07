@@ -1,0 +1,39 @@
+
+*,*::after,*::before {
+  box-sizing: border-box;
+}
+
+h1{
+  text-align: center;
+}
+
+.flex-container {
+  border: 2px solid black;
+  display: flex;
+  gap: 10px;
+  padding: 10px;
+  margin: 20px;
+}
+
+div:nth-of-type(1) .flex-container {
+  flex-direction: row;
+}
+
+div:nth-of-type(2) .flex-container {
+  flex-direction: row-reverse;
+}
+
+div:nth-of-type(3) .flex-container {
+  flex-direction: column;
+}
+
+div:nth-of-type(4) .flex-container {
+  flex-direction: column-reverse;
+}
+
+.flex-item {
+  background-color: lightblue;
+  border: 2px solid navy;
+  padding: 20px;
+  text-align: center;
+}
