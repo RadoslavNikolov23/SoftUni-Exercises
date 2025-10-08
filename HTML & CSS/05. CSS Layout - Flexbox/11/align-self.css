@@ -1,0 +1,42 @@
+
+body{
+     margin-left: 20px;
+}
+
+.container {
+    border: 1px solid blue;
+    width: 450px;
+    padding: 5px;
+    margin-bottom: 20px;
+}
+
+.flex-container {
+    display: flex;
+    padding: 0.5rem;
+    gap: 5px;
+    height: 150px; 
+}
+
+.flex-item {
+    border: 2px solid black;
+    background-color: burlywood;
+    text-align: center;
+    font-size: 1.5rem;
+    padding: 1rem;
+}
+
+.align-self-flex-start .flex-item:nth-child(2){
+    align-self: flex-start;
+}
+
+.align-self-center .flex-item:nth-child(2){
+    align-self: center;
+}
+
+.align-self-flex-end .flex-item:nth-child(2){
+    align-self: flex-end;
+}
+
+.align-self-baseline .flex-item:nth-child(2){
+    align-self: baseline;
+}
