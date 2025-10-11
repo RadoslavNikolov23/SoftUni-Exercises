@@ -1,0 +1,141 @@
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+:root {
+    --clr-before-body-bg: #369;
+    --clr-white: #fff;
+}
+
+body {
+    padding: 2rem;
+    font-size: 14px;
+    font-family: Lato, sans-serif;
+}
+
+p {
+    padding-bottom: 1.5em;
+}
+
+body::before {
+    content: "This page is being show on a screen";
+    background-color: var(--clr-before-body-bg);
+    color: var(--clr-white);
+    padding: 1em 1.5em;
+    margin-bottom: 2em;
+    border-radius: 0.3em;
+}
+
+@media all {
+    * {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+    }
+
+    body {
+        padding: 2em;
+        font: 14px/1.5 Lato, sans-serif;
+    }
+
+    p {
+        padding-bottom: 1.5em;
+    }
+}
+
+@media print {
+    body::before {
+        display: block;
+        content: 'The page is using a print preview or it was printed';
+    }
+}
+
+@media screen {
+    body::before {
+        display: block;
+        content: 'The page is being shown on a screen';
+    }
+}
+
+@media (hover: none) {
+    body::before {
+        display: block;
+        content: 'This device doesn' t support hover';
+
+    }
+}
+
+@media (orientation: landscape) {
+    body::before {
+        display: block;
+        content: 'The device is in landscape orientation';
+    }
+}
+
+@media (width: 600px) {
+    body::before {
+        display: block;
+        content: 'The viewport width is 600px';
+    }
+}
+
+@media (min-width: 800px) and (max-width: 1200px) {
+    body::before {
+        display: block;
+        content: 'The viewport width is larger than 800px and smaller than 1200px';
+    }
+}
+
+@media not (max-width: 1200px) {
+    body::before {
+        display: block;
+        content: 'The viewport width is larger than 1200px';
+    }
+}
+
+
+@media only screen and (min-width: 800px) {
+    body::before {
+        display: block;
+        content: 'The device is using a screen and the viewport width is larger than 800px';
+    }
+}
+
+@media (width: 800px) {
+    body::before {
+        display: block;
+        content: 'The viewport width is exactly 800px';
+    }
+}
+
+@media (min-width: 800px) {
+    body::before {
+        display: block;
+        content: 'The viewport width is larger than 800px';
+    }
+}
+
+@media (max-width: 800px) {
+    body::before {
+        display: block;
+        content: 'The viewport width is smaller than 800px';
+    }
+}
+
+@media (hover: none) {
+    body::before {
+        display: block;
+        content: 'The device does NOT support hover';
+    }
+}
+
+@media (hover: hover) {
+    body::before {
+        display: block;
+        content: 'The device does support hover';
+    }
+}
