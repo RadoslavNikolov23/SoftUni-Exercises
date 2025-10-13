@@ -1,0 +1,21 @@
+body{
+    background-color: ligthgray;
+    padding: 1rem;
+}
+
+.navBar{
+    border: 2px solid whitesmoke;
+    background-color: gray;
+    display: flex;
+    flex-direction: row;
+    gap:20px;
+    padding: 1rem;
+}
+
+.navBar > * {
+    background-color: whitesmoke;
+    color: orange;
+    border: 0.5px solid black;
+    padding:0.5rem;
+    font-weight: bold;
+}

@@ -1,0 +1,42 @@
+body {
+    background-color: lightgray;
+}
+
+.content {
+    background-color: whitesmoke;
+    margin: 40px auto;
+    max-width: 900px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.15);
+}
+
+.box {
+    border: 1px solid gray;
+    padding: 15px;
+    background-color: white;
+    margin: 10px;
+}
+
+.header, .footer {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.main,
+.mainReverse {
+    display: flex;
+    gap: 10px;
+}
+
+.mainReverse {
+    flex-direction: row-reverse;
+}
+
+.main-content {
+    flex: 2;
+}
+
+.sidebar {
+    flex: 1;
+}

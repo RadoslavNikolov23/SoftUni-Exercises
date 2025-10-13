@@ -1,0 +1,63 @@
+body {
+    background-color: lightgray;
+}
+
+.calendar {
+    background-color: whitesmoke;
+    margin: 40px auto;
+    max-width: 950px;
+    border-radius: 10px;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.15);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    /* gap: 20px; */
+}
+
+.section {
+    display: flex;
+    /* gap: 10px; */
+}
+
+.left {
+    flex: 5;
+    display: flex;
+    flex-direction: column;
+    /* gap: 10px; */
+}
+
+.side {
+    flex: 2;
+    border: 1px solid gray;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.label {
+    border: 1px solid gray;
+    background-color: white;
+    padding: 15px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.days {
+    display: flex;
+    /* gap: 10px; */
+}
+
+.day {
+    flex: 1;
+    border: 1px solid gray;
+    background-color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+.weekend .day {
+    flex: 1 1 50%;
+}
