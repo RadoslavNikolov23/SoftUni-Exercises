@@ -1,0 +1,231 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html{
+    font-size:16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    scroll-behavior: smooth;
+    background-color: gray;
+}
+
+.context{
+    background-color: white;
+    margin: 1rem;
+    padding: 0 2rem;
+}
+
+.container{
+    padding: 0.5rem;
+    border-bottom: 2px solid gray;
+}
+
+.container:last-child{
+   border-bottom: none;
+}
+
+.container *{
+    margin: 1rem 0;
+}
+
+.container .text{
+    font-size: 0.65rem;
+    line-height: 1.5;
+    text-align: justify;
+}
+
+.container .mainItems{
+    font-size: 0.65rem;
+    line-height: 1;
+    list-style: inside;
+    text-align: justify;
+   
+}
+
+.container .secondItems{
+   padding-left: 2rem;
+   list-style-type: square;
+}
+
+.container .thirdItems{
+   padding-left: 4rem;
+   list-style-type:circle;
+}
+
+.container .orderItems{
+    font-size: 0.75rem;
+    line-height: 1.5;
+    list-style-type: decimal;
+    text-align: justify;
+    list-style-position: inside;
+    counter-reset: item;
+}
+
+.table{
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+    font-size: 0.65rem;
+    line-height: 1.5;
+}
+.table th, .table td {
+    border: 1px solid black;
+}
+
+.table tr:nth-child(1) {
+    background-color: gray;
+}
+
+.table tr:nth-child(2) {
+    background-color: lightgray;
+}
+
+.table tr:nth-child(3) {
+    background-color: white;
+}
+
+.table tr:nth-child(4) {
+    background-color:lightgray;
+}
+
+.table tr:nth-child(5) {
+    background-color: white;
+}
+.table tr:nth-child(6) {
+    background-color:lightgray;
+}
+
+.table tr:nth-child(7) {
+    background-color: white;
+}
+
+.table tr:nth-child(8) {
+    background-color:lightgray;
+}
+
+.table tr:nth-child(9) {
+    background-color: white;
+}
+
+.table tr:nth-child(10) {
+    background-color:lightgray;
+}
+
+.table tr:nth-child(11) {
+    background-color: white;
+}
+
+.quote{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: stretch;
+    font-size: 0.75rem;
+    line-height: 1.5;
+    text-align: justify;
+    font-style: italic;
+    border-left: 2px solid lightgrey;
+    padding-left: 1rem;
+    margin: 1rem 0;
+}
+
+
+.author{
+    text-align: right;
+    font-size: 0.65rem;
+    font-weight: bold;
+}
+
+@media(min-width: 400px){
+    html{
+        font-size:14px;
+    }
+
+    .container .text{
+        font-size: 0.7rem;
+    }
+
+    .container .mainItems{
+        font-size: 0.7rem;
+    }
+
+    .container .orderItems{
+        font-size: 0.8rem;
+    }
+
+    .table{
+        font-size: 0.7rem;
+    }
+
+    .quote{
+        font-size: 0.8rem;
+    }
+
+    .author{
+        font-size: 0.7rem;
+    }
+}
+
+@media(min-width: 600px){
+    html{
+        font-size:18px;
+    }
+
+    .container .text{
+        font-size: 0.75rem;
+    }
+
+    .container .mainItems{
+        font-size: 0.75rem;
+    }
+
+    .container .orderItems{
+        font-size: 0.85rem;
+    }
+
+    .table{
+        font-size: 0.75rem;
+    }
+
+    .quote{
+        font-size: 0.85rem;
+    }
+
+    .author{
+        font-size: 0.75rem;
+    }
+}
+
+@media(min-width:800px){
+    html{
+        font-size:19px;
+    }
+
+    .container .text{
+        font-size: 0.8rem;
+    }
+
+    .container .mainItems{
+        font-size: 0.8rem;
+    }
+
+    .container .orderItems{
+        font-size: 0.9rem;
+    }
+
+    .table{
+        font-size: 0.8rem;
+    }
+
+    .quote{
+        font-size: 0.9rem;
+    }
+
+    .author{
+        font-size: 0.8rem;
+    }
+}
