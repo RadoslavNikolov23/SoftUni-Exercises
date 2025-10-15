@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+    align-content: center;
+    border: 4px solid orangered;
+}
+
+.head {
+    border: 2px solid blue;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.main {
+    border: 2px solid green;
+    padding: 1rem;
+    margin: 1rem;
+    min-height: 300px;
+}
+
+.footer {
+    border: 2px solid red;
+    padding: 1rem;
+    margin: 1rem;
+}

@@ -1,0 +1,71 @@
+body {
+    background-color: lightgray;
+    margin: 1rem 6rem;
+    padding: 1rem;
+}
+
+.context {
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 60px;
+    padding: 2rem;
+}
+
+.rigthSide *{
+    padding-bottom: 1rem ;
+}
+
+.rigthSide .title{
+    color: grey;
+    padding-bottom: 0;
+}
+
+.rigthSide .subTitle{
+    font-weight: bold;
+}
+
+.rigthSide .text{
+    font-style: italic;
+    text-align: justify;
+}
+
+.rigthSide .bottomOpt{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 10px;
+   align-items: center;
+}
+
+.rigthSide .bottomOpt .buttonChat{
+    background-color: purple;
+    color: white;
+    padding: 0.5rem;
+    border-radius: 10%;
+}
+
+.rigthSide .bottomOpt .buttonChat:hover{
+    background-color: black;
+    color: white;
+}
+
+.rigthSide .bottomOpt .buttonLearn{
+    background-color: whitesmoke;
+    color: black;
+    padding: 0.5rem;
+    border: 1px solid lightgray;
+    border-radius: 10%;
+}
+
+.rigthSide .bottomOpt .buttonLearn:hover{
+    background-color: black;
+    color: white;
+}
+
+.square {
+    width: 200px;
+    height: 200px;
+    background-color: gray;
+}

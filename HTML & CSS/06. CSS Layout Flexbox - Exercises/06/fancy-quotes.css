@@ -1,0 +1,119 @@
+body {
+    background-color: lightgray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.context {
+    display: flex;
+    flex-direction: row;
+    padding: 1rem;
+    justify-content: center;
+    margin: 5rem;
+    gap: 20px;
+    
+}
+
+.rightSide {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  flex: 1 0 65%;
+  
+}
+
+.leftSide {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  flex: 1 0 35%;
+  
+}
+
+.container,
+.containerRow {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: white;
+  border-radius: 6px;
+  padding: 2rem;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.15);
+}
+
+.containerCol {
+  
+  align-items: center;
+  background: white;
+  border-radius: 6px;
+  padding: 2rem;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.15);
+  height: 100%;
+}
+
+.box {
+  flex: 1;
+}
+
+.boxSide {
+  flex: 0 1 auto;
+  padding:2rem;
+}
+
+.boxSide .circle{
+    display: block;
+}
+
+.text {
+  color: gray;
+  line-height: 1.6;
+  margin-bottom: 1rem;
+  position: relative;
+}
+
+.text::before {
+  content: "“";
+  font-size: 3rem;
+  color: #000;
+  position: absolute;
+  top: -10px;
+  left: -25px;
+}
+
+.author {
+  font-weight: bold;
+  color: #000;
+}
+
+.circle {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  background: green;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+.leftSide .circle {
+  width: 80px;
+  height: 80px;
+  align-self: flex-end;
+}
+
+@media (max-width: 900px) {
+  .context {
+    flex-direction: column;
+  }
+
+  .container,
+  .containerRow,
+  .containerCol {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .circle {
+    margin-top: 1rem;
+  }
+}
