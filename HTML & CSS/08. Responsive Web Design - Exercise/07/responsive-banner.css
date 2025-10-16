@@ -1,0 +1,106 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  padding: 0;
+    margin: 0;
+}
+
+html{
+    font-size: 1rem;
+    scroll-behavior: smooth;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background-color: gray;
+    line-height: 1.6;
+}
+
+.container{
+    background-color: white;
+    margin: 2rem 6rem;
+    padding: 2rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: stretch;
+    align-items: center;
+    gap: 2rem;
+}
+
+.container .rigtside{
+    padding: 1rem;
+}
+
+.container .rigthside *{
+    padding-top: 1rem;
+}
+
+.container .rigthside .title{
+    color: gray;
+}
+
+.container .rigthside .text{
+    text-align: justify;
+}
+
+.container .rigthside .buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 1rem;
+}
+
+.container .rigthside .buttons .btnChat {
+    padding: 1rem 2rem;
+    border: none;
+    background-color: purple;
+    color: white;
+    cursor: pointer;
+    font-size: 1rem;
+}
+
+.container .rigthside .buttons .btnLearn {
+    padding: 0.5rem 1rem;
+    border: none;
+    background-color: gray;
+    color: white;
+    cursor: pointer;
+    font-size: 1rem;
+}
+
+.container .rigthside .buttons .btnChat:hover {
+    background-color: black;
+    color: white;
+}
+
+.container .rigthside .buttons .btnLearn:hover {
+    background-color: black;
+    color: white;
+}
+
+
+
+.leftside{
+    padding: 1rem;
+}
+
+.container .leftside .square{
+    width: 200px;
+    height: 200px;
+    background-color: lightgray;
+}
+
+@media (max-width: 600px) {
+    .container{
+        flex-direction: column-reverse;
+        margin: 2rem;
+    }
+
+    .container .leftside .square{
+       
+        width: 500px;
+        height: 100px;
+        background-color: lightgray;
+    }
+}
