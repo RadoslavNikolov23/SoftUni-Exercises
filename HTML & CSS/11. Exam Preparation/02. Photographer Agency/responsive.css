@@ -1,0 +1,92 @@
+@media screen and (max-width:600px)  {
+    /* body {
+        font-size: 10px;
+    } */
+
+    header {
+        background-size: cover;
+       
+    } 
+
+
+    /* header nav {
+        display: flex;
+        margin-left: 0;
+        justify-content: center;
+        align-items: center;
+    } */
+
+    header nav ul {
+        padding-top: 2rem;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        gap: 1rem;
+    }
+
+    /* .header-title {
+        padding: 3em 0;
+    } */
+
+    .header-title h1 {
+        width: 95%;
+        margin: auto;
+        font-size: 36px;
+    }
+
+    .header-title p {
+        width: 90%;
+        margin: auto;
+        font-size: 18px;
+    }
+
+    .header-title button {
+        padding: 0.7em 0.9em;
+        font-size: 14px;
+    }
+
+    /*Main Section*/
+
+    .choose-us ul {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 2rem;
+        width: 80%;
+        margin: auto;
+    }
+
+    .about-us {
+        width: 90%;
+    }
+    /* .choose-us li h4 {
+        font-size: 18px;
+    }
+
+    .choose-us li img {
+        width: 8rem;
+        height: 8rem;
+    }
+
+    .choose-us ul li p {
+        width: 50%;
+        margin: 0 auto;
+        text-align: center;
+    } */
+
+
+    .team-description-wrapper {
+        width: 70%;
+    }
+
+    .team-description ul {
+        gap: 4rem;
+    }
+
+    .team-description ul li img {
+        width: 100%;
+        height: auto;
+    }
+
+}
