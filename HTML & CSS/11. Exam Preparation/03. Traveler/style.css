@@ -1,0 +1,285 @@
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --firstBG-color: #f8f0e9;
+    --secondaryBG-color: #e14747;
+    --buttonBG-color: #ffffff;
+    --buttonGoldBG-color: #fad87a;
+    --footerBG-color: #352b2a;
+
+}
+
+html {
+    font-family: "Karla", sans-serif;
+
+}
+body{
+    max-width: 1600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    display: block;
+    width: 100%;
+}
+
+
+.section800px {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 3rem 2rem;
+}
+
+.section400px {
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 3rem 2rem;
+}
+
+
+.section300px {
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 3rem 2rem;
+}
+
+.coralColor {
+    background-color: var(--firstBG-color);
+}
+
+.redColor {
+    background-color: var(--secondaryBG-color);
+    color: white;
+}
+
+
+/* Header Section */
+
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 1rem 2rem;
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 100;
+}
+
+.header.scrolled {
+    background-color: black;
+}
+
+.header .logo {
+    height: 2rem;
+    width: auto;
+}
+
+.header .list {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+}
+
+.header a {
+    text-decoration: none;
+    color: white;
+}
+
+
+/*Main Content Sections*/
+
+.contextMain{
+    height: 100vh;
+    position: relative;
+    background-image: url('./images/poster.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+/* .contextMain .bgImg {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+} */
+
+.contextMain .sectionMaxPx {
+    position: absolute;
+    inset: 0px;
+    background-color: black;
+    opacity: 0.3;
+}
+
+.contextMain .title {
+    position: absolute;
+    font-size: 90px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: "Cormorant Infant", serif;
+    color: white;
+    width: max-content;
+}
+
+.contextMain .text {
+    position: absolute;
+    font-size: 18px;
+    width: 40%;
+    color: white;
+    text-align: center;
+    bottom: 10%;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
+
+
+
+.contextTestimonial .section800px .title {
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    color: gray;
+}
+
+.contextTestimonial .section800px .quote {
+    font-size: 46px;
+    font-family: "Karla", sans-serif;
+    font-style: italic;
+    font-weight: 600;
+    margin-bottom: 2rem;
+}
+
+.contextSupport .section300px .title {
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+.contextSupport .section300px .text {
+    font-size: 16px;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+
+
+.contextMind .section400px {
+
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+
+}
+
+.contextMind .section400px .image {
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+
+}
+
+.contextMind .section400px .title {
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 3rem;
+    text-align: center;
+    font-family: "Cormorant", sans-serif;
+}
+
+.contextMind .section400px .text {
+    font-size: 12px;
+    margin-bottom: 4rem;
+    color: gray;
+}
+
+.contextMind .section400px .sideBtn {
+    font-size: 0.75rem;
+    background-color: white;
+    padding: 0.5rem 0.75rem;
+    border: 1px solid black;
+    border-radius: 0.25rem;
+    cursor: pointer;
+
+}
+
+
+.contextMind .section400px .buttonBtn {
+    font-size: 0.75rem;
+    background-color: white;
+    padding: 0.5rem 0.75rem;
+    border: 1px solid black;
+    border-radius: 0.25rem;
+    cursor: pointer;
+    margin: auto;
+
+}
+
+.contextGuide .section800px {
+    color: white;
+    text-align: center;
+}
+.contextGuide .section800px .title{
+    font-size: 48px;
+    font-weight: 700;
+    margin-top: 2rem;
+    margin-bottom: 4rem;
+    font-family: "Cormorant", sans-serif;
+
+}
+
+.contextGuide .section800px .text{
+    font-size: 12px;
+    margin-bottom: 2rem;
+}
+
+.contextGuide .section800px .goldBtn {
+    font-size: 0.75rem;
+    background-color: var(--buttonGoldBG-color);
+    color: black;
+    padding: 0.5rem 1rem;
+    border: 1px solid black;
+    border-radius: 0.75rem;
+    cursor: pointer;
+    margin: auto;
+
+}
+
+/* Footer Section */
+.footer {
+    background-color: var(--footerBG-color);
+    color: white;
+    text-align: start;
+    font-size: 10px;
+}
+
+.footer .section300px {
+    margin-left: 2rem;
+}
+
+.footer .section300px .logo{
+    width: 45px;
+    margin-bottom: 2rem;
+}
+
+.footer .section300px .text{
+    color: white;
+    margin-bottom: 1rem;
+}
+
+.footer .section300px .rigths{
+    color:gray;
+
+}
