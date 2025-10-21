@@ -1,0 +1,185 @@
+@layer reset, typography, layout, timeline;
+
+@layer timeline {
+ 
+  .section.timeline {
+    --clr-border: #DDD;
+    
+    max-width: 130ch;
+    margin: 0 auto;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 2em;
+
+    &:after {
+      display: block;
+      content: "";
+      background: var(--clr-border);
+      position: absolute;
+      width: 2px;
+      height: 120%;
+      left: 0.9em;
+      top: 2em;
+      z-index: 1;
+    }
+   
+    & > :is(h2, h3) {
+      padding: 2rem 2.5rem;
+      margin-bottom: 0rem;
+      position: relative;
+      z-index: 5;
+      background: #fff;
+      border-radius: 0.3em;
+      border: 1px solid var(--clr-border);
+      box-shadow: -0.2em 0.2em 0.5em 0 rgba(0,0,0,0.05);
+    }
+    
+    .event {
+      display: flex;
+      gap: 1em;
+      
+      &::before {
+        flex: 0 0 auto;
+        display: block;
+        margin-top: 1.3em;
+        content: "";
+        width: 2em;
+        height: 2em;
+        border: 2px solid #FFF;
+        opacity: 0.8;
+
+        box-shadow: 0 0 1.5em 0.2em rgba(255,255,255,0.3);
+
+        border-radius: 50%;
+        background: #0c0;
+        position: relative;
+        z-index: 5;
+      }
+      
+      &:nth-child(even):before {
+        background: orange;
+      }
+      
+      section {
+        border: 1px solid var(--clr-border);
+        padding: 1.2em 2em;
+        border-radius: 0.3em;
+        box-shadow: -0.2em 0.2em 0.5em 0 rgba(0, 0, 0, 0.05);
+        background: #fff;
+      }
+    }
+  }
+
+  @media (width > 90ch) {
+    
+    .section.timeline {
+      
+      & > :is(h2, h3) {
+        text-align: center;
+        margin-bottom: 2rem;
+      }
+
+      &::after {
+        left: calc(50% - 1px);
+      }
+    }
+
+    .event {
+      width: 50%;
+      gap: 0.3em;
+      
+      &::before {
+        translate: var(--beforeTranslateX, 0) 0;
+      }
+    }
+
+    .event:nth-child(even) {
+      margin-left: auto;
+      --beforeTranslateX: -50%;      
+    }
+    
+    .event:nth-child(odd) {
+      flex-direction: row-reverse;
+      text-align: right;
+      --beforeTranslateX: 50%;
+    }
+  }
+}
+
+@layer reset {
+  
+  html {
+      box-sizing: border-box;
+  }
+
+  /* Box Sizing fix */
+  *, *:before, *:after {
+      box-sizing: inherit;
+  }
+
+  /* Whitespace reset */
+  * {
+      padding: 0;
+      margin: 0;
+  }
+
+  /* Image behaviour */
+  img {
+      display: block;
+      width: 100%;
+      height: auto;
+  }
+}
+
+@layer typography {
+
+  html {
+    font-family: "Lato", Helvetica, sans-serif;
+    line-height: 1.5;
+    font-size: clamp(12px, 12px + 0.25vw, 18px);
+    font-weight: 400;
+    text-wrap: pretty;
+  }
+
+  body, table, form, input, select, button, textarea {
+    font: inherit;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: "Slabo 27px", serif;
+    line-height: 1.1;
+    font-weight: bold;
+    margin-bottom: 0.3em;
+  }
+
+  h1 { font-size: 2.9em; }
+  h2 { font-size: 2.4em; }
+  h3 { font-size: 1.9em; }
+  h4 { font-size: 1.5em; }
+  h5 { font-size: 1.2em; }
+  h6 { font-size: 1.0em; }
+
+  p:not(:only-child, :last-child) {
+    padding-bottom: 1.5em;
+  }
+
+  ul,
+  ol {
+    padding-left: 1.5em;
+
+    li {
+      padding-bottom: 0.3em;
+      list-style-position: outside;
+      line-height: 1.3;
+    }
+  }
+}
+
+@layer layout {
+  
+  body {
+    padding: 2em;
+  }
+
+}
