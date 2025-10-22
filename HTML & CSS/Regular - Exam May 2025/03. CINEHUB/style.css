@@ -1,0 +1,332 @@
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* font 'Montserrat' for the headings and 
+font 'Inter' for the text  */
+
+:root {
+    --mainBG-color: #0b0b0b;
+    --secondBG-color: #1a1a1a;
+    --genreBG-color:#2f271a;
+    --button-color: #e50914;
+    --progressbarBG-color: #212121;
+}
+
+html {
+    max-width: 1400px;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: var(--mainBG-color);
+    color: white;
+    line-height: 1.6;
+}
+
+img {
+    display: block;
+    width: 100%;
+}
+
+/* Header Section */
+
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 1rem 2rem;
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 100;
+    background-color: black;
+}
+
+.header.scrolled {
+    background-color: black;
+}
+
+.header .tile {
+    font-family: "Montserrat", sans-serif;
+    height: 2rem;
+    width: auto;
+}
+
+.header .list {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+}
+
+.header a {
+    text-decoration: none;
+    color: white;
+}
+
+
+/*Main Content Sections*/
+
+.sectionLatest {
+    background-image: url('./img/movies/city-under-the-fire-bg.webp');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin: 3rem 1rem;
+    padding: 5rem 1rem;
+}
+
+.sectionLatest .contextMaxWD {
+    height: 80%;
+
+}
+
+.sectionLatest .contextMaxWD .mainTitle {
+    font-family: "Montserrat", sans-serif;
+    font-size: 42px;
+    width: 50%;
+}
+
+.sectionLatest .contextMaxWD .releases {
+    width: 50%;
+    font-size: 18px;
+    margin-bottom: 0.5rem;
+        font-weight: 200;
+
+
+}
+
+.sectionLatest .contextMaxWD .nowStream {
+    color: red;
+    font-size: 14px;
+}
+
+.sectionLatest .contextMaxWD .movieTitle {
+    font-family: "Montserrat", sans-serif;
+    font-size: 32px;
+}
+
+.sectionLatest .contextMaxWD .genres {
+    display: block;
+    margin: 0;
+}
+
+.sectionLatest .contextMaxWD .genres .genre {
+    font-size: 14px;
+    color: white;
+    background-color: var(--genreBG-color);
+    padding: 0.25rem 0.5rem;
+    border-radius: 15px;
+    margin: 0;
+    font-weight: 200;
+
+}
+
+.sectionLatest .contextMaxWD .rating {
+    padding: 0.5rem 0;
+    font-weight: 200;
+}
+
+.sectionLatest .contextMaxWD .watchNowBtn {
+    padding: 0.5rem 0.75rem;
+    margin-top: 1rem;
+    background-color: var(--button-color);
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+/*------*/
+
+.watching {
+    margin: 3rem 1rem;
+}
+
+.watching .imageWathcing {
+    width: 20%;
+}
+
+.watching .titleContinueWatching {
+    font-family: "Montserrat", sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.watching .progressBar {
+    width: 20%;
+    height: 6px;
+    background-color: var(--progressbarBG-color);
+    border-radius: 4px;
+    overflow: hidden;
+    margin-top: 0.5rem;
+}
+
+.watching .progressBar .progress {
+    width: 50%;
+    height: 100%;
+    background-color: var(--button-color);
+}
+
+.picks {
+    margin: 3rem 1rem;
+}
+
+.picks .titlePicks {
+    font-family: "Montserrat", sans-serif;
+    font-size: 28px;
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+
+.picks .movies {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}
+
+.picks .movies .movie {
+    width: 18%;
+    border-radius: 5%;
+}
+
+
+.coming {
+    margin: 3rem 1rem;
+}
+
+.coming .titleComing {
+    font-family: "Montserrat", sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+
+.coming .moviesComing {
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    padding: 1rem;
+    gap: 1rem;
+    background-color: var(--secondBG-color);
+}
+
+.coming .moviesComing .movie {
+    height: 10%;
+    width: 15%;
+    border-radius: 5%;
+}
+
+.coming .moviesComing .moviesCommingDetails {
+    display: flex;
+    flex-direction: column;
+    align-items: self-start;
+    gap: 0;
+    margin-top: 0.5rem;
+}
+
+.coming .moviesComing .moviesCommingDetails .movieComingTitle {
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.coming .moviesComing .moviesCommingDetails .movieComingDate {
+    font-size: 14px;
+    color: lightgray;
+}
+
+.coming .moviesComing .moviesCommingDetails .reminderBtn {
+    padding: 0.5rem 0.75rem;
+    margin-top: 1rem;
+    background-color: var(--button-color);
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 12px;
+    cursor: pointer;
+
+}
+
+
+.genre {
+    margin: 3rem 1rem;
+}
+
+.genre .titleGenre {
+    font-family: "Montserrat", sans-serif;
+    font-size: 28px;
+    font-weight: 400;
+    margin-bottom: 1rem;
+}
+
+.genre .genresList {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+
+.genre .genresList .genreGroup {
+    width: 5%;
+    font-size: 12px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.genre .genresList .genreGroup .imgIcon {
+    width: 100%;
+    background-color: var(--secondBG-color);
+    border-radius: 50%;
+    margin-bottom: 0.5rem;
+}
+
+.genre .genresList .genreGroup .genreName {
+    text-align: center;
+    margin-left: 0.5rem;
+}
+
+.genre .bottomLine {
+    width: 100%;
+    height: 1px;
+    background-color: gray;
+    margin-top: 2rem;
+    /* border-bottom: 1px solid gray; */
+}
+
+/*footer section*/
+.footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.footer .title {
+    font-family: "Montserrat", sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.footer .text {
+    font-size: 16px;
+    text-align: center;
+}
+
+.footer .registerBth {
+    padding: 0.75rem 1.5rem;
+    background-color: var(--button-color);
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}

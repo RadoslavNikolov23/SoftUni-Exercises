@@ -1,0 +1,98 @@
+@media (max-width:600px) {
+
+    .home-navbar {
+        max-width: 600px;
+        padding-top: 16px;
+        padding-left: 14px;
+        padding-right: 14px;
+        padding-bottom: 16px;
+        gap: 25px;
+    }
+
+    .home-cta-btn {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .Anchor,
+    .home-link2 {
+        font-size: 17px;
+        line-height: 1.35;
+    }
+
+    .home-hero {
+        flex-direction: column-reverse;
+
+    }
+
+    .home-heading {
+        font-size: 38px;
+    }
+
+    .home-image1 {
+        width: 100%;
+        object-fit: contain;
+    }
+
+    .home-hero-text-container {
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .home-cta-btn2 {
+        align-self: center;
+    }
+
+    .home-features {
+        align-items: center;
+    }
+
+    .home-heading-container {
+        width: 100%;
+    }
+
+    .Section-Heading {
+        font-size: 38px;
+    }
+
+    .Section-Text{
+        font-size: 16px;
+    }
+
+    .home-cards-container {
+        width: 100%;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .home-feature-card {
+        width: 100%;
+        align-items: center;
+    }
+
+    .home-feature-card1,
+    .home-feature-card2 {
+        width: 100%;
+    }
+
+    .Card-Heading {
+        font-size: 20px;
+    }
+
+    .Card-Text {
+        font-size: 16px;
+    }
+
+
+    .home-stats {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        margin-top: 45rem;
+        margin-bottom: 2rem;
+        padding: 0;
+
+    }
+
+}

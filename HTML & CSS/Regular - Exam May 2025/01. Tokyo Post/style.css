@@ -1,0 +1,72 @@
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+:root{
+    --background-color: #f0f0f0;
+    --primary-color: #ffffff;
+    --title-color: #8d8d8d;
+    --description-color: #d6dde4;
+    --hashtag-color: #eaeaea;
+}
+/* 
+html{
+    max-width: 1400px;
+} */
+
+body {
+    font-family: "Comic Neue", sans-serif;
+    background-color: var(--background-color);
+}
+
+.context{
+    background-color: var(--primary-color);
+    border-radius: 2rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin: 1rem auto;
+    max-width: 480px;
+    overflow: hidden;
+}
+
+.context .image{
+    width: 100%;
+    height: 350px;
+
+    border-top-left-radius: 2rem;
+    border-top-right-radius: 2rem;
+}
+
+.context .textbox{
+    margin-top: 1.5rem;
+    padding: 0 2rem;
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+
+.context .textbox .title{
+    margin-top: 1.5rem;
+    font-size: 1.1rem;
+    line-height: 1.6;
+    font-weight: bold;
+    color: black
+}
+
+.context .textbox .description{
+    margin-top: 1.5rem;
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: black;
+}
+
+.context .textbox .hashTags{
+    margin-top: 1.5rem;
+    padding-top: 1rem;
+    font-size: 0.75rem;
+    line-height: 1.6;
+    font-style: italic;
+    color: gray
+}
