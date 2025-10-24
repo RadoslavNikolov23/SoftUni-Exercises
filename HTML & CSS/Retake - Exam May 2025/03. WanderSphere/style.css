@@ -1,0 +1,415 @@
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --primaryBtn-color: #ff3946;
+    --textColor: #3c4b8a;
+    --inputColor: #4a4848;
+    --inputBackgroundColor: #e4dddd;
+}
+
+/* •	Use font 'Merriweather' for the text and 
+font 'Lato' for the buttons –  */
+
+html {
+    background-image: url(./images/bg.png);
+    background-size: cover;
+    background-repeat: repeat;
+    height: 100%;
+    width: auto;
+    background-attachment: scroll;
+}
+
+body {
+    font-family: 'Merriweather', serif;
+}
+
+/* Header Section */
+
+.header {
+    /* position: fixed;
+    top: 0;
+    left: 0; */
+    width: 100%;
+    padding: 1.5rem 2rem 0.5rem 2rem;
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    justify-content: center;
+    z-index: 100;
+    background-color: transparent;
+}
+
+.header.scrolled {
+    background-color: white;
+}
+
+.header .group {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5rem;
+}
+
+.header .group .buttonContact {
+    padding: 1.5rem 20rem;
+    font-family: 'Lato', sans-serif;
+    font-size: 1.5rem;
+    border: none;
+    border-radius: 1rem;
+    background-color: white;
+    color: var(--textColor);
+    transition: hover 0.3s smooth;
+    cursor: pointer;
+}
+
+.header .list {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2.5rem;
+}
+
+.header .list .button {
+    padding: 1.2rem 6rem;
+    font-family: 'Lato', sans-serif;
+    font-size: 1.7rem;
+    border-top: 2px solid var(--textColor);
+    border-right: 2px solid var(--textColor);
+    border-top-right-radius: 2rem;
+    border-bottom-left-radius: 2rem;
+}
+
+.header .list .item:first-child a {
+    color: red;
+}
+
+.header a {
+    text-decoration: none;
+    color: var(--blueColor-BG);
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+/*---Main----*/
+
+/*mainExplore*/
+.mainExplore {
+    margin: 1rem 10rem;
+    padding: 1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 2rem;
+}
+
+.mainExplore .textInformation {
+    flex: 1 1 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 2rem;
+}
+
+.mainExplore .titles {
+    font-size: 3.5rem;
+}
+
+.mainExplore .texts {
+    font-size: 1.5rem;
+}
+
+.mainExplore .texts .text {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.mainExplore .buttons {
+    display: flex;
+    flex-direction: row;
+    gap: 1.5rem;
+}
+
+.mainExplore .buttons .button {
+    font-family: 'Lato', sans-serif;
+    font-size: 1.2rem;
+    padding: 1.2rem 2.5rem;
+    border: none;
+    border-radius: 1.5rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 1.4);
+}
+
+.mainExplore .buttons .button:hover {
+    background-color: black;
+    color: white;
+}
+
+.primary {
+    background-color: var(--primaryBtn-color);
+    color: white;
+}
+
+.transperrent {
+    background-color: rgba(255, 255, 255, 0.5);
+    color: var(--textColor);
+    border: 2px solid var(--textColor);
+}
+
+.mainExplore .imgInformation {
+    flex: 1 1 40%;
+}
+
+.mainExplore .imgInformation .image {
+    width: 100%;
+}
+
+/*Adventure*/
+.adveture {
+    margin: 1rem 5rem;
+    padding: 2rem 4rem;
+    display: flex;
+    justify-content: center;
+}
+
+.adveture .box {
+    background-color: rgba(255, 255, 255, 0.5);
+    /* 50% transparent */
+    border: 2px solid transparent;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.6);
+    border-radius: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+}
+
+.adveture .box .image {
+    width: 30%;
+    padding: 2rem;
+
+}
+
+.adveture .box .title {
+    font-size: 2rem;
+    padding-bottom: 2rem;
+}
+
+.adveture .box .text {
+    font-size: 1.1rem;
+    color: var(--textColor);
+    padding-bottom: 2rem;
+    width: 45%;
+    text-align: center;
+}
+
+/*Journey*/
+.journey {
+    margin: 1rem 5rem;
+    padding: 2rem 4rem;
+    display: flex;
+    justify-content: center;
+}
+
+.journey .box {
+    background-color: rgba(255, 255, 255, 0.5);
+    /* 50% transparent */
+    border: 2px solid transparent;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.6);
+    border-radius: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+}
+
+.journey .box .image {
+    width: 30%;
+    padding: 2rem;
+
+}
+
+.journey .box .title {
+    font-size: 2rem;
+    padding-bottom: 2rem;
+}
+
+.journey .box .text {
+    font-size: 1.1rem;
+    color: var(--textColor);
+    padding-bottom: 2rem;
+    width: 45%;
+    text-align: center;
+}
+
+/*About*/
+.about {
+    margin: 1rem 5rem;
+    padding: 2rem 4rem;
+    display: flex;
+    justify-content: center;
+}
+
+.about .box {
+    width: 60%;
+    background-color: white;
+    border: 5px dashed black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+}
+
+.about .box .title {
+    font-size: 3rem;
+    padding: 3rem;
+}
+
+.about .box .text {
+    font-size: 1.4rem;
+    color: var(--textColor);
+    padding-bottom: 2rem;
+    width: 45%;
+    text-align: center;
+    line-height: 2.5rem;
+}
+
+/*Contact*/
+.contact {
+    margin: 1rem 5rem;
+    padding: 2rem 4rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.contact .box {
+    width: 90%;
+}
+
+
+.contact .box .title {
+    font-size: 3rem;
+    padding: 3rem;
+    text-align: center;
+
+}
+
+.contact .box .group {
+    background-color: var(--inputBackgroundColor);
+    border-radius: 1rem;
+}
+
+.contact .box .group .form {
+    padding: 20px;
+    border-radius: 10px;
+    width: 100%;
+    color: var(--inputColor);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.contact .box .group .form .groupElement {
+
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 0.2rem;
+}
+
+.contact .box .group .form input,
+.contact .box .group .form textarea {
+    width: 100%;
+    padding: 1rem;
+    border-radius: 12px;
+    background-color: var(--inputColor);
+    color: var(--inputColor);
+    font-size: 12px;
+    font-family: 'Playwrite PE', sans-serif;
+}
+
+.contact .box .group .form textarea {
+    height: 140px;
+}
+
+.contact .box .group .form input::placeholder,
+.contact .box .group .form .groupElement textarea::placeholder {
+    color: white;
+}
+
+.contact .box .group .form .groupElement textarea {
+    background-color: var(--inputColor);
+    resize: vertical;
+}
+
+.contact .box .group .form .groupElement .button {
+    font-family: 'Lato', sans-serif;
+    font-size: 1.2rem;
+    padding: 0.75rem 0.5rem;
+    width: 100%;
+    border: none;
+    border-radius: 1rem;
+    cursor: pointer;
+    background-color: var(--inputColor);
+    color: white;
+    transition: background-color 0.3s ease;
+}
+
+.contact .box .group .form .groupElement .button:hover {
+    background-color: black;
+    color: white;
+}
+
+/*Footer*/
+.footer {
+    padding: 1rem;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+.footer .list {
+    font-size: 1.2rem;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    padding: 1rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+.footer .list a {
+    color: white;
+    text-decoration: none;
+}
+
+.footer .copyright {
+    font-size: 0.8rem;
+    padding: 1rem;
+
+}

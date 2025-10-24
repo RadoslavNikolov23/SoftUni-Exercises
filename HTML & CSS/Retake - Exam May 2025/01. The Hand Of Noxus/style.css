@@ -1,0 +1,110 @@
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --mainBackground-Color: #0b0f1a;
+    --background-Color: #111827;
+    --textGray-Color: #a1a4aa;
+    --textGold-Color: #9e9b37;
+    --staticts-Color: #1f2937;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    color: white;
+    background-color: var(--mainBackground-Color);
+}
+
+
+.main-context {
+    background-color: var(--background-Color);
+    margin: 6rem 20rem;
+    border: 1px solid var(--textGray-Color);
+    border-radius: 8px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 0.5rem;
+}
+
+.main-context .bar {
+    background-color: var(--textGray-Color);
+    padding: 0px 1px;
+    margin: 20px 1px;
+    border-radius: 15px;
+}
+
+.main-context .leftSide {
+    flex: 1 1 50%;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 2rem 0 2rem 2rem;
+}
+
+.main-context .leftSide .textSide {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.main-context .leftSide .textSide {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 1rem 0;
+}
+
+
+.main-context .leftSide .textSide .titles {
+    width: 90%;
+}
+
+.main-context .leftSide .textSide .titles .nickname {
+    color: var(--textGold-Color);
+}
+
+.main-context .leftSide .textSide .titles .nickname {
+    color: var(--textGold-Color);
+}
+
+.main-context .leftSide .textSide .attribute {
+    color: var(--textGray-Color);
+}
+
+.main-context .leftSide .imageSide .image {
+    width: 90%;
+}
+
+.main-context .rightSide {
+    flex: 1 1 50%;
+    margin: 2rem;
+    ;
+}
+
+.main-context .rightSide .values {
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 2rem 0;
+    gap: 1rem;
+}
+
+.main-context .rightSide .values .statick {
+    width: 45%;
+    display: inline-flex;
+    gap: 0.5rem;
+    padding: 1rem 4rem 1rem 0.4rem;
+    font-size: 1rem;
+    background-color: var(--staticts-Color);
+}
