@@ -1,0 +1,316 @@
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --main-BG-Color: #171720;
+    --secondary-BG-Color: #fff8f0;
+    --text-Color: #fce8b1;
+    --darkText-Color: #b28660;
+    --dateMatch-Color: #f4e3d0;
+    --image-BG-Color: #3f3e44;
+    --borderMatch-Color: #b0825c;
+}
+
+html {
+    scroll-behavior: smooth;
+    font-family: 'PT Sans', sans-serif;
+    line-height: 1.6;
+}
+
+body {
+    background-color: var(--main-BG-Color);
+    color: var(--text-Color);
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 1rem 2rem;
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 100;
+    background-color: transparent;
+}
+
+.header.scrolled {
+    background-color: black;
+}
+
+.header .logo {
+    width: 5em;
+}
+
+.header .list {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+}
+
+.header a {
+    text-decoration: none;
+    color: var(--text-Color);
+    font-weight: 100;
+    text-transform: uppercase;
+}
+
+
+/*Main Section Styles*/
+
+/*Hero*/
+
+.hero {
+    width: 100%;
+    background-image: url('./images/hero-bg.webp');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding: 10rem 2rem;
+}
+
+.hero .lefSideOnly {
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding-right: 0;
+}
+
+.hero .lefSideOnly .title {
+    font-family: 'PT Serif', serif;
+    font-size: 3rem;
+   
+}
+
+.hero .lefSideOnly .text{
+    margin-top: 2rem;
+    width: 25%;
+    font-size: 1.3rem;
+}
+
+
+
+/*Middle Section Styles*/
+.middleSection {
+    padding: 5rem 3rem;
+    border-bottom: 0.15rem solid var(--text-Color);
+}
+
+.middleSection .missionObject {
+    padding: 0 5rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.middleSection .missionObject .mission {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 2rem;
+}
+
+.middleSection .missionObject .mission .title {
+    font-family: 'PT Serif', serif;
+    font-size: 3rem;
+}
+
+.middleSection .missionObject .mission .text {
+    font-size: 0.9rem;
+
+}
+
+.middleSection .missionObject .mission .button {
+    padding: 0.9rem 1.5rem;
+    background-color: var(--main-BG-Color);
+    color: var(--darkText-Color);
+    font-weight: bold;
+    border: 1px solid var(--darkText-Color);
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.middleSection .missionObject .mission .button:hover {
+    background-color: white;
+    color: var(--darkText-Color);
+}
+
+.middleSection .missionObject .object {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 2rem;
+}
+
+.middleSection .missionObject .object .title {
+    font-family: 'PT Serif', serif;
+    font-size: 3rem;
+}
+
+.middleSection .missionObject .object .text {
+    font-size: 0.9rem;
+
+}
+
+.middleSection .missionObject .object .button {
+    padding: 0.9rem 1.5rem;
+    background-color: var(--main-BG-Color);
+    color: var(--darkText-Color);
+    font-weight: bold;
+    border: 1px solid var(--darkText-Color);
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.middleSection .missionObject .object .button:hover {
+    background-color: white;
+    color: var(--darkText-Color);
+}
+
+/*Partner Section Styles*/
+.partners {
+    padding: 3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.partners .title {
+    font-family: 'PT Serif', serif;
+    font-size: 3rem;
+}
+
+.partners .text {
+    font-size: 0.9rem;
+}
+
+.partners .imageLogos {
+    padding: 2rem 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: stretch;
+    gap: 1rem;
+}
+
+.partners .imageLogos .image {
+    padding: 1rem;
+    width: 10em;
+    object-fit: contain;
+    border-radius: 1rem;
+    background-color: var(--image-BG-Color);
+}
+
+/*Upcoming Matches Section */
+
+.mathces {
+    background-color: var(--secondary-BG-Color);
+    color: var(--darkText-Color);
+    padding: 5rem 5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1.2rem;
+}
+
+.mathces .title {
+    font-family: 'PT Serif', serif;
+    font-size: 3rem;
+    font-weight: 400;
+}
+
+.mathces .text {
+    font-size: 1.2rem;
+    color: black
+}
+
+.mathces .upcomingMatches {
+    padding: 2rem 0;
+    width: 55em;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: stretch;
+    gap: 1rem;
+}
+
+.mathces .upcomingMatches .match {
+    padding: 1.2rem;
+    font-size: 1.2rem;
+    background-color: var(--dateMatch-Color);
+    color: black;
+    border-left: 0.2rem solid var(--borderMatch-Color);
+    border-radius: 0.4rem;
+}
+
+/*Footer */
+.footer {
+    background-color: var(--main-BG-Color);
+    color: white;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.footer .textContext {
+    padding: 0 10rem;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.footer .textContext .title {
+    font-family: 'PT Serif', serif;
+    font-size: 1.1rem;
+    font-weight: 500;
+    margin-bottom: 1rem;
+
+}
+
+.footer .textContext .leagueHead .texts,
+.footer .textContext .leaguePotics .texts,
+.footer .textContext .leagueResources .texts,
+.footer .textContext .leagueApps .texts {
+
+    font-size: 0.75rem;
+    display: flex;
+    flex-direction: column;
+    color: lightgray;
+}
+
+.footer .textContext .leaguePotics .texts,
+.footer .textContext .leagueResources .texts {
+    display: flex;
+    gap: 1rem;
+}
+
+
+.footer .border {
+    width: 100%;
+    border-bottom: 1px solid white
+}
+
+.footer .copyright {
+    padding: 1rem 10rem 3rem 10rem;
+    color: lightgray;
+    font-size: 0.7rem;
+}
