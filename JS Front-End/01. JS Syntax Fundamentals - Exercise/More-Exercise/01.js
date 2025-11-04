@@ -21,14 +21,15 @@ function solve(numOneX, numOneY, numTwoX, numTwoY) {
     result = Math.sqrt(Math.pow((numTwoX - numOneX),2) + Math.pow((numTwoY - numOneY),2));
 
     if(result % 1 === 0){
-        console.log(`{${numOneX}, ${numTwoX}} to {${numOneY}, ${numTwoY}} is valid`);
+        console.log(`{${numOneX}, ${numOneY}} to {${numTwoX}, ${numTwoY}} is valid`);
     }
     else{
-        console.log(`{${numOneX}, ${numTwoX}} to {${numOneY}, ${numTwoY}} is invalid`);
+        console.log(`{${numOneX}, ${numOneY}} to {${numTwoX}, ${numTwoY}} is invalid`);
     }
 
 }
 
 
 solve(3, 0, 0, 4);
+
 solve(2, 1, 1, 1);
