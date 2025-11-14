@@ -4,8 +4,11 @@ function solve(input){
 
     for (const element of input){
         const parsedElem = JSON.parse(element);
-        const [term, definition] = Object.entries(parsedElem)[0];
-        dictionary[term] = definition;
+        const objElem = Object.entries(parsedElem);
+        
+        for(const [term,definition] of objElem){
+            dictionary[term] = definition;
+        }
     }
 
     const sortedTerms = Object.keys(dictionary).sort((a,b) => a.localeCompare(b));
@@ -30,4 +33,5 @@ solve([
 '{"Music":"Vocal or instrumental sounds (or both) combined in such a way as to produce beauty of form, harmony, and expression of emotion."} ',
 '{"Art":"The expression or application of human creative skill and imagination, typically in a visual form such as painting or sculpture, producing works to be appreciated primarily for their beauty or emotional power."} '
 ]
+
 );
