@@ -1,59 +1,16 @@
-
 const BASE_URL = `http://localhost:3030/jsonstore/orders/`;
-
-let baseID = '';
-
-const createOrderBtnEl = document.getElementById('order-btn');
-createOrderBtnEl.addEventListener('click', onCreateOrder);
-
-const editOrderBtnEl = document.getElementById('edit-order');
-editOrderBtnEl.addEventListener('click', onEditOrder);
-
 
 const loadOrdersBtnEl = document.getElementById('load-orders');
 loadOrdersBtnEl.addEventListener('click', getAllOrders);
 
+const editOrderBtnEl = document.getElementById('edit-order');
+editOrderBtnEl.addEventListener('click', onEditOrder);
+editOrderBtnEl.disabled = true;
 
-async function onCreateOrder(event){
-    event.preventDefault();
-    event.stopPropagation();
+const createOrderBtnEl = document.getElementById('order-btn');
+createOrderBtnEl.addEventListener('click', onCreateOrder);
+createOrderBtnEl.disabled = false;
 
-    const inputNameEl = document.getElementById('name');
-    const inputQuantityEl = document.getElementById('quantity');
-    const inputDateEl = document.getElementById('date');
-
-    const name = inputNameEl.value;
-    const quantity = inputQuantityEl.value;
-    const date = inputDateEl.value;
-
-    if(name === "" || quantity === "" || date === ""){
-        return;
-    }
-
-    const order = {
-        name,
-        quantity,
-        date
-    };
-
-    const response = await fetch(BASE_URL, {
-        method: 'POST',
-        headers: {
-            'Content-Type': 'application/json'
-        },
-        body: JSON.stringify(order)
-    });
-
-    if(!response.ok){
-        return alert('Error creating order!');
-    }
-
-    inputNameEl.value = '';
-    inputQuantityEl.value = '';
-    inputDateEl.value = '';
-
-    await getAllOrders(event);
-}
 
 
 async function getAllOrders(event) {
@@ -106,110 +63,139 @@ async function getAllOrders(event) {
         divContainer.appendChild(btnElDone);
 
         liDiv.appendChild(divContainer);
+        editOrderBtnEl.disabled = true;
     }
 }
 
-    async function onChange(event){
-        event.preventDefault();
-        event.stopPropagation();
+async function onCreateOrder(event){
+    event.preventDefault();
+    event.stopPropagation();
 
-        const orderId = event.target.dataset.id;
+    const inputNameEl = document.getElementById('name');
+    const inputQuantityEl = document.getElementById('quantity');
+    const inputDateEl = document.getElementById('date');
 
-        const response = await fetch(`${BASE_URL}${orderId}`);
-        const order = await response.json();
-        if(!response.ok){
-            return alert('Error fetching order!');
-        }
+    const name = inputNameEl.value;
+    const quantity = inputQuantityEl.value;
+    const date = inputDateEl.value;
 
-        const inputNameEl = document.getElementById('name');
-        const inputQuantityEl = document.getElementById('quantity');
-        const inputDateEl = document.getElementById('date');
-
-        inputNameEl.value = order.name;
-        inputQuantityEl.value = order.quantity;
-        inputDateEl.value = order.date;
-
-        const divContainer = event.target.parentElement;
-        divContainer.remove();
-
-
-        // const orderToDeleteResponse = await fetch(`${BASE_URL}${orderId}`, {
-        //     method: 'DELETE'
-        // });
-
-        // if(!orderToDeleteResponse.ok){
-        //     return alert('Error deleting order!');
-        // }   
-
-        // await getAllOrders(event);
-
-        createOrderBtnEl.disabled = true;
-        editOrderBtnEl.disabled = false;
-        baseID = orderId;
-
+    if(name === "" || quantity === "" || date === ""){
+        return;
     }
 
-    async function onDone(event){
-        event.preventDefault();
-        event.stopPropagation();
+    const order = {
+        name,
+        quantity,
+        date
+    };
 
-        const orderId = event.target.dataset.id;
-        const response = await fetch(`${BASE_URL}${orderId}`, {
-            method: 'DELETE'
-        });
-        if(!response.ok){
-            return alert('Error deleting order!');
-        }
-        await getAllOrders(event);
+    const response = await fetch(BASE_URL, {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json'
+        },
+        body: JSON.stringify(order)
+    });
+
+    if(!response.ok){
+        return alert('Error creating order!');
     }
 
-    async function onEditOrder(event){
-        event.preventDefault();
-        event.stopPropagation();
+    inputNameEl.value = '';
+    inputQuantityEl.value = '';
+    inputDateEl.value = '';
 
-        const inputNameEl = document.getElementById('name');
-        const inputQuantityEl = document.getElementById('quantity');
-        const inputDateEl = document.getElementById('date');
+    getAllOrders(event);
+}
 
-        const name = inputNameEl.value;
-        const quantity = inputQuantityEl.value;
-        const date = inputDateEl.value;
+async function onChange(event){
+    event.preventDefault();
+    event.stopPropagation();
 
-        const btnChangeOrder = event.target;
-        btnChangeOrder.dataset.id = baseID;
+    const divConteiner = event.target.parentElement;
 
-        const parrentContainer = btnChangeOrder.parentElement;
-        const btnDoneOrder = parrentContainer.querySelector('.done-btn');
-        btnDoneOrder.dataset.id = baseID;
+    const orderId = event.target.dataset.id;
+    const nameOrderEl = divConteiner.querySelector('h2');
+    const quantityOrderEl = divConteiner.querySelector('h3:nth-of-type(1)');
+    const dateEl = divConteiner.querySelector('h3:nth-of-type(2)');
 
-        if(name === "" || quantity === "" || date === ""){
-            return;
-        }
-
-        const editedOrder = {
-            name,
-            quantity,
-            date
-        };
+    const name = nameOrderEl.textContent;
+    const quantity = quantityOrderEl.textContent.split(': ')[1];
+    const date = dateEl.textContent;
 
 
-        const editResponse = await fetch(`${BASE_URL}${baseID}`, {
-            method: 'PUT',
-            headers: {
-                'Content-Type': 'application/json'},
-            body: JSON.stringify(editedOrder)
-        });
+    const inputNameEl = document.getElementById('name');
+    const inputQuantityEl = document.getElementById('quantity');
+    const inputDateEl = document.getElementById('date');
 
-        if(!editResponse.ok){
-            return alert('Error editing order!');
-        }
+    inputNameEl.value = name;
+    inputQuantityEl.value = quantity;
+    inputDateEl.value = date;
 
-        inputNameEl.value = '';
-        inputQuantityEl.value = '';
-        inputDateEl.value = '';
-        orderCreateBtn.disabled = false;
-        editOrderBtn.disabled = true;
-        baseID='';
-        
-        await getAllOrders(event);
+    createOrderBtnEl.disabled = true;
+    editOrderBtnEl.disabled = false;
+    editOrderBtnEl.dataset.id = orderId;
+
+    const divContainer = event.target.parentElement;
+    divContainer.remove();
+}
+
+async function onEditOrder(event){
+    event.preventDefault();
+    event.stopPropagation();
+
+    const inputNameEl = document.getElementById('name');
+    const inputQuantityEl = document.getElementById('quantity');
+    const inputDateEl = document.getElementById('date');
+
+    const orderId = event.target.dataset.id;
+    const name = inputNameEl.value;
+    const quantity = inputQuantityEl.value;
+    const date = inputDateEl.value;
+
+    if(name === "" || quantity === "" || date === ""){
+        return;
     }
+
+    const editedOrder = {
+        name,
+        quantity,
+        date,
+        _id: orderId
+    };
+
+
+    const editResponse = await fetch(`${BASE_URL}${orderId}`, {
+        method: 'PUT',
+        headers: {
+            'Content-Type': 'application/json'},
+        body: JSON.stringify(editedOrder)
+    });
+
+    if(!editResponse.ok){
+        return alert('Error editing order!');
+    }
+
+    inputNameEl.value = '';
+    inputQuantityEl.value = '';
+    inputDateEl.value = '';
+    createOrderBtnEl.disabled = false;
+    editOrderBtnEl.disabled = true;
+    
+    await getAllOrders(event);
+}
+
+
+async function onDone(event){
+    event.preventDefault();
+    event.stopPropagation();
+
+    const orderId = event.target.dataset.id;
+    const response = await fetch(`${BASE_URL}${orderId}`, {
+        method: 'DELETE'
+    });
+    if(!response.ok){
+        return alert('Error deleting order!');
+    }
+    await getAllOrders(event);
+}
