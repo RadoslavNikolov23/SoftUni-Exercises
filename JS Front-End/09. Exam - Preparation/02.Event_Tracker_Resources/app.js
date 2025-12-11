@@ -136,5 +136,6 @@ function solve(){
         event.stopPropagation();
         eventDoneUlEl.innerHTML = "";
     }
-}const inputEventDateEl = document.querySelector("#main-container input[name='event-date']");
+}
+
 
